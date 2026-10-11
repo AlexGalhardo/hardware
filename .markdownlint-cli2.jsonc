@@ -7,6 +7,6 @@
 		// The changelog (Keep a Changelog) repeats "Added", "Fixed" etc. in every version.
 		"MD024": { "siblings_only": true }
 	},
-	"globs": ["*.md", ".claude/*.md", "docs/*.md"],
+	"globs": ["*.md", ".claude/*.md", ".claude/rules/*.md", ".claude/skills/SOURCES.md", ".claude/skills/project-*/*.md", "docs/*.md"],
 	"ignores": ["node_modules", ".next", "docs/prompts"]
 }

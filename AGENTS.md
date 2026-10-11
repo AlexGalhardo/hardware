@@ -8,6 +8,29 @@ Instruções para agentes de código neste repositório. O `CLAUDE.md` importa e
 
 Site de fichas técnicas e comparação de produtos com links de afiliado, em produção em <https://alexgalhardo.github.io/tudohardware>. Não há banco: o conteúdo são os arquivos JSON de `data/`, importados estaticamente. O painel `/admin` edita esses arquivos por commits no próprio repositório.
 
+## Início de toda sessão
+
+1. Carregue as três skills de sessão (em agentes sem ferramenta de skills, leia o `SKILL.md` de cada uma em `.claude/skills/<nome>/`):
+   - `using-agent-skills`: o roteador que indica a skill de engenharia de cada tarefa;
+   - `karpathy-guidelines`: pensar antes de codar, simplicidade, mudanças cirúrgicas, critérios verificáveis;
+   - `ponytail`: a solução mais simples que funciona.
+2. Leia o índice em [`.claude/agents.md`](.claude/agents.md) e, dele, só a documentação do assunto em que vai mexer.
+3. As regras por assunto ficam em [`.claude/rules/`](.claude/rules/) (o Claude Code as carrega sozinho) e valem tanto quanto as deste arquivo.
+4. Antes de usar uma API do Next.js 16 de que não tenha certeza, leia `node_modules/next/dist/docs/`.
+
+## Skills, agentes e checklists
+
+Tudo fica em `.claude/`. A origem dos pacotes de terceiros está em [`.claude/skills/SOURCES.md`](.claude/skills/SOURCES.md); o conteúdo deles não é editado aqui.
+
+| Skill do projeto | Quando |
+| --- | --- |
+| `project-product` | Criar, editar ou remover um produto; categoria nova |
+| `project-release` | Em todo commit enviado: versão, `CHANGELOG.md`, tag e GitHub Release |
+
+As skills de engenharia do pacote agent-skills entram por tarefa, indicadas pelo `using-agent-skills`. As mais comuns aqui: `test-driven-development`, `debugging-and-error-recovery`, `frontend-ui-engineering`, `security-and-hardening` (login, painel e API), `code-review-and-quality` e `git-workflow-and-versioning`. Duas não têm uso hoje: `ci-cd-and-automation` (o repositório não tem workflows) e `browser-testing-with-devtools` (depende do servidor MCP do Chrome DevTools, não configurado).
+
+As skills `ponytail-*` só entram quando o dono pedir. Os agentes de `.claude/agents/` (`code-reviewer`, `security-auditor`, `test-engineer`, `web-performance-auditor`) são chamados pelo nome como subagentes de revisão; os checklists de `.claude/references/` são consultados por eles e pelas skills do pacote.
+
 ## Stack
 
 Next.js 16 (App Router) · React 19 · TypeScript 7 strict · Tailwind CSS 4 · Radix/shadcn (`components/ui`) · Biome · Bun.

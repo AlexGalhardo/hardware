@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.5.3] - 2026-10-11
+
+### Changed
+
+- `.claude/` adapted to this project. The rules and project skills had been copied from a SvelteKit blog and described posts, Markdown content and a release script that do not exist here; they now describe the product data, the admin panel and the manual release flow. `AGENTS.md` says which skills are loaded at session start and which per task.
+- markdownlint also checks the project rules and project skills.
+
+### Removed
+
+- Skills `project-new-post` and `project-new-product-list` (replaced by `project-product`) and the vendored `graphify` skill, which nothing in this project uses.
+
 ## [1.5.2] - 2026-10-11
 
 ### Added
@@ -111,7 +122,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Site as it was before this changelog started.
 
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.2...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.3...HEAD
+[1.5.3]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.2...v1.5.3
 [1.5.2]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.1...v1.5.2
 [1.5.1]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.4.0...v1.5.0

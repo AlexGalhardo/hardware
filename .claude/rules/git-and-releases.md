@@ -1,19 +1,23 @@
 # Git, commits e releases
 
+Passo a passo de versão e release: skill `project-release` e [`docs/workflows.md`](../../docs/workflows.md). Aqui ficam só as regras.
+
 ## Commits
 
-- Conventional Commits, em inglês: `tipo(escopo opcional): descrição no imperativo`. O hook `commit-msg` (commitlint) recusa o que fugir.
-- Tipos aceitos: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`, `content`.
-- `content` é reservado a posts, produtos e imagens (é o tipo usado pelo painel `/admin`).
-- Um commit por mudança lógica. Antes de commitar: `bun run check`, `bun run lint` e `bun run test` verdes.
-- Os hooks do git repetem essa conferência: `pre-commit` roda o `check` e `pre-push` roda os três (tabela em `docs/tooling.md`). Hook que falha é corrigido na causa: nunca use `--no-verify` nem push forçado.
+- Conventional Commits, em inglês: `tipo(escopo opcional): descrição no imperativo`. O commitlint (`commitlint.config.mjs`) valida no hook `commit-msg`; cada linha do corpo tem até 100 caracteres.
+- Tipos: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`. O painel `/admin` grava commits com o prefixo `content:` pela API do GitHub, fora dos hooks.
+- Um commit por mudança lógica.
 - Nunca commite `.env`, chaves ou tokens.
-- Ao fim de cada grupo de tarefas do `PLAN.md`: atualize os checklists, faça o commit e o `git push` para `origin/main`.
+- Os hooks do git (tabela em [`docs/tooling.md`](../../docs/tooling.md)) rodam tipos e lint no commit e o build no push. Nunca use `--no-verify`: corrija a causa.
+- Nunca faça push forçado em `main` sem o dono pedir.
 
-## Versão e release: todo commit é uma release
+## Todo commit enviado é uma release
 
-- **Obrigatório em toda sessão:** cada commit leva a própria versão e é publicado. No mesmo commit entram a mudança, a versão nova no `package.json` e a seção da versão no `CHANGELOG.md`. Depois do commit: tag `vX.Y.Z`, `git push origin main vX.Y.Z` e `gh release create`.
-- Não existe commit `chore(release)` separado, e nenhuma tarefa está entregue com o último commit sem tag e sem GitHub Release.
-- Exceção única: commits `content:` feitos pelo painel em produção. Um commit `content:` feito em uma sessão de trabalho é uma release como qualquer outro.
-- Comandos, regra de versão (SemVer) e como escrever o `CHANGELOG.md`: skill `project-release`. Automação pelo GitHub Actions, hoje inativa: `docs/ci-cd.md`.
+- No mesmo commit entram a mudança, a versão nova no `package.json` e a seção da versão no `CHANGELOG.md`. Depois dele: tag anotada `vX.Y.Z`, push e GitHub Release com as notas da versão.
+- SemVer: `feat` sobe a minor; `fix` e os demais sobem a patch; `!` ou `BREAKING CHANGE:` sobe a major.
+- Exceção: os commits `content:` do painel não geram versão.
 - O push na `main` publica em produção. Confira o deploy depois (`docs/workflows.md`).
+
+## CI
+
+- Não há workflows do GitHub Actions: a verificação é a dos hooks e de `bun run ci`. Não crie workflows sem o dono pedir.

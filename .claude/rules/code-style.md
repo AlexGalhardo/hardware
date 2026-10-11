@@ -1,12 +1,12 @@
 # Estilo de código
 
-- Indentação com **tab de largura 4**; linha de até 110 colunas; aspas duplas. O Biome aplica: rode `bun run format` antes de commitar.
-- Biome v2 é o único formatador e linter de código. Não adicione ESLint nem Prettier.
-- Markdown é verificado pelo markdownlint (`bun run lint`).
-- TypeScript estrito. Sem `any`; sem `@ts-ignore`; sem `biome-ignore` sem uma frase explicando o motivo.
-- Svelte 5 com runes (`$props`, `$state`, `$derived`, `$effect`). Sem stores legadas e sem `export let`.
-- Imports internos com `#lib/...` e extensão explícita (`.ts`, `.svelte`).
-- Código que só pode rodar no servidor fica em `src/lib/server/` ou em arquivos `*.server.ts`.
+- Indentação com **tab de largura 4**, linha de até 120 colunas, aspas duplas. YAML usa 2 espaços (`.editorconfig`). O Biome aplica: `bun run format`.
+- Biome 2 é o único formatador e linter de código (`biome.json`). Não adicione ESLint nem Prettier. `bun run lint` precisa passar sem erro.
+- TypeScript estrito (`strict` no `tsconfig.json`). `any` explícito é erro do Biome: use `unknown` e estreite o tipo. Sem `@ts-ignore`. Um `biome-ignore` leva o motivo na mesma linha.
+- Erro de tipo falha o build (`next build` confere os tipos).
+- React 19 com Server Components por padrão; `"use client"` só em componente com estado, efeito ou evento.
+- Imports internos com o alias `@/...` (aponta para a raiz do repositório) ou caminho relativo, sem extensão.
+- `lib/affiliate-catalogue.ts` é importado por componentes de cliente: não importe `lib/data.ts` nele, senão todos os JSON de `data/` entram no bundle do navegador.
+- Estilo com Tailwind CSS 4; os tokens ficam em `app/globals.css`. Componentes de base em `components/ui/`.
 - Comentários explicam o porquê, não o quê. Atalho consciente leva um comentário `ponytail:` dizendo o limite e quando evoluir.
-- Textos de identidade do site vêm de `src/lib/site.config.ts`.
-- Classes do Tailwind são copiadas do site original quando o componente já existia: o visual não deve mudar.
+- Código, comentários e commits em inglês; textos de interface e documentação em português do Brasil.
