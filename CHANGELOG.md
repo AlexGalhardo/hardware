@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.5.5] - 2026-10-11
+
+### Removed
+
+- `api/indexnow.http`, a leftover request file from another project that pointed to a different domain.
+
 ## [1.5.4] - 2026-10-11
 
 ### Fixed
@@ -132,7 +138,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Site as it was before this changelog started.
 
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.5.4...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.5.5...HEAD
+[1.5.5]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.5.4...v1.5.5
 [1.5.4]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.5.3...v1.5.4
 [1.5.3]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.5.2...v1.5.3
 [1.5.2]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.5.1...v1.5.2
