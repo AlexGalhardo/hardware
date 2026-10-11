@@ -1,7 +1,7 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { categories, getProductsByCategory } from "@/lib/data";
 import type { ProductCategory } from "@/lib/types";
-import type { Metadata } from "next";
 import { ProductDetailClient } from "./product-detail-client";
 
 interface PageProps {
@@ -30,6 +30,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 	return {
 		title: `${product.brand} ${product.name} - Ficha Técnica | TudoHardware`,
 		description: `Veja as especificações técnicas completas do ${product.brand} ${product.name}. Confira todos os detalhes, características e compare com outros ${categoryInfo.name.toLowerCase()}.`,
+		alternates: { canonical: `/${category}/${productId}` },
 	};
 }
 
@@ -68,19 +69,12 @@ export default async function ProductDetailPage({ params }: PageProps) {
 	const categoryInfo = categories.find((c) => c.id === category)!;
 	const relatedProducts = products.filter((p) => p.id !== productId).slice(0, 6);
 
-	const allProducts = [];
-	for (const cat of categories) {
-		const catProducts = await getProductsByCategory(cat.id);
-		allProducts.push(...catProducts);
-	}
-
 	return (
 		<ProductDetailClient
 			product={product}
 			category={category as ProductCategory}
 			categoryInfo={categoryInfo}
 			relatedProducts={relatedProducts}
-			allProducts={allProducts}
 		/>
 	);
 }

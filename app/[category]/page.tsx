@@ -1,8 +1,8 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { HomePageClient } from "@/components/home-page-client";
 import { categories, getProductsByCategory } from "@/lib/data";
 import type { ProductCategory } from "@/lib/types";
-import type { Metadata } from "next";
-import { HomePageClient } from "@/components/home-page-client";
 
 interface PageProps {
 	params: Promise<{ category: string }>;
@@ -22,6 +22,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 	return {
 		title: `Comparar ${categoryInfo.name} - TudoHardware`,
 		description: categoryInfo.description,
+		alternates: { canonical: `/${category}` },
 	};
 }
 

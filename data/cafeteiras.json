@@ -433,13 +433,13 @@
 				"coffeeTypes": ["Cápsulas Nespresso Original exclusivamente"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"brewingQuality": 7.5,
 				"easeOfUse": 9.5,
-				"easeCleaning": 9.0,
-				"durability": 7.0,
+				"easeCleaning": 9,
+				"durability": 7,
 				"features": 6.5,
-				"design": 9.0
+				"design": 9
 			}
 		}
 	},
@@ -574,13 +574,13 @@
 				"coffeeTypes": ["Cápsulas Nespresso Original exclusivamente"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"brewingQuality": 7.5,
 				"easeOfUse": 9.5,
-				"easeCleaning": 9.0,
-				"durability": 7.0,
+				"easeCleaning": 9,
+				"durability": 7,
 				"features": 6.5,
-				"design": 9.0
+				"design": 9
 			}
 		}
 	},
@@ -721,11 +721,11 @@
 			},
 			"ratings": {
 				"costBenefit": 7.5,
-				"brewingQuality": 9.0,
+				"brewingQuality": 9,
 				"easeOfUse": 9.5,
 				"easeCleaning": 8.5,
-				"durability": 8.0,
-				"features": 7.0,
+				"durability": 8,
+				"features": 7,
 				"design": 9.5
 			}
 		}
@@ -867,12 +867,12 @@
 				"coffeeTypes": ["Grãos de café", "Café moído"]
 			},
 			"ratings": {
-				"costBenefit": 8.0,
-				"brewingQuality": 9.0,
+				"costBenefit": 8,
+				"brewingQuality": 9,
 				"easeOfUse": 9.5,
-				"easeCleaning": 9.0,
+				"easeCleaning": 9,
 				"durability": 8.5,
-				"features": 9.0,
+				"features": 9,
 				"design": 8.5
 			}
 		}
@@ -1012,12 +1012,12 @@
 				"coffeeTypes": ["Café moído", "Cápsulas (com adaptador)"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"brewingQuality": 8.5,
-				"easeOfUse": 9.0,
-				"easeCleaning": 8.0,
+				"easeOfUse": 9,
+				"easeCleaning": 8,
 				"durability": 7.5,
-				"features": 8.0,
+				"features": 8,
 				"design": 8.5
 			}
 		}
@@ -1157,13 +1157,13 @@
 				"coffeeTypes": ["Café moído", "Cápsulas Nespresso", "Cápsulas Dolce Gusto"]
 			},
 			"ratings": {
-				"costBenefit": 8.0,
-				"brewingQuality": 7.0,
+				"costBenefit": 8,
+				"brewingQuality": 7,
 				"easeOfUse": 8.5,
-				"easeCleaning": 8.0,
+				"easeCleaning": 8,
 				"durability": 6.5,
 				"features": 7.5,
-				"design": 8.0
+				"design": 8
 			}
 		}
 	},
@@ -1303,13 +1303,13 @@
 				"coffeeTypes": ["Café moído"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"brewingQuality": 7.5,
-				"easeOfUse": 9.0,
+				"easeOfUse": 9,
 				"easeCleaning": 8.5,
 				"durability": 7.5,
 				"features": 8.5,
-				"design": 9.0
+				"design": 9
 			}
 		}
 	},
@@ -1449,11 +1449,11 @@
 			"ratings": {
 				"costBenefit": 9.5,
 				"brewingQuality": 8.5,
-				"easeOfUse": 9.0,
+				"easeOfUse": 9,
 				"easeCleaning": 8.5,
-				"durability": 8.0,
+				"durability": 8,
 				"features": 8.5,
-				"design": 9.0
+				"design": 9
 			}
 		}
 	},
@@ -2703,143 +2703,6 @@
 		}
 	},
 	{
-		"id": "reaken-kf440-industrial",
-		"name": "KF440",
-		"brand": "Reaken",
-		"line": "Cafeteiras Elétricas",
-		"model": "KF440",
-		"alphanumericModel": "KF440",
-		"color": null,
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_931225-MLB101035199844_122025-F-cafeteira-eeletrica-automatica-55litro-industrial-de-110v.webp",
-		"price": 0,
-		"releaseDate": null,
-		"releaseYear": null,
-		"category": "cafeteiras",
-		"mercadolivreUrl": "https://mercadolivre.com/sec/2Tu6rET",
-		"manufacturer": "Reaken",
-		"specs": {
-			"manufacturer": "Reaken",
-			"type": "Filtro",
-			"technology": "Automática",
-			"powerSource": "Corrente doméstica",
-			"capacity": {
-				"water": "5,5 L",
-				"cups": null,
-				"grains": null
-			},
-			"power": {
-				"watts": 1300,
-				"voltage": "110V"
-			},
-			"pressure": {
-				"bar": null,
-				"hasPressure": false
-			},
-			"filters": {
-				"type": "Permanente",
-				"washable": true,
-				"replacement": null
-			},
-			"beverages": {
-				"recommended": ["Café Coado"],
-				"capsuleCompatible": false,
-				"compatibleCapsules": null
-			},
-			"brewing": {
-				"preparationTime": null,
-				"temperature": null,
-				"cupCapacity": null,
-				"hasDoubleFaucet": false
-			},
-			"features": {
-				"hasTimer": false,
-				"hasSteamFunction": false,
-				"hasAntiDrip": true,
-				"hasCupWarmer": true,
-				"hasWaterIndicator": false,
-				"hasAutoClean": false,
-				"hasTemperatureControl": false,
-				"hasDigitalDisplay": false,
-				"hasMilkFrother": false,
-				"hasGrinder": false,
-				"grinderType": null,
-				"grinderLevels": null,
-				"hasKeepWarm": true,
-				"keepWarmTime": null,
-				"hasProgrammableStart": false,
-				"hasStrengthControl": false,
-				"strengthLevels": null,
-				"hasAutoShutoff": false,
-				"autoShutoffTime": null,
-				"hasWaterFilter": false,
-				"hasDescalingAlert": false
-			},
-			"design": {
-				"materials": ["Aço inoxidável", "Plástico"],
-				"color": null,
-				"coffeeType": "Pó",
-				"isPortable": false,
-				"isBuiltIn": false,
-				"hasRemovableDripTray": true,
-				"hasRemovableWaterTank": false,
-				"waterTankPosition": null
-			},
-			"dimensions": {
-				"width": null,
-				"depth": null,
-				"height": null,
-				"weight": null
-			},
-			"accessories": {
-				"included": [],
-				"interchangeablePanels": false,
-				"hasRemovableDripTray": true,
-				"hasMeasuringSpoon": false,
-				"hasReusableFilter": true,
-				"numberOfCups": null,
-				"hasMilkContainer": false
-			},
-			"electrical": {
-				"voltage": "110V",
-				"frequency": "60 Hz",
-				"powerConsumption": null,
-				"includesBatteries": false,
-				"cableLength": null
-			},
-			"maintenance": {
-				"cleaningFrequency": null,
-				"descalingFrequency": null,
-				"filterReplacement": null,
-				"hasRemovableParts": true,
-				"dishwasherSafeParts": null
-			},
-			"certifications": {
-				"inmetro": true,
-				"anatel": false,
-				"other": null
-			},
-			"warranty": {
-				"general": "12 meses",
-				"parts": null,
-				"conditions": null
-			},
-			"compatibility": {
-				"capsuleBrands": null,
-				"cupSizes": null,
-				"coffeeTypes": ["Café em pó"]
-			},
-			"ratings": {
-				"costBenefit": 8,
-				"brewingQuality": 7,
-				"easeOfUse": 8,
-				"easeCleaning": 7.5,
-				"durability": 7.5,
-				"features": 6.5,
-				"design": 7
-			}
-		}
-	},
-	{
 		"id": "nespresso-vertuo-pop-azul-pacifico",
 		"name": "Vertuo Pop",
 		"brand": "Nespresso",
@@ -3127,7 +2990,7 @@
 				"costBenefit": 8.7,
 				"brewingQuality": 8.5,
 				"easeOfUse": 9.2,
-				"easeCleaning": 8.0,
+				"easeCleaning": 8,
 				"durability": 8.3,
 				"features": 7.8,
 				"design": 8.5
@@ -3275,7 +3138,7 @@
 				"easeCleaning": 8.2,
 				"durability": 8.5,
 				"features": 8.4,
-				"design": 9.0
+				"design": 9
 			}
 		}
 	},
@@ -3415,7 +3278,7 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"brewingQuality": 8.7,
-				"easeOfUse": 8.0,
+				"easeOfUse": 8,
 				"easeCleaning": 7.5,
 				"durability": 8.2,
 				"features": 8.8,
@@ -3551,11 +3414,11 @@
 				"coffeeTypes": ["Pó"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"brewingQuality": 8.0,
+				"costBenefit": 9,
+				"brewingQuality": 8,
 				"easeOfUse": 9.5,
 				"easeCleaning": 9.2,
-				"durability": 8.0,
+				"durability": 8,
 				"features": 7.5,
 				"design": 8.5
 			}
@@ -3691,7 +3554,7 @@
 			"ratings": {
 				"costBenefit": 8.8,
 				"brewingQuality": 8.2,
-				"easeOfUse": 9.0,
+				"easeOfUse": 9,
 				"easeCleaning": 8.7,
 				"durability": 8.4,
 				"features": 7.8,
@@ -3828,7 +3691,7 @@
 			},
 			"ratings": {
 				"costBenefit": 8.9,
-				"brewingQuality": 8.0,
+				"brewingQuality": 8,
 				"easeOfUse": 9.1,
 				"easeCleaning": 8.8,
 				"durability": 8.2,
@@ -3967,9 +3830,9 @@
 			"ratings": {
 				"costBenefit": 8.9,
 				"brewingQuality": 8.1,
-				"easeOfUse": 9.0,
+				"easeOfUse": 9,
 				"easeCleaning": 8.7,
-				"durability": 8.0,
+				"durability": 8,
 				"features": 7.8,
 				"design": 8.4
 			}
@@ -4119,7 +3982,7 @@
 				"easeOfUse": 9.2,
 				"easeCleaning": 8.5,
 				"durability": 8.3,
-				"features": 8.0,
+				"features": 8,
 				"design": 8.7
 			}
 		}

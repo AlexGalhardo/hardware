@@ -84,10 +84,10 @@
 			},
 			"ratings": {
 				"costBenefit": 4.5,
-				"gamingPerformance": 4.0,
-				"powerEfficiency": 8.0,
+				"gamingPerformance": 4,
+				"powerEfficiency": 8,
 				"cooling": 6.5,
-				"features": 3.0
+				"features": 3
 			}
 		}
 	},
@@ -176,9 +176,9 @@
 			},
 			"ratings": {
 				"costBenefit": 6.5,
-				"gamingPerformance": 7.0,
+				"gamingPerformance": 7,
 				"powerEfficiency": 7.5,
-				"cooling": 7.0,
+				"cooling": 7,
 				"features": 8.5
 			}
 		}
@@ -269,8 +269,8 @@
 			"ratings": {
 				"costBenefit": 7.5,
 				"gamingPerformance": 6.5,
-				"powerEfficiency": 8.0,
-				"cooling": 7.0,
+				"powerEfficiency": 8,
+				"cooling": 7,
 				"features": 6.5
 			}
 		}
@@ -360,10 +360,10 @@
 			},
 			"ratings": {
 				"costBenefit": 5.5,
-				"gamingPerformance": 5.0,
+				"gamingPerformance": 5,
 				"powerEfficiency": 8.5,
-				"cooling": 7.0,
-				"features": 7.0
+				"cooling": 7,
+				"features": 7
 			}
 		}
 	},
@@ -452,9 +452,9 @@
 			},
 			"ratings": {
 				"costBenefit": 6.5,
-				"gamingPerformance": 7.0,
+				"gamingPerformance": 7,
 				"powerEfficiency": 7.5,
-				"cooling": 7.0,
+				"cooling": 7,
 				"features": 8.5
 			}
 		}
@@ -544,9 +544,9 @@
 			},
 			"ratings": {
 				"costBenefit": 6.5,
-				"gamingPerformance": 7.0,
+				"gamingPerformance": 7,
 				"powerEfficiency": 7.5,
-				"cooling": 7.0,
+				"cooling": 7,
 				"features": 8.5
 			}
 		}
@@ -1189,9 +1189,9 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"gamingPerformance": 5.5,
-				"powerEfficiency": 4.0,
-				"cooling": 6.0,
-				"features": 5.0
+				"powerEfficiency": 4,
+				"cooling": 6,
+				"features": 5
 			}
 		}
 	},
@@ -1279,11 +1279,11 @@
 				"weight": null
 			},
 			"ratings": {
-				"costBenefit": 7.0,
+				"costBenefit": 7,
 				"gamingPerformance": 3.5,
-				"powerEfficiency": 7.0,
-				"cooling": 6.0,
-				"features": 4.0
+				"powerEfficiency": 7,
+				"cooling": 6,
+				"features": 4
 			}
 		}
 	},
@@ -1371,11 +1371,11 @@
 				"weight": "300 g"
 			},
 			"ratings": {
-				"costBenefit": 6.0,
+				"costBenefit": 6,
 				"gamingPerformance": 2.5,
-				"powerEfficiency": 9.0,
+				"powerEfficiency": 9,
 				"cooling": 7.5,
-				"features": 3.0
+				"features": 3
 			}
 		}
 	},
@@ -1463,11 +1463,11 @@
 				"weight": "300 g"
 			},
 			"ratings": {
-				"costBenefit": 6.0,
+				"costBenefit": 6,
 				"gamingPerformance": 2.5,
-				"powerEfficiency": 9.0,
+				"powerEfficiency": 9,
 				"cooling": 7.5,
-				"features": 3.0
+				"features": 3
 			}
 		}
 	},
@@ -1555,11 +1555,11 @@
 				"weight": "1155 g"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"gamingPerformance": 9.0,
+				"costBenefit": 9,
+				"gamingPerformance": 9,
 				"powerEfficiency": 7.5,
 				"cooling": 8.5,
-				"features": 9.0
+				"features": 9
 			}
 		}
 	},
@@ -1647,11 +1647,11 @@
 				"weight": null
 			},
 			"ratings": {
-				"costBenefit": 5.0,
+				"costBenefit": 5,
 				"gamingPerformance": 1.5,
 				"powerEfficiency": 9.5,
-				"cooling": 8.0,
-				"features": 2.0
+				"cooling": 8,
+				"features": 2
 			}
 		}
 	},
@@ -1740,10 +1740,10 @@
 			},
 			"ratings": {
 				"costBenefit": 7.5,
-				"gamingPerformance": 8.0,
-				"powerEfficiency": 8.0,
-				"cooling": 8.0,
-				"features": 9.0
+				"gamingPerformance": 8,
+				"powerEfficiency": 8,
+				"cooling": 8,
+				"features": 9
 			}
 		}
 	},
@@ -1831,11 +1831,11 @@
 				"weight": "1000 g"
 			},
 			"ratings": {
-				"costBenefit": 7.0,
+				"costBenefit": 7,
 				"gamingPerformance": 8.5,
-				"powerEfficiency": 8.0,
-				"cooling": 8.0,
-				"features": 9.0
+				"powerEfficiency": 8,
+				"cooling": 8,
+				"features": 9
 			}
 		}
 	},
@@ -1924,7 +1924,7 @@
 			},
 			"ratings": {
 				"costBenefit": 6.5,
-				"gamingPerformance": 2.0,
+				"gamingPerformance": 2,
 				"powerEfficiency": 9.5,
 				"cooling": 8.5,
 				"features": 4.5
@@ -2015,11 +2015,11 @@
 				"weight": null
 			},
 			"ratings": {
-				"costBenefit": 5.0,
+				"costBenefit": 5,
 				"gamingPerformance": 1.5,
 				"powerEfficiency": 9.5,
-				"cooling": 8.0,
-				"features": 2.0
+				"cooling": 8,
+				"features": 2
 			}
 		}
 	},
@@ -2107,103 +2107,11 @@
 				"weight": null
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"gamingPerformance": 7.5,
-				"powerEfficiency": 9.0,
+				"powerEfficiency": 9,
 				"cooling": 8.5,
-				"features": 9.0
-			}
-		}
-	},
-	{
-		"id": "arktek-cyclops-rx-580-8gb",
-		"name": "RX 580 8GB",
-		"brand": "Arktek",
-		"line": "Cyclops",
-		"model": "RX 580",
-		"detailedModel": "Arktek Cyclops Radeon RX 580 8GB GDDR5",
-		"color": null,
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_723882-MLA99498281270_112025-F.webp",
-		"price": 0,
-		"releaseDate": "Abril de 2017",
-		"releaseMonth": 4,
-		"releaseYear": 2017,
-		"origin": null,
-		"category": "gpus",
-		"subcategory": "placa de video",
-		"anatelNumber": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1eZo1Ne",
-		"specs": {
-			"manufacturer": "AMD",
-			"chipset": "Polaris 20",
-			"series": "Radeon RX 500 Series",
-			"edition": "Cyclops",
-			"memory": {
-				"size": "8 GB",
-				"type": "GDDR5",
-				"bus": "256-bit",
-				"bandwidth": "224 GB/s",
-				"speed": "8000 MHz"
-			},
-			"processor": {
-				"cudaCores": null,
-				"streamProcessors": 2048,
-				"rtCores": null,
-				"tensorCores": null,
-				"baseClock": "1530 MHz",
-				"boostClock": "1785 MHz",
-				"ocBoostClock": null
-			},
-			"display": {
-				"maxResolution": "8K",
-				"outputs": "DisplayPort, HDMI, DVI-D",
-				"outputCount": 3,
-				"hdmiVersion": null,
-				"displayPortVersion": null
-			},
-			"power": {
-				"tdp": "125 W",
-				"tgp": null,
-				"requirement": "450 W",
-				"connector": "6 pinos"
-			},
-			"interface": "PCI-Express 3.0",
-			"cooling": {
-				"type": "Ar",
-				"slotSize": "2",
-				"fanCount": null
-			},
-			"features": {
-				"rayTracing": false,
-				"dlss": false,
-				"dlssVersion": null,
-				"fsr": false,
-				"fsrVersion": null,
-				"nvidiaReflex": false,
-				"nvenc": false,
-				"nvdec": false,
-				"vr": true,
-				"gSync": false,
-				"freeSync": true,
-				"resizableBar": false,
-				"directX": "12",
-				"openGL": "4.5",
-				"vulkan": "1.0",
-				"cuda": null,
-				"openCL": "2.0"
-			},
-			"dimensions": {
-				"height": "41 mm",
-				"width": "131 mm",
-				"length": "228 mm",
-				"weight": null
-			},
-			"ratings": {
-				"costBenefit": 8.0,
-				"gamingPerformance": 5.0,
-				"powerEfficiency": 4.5,
-				"cooling": 6.5,
-				"features": 5.0
+				"features": 9
 			}
 		}
 	},
@@ -2292,10 +2200,10 @@
 			},
 			"ratings": {
 				"costBenefit": 7.5,
-				"gamingPerformance": 5.0,
+				"gamingPerformance": 5,
 				"powerEfficiency": 4.5,
-				"cooling": 6.0,
-				"features": 5.0
+				"cooling": 6,
+				"features": 5
 			}
 		}
 	},
@@ -2383,11 +2291,11 @@
 				"weight": null
 			},
 			"ratings": {
-				"costBenefit": 7.0,
+				"costBenefit": 7,
 				"gamingPerformance": 4.5,
-				"powerEfficiency": 7.0,
-				"cooling": 7.0,
-				"features": 4.0
+				"powerEfficiency": 7,
+				"cooling": 7,
+				"features": 4
 			}
 		}
 	}

@@ -532,7 +532,7 @@
 		"manufacturer": "Oster",
 		"specs": {
 			"capacity": {
-				"liters": 6.0,
+				"liters": 6,
 				"servings": 5,
 				"baskets": 1
 			},
@@ -741,7 +741,7 @@
 		"manufacturer": "Philco",
 		"specs": {
 			"capacity": {
-				"liters": 12.0,
+				"liters": 12,
 				"servings": 8,
 				"baskets": 2
 			},
@@ -1307,105 +1307,6 @@
 				"cookingPerformance": 8,
 				"easeOfUse": 9,
 				"capacity": 8,
-				"cleaning": 9
-			}
-		}
-	},
-	{
-		"id": "airfryer-itatiaia-afita1035a",
-		"name": "AFITA1035A",
-		"brand": "Itatiaia",
-		"line": "AFITA",
-		"model": "AFITA1035A",
-		"detailedModel": null,
-		"color": "Preto",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_616430-MLA98192923164_112025-F.webp",
-		"price": 0,
-		"releaseDate": "2024",
-		"releaseMonth": null,
-		"releaseYear": 2024,
-		"origin": null,
-		"category": "airfryers",
-		"anatelNumber": null,
-		"amazonUrl": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/118TbG2",
-		"shopeeUrl": null,
-		"alphanumericModel": "AFITA1035A",
-		"version": null,
-		"manufacturer": "Itatiaia",
-		"specs": {
-			"capacity": {
-				"liters": 3.5,
-				"servings": null,
-				"baskets": 1
-			},
-			"power": {
-				"watts": 1400,
-				"voltage": "127V ou 220V (verificar versão)",
-				"frequency": null
-			},
-			"temperature": {
-				"min": 80,
-				"max": 200,
-				"unit": "°C"
-			},
-			"timer": {
-				"max": 60,
-				"unit": "minutos",
-				"autoShutoff": true
-			},
-			"technology": {
-				"type": "Circulação de ar quente",
-				"rapidAir": false,
-				"convection": true
-			},
-			"programs": {
-				"preset": null,
-				"customizable": false,
-				"programs": null
-			},
-			"control": {
-				"type": "Analógico",
-				"display": null,
-				"appControl": false,
-				"voiceControl": false
-			},
-			"features": {
-				"nonStick": true,
-				"dishwasherSafe": null,
-				"viewWindow": false,
-				"keepWarm": null,
-				"preheat": null,
-				"shakeReminder": null,
-				"oilLess": true,
-				"removableBasket": true
-			},
-			"safety": {
-				"overheatProtection": true,
-				"autoShutoff": true,
-				"coolTouch": null,
-				"nonSlipFeet": null
-			},
-			"accessories": {
-				"included": ["Grelha"],
-				"compatible": null
-			},
-			"dimensions": {
-				"width": "30 cm",
-				"height": "30 cm",
-				"depth": "31 cm",
-				"weight": "3 kg",
-				"basketSize": null
-			},
-			"maintenance": {
-				"cleaningEase": "Fácil - cesto removível antiaderente",
-				"filterReplacement": false
-			},
-			"ratings": {
-				"costBenefit": 9,
-				"cookingPerformance": 8,
-				"easeOfUse": 9,
-				"capacity": 7,
 				"cleaning": 9
 			}
 		}

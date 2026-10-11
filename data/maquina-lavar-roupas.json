@@ -543,8 +543,8 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"washingPerformance": 7.5,
-				"energyEfficiency": 8.0,
-				"noiseLevel": 6.0,
+				"energyEfficiency": 8,
+				"noiseLevel": 6,
 				"durability": 7.5
 			}
 		}
@@ -661,10 +661,10 @@
 				"powerInput": "415W (127V) / 426W (220V)"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"washingPerformance": 7.5,
 				"energyEfficiency": 8.5,
-				"noiseLevel": 8.0,
+				"noiseLevel": 8,
 				"durability": 6.5
 			}
 		}
@@ -777,11 +777,11 @@
 				"powerInput": "480W (110V) / 600W (220V)"
 			},
 			"ratings": {
-				"costBenefit": 8.0,
-				"washingPerformance": 9.0,
+				"costBenefit": 8,
+				"washingPerformance": 9,
 				"energyEfficiency": 7.5,
 				"noiseLevel": 8.5,
-				"durability": 8.0
+				"durability": 8
 			}
 		}
 	},
@@ -880,11 +880,11 @@
 				"powerInput": "370W"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"washingPerformance": 7.5,
-				"energyEfficiency": 9.0,
-				"noiseLevel": 9.0,
-				"durability": 7.0
+				"energyEfficiency": 9,
+				"noiseLevel": 9,
+				"durability": 7
 			}
 		}
 	},
@@ -998,125 +998,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"washingPerformance": 8.0,
+				"washingPerformance": 8,
 				"energyEfficiency": 8.5,
 				"noiseLevel": 7.5,
-				"durability": 8.0
-			}
-		}
-	},
-	{
-		"id": "electrolux-lec15",
-		"name": "LEC15",
-		"brand": "Electrolux",
-		"line": "Premium Care",
-		"model": "LEC15",
-		"detailedModel": "LEC15",
-		"color": "Branco",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_945463-MLA99483221950_112025-F.webp",
-		"price": 0,
-		"releaseDate": "2024",
-		"releaseMonth": null,
-		"releaseYear": 2024,
-		"origin": null,
-		"category": "maquinas-lavar-roupas",
-		"anatelNumber": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/2Azz8ug",
-		"specs": {
-			"type": "Automática",
-			"loadType": "Superior",
-			"capacity": {
-				"washing": "15 kg",
-				"drying": null
-			},
-			"isWasherDryer": false,
-			"energyEfficiency": "A",
-			"washing": {
-				"waterLoadType": "Automática",
-				"programs": 11,
-				"waterLevels": 5,
-				"washSystem": "Agitação",
-				"quickWash": true,
-				"antiWrinkle": false,
-				"autoAdaptableLoad": false,
-				"specificPrograms": [
-					"Rápido",
-					"Pesado",
-					"Tira Manchas",
-					"Delicadas",
-					"Tênis",
-					"Edredom",
-					"Brancas",
-					"Cama e Banho",
-					"Jeans",
-					"Algodão",
-					"Sintético"
-				],
-				"steamWash": false,
-				"sanitize": false,
-				"allergenCycle": false,
-				"delicateCycle": true
-			},
-			"spin": {
-				"hasSpin": true,
-				"speed": "630 rpm",
-				"speedRegulation": false,
-				"autoBalance": false
-			},
-			"drying": {
-				"type": null,
-				"hasDrainPump": true
-			},
-			"technology": {
-				"inverter": true,
-				"smartControl": false,
-				"wifi": false,
-				"voiceControl": null,
-				"delayedStart": false,
-				"endAlarm": true,
-				"loadSensor": false,
-				"autoDispense": false,
-				"aiFeatures": null
-			},
-			"temperature": {
-				"hasRegulation": false,
-				"waterTemp": "Fria",
-				"options": null
-			},
-			"structure": {
-				"hasFilter": true,
-				"hasDisplay": true,
-				"displayType": "Digital",
-				"panelLock": true,
-				"doorLock": true,
-				"controlType": "Misto",
-				"basketCount": 1,
-				"basketMaterial": "Aço inoxidável",
-				"isPortable": false,
-				"drumLight": false
-			},
-			"dimensions": {
-				"height": "105,2 cm",
-				"width": "66,2 cm",
-				"depth": "72,5 cm",
-				"weight": "46 kg"
-			},
-			"other": {
-				"isIndustrial": false,
-				"positiveImpact": true,
-				"warranty": "24 meses",
-				"color": "Branco",
-				"noiseLevel": "Programa Super Silencioso",
-				"waterConsumption": "160 litros/ciclo",
-				"energyConsumption": "0,46 kWh/ciclo",
-				"powerInput": null
-			},
-			"ratings": {
-				"costBenefit": 8.0,
-				"washingPerformance": 8.5,
-				"energyEfficiency": 9.0,
-				"noiseLevel": 9.0,
-				"durability": 8.5
+				"durability": 8
 			}
 		}
 	},
@@ -1225,10 +1110,10 @@
 			},
 			"ratings": {
 				"costBenefit": 9.5,
-				"washingPerformance": 8.0,
+				"washingPerformance": 8,
 				"energyEfficiency": 9.5,
-				"noiseLevel": 9.0,
-				"durability": 8.0
+				"noiseLevel": 9,
+				"durability": 8
 			}
 		}
 	},
@@ -1329,9 +1214,9 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"washingPerformance": 7.5,
-				"energyEfficiency": 8.0,
+				"energyEfficiency": 8,
 				"noiseLevel": 7.5,
-				"durability": 8.0
+				"durability": 8
 			}
 		}
 	},
@@ -1432,9 +1317,9 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"washingPerformance": 7.5,
-				"energyEfficiency": 8.0,
+				"energyEfficiency": 8,
 				"noiseLevel": 7.5,
-				"durability": 8.0
+				"durability": 8
 			}
 		}
 	},
@@ -1536,7 +1421,7 @@
 				"costBenefit": 8.5,
 				"washingPerformance": 7.5,
 				"energyEfficiency": 8.5,
-				"noiseLevel": 8.0,
+				"noiseLevel": 8,
 				"durability": 8.5
 			}
 		}
@@ -1651,7 +1536,7 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"washingPerformance": 9.0,
+				"washingPerformance": 9,
 				"energyEfficiency": 8.5,
 				"noiseLevel": 7.5,
 				"durability": 8.5
@@ -1768,10 +1653,10 @@
 				"powerInput": "480W"
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"washingPerformance": 9.5,
 				"energyEfficiency": 8.5,
-				"noiseLevel": 7.0,
+				"noiseLevel": 7,
 				"durability": 8.5
 			}
 		}
@@ -1887,11 +1772,11 @@
 				"powerInput": "1100-1900W"
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"washingPerformance": 9.5,
-				"energyEfficiency": 9.0,
-				"noiseLevel": 8.0,
-				"durability": 9.0
+				"energyEfficiency": 9,
+				"noiseLevel": 8,
+				"durability": 9
 			}
 		}
 	},
@@ -1990,10 +1875,10 @@
 				"powerInput": "250W"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"washingPerformance": null,
 				"energyEfficiency": 9.5,
-				"noiseLevel": 7.0,
+				"noiseLevel": 7,
 				"durability": 7.5
 			}
 		}
@@ -2094,10 +1979,10 @@
 			},
 			"ratings": {
 				"costBenefit": 9.5,
-				"washingPerformance": 8.0,
+				"washingPerformance": 8,
 				"energyEfficiency": 9.5,
 				"noiseLevel": 8.5,
-				"durability": 8.0
+				"durability": 8
 			}
 		}
 	},
@@ -2204,10 +2089,10 @@
 				"powerInput": "430W"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"washingPerformance": 8.0,
-				"energyEfficiency": 9.0,
-				"noiseLevel": 8.0,
+				"costBenefit": 9,
+				"washingPerformance": 8,
+				"energyEfficiency": 9,
+				"noiseLevel": 8,
 				"durability": 8.5
 			}
 		}
@@ -2317,7 +2202,7 @@
 				"costBenefit": 9.5,
 				"washingPerformance": 8.5,
 				"energyEfficiency": 9.5,
-				"noiseLevel": 8.0,
+				"noiseLevel": 8,
 				"durability": 8.5
 			}
 		}
@@ -2438,8 +2323,8 @@
 				"powerInput": "750W"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"washingPerformance": 9.0,
+				"costBenefit": 9,
+				"washingPerformance": 9,
 				"energyEfficiency": 8.5,
 				"noiseLevel": 7.5,
 				"durability": 8.5
@@ -2541,7 +2426,7 @@
 				"powerInput": "380W"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"washingPerformance": 7.5,
 				"energyEfficiency": 9.5,
 				"noiseLevel": 8.5,
@@ -2654,7 +2539,7 @@
 				"costBenefit": 9.5,
 				"washingPerformance": 8.5,
 				"energyEfficiency": 9.5,
-				"noiseLevel": 8.0,
+				"noiseLevel": 8,
 				"durability": 8.5
 			}
 		}
@@ -2769,11 +2654,11 @@
 				"powerInput": null
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"washingPerformance": 8.5,
 				"energyEfficiency": 9.5,
 				"noiseLevel": 8.5,
-				"durability": 9.0
+				"durability": 9
 			}
 		}
 	}

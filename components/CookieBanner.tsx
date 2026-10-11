@@ -81,6 +81,7 @@ export default function CookieBanner({ language }: { language?: string }) {
 					</a>
 				</p>
 				<button
+					type="button"
 					onClick={acceptCookiesTudoHardware}
 					className="bg-blue-600 text-white text-sm px-4 py-2 rounded font-bold hover:bg-blue-700 transition"
 				>

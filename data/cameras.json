@@ -166,10 +166,10 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"imageQuality": 8.5,
-				"videoQuality": 9.0,
-				"autofocus": 7.0,
+				"videoQuality": 9,
+				"autofocus": 7,
 				"buildQuality": 9.5,
-				"versatility": 9.0
+				"versatility": 9
 			},
 			"targetAudience": "Action Sports, Vloggers, Aventureiros",
 			"manufacturer": "GoPro",
@@ -343,9 +343,9 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"imageQuality": 8.0,
-				"videoQuality": 9.0,
-				"autofocus": 7.0,
+				"imageQuality": 8,
+				"videoQuality": 9,
+				"autofocus": 7,
 				"buildQuality": 9.5,
 				"versatility": 9.5
 			},
@@ -519,11 +519,11 @@
 				"audioFormat": ["AAC"]
 			},
 			"ratings": {
-				"costBenefit": 8.0,
-				"imageQuality": 7.0,
+				"costBenefit": 8,
+				"imageQuality": 7,
 				"videoQuality": 8.5,
-				"autofocus": 6.0,
-				"buildQuality": 9.0,
+				"autofocus": 6,
+				"buildQuality": 9,
 				"versatility": 9.5
 			},
 			"targetAudience": "Vloggers, Content Creators, 360° Enthusiasts, Aventureiros",
@@ -695,12 +695,12 @@
 				"audioFormat": ["AAC"]
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"imageQuality": 8.5,
-				"videoQuality": 9.0,
+				"videoQuality": 9,
 				"autofocus": 7.5,
 				"buildQuality": 9.5,
-				"versatility": 9.0
+				"versatility": 9
 			},
 			"targetAudience": "Action Sports, Vlogging, Content Creators",
 			"manufacturer": "GoPro",
@@ -873,9 +873,9 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"imageQuality": 6.5,
-				"videoQuality": 7.0,
-				"autofocus": 6.0,
-				"buildQuality": 8.0,
+				"videoQuality": 7,
+				"autofocus": 6,
+				"buildQuality": 8,
 				"versatility": 5.5
 			},
 			"targetAudience": "Beginners, Budget-Conscious, Social Media Creators, Vloggers",
@@ -1048,11 +1048,11 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"imageQuality": 9.0,
+				"imageQuality": 9,
 				"videoQuality": 9.5,
-				"autofocus": 10.0,
+				"autofocus": 10,
 				"buildQuality": 8.5,
-				"versatility": 9.0
+				"versatility": 9
 			},
 			"targetAudience": "Enthusiast, Content Creator, Hybrid Shooter, Professional",
 			"manufacturer": "Sony",
@@ -1225,10 +1225,10 @@
 			"ratings": {
 				"costBenefit": 7.5,
 				"imageQuality": 5.5,
-				"videoQuality": 6.0,
-				"autofocus": 4.0,
-				"buildQuality": 7.0,
-				"versatility": 8.0
+				"videoQuality": 6,
+				"autofocus": 4,
+				"buildQuality": 7,
+				"versatility": 8
 			},
 			"targetAudience": "Security Personnel, Law Enforcement, Body Cam Users, Dashcam Users",
 			"manufacturer": "SJCAM",
@@ -1399,12 +1399,12 @@
 				"audioFormat": ["AAC", "LPCM"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"imageQuality": 8.5,
 				"videoQuality": 9.5,
 				"autofocus": 9.5,
 				"buildQuality": 7.5,
-				"versatility": 9.0
+				"versatility": 9
 			},
 			"targetAudience": "Vloggers, Content Creators, YouTubers, Travel Videographers",
 			"manufacturer": "Sony",
@@ -1577,10 +1577,10 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"imageQuality": 7.5,
-				"videoQuality": 5.0,
-				"autofocus": 6.0,
+				"videoQuality": 5,
+				"autofocus": 6,
 				"buildQuality": 6.5,
-				"versatility": 7.0
+				"versatility": 7
 			},
 			"targetAudience": "Beginners, Budget-Conscious, Photography Students",
 			"manufacturer": "Canon",
@@ -1753,8 +1753,8 @@
 			"ratings": {
 				"costBenefit": 7.5,
 				"imageQuality": 7.5,
-				"videoQuality": 6.0,
-				"autofocus": 7.0,
+				"videoQuality": 6,
+				"autofocus": 7,
 				"buildQuality": 6.5,
 				"versatility": 6.5
 			},
@@ -1927,12 +1927,12 @@
 				"audioFormat": ["AAC"]
 			},
 			"ratings": {
-				"costBenefit": 6.0,
-				"imageQuality": 4.0,
+				"costBenefit": 6,
+				"imageQuality": 4,
 				"videoQuality": 4.5,
 				"autofocus": 3.5,
 				"buildQuality": 4.5,
-				"versatility": 5.0
+				"versatility": 5
 			},
 			"targetAudience": "Beginner, Children, Budget Photography",
 			"manufacturer": "Basike",
@@ -2104,9 +2104,9 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"imageQuality": 9.0,
+				"imageQuality": 9,
 				"videoQuality": 8.5,
-				"autofocus": 9.0,
+				"autofocus": 9,
 				"buildQuality": 8.5,
 				"versatility": 9.5
 			},
@@ -2283,7 +2283,7 @@
 				"imageQuality": 7.5,
 				"videoQuality": 7.5,
 				"autofocus": 8.5,
-				"buildQuality": 7.0,
+				"buildQuality": 7,
 				"versatility": 8.5
 			},
 			"targetAudience": "Vloggers, Content Creators, YouTubers, Beginner Filmmakers",
@@ -2456,11 +2456,11 @@
 			},
 			"ratings": {
 				"costBenefit": 9.5,
-				"imageQuality": 9.0,
+				"imageQuality": 9,
 				"videoQuality": 9.5,
-				"autofocus": 4.0,
-				"buildQuality": 9.0,
-				"versatility": 9.0
+				"autofocus": 4,
+				"buildQuality": 9,
+				"versatility": 9
 			},
 			"targetAudience": "Professional Filmmakers, Cinema Production, Independent Filmmakers, Documentary Production",
 			"manufacturer": "Blackmagic Design",
@@ -2632,11 +2632,11 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"imageQuality": 8.0,
+				"imageQuality": 8,
 				"videoQuality": 8.5,
-				"autofocus": 6.0,
-				"buildQuality": 8.0,
-				"versatility": 9.0
+				"autofocus": 6,
+				"buildQuality": 8,
+				"versatility": 9
 			},
 			"targetAudience": "Vloggers, POV Content Creators, Action Sports, Pet POV",
 			"manufacturer": "DJI",
@@ -2808,10 +2808,10 @@
 			},
 			"ratings": {
 				"costBenefit": 9.5,
-				"imageQuality": 9.0,
+				"imageQuality": 9,
 				"videoQuality": 9.5,
-				"autofocus": 3.0,
-				"buildQuality": 8.0,
+				"autofocus": 3,
+				"buildQuality": 8,
 				"versatility": 8.5
 			},
 			"targetAudience": "Indie Filmmakers, Cinema Production, Content Creators, Budget-Conscious Professionals",
@@ -2988,187 +2988,11 @@
 				"videoQuality": 9.5,
 				"autofocus": 9.5,
 				"buildQuality": 8.5,
-				"versatility": 9.0
+				"versatility": 9
 			},
 			"targetAudience": "Cinema Production, Content Creators, YouTubers, Indie Filmmakers, Professional Videographers",
 			"manufacturer": "Sony",
 			"versions": ["Body Only (ILME-FX30B)", "With XLR Handle (ILME-FX30K)"]
-		}
-	},
-	{
-		"id": "sony-zv-e10-ii-ilce-zve10m2",
-		"name": "ZV-E10 II",
-		"brand": "Sony",
-		"line": "Alpha",
-		"model": "ZV-E10 II",
-		"detailedModel": "ILCE-ZVE10M2",
-		"color": "Preto",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_796097-MLA100016308635_122025-F.webp",
-		"price": 0,
-		"releaseDate": "Julho 2024",
-		"releaseMonth": "Julho",
-		"releaseYear": 2024,
-		"origin": null,
-		"category": "cameras",
-		"subcategory": "gopro",
-		"alphanumericModel": "ILCE-ZVE10M2",
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1JeK7r9",
-		"specs": {
-			"type": "Mirrorless",
-			"sensor": {
-				"type": "APS-C",
-				"size": "23.3 x 15.5 mm",
-				"resolution": "26 MP",
-				"megapixels": 26,
-				"cropFactor": "1.5x",
-				"iso": {
-					"native": "100-32000",
-					"expanded": "50-102400",
-					"max": 102400
-				},
-				"stabilization": true,
-				"ibis": false,
-				"stabilizationType": "Digital (Active/Standard)",
-				"dualNativeIso": false
-			},
-			"processor": "BIONZ XR",
-			"autofocus": {
-				"type": "Fast Hybrid Phase Detection",
-				"points": 759,
-				"faceDetection": true,
-				"eyeDetection": true,
-				"animalDetection": true,
-				"tracking": true,
-				"touchFocus": true,
-				"lowLightSensitivity": null
-			},
-			"video": {
-				"maxResolution": "4K",
-				"maxFrameRate": "60fps",
-				"fourKFrameRates": ["24p", "25p", "30p", "60p"],
-				"fullHdFrameRates": ["24p", "25p", "30p", "60p", "120p"],
-				"slowMotion": "Full HD 120fps",
-				"codec": ["H.264", "H.265", "XAVC S", "XAVC HS"],
-				"bitRate": "200 Mbps",
-				"colorSampling": "4:2:2",
-				"bitDepth": "10-bit",
-				"logProfile": "S-Log3",
-				"hdr": false,
-				"timelapseBuiltIn": true,
-				"externalRecording": false,
-				"hdmiOutput": "Micro-HDMI"
-			},
-			"display": {
-				"type": "LCD",
-				"size": "3.0\"",
-				"resolution": "1.04M dots",
-				"touchscreen": true,
-				"articulating": true,
-				"articulationType": "Vari-angle",
-				"viewfinder": false,
-				"viewfinderType": null,
-				"viewfinderResolution": null,
-				"viewfinderMagnification": null,
-				"viewfinderCoverage": null
-			},
-			"burstMode": {
-				"maxFps": 11,
-				"bufferDepth": null,
-				"electronicShutter": true,
-				"mechanicalShutter": false,
-				"shutterSpeed": "1/4000s",
-				"bulbMode": false
-			},
-			"lens": {
-				"mount": "Sony E",
-				"included": null,
-				"interchangeable": true,
-				"focalLength": null,
-				"aperture": null,
-				"opticalZoom": null,
-				"digitalZoom": null
-			},
-			"storage": {
-				"slots": 1,
-				"types": ["SD", "SDXC", "SDHC"],
-				"dualSlotRecording": false,
-				"uhs": "UHS-I"
-			},
-			"connectivity": {
-				"wifi": true,
-				"bluetooth": true,
-				"nfc": false,
-				"usb": "USB-C (USB 3.2 Gen 1)",
-				"hdmi": true,
-				"hdmiType": "Micro-HDMI",
-				"microphone": true,
-				"microphoneType": "3.5mm jack",
-				"headphone": true,
-				"remote": false,
-				"ethernet": false,
-				"timecode": false
-			},
-			"battery": {
-				"type": "NP-FZ100",
-				"capacity": "2280 mAh",
-				"shotsPerCharge": 610,
-				"videoRuntime": "130 min (CIPA) / 195 min (contínua)",
-				"usbCharging": true,
-				"batteryGrip": false
-			},
-			"build": {
-				"weatherSealing": false,
-				"material": "Plástico reforçado",
-				"dimensions": "114.8 x 67.5 x 54.2 mm",
-				"weight": "377g (com bateria e cartão)",
-				"bodyOnly": "292g",
-				"withLens": null,
-				"tripodMount": true,
-				"coldShoeMount": false,
-				"hotShoeMount": true
-			},
-			"features": {
-				"rawCapture": true,
-				"rawFormat": "ARW (Sony RAW 5.0)",
-				"jpeg": true,
-				"heif": true,
-				"bracketing": false,
-				"hdr": true,
-				"panorama": false,
-				"multipleExposure": false,
-				"intervalShooting": true,
-				"bulbTimer": false,
-				"gps": false,
-				"waterproof": false,
-				"waterproofDepth": null,
-				"shockproof": false,
-				"freezeproof": false,
-				"dustproof": false,
-				"builtInNdFilter": false,
-				"ndFilterStops": null,
-				"voiceControl": false,
-				"touchscreenGestures": true
-			},
-			"audio": {
-				"builtInMicrophone": true,
-				"microphoneType": "Stereo 3-capsule directional",
-				"externalMicSupport": true,
-				"windNoiseReduction": true,
-				"audioLevels": true,
-				"headphoneMonitoring": true,
-				"audioFormat": ["AAC", "LPCM"]
-			},
-			"ratings": {
-				"costBenefit": 8.5,
-				"imageQuality": 8.0,
-				"videoQuality": 8.5,
-				"autofocus": 9.0,
-				"buildQuality": 7.5,
-				"versatility": 8.5
-			},
-			"targetAudience": "Vlogger, Content Creator, Beginner",
-			"manufacturer": "Sony",
-			"versions": ["ILCE-ZVE10M2 (Black)", "ILCE-ZVE10M2/W (White)"]
 		}
 	},
 	{
@@ -3335,12 +3159,12 @@
 				"audioFormat": ["AAC"]
 			},
 			"ratings": {
-				"costBenefit": 7.0,
+				"costBenefit": 7,
 				"imageQuality": 5.5,
-				"videoQuality": 6.0,
-				"autofocus": 4.0,
+				"videoQuality": 6,
+				"autofocus": 4,
 				"buildQuality": 6.5,
-				"versatility": 7.0
+				"versatility": 7
 			},
 			"targetAudience": "Budget Action Sports, Casual Users",
 			"manufacturer": "EKEN",
@@ -3512,11 +3336,11 @@
 			},
 			"ratings": {
 				"costBenefit": 7.5,
-				"imageQuality": 6.0,
+				"imageQuality": 6,
 				"videoQuality": 6.5,
-				"autofocus": 4.0,
+				"autofocus": 4,
 				"buildQuality": 6.5,
-				"versatility": 7.0
+				"versatility": 7
 			},
 			"targetAudience": "Budget Action Sports, Casual Users",
 			"manufacturer": "SJCAM",
@@ -3687,12 +3511,12 @@
 				"audioFormat": ["AAC", "LPCM"]
 			},
 			"ratings": {
-				"costBenefit": 8.0,
-				"imageQuality": 8.0,
+				"costBenefit": 8,
+				"imageQuality": 8,
 				"videoQuality": 8.5,
-				"autofocus": 9.0,
+				"autofocus": 9,
 				"buildQuality": 7.5,
-				"versatility": 8.0
+				"versatility": 8
 			},
 			"targetAudience": "Vlogger, Content Creator",
 			"manufacturer": "Sony",
@@ -3863,11 +3687,11 @@
 				"audioFormat": ["AAC", "LPCM"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"imageQuality": 9.0,
+				"costBenefit": 9,
+				"imageQuality": 9,
 				"videoQuality": 8.5,
 				"autofocus": 9.5,
-				"buildQuality": 9.0,
+				"buildQuality": 9,
 				"versatility": 9.5
 			},
 			"targetAudience": "Professional, Enthusiast, Hybrid Shooter",
@@ -4039,11 +3863,11 @@
 				"audioFormat": ["AAC"]
 			},
 			"ratings": {
-				"costBenefit": 6.0,
-				"imageQuality": 4.0,
+				"costBenefit": 6,
+				"imageQuality": 4,
 				"videoQuality": 4.5,
 				"autofocus": 3.5,
-				"buildQuality": 4.0,
+				"buildQuality": 4,
 				"versatility": 5.5
 			},
 			"targetAudience": "Beginner, Kids, Casual Users",

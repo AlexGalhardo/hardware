@@ -1,370 +1,522 @@
 {
-  "totalProducts": 679,
+  "totalProducts": 653,
   "totalProductsPerCategory": {
-    "cameras-de-seguranca": 27,
-    "monitores": 29,
+    "airfryers": 21,
+    "ar-condicionado": 32,
+    "cafeteiras": 28,
     "caixas-de-som": 31,
-    "gpus": 26,
-    "fones-de-ouvido": 38,
+    "cameras-de-seguranca": 27,
+    "cameras": 22,
+    "cpus": 39,
     "drones": 23,
-    "mouses": 17,
-    "geladeiras": 20,
-    "maquina-lavar-roupas": 25,
-    "microondas": 23,
-    "impressoras": 12,
-    "notebooks": 32,
     "fechaduras": 15,
+    "fones-de-ouvido": 38,
+    "geladeiras": 16,
+    "gpus": 25,
+    "impressoras": 12,
+    "maquina-lavar-roupas": 24,
+    "microondas": 18,
+    "monitores": 29,
+    "mouses": 17,
+    "notebooks": 32,
+    "placas-mae": 30,
+    "smartphones": 47,
+    "smartvs": 30,
     "smartwatches": 45,
-    "placas-mae": 34,
-    "cafeteiras": 29,
-    "airfryers": 22,
-    "teclados": 24,
-    "tablets": 29,
-    "smartvs": 32,
-    "smartphones": 48,
-    "cpus": 42,
-    "cameras": 23,
-    "ar-condicionado": 33
+    "tablets": 28,
+    "teclados": 24
   },
   "categories": {
-    "cameras-de-seguranca": [
+    "airfryers": [
       {
-        "name": "Speed Dome A8",
-        "brand": "HW",
-        "detailedModel": "A8",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_901090-MLA99414404486_112025-F.webp"
+        "name": "NA130/00",
+        "brand": "Philips Walita",
+        "detailedModel": "NA130/00",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_623708-MLA99577999648_122025-F.webp"
       },
       {
-        "name": "P11",
-        "brand": "Haixia",
-        "detailedModel": "P11",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_723587-MLA100061228309_122025-F.webp"
+        "name": "NA130/09",
+        "brand": "Philips Walita",
+        "detailedModel": "NA130/09",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_858060-MLA99373778810_112025-F.webp"
       },
       {
-        "name": "P11",
-        "brand": "Maxnova",
-        "detailedModel": "CÂMERA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_782896-MLA100202256389_122025-F.webp"
+        "name": "AF-30",
+        "brand": "Mondial",
+        "detailedModel": "Family Inox IV",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_660792-MLA97351447703_112025-F.webp"
       },
       {
-        "name": "A28-2",
-        "brand": "Casenn",
-        "detailedModel": "A28-2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_635583-MLA100019457791_122025-F.webp"
+        "name": "NA341",
+        "brand": "Philips Walita",
+        "detailedModel": "NA341",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_818147-MLA99507423644_112025-F.webp"
       },
       {
-        "name": "Tapo TC40",
-        "brand": "TP-Link",
-        "detailedModel": "TC40",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_726365-MLA99937808493_112025-F.webp"
+        "name": "FWM45P1",
+        "brand": "Midea",
+        "detailedModel": "Widemax",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_733418-MLA99504461002_112025-F.webp"
       },
       {
-        "name": "DS-2CD1027G2H-LIU",
-        "brand": "Hikvision",
-        "detailedModel": "DS-2CD1027G2H-LIU",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_860013-MLA99442461316_112025-F.webp"
+        "name": "CKSTAF60WDDF",
+        "brand": "Oster",
+        "detailedModel": "Diamondtech",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_675945-MLA99966366509_112025-F.webp"
       },
       {
-        "name": "E27",
-        "brand": "Smart",
-        "detailedModel": "E27",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_928765-MLA95692105396_102025-F.webp"
+        "name": "AFITA1035A",
+        "brand": "Itatiaia",
+        "detailedModel": "AFITA1035A",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_616430-MLA98192923164_112025-F.webp"
       },
       {
-        "name": "8176QJ",
-        "brand": "Genérica",
-        "detailedModel": "Wifi smart camara",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_652067-MLU77376056921_072024-F.webp"
+        "name": "PFR2200P",
+        "brand": "Philco",
+        "detailedModel": "Air Fryer Oven 4 em 1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_646055-MLA99511429566_112025-F.webp"
       },
       {
-        "name": "VIPW 1300 Mini SD 3MP FC",
-        "brand": "Intelbras",
-        "detailedModel": "VIPW 1300 Mini SD 3MP FC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_975289-MLA81201625064_122024-F.webp"
+        "name": "EAF40",
+        "brand": "Electrolux",
+        "detailedModel": "EAF40",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_696592-MLA104141415391_012026-F.webp"
       },
       {
-        "name": "A8",
-        "brand": "iCSee",
-        "detailedModel": "A8",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_855866-MLA96126735431_102025-F.webp"
+        "name": "PFR15PG",
+        "brand": "Philco",
+        "detailedModel": "PFR15PG",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_860668-MLU74370099605_022024-F.webp"
       },
       {
-        "name": "Tomada",
-        "brand": "Nixzen",
-        "detailedModel": "Câmera de Segurança Tomada",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_827133-MLA95700031444_102025-F.webp"
+        "name": "AFON-12L-AB",
+        "brand": "Mondial",
+        "detailedModel": "AFON-12L-AB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_641245-MLA99683681642_122025-F.webp"
       },
       {
-        "name": "A28B Dupla Lente",
-        "brand": "HW",
-        "detailedModel": "A28B Dupla Lente",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_826421-MLA88399856933_072025-F.webp"
+        "name": "BAF40A",
+        "brand": "Britânia",
+        "detailedModel": "063801125",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778760-MLA99856338061_112025-F.webp"
       },
       {
-        "name": "IPSKY2",
-        "brand": "JL Protec",
-        "detailedModel": "IPSKY2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_664063-MLA95676694362_102025-F.webp"
+        "name": "BAF45A",
+        "brand": "Britânia",
+        "detailedModel": "BAF45A",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_818764-MLA99962602187_112025-F.webp"
       },
       {
-        "name": "VHD 3220 B Full Color",
-        "brand": "Intelbras",
-        "detailedModel": "VHD 3220 B Full Color",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_683246-MLB92661186247_092025-F.webp"
+        "name": "PAF55A",
+        "brand": "Philco",
+        "detailedModel": "PAF55A",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_950317-MLA99970944425_112025-F.webp"
       },
       {
-        "name": "iM5 SC",
-        "brand": "Intelbras",
-        "detailedModel": "iM5 SC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_651897-MLA99455126600_112025-F.webp"
+        "name": "EAF45",
+        "brand": "Electrolux",
+        "detailedModel": "EAF45",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_914550-MLA99990413573_112025-F.webp"
       },
       {
-        "name": "A9",
-        "brand": "Genérica",
-        "detailedModel": "A9",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_830347-MLA99601162526_122025-F.webp"
+        "name": "PAF11B",
+        "brand": "Philco",
+        "detailedModel": "PAF11B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_660936-MLA92716452059_092025-F.webp"
       },
       {
-        "name": "CHINESEE-9697",
-        "brand": "Chinesee",
-        "detailedModel": "CHINESEE-9697",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_766795-MLA99517013764_112025-F.webp"
+        "name": "EAF45",
+        "brand": "Electrolux",
+        "detailedModel": "EAF45",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_780274-MLA99571434150_122025-F.webp"
       },
       {
-        "name": "Lente Dupla Yoosee 9697",
-        "brand": "Chinesee",
-        "detailedModel": "CHINESEE-9697",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_766795-MLA99517013764_112025-F.webp"
+        "name": "EAF85",
+        "brand": "Electrolux",
+        "detailedModel": "5311AABR201",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_721756-MLA99555662232_122025-F.webp"
       },
       {
-        "name": "Mini Dome Full HD ABQ-A8",
-        "brand": "V Vianova Telecomunicações",
-        "detailedModel": "ABQ-A8",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_904387-MLA100033367861_122025-F.webp"
+        "name": "HD9206/90",
+        "brand": "Philips Walita",
+        "detailedModel": "Série 3000 XL HD9206/90",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_806264-MLA99550695498_122025-F.webp"
       },
       {
-        "name": "iM6 Full Color",
-        "brand": "Intelbras",
-        "detailedModel": "iM6 Full Color",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_646896-MLA100008395327_122025-F.webp"
+        "name": "Max Cube AF-2",
+        "brand": "Fmaxx",
+        "detailedModel": "Max Cube AF-2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_771788-MLA85718473664_062025-F.webp"
       },
       {
-        "name": "SC-B3",
-        "brand": "It-Blue",
-        "detailedModel": "SC-B3",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_788850-MLA95698008684_102025-F.webp"
-      },
-      {
-        "name": "A8 IP WiFi",
-        "brand": "Davely",
-        "detailedModel": "A8 IP WiFi",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_758660-MLA99463705568_112025-F.webp"
-      },
-      {
-        "name": "THC-T127-LPS",
-        "brand": "Hikvision",
-        "detailedModel": "THC-T127-LPS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_974763-MLA99505476200_112025-F.webp"
-      },
-      {
-        "name": "Espiã",
-        "brand": "Camera wifi",
-        "detailedModel": "Espiã",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644652-MLA99571504368_122025-F.webp"
-      },
-      {
-        "name": "YJ-A08",
-        "brand": "Haiz",
-        "detailedModel": "YJ-A08",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_979652-MLA99503752286_112025-F.webp"
-      },
-      {
-        "name": "Câmera 4K Lente Dupla",
-        "brand": "Monitoramento audio Alarme 360",
-        "detailedModel": "Câmera Cinza",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_650127-MLA105015636691_012026-F.webp"
-      },
-      {
-        "name": "Camera Externa Vigilância PTZ 360",
-        "brand": "Ip Camera Yoosee",
-        "detailedModel": "Camera Externa Vigilância Segurança IP Wifi Acesso Remoto Sem Fio Distância Panorâmica Motorizada PTZ 360 Alarme Detector Presença Infravermelho",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_624684-MLB89537698103_082025-F.webp"
+        "name": "RI9252",
+        "brand": "Philips Walita",
+        "detailedModel": "RI9252",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_757332-MLA99941444187_112025-F.webp"
       }
     ],
-    "monitores": [
+    "ar-condicionado": [
       {
-        "name": "S3",
+        "name": "CCB10F",
+        "brand": "Consul",
+        "detailedModel": "CCB10F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_931498-MLA99939956835_112025-F.webp"
+      },
+      {
+        "name": "CCB07FB",
+        "brand": "Consul",
+        "detailedModel": "CCB07FB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_712967-MLA99388471618_112025-F.webp"
+      },
+      {
+        "name": "CCN07EB",
+        "brand": "Consul",
+        "detailedModel": "CCN07EB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_952763-MLU73213834909_122023-F.webp"
+      },
+      {
+        "name": "KV-ACJ-ELET",
+        "brand": "Kian",
+        "detailedModel": "KV-ACJ-ELET",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_783755-MLA98882484461_112025-F.webp"
+      },
+      {
+        "name": "VTR-2VT",
+        "brand": "VTR ELETRONICS",
+        "detailedModel": "MINI CLIMATIZADOR",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_752372-MLA99995725591_112025-F.webp"
+      },
+      {
+        "name": "PAC9FB",
+        "brand": "Philco",
+        "detailedModel": "PAC9FB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_830937-MLA99932316841_112025-F.webp"
+      },
+      {
+        "name": "HJQE09C2CC",
+        "brand": "Elgin",
+        "detailedModel": "HJQE09C2CC-HJQI09C2WC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_873448-MLA98140273367_112025-F.webp"
+      },
+      {
+        "name": "Prime Air 9FC",
+        "brand": "Britânia",
+        "detailedModel": "PRIME AIR 9FC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_969183-MLA99888990131_112025-F.webp"
+      },
+      {
+        "name": "Voice +AI",
+        "brand": "LG",
+        "detailedModel": "Voice +AI",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_697001-MLA99563539662_122025-F.webp"
+      },
+      {
+        "name": "MPH-12CRV1",
+        "brand": "Midea",
+        "detailedModel": "MPH-12CRV",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_784612-MLA98823688728_112025-F.webp"
+      },
+      {
+        "name": "Color Adapt",
+        "brand": "Electrolux",
+        "detailedModel": "YI12F/YE12F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_752001-MLA100001155415_112025-F.webp"
+      },
+      {
+        "name": "WindFree AI",
         "brand": "Samsung",
-        "detailedModel": "LS24D300GALMZD",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_931100-MLA99973037971_112025-F.webp"
+        "detailedModel": "WF AI Frio",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_753644-MLA99451198906_112025-F.webp"
       },
       {
-        "name": "AC1025",
-        "brand": "Bettdow",
-        "detailedModel": "AC1025",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_767275-MLA99470531186_112025-F.webp"
+        "name": "S3-Q09AAQAK",
+        "brand": "LG",
+        "detailedModel": "S3-Q09AAQAK",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_915000-MLA99433689578_112025-F.webp"
       },
       {
-        "name": "221V8LB",
+        "name": "S3UQ09AA31C",
+        "brand": "LG",
+        "detailedModel": "S3UQ09AA31C.EB2GAM1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_614207-MLA98397051885_112025-F.webp"
+      },
+      {
+        "name": "HJFI12C2WB",
+        "brand": "Elgin",
+        "detailedModel": "HJFI12C2WB / HJFE12C2CB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_964072-MLA99554953128_122025-F.webp"
+      },
+      {
+        "name": "PAC9FB",
+        "brand": "Philco",
+        "detailedModel": "PAC9FB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_773185-MLA99508095402_112025-F.webp"
+      },
+      {
+        "name": "HJFE09C2CC",
+        "brand": "Elgin",
+        "detailedModel": "HJFE09C2CC / HJFI09C2WC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_705261-MLA99988239757_112025-F.webp"
+      },
+      {
+        "name": "KV-ACJ-ELET",
+        "brand": "Kian",
+        "detailedModel": "KV-ACJ-ELET",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_783755-MLA98882484461_112025-F.webp"
+      },
+      {
+        "name": "GJC07BV-A6NMND1A",
+        "brand": "Gree",
+        "detailedModel": "GJC07BV-A6NMND1A",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_771955-MLA99413632356_112025-F.webp"
+      },
+      {
+        "name": "S3-W24K231A",
+        "brand": "LG",
+        "detailedModel": "S3UW24K231A.EB2GAM1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_868513-MLA99405356170_112025-F.webp"
+      },
+      {
+        "name": "PAC12000QF5",
+        "brand": "Philco",
+        "detailedModel": "PAC12000QF5",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_993676-MLA99470514992_112025-F.webp"
+      },
+      {
+        "name": "HJFE30C2CB",
+        "brand": "Elgin",
+        "detailedModel": "HJFE30C2CB / HJFI30C2WB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_614534-MLA100012391495_122025-F.webp"
+      },
+      {
+        "name": "PAC18FC",
+        "brand": "Philco",
+        "detailedModel": "PAC18FC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778515-MLA99940510711_112025-F.webp"
+      },
+      {
+        "name": "S3UQ18KL31B",
+        "brand": "LG",
+        "detailedModel": "S3UQ18KL31B.EB2GAM1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_697001-MLA99563539662_122025-F.webp"
+      },
+      {
+        "name": "HJQE12C2CD",
+        "brand": "Elgin",
+        "detailedModel": "HJQE12C2CD / HJQI12C2WD",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_958094-MLA93958375647_102025-F.webp"
+      },
+      {
+        "name": "PAC12000F5",
+        "brand": "Philco",
+        "detailedModel": "PAC12000F5",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_632945-MLA99961007401_112025-F.webp"
+      },
+      {
+        "name": "KV-ACJ-ELET",
+        "brand": "Kian",
+        "detailedModel": "KV-ACJ-ELET",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_740438-MLA105346891775_012026-F.webp"
+      },
+      {
+        "name": "PAC12FC",
+        "brand": "Philco",
+        "detailedModel": "PAC12FC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_607568-MLA99924798865_112025-F.webp"
+      },
+      {
+        "name": "AS-12TW2RLRCK00E",
+        "brand": "Hisense",
+        "detailedModel": "AS-12TW2RLRCK00E",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_844147-MLA104250858950_012026-F.webp"
+      },
+      {
+        "name": "S3UQ09JA31E",
+        "brand": "LG",
+        "detailedModel": "S3UQ09JA31E.EB2GAM1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_880344-MLA99423241978_112025-F.webp"
+      },
+      {
+        "name": "MPPA-12CRV1",
+        "brand": "Midea",
+        "detailedModel": "MPPA-12CRV1 / MPPA-12CRV2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_983289-MLA100005510219_122025-F.webp"
+      },
+      {
+        "name": "S3UW12JA31A",
+        "brand": "LG",
+        "detailedModel": "S3UW12JA31A",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_802183-MLA99891197435_112025-F.webp"
+      }
+    ],
+    "cafeteiras": [
+      {
+        "name": "Luna",
+        "brand": "3 Corações",
+        "detailedModel": "Luna",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_703405-MLA99854893367_112025-F.webp"
+      },
+      {
+        "name": "Passione",
+        "brand": "3 Corações",
+        "detailedModel": "Passione",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_702554-MLA99936325089_112025-F.webp"
+      },
+      {
+        "name": "Essenza Mini",
+        "brand": "Nespresso",
+        "detailedModel": "C White",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_652965-MLA100059078099_122025-F.webp"
+      },
+      {
+        "name": "Essenza Mini",
+        "brand": "Nespresso",
+        "detailedModel": "D30-BR3-RE-NE2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_861961-MLA99899361577_112025-F.webp"
+      },
+      {
+        "name": "CitiZ",
+        "brand": "Nespresso",
+        "detailedModel": "D113-BR3-BK-NE2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_879258-MLA99562179084_122025-F.webp"
+      },
+      {
+        "name": "Série 2300 LatteGo",
         "brand": "Philips",
-        "detailedModel": "221V8LB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_725058-MLA99936607109_112025-F.webp"
+        "detailedModel": "EP2330/33/CINZA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_910256-MLA99930308533_112025-F.webp"
       },
       {
-        "name": "ULT200",
-        "brand": "Ultra",
-        "detailedModel": "ULT200",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_922453-MLA91982845791_092025-F.webp"
+        "name": "Dolce Crema",
+        "brand": "Mondial",
+        "detailedModel": "Espresso Dolce Crema",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_935625-MLA99525311366_122025-F.webp"
       },
       {
-        "name": "24GS60F-B",
-        "brand": "LG",
-        "detailedModel": "24GS60F-B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_672627-MLA104455014957_012026-F.webp"
+        "name": "Insta Coffee Portátil",
+        "brand": "Neonway",
+        "detailedModel": "Insta Coffee",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_890274-MLB101805056037_122025-F-cafeteira-portatil-eletrica-display-digital-capsulas-e-po.webp"
       },
       {
-        "name": "BM19K4HVW",
-        "brand": "Bluecase",
-        "detailedModel": "BM19K4HVW",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_780207-MLA100070978565_122025-F.webp"
+        "name": "Supreme Touch",
+        "brand": "Gradiente",
+        "detailedModel": "PGCA012",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_875228-MLA99957147193_112025-F.webp"
       },
       {
-        "name": "MW21V",
-        "brand": "Fmaxx",
-        "detailedModel": "MW21V",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_738952-MLA99558122010_122025-F.webp"
+        "name": "PCF04A",
+        "brand": "Philco",
+        "detailedModel": "PCF04A",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_815034-MLA99531483428_122025-F.webp"
       },
       {
-        "name": "MQ19V",
-        "brand": "Fmaxx",
-        "detailedModel": "MQ19V",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_631062-MLA99414535008_112025-F.webp"
+        "name": "CMM15P",
+        "brand": "Midea",
+        "detailedModel": "CMM15P",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_604516-MLA100072586257_122025-F.webp"
       },
       {
-        "name": "VX190X",
-        "brand": "VXpro",
-        "detailedModel": "VX190X",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_828320-MLA99948248207_112025-F.webp"
+        "name": "WCM20",
+        "brand": "Wap",
+        "detailedModel": "WCM20",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_910521-MLA100072886333_122025-F.webp"
       },
       {
-        "name": "27G4/P",
-        "brand": "AOC",
-        "detailedModel": "27G4/P",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_652244-MLA99448900052_112025-F.webp"
+        "name": "EP1220",
+        "brand": "Philips Walita",
+        "detailedModel": "EP1220/02",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_968593-MLA99502704490_112025-F.webp"
       },
       {
-        "name": "MK241Y",
-        "brand": "Acer",
-        "detailedModel": "MK241Y FLT",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_739717-MLA97428488825_112025-F.webp"
+        "name": "CAF230",
+        "brand": "Cadence",
+        "detailedModel": "CAF230",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_995719-MLA99443401184_112025-F.webp"
       },
       {
-        "name": "P2425H",
-        "brand": "Dell",
-        "detailedModel": "P2425H",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_966189-MLA99465976046_112025-F.webp"
+        "name": "PGCA012",
+        "brand": "Gradiente",
+        "detailedModel": "PGCA012",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_646340-MLA99443347984_112025-F.webp"
       },
       {
-        "name": "CQ32G4E",
-        "brand": "AOC",
-        "detailedModel": "CQ32G4E",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_847859-MLA94128239876_102025-F.webp"
+        "name": "Latte Easy",
+        "brand": "Gradiente",
+        "detailedModel": "Easy Latte Touch",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_898589-MLA81450489289_122024-F.webp"
       },
       {
-        "name": "25G64",
-        "brand": "TCL",
-        "detailedModel": "25G64",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_723939-MLA103720530496_012026-F.webp"
+        "name": "Café Expresso 3 em 1",
+        "brand": "Sokany",
+        "detailedModel": "Café Expresso 3 em 1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_739373-MLA88408528483_072025-F.webp"
       },
       {
-        "name": "Odyssey G30",
-        "brand": "Samsung",
-        "detailedModel": "LS24BG300ELMZD",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_680360-MLA99954411375_112025-F.webp"
+        "name": "BrewStation Elite",
+        "brand": "Hamilton Beach",
+        "detailedModel": "48465",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_910347-MLA99525902094_122025-F.webp"
       },
       {
-        "name": "22MP410-B",
-        "brand": "LG",
-        "detailedModel": "22MP410-B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_890876-MLA99938471091_112025-F.webp"
+        "name": "KF440",
+        "brand": "Reaken",
+        "detailedModel": "KF440",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_931225-MLB101035199844_122025-F-cafeteira-eeletrica-automatica-55litro-industrial-de-110v.webp"
       },
       {
-        "name": "MWV23",
-        "brand": "ViewPro",
-        "detailedModel": "MWV23",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_605657-MLA102448595697_122025-F.webp"
+        "name": "Vertuo Pop",
+        "brand": "Nespresso",
+        "detailedModel": "GCV2 Azul Pacífico",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_745759-MLA99579135046_122025-F.webp"
       },
       {
-        "name": "KG241Y P3BIP",
-        "brand": "Acer",
-        "detailedModel": "KG241Y P3BIP",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_993160-MLA100033539815_122025-F.webp"
+        "name": "Genio S Basic",
+        "brand": "Arno",
+        "detailedModel": "DGS5",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_894567-MLA99958091989_112025-F.webp"
       },
       {
-        "name": "29WQ500-B",
-        "brand": "LG",
-        "detailedModel": "29WQ500-B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_863773-MLA96861169915_102025-F.webp"
+        "name": "Touch",
+        "brand": "3 Corações",
+        "detailedModel": "Touch",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_781367-MLA99502409904_112025-F.webp"
       },
       {
-        "name": "MTM-1022",
-        "brand": "Tomate",
-        "detailedModel": "MTM-1022",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_859574-MLA99963144335_112025-F.webp"
+        "name": "CE1100G",
+        "brand": "Black+Decker",
+        "detailedModel": "CE1100G-BR",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_804346-MLA100293778255_122025-F.webp"
       },
       {
-        "name": "24B35HM2",
-        "brand": "AOC",
-        "detailedModel": "24B35HM2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_858642-MLA99436181956_112025-F.webp"
+        "name": "To Go",
+        "brand": "Cadence",
+        "detailedModel": "CAF201-220",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_767246-MLA99938470317_112025-F.webp"
       },
       {
-        "name": "MM215169HV/BK",
-        "brand": "Mymax",
-        "detailedModel": "MM215169HV/BK",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_751240-MLA95645992288_102025-F.webp"
+        "name": "OCAF400",
+        "brand": "Oster",
+        "detailedModel": "OCAF400",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_837510-MLA99562217516_122025-F.webp"
       },
       {
-        "name": "Monitor Gamer",
-        "brand": "Antuvi",
-        "detailedModel": "Monitor Gamer Portátil 15.6",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_653941-MLB97526232737_112025-F.webp"
+        "name": "PCF20A",
+        "brand": "Philco",
+        "detailedModel": "PCF20A",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_692756-MLA99469873782_112025-F.webp"
       },
       {
-        "name": "D-MNS215",
-        "brand": "Grasep",
-        "detailedModel": "D-MNS215",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_830931-MLA99929758099_112025-F.webp"
+        "name": "CP30",
+        "brand": "Britânia",
+        "detailedModel": "CP30 Inox",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_934107-MLA99492672424_112025-F.webp"
       },
       {
-        "name": "MF27HS",
-        "brand": "Fmaxx",
-        "detailedModel": "MF27HS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_722831-MLA99509480460_112025-F.webp"
-      },
-      {
-        "name": "24M2N3200L",
-        "brand": "Philips",
-        "detailedModel": "24M2N3200L",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_904476-MLB95834540027_102025-F.webp"
-      },
-      {
-        "name": "LS27D300GALMZD",
-        "brand": "Samsung",
-        "detailedModel": "LS27D300GALMZD",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_946816-MLA99885422877_112025-F.webp"
-      },
-      {
-        "name": "pc office gamer escritorio 19 20",
-        "brand": "Deutel",
-        "detailedModel": "pc office gamer escritorio 19 20",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_826907-MLB87243199140_072025-F.webp"
-      },
-      {
-        "name": "M200WHD",
-        "brand": "3Green",
-        "detailedModel": "M200WHD",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_664667-MLA100025262889_122025-F.webp"
+        "name": "Mini Me",
+        "brand": "Nescafé Dolce Gusto",
+        "detailedModel": "Mini Me Preta 220v",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_626577-MLA99520084810_112025-F.webp"
       }
     ],
     "caixas-de-som": [
@@ -555,162 +707,770 @@
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_748325-MLA95379123655_102025-F.webp"
       }
     ],
-    "gpus": [
+    "cameras-de-seguranca": [
       {
-        "name": "GTX 1050 Ti 4GB",
-        "brand": "Arktek",
-        "detailedModel": "GTX 1050 Ti 4GB GDDR5",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_881331-MLA99924157499_112025-F.webp"
+        "name": "Speed Dome A8",
+        "brand": "HW",
+        "detailedModel": "A8",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_901090-MLA99414404486_112025-F.webp"
       },
       {
-        "name": "RTX 5060 8GB Dual",
-        "brand": "Asus",
-        "detailedModel": "ASUS Dual GeForce RTX 5060 8GB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_607744-MLA99993401063_112025-F.webp"
+        "name": "P11",
+        "brand": "Haixia",
+        "detailedModel": "P11",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_723587-MLA100061228309_122025-F.webp"
       },
       {
-        "name": "RX 6600 8GB",
-        "brand": "ASRock",
-        "detailedModel": "Asrock Challenger D RX 6600 8GB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_747052-MLA99593664434_122025-F.webp"
+        "name": "P11",
+        "brand": "Maxnova",
+        "detailedModel": "CÂMERA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_782896-MLA100202256389_122025-F.webp"
       },
       {
-        "name": "GeForce RTX 3050 Ventus 2X 6G OC",
-        "brand": "MSI",
-        "detailedModel": "MSI GeForce RTX 3050 Ventus 2X 6G OC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_984252-MLA99367775990_112025-F.webp"
+        "name": "A28-2",
+        "brand": "Casenn",
+        "detailedModel": "A28-2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_635583-MLA100019457791_122025-F.webp"
       },
       {
-        "name": "RTX5060 8GB Black GF 1-click OC",
-        "brand": "Galax",
-        "detailedModel": "GPU NV RTX5060 56NSN8MDDCOC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_612266-MLA99853797913_112025-F.webp"
+        "name": "Tapo TC40",
+        "brand": "TP-Link",
+        "detailedModel": "TC40",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_726365-MLA99937808493_112025-F.webp"
       },
       {
-        "name": "RTX 5060 8G VENTUS 2X OC",
-        "brand": "MSI",
-        "detailedModel": "VENTUS 2X OC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_650282-MLA99983922195_112025-F.webp"
+        "name": "DS-2CD1027G2H-LIU",
+        "brand": "Hikvision",
+        "detailedModel": "DS-2CD1027G2H-LIU",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_860013-MLA99442461316_112025-F.webp"
       },
       {
-        "name": "RX580/8G",
-        "brand": "Revenger",
-        "detailedModel": "RX580/8G",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_738847-MLA99935835563_112025-F.webp"
+        "name": "E27",
+        "brand": "Smart",
+        "detailedModel": "E27",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_928765-MLA95692105396_102025-F.webp"
       },
       {
-        "name": "GeForce GT 730",
-        "brand": "Revenger",
-        "detailedModel": "GeForce GT 730 4GB DDR3",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_969881-MLA99509684880_112025-F.webp"
+        "name": "8176QJ",
+        "brand": "Genérica",
+        "detailedModel": "Wifi smart camara",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_652067-MLU77376056921_072024-F.webp"
       },
       {
-        "name": "RTX 3060 Black Edition",
-        "brand": "Zotac",
-        "detailedModel": "ZT-A30600E-10M 12GB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_772818-MLA95686191972_102025-F.webp"
+        "name": "VIPW 1300 Mini SD 3MP FC",
+        "brand": "Intelbras",
+        "detailedModel": "VIPW 1300 Mini SD 3MP FC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_975289-MLA81201625064_122024-F.webp"
       },
       {
-        "name": "RTX 5060 Windforce OC",
-        "brand": "Gigabyte",
-        "detailedModel": "GV-N5060WF2OC-8GB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_844442-MLA99993573853_112025-F.webp"
+        "name": "A8",
+        "brand": "iCSee",
+        "detailedModel": "A8",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_855866-MLA96126735431_102025-F.webp"
       },
       {
-        "name": "RTX 5060 Ti Shadow 2X OC Plus",
-        "brand": "MSI",
-        "detailedModel": "GPU NV RTX5060TI 912-V535-029",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_688267-MLA99580504460_122025-F.webp"
+        "name": "Tomada",
+        "brand": "Nixzen",
+        "detailedModel": "Câmera de Segurança Tomada",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_827133-MLA95700031444_102025-F.webp"
       },
       {
-        "name": "RX 7600 Gaming OC",
-        "brand": "Gigabyte",
-        "detailedModel": "GV-R76GAMING OC-8GD",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_952013-MLA99504935766_112025-F.webp"
+        "name": "A28B Dupla Lente",
+        "brand": "HW",
+        "detailedModel": "A28B Dupla Lente",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_826421-MLA88399856933_072025-F.webp"
       },
       {
-        "name": "RX 580 8GB",
-        "brand": "Arktek",
-        "detailedModel": "Arktek Cyclops Radeon RX 580 8GB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_723882-MLA99498281270_112025-F.webp"
+        "name": "IPSKY2",
+        "brand": "JL Protec",
+        "detailedModel": "IPSKY2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_664063-MLA95676694362_102025-F.webp"
       },
       {
-        "name": "RX 560 4GB",
-        "brand": "Pcwinmax",
-        "detailedModel": "Pcwinmax Radeon RX 560 4GB GDDR5",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_978641-MLA100012312273_122025-F.webp"
+        "name": "VHD 3220 B Full Color",
+        "brand": "Intelbras",
+        "detailedModel": "VHD 3220 B Full Color",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_683246-MLB92661186247_092025-F.webp"
       },
       {
-        "name": "GTX 750 4GB",
-        "brand": "GeForce",
-        "detailedModel": "GeForce GTX 750 4GB GDDR5",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_920391-MLB96756918917_102025-F.webp"
+        "name": "iM5 SC",
+        "brand": "Intelbras",
+        "detailedModel": "iM5 SC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_651897-MLA99455126600_112025-F.webp"
       },
       {
-        "name": "GTX 750 4GB",
-        "brand": "GMOG",
-        "detailedModel": "GMOG GeForce GTX 750 4GB GDDR5",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_985878-MLA99510502007_112025-F.webp"
+        "name": "A9",
+        "brand": "Genérica",
+        "detailedModel": "A9",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_830347-MLA99601162526_122025-F.webp"
       },
       {
-        "name": "RX 9070 XT 16GB",
-        "brand": "ASRock",
-        "detailedModel": "ASRock AMD Radeon RX 9070 XT Steel Legend 16GB ARGB Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_736903-MLA99484759520_112025-F.webp"
+        "name": "CHINESEE-9697",
+        "brand": "Chinesee",
+        "detailedModel": "CHINESEE-9697",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_766795-MLA99517013764_112025-F.webp"
       },
       {
-        "name": "R5 230 2GB",
-        "brand": "Pcyes",
-        "detailedModel": "Pcyes Radeon R5 230 2GB DDR3 64 Bits",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_902434-MLA99491742764_112025-F.webp"
+        "name": "Lente Dupla Yoosee 9697",
+        "brand": "Chinesee",
+        "detailedModel": "CHINESEE-9697",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_766795-MLA99517013764_112025-F.webp"
       },
       {
-        "name": "RTX 5060 8GB",
-        "brand": "Gigabyte",
-        "detailedModel": "Gigabyte GeForce RTX 5060 Eagle Ice OC 8GB GDDR7",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_693636-MLA91571504368_092025-F.webp"
+        "name": "Mini Dome Full HD ABQ-A8",
+        "brand": "V Vianova Telecomunicações",
+        "detailedModel": "ABQ-A8",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_904387-MLA100033367861_122025-F.webp"
       },
       {
-        "name": "RTX 5060 Ti 8GB",
-        "brand": "MSI",
-        "detailedModel": "MSI GeForce RTX 5060 Ti Ventus 2X OC Plus 8GB GDDR7",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_654059-MLA99969943953_112025-F.webp"
+        "name": "iM6 Full Color",
+        "brand": "Intelbras",
+        "detailedModel": "iM6 Full Color",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_646896-MLA100008395327_122025-F.webp"
       },
       {
-        "name": "Quadro T400 4GB",
-        "brand": "PNY",
-        "detailedModel": "PNY Quadro T400 4GB GDDR6",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_869840-MLA99870231069_112025-F.webp"
+        "name": "SC-B3",
+        "brand": "It-Blue",
+        "detailedModel": "SC-B3",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_788850-MLA95698008684_102025-F.webp"
       },
       {
-        "name": "R5 230 2GB",
-        "brand": "Pcyes",
-        "detailedModel": "Pcyes Radeon R5 230 2GB GDDR3 160 Núcleos",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_760604-MLA99935514721_112025-F.webp"
+        "name": "A8 IP WiFi",
+        "brand": "Davely",
+        "detailedModel": "A8 IP WiFi",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_758660-MLA99463705568_112025-F.webp"
       },
       {
-        "name": "RTX 4060 8GB",
-        "brand": "PNY",
-        "detailedModel": "PNY GeForce RTX 4060 Verto OC 8GB GDDR6",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_936882-MLA99999000589_112025-F.webp"
+        "name": "THC-T127-LPS",
+        "brand": "Hikvision",
+        "detailedModel": "THC-T127-LPS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_974763-MLA99505476200_112025-F.webp"
       },
       {
-        "name": "RX 580 8GB",
-        "brand": "Arktek",
-        "detailedModel": "Arktek Cyclops Radeon RX 580 8GB GDDR5",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_723882-MLA99498281270_112025-F.webp"
+        "name": "Espiã",
+        "brand": "Camera wifi",
+        "detailedModel": "Espiã",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644652-MLA99571504368_122025-F.webp"
       },
       {
-        "name": "RX 580 8GB",
-        "brand": "Aitek",
-        "detailedModel": "Aitek DELTA Radeon RX 580 8GB GDDR5 256bit",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_927405-MLB83207446994_042025-F-placa-de-video-gamer-amd-radeon-rx580-hdmi-8gb-gddr5-256bit.webp"
+        "name": "YJ-A08",
+        "brand": "Haiz",
+        "detailedModel": "YJ-A08",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_979652-MLA99503752286_112025-F.webp"
       },
       {
-        "name": "GTX 1060 6GB",
-        "brand": "Winnfox",
-        "detailedModel": "Winnfox GeForce GTX 1060 6GB GDDR5 192bits",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778243-MLB91529114101_092025-F.webp"
+        "name": "Câmera 4K Lente Dupla",
+        "brand": "Monitoramento audio Alarme 360",
+        "detailedModel": "Câmera Cinza",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_650127-MLA105015636691_012026-F.webp"
+      },
+      {
+        "name": "Camera Externa Vigilância PTZ 360",
+        "brand": "Ip Camera Yoosee",
+        "detailedModel": "Camera Externa Vigilância Segurança IP Wifi Acesso Remoto Sem Fio Distância Panorâmica Motorizada PTZ 360 Alarme Detector Presença Infravermelho",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_624684-MLB89537698103_082025-F.webp"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "Hero12 Black",
+        "brand": "GoPro",
+        "detailedModel": "CHDHX-121-RW",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_730021-MLA99583122530_122025-F.webp"
+      },
+      {
+        "name": "Hero13 Black",
+        "brand": "GoPro",
+        "detailedModel": "CHDRB-133-RW",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_812111-MLA99929366063_112025-F.webp"
+      },
+      {
+        "name": "Max 360",
+        "brand": "GoPro",
+        "detailedModel": "CHDHZ-203-RW",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_979436-MLA100187145761_122025-F.webp"
+      },
+      {
+        "name": "Hero13 Black",
+        "brand": "GoPro",
+        "detailedModel": "CHDHX-131-RW",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_857219-MLA99391123950_112025-F.webp"
+      },
+      {
+        "name": "HERO 4K",
+        "brand": "GoPro",
+        "detailedModel": "CHDHF-131-AT",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_853997-MLA99870127093_112025-F.webp"
+      },
+      {
+        "name": "A6700",
+        "brand": "Sony",
+        "detailedModel": "ILCE-6700",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_686030-MLA99367373890_112025-F.webp"
+      },
+      {
+        "name": "A10 Body",
+        "brand": "SJCAM",
+        "detailedModel": "A10 Body",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_987173-MLA99581909802_122025-F.webp"
+      },
+      {
+        "name": "ZV-E10 II",
+        "brand": "Sony",
+        "detailedModel": "ILCE-ZVE10M2K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_659867-MLA100056280635_122025-F.webp"
+      },
+      {
+        "name": "Rebel T7",
+        "brand": "Canon",
+        "detailedModel": "EOS 2000D / Rebel T7",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_607413-MLA99473380696_112025-F.webp"
+      },
+      {
+        "name": "EOS R100",
+        "brand": "Canon",
+        "detailedModel": "EOS R100 with RF-S 18-45mm",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_682960-MLA99451136186_112025-F.webp"
+      },
+      {
+        "name": "BA-CAM215",
+        "brand": "Basike",
+        "detailedModel": "BA-CAM215",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_670436-MLB92100918634_092025-F-cmera-digital-4k-ultra-hd-64mp-com-zoom-af-tela-dupla.webp"
+      },
+      {
+        "name": "A7 IV",
+        "brand": "Sony",
+        "detailedModel": "ILCE-7M4/B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_628243-MLA99979900099_112025-F.webp"
+      },
+      {
+        "name": "ZV-E10",
+        "brand": "Sony",
+        "detailedModel": "ILCZVE10 / Lente 16-50mm",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_611746-MLA99455212054_112025-F.webp"
+      },
+      {
+        "name": "PYXIS 6K",
+        "brand": "Blackmagic Design",
+        "detailedModel": "CINECAMCPYXD60LFEF (Canon EF)",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_772451-MLA100037955413_122025-F.webp"
+      },
+      {
+        "name": "Osmo Nano",
+        "brand": "DJI",
+        "detailedModel": "Osmo Nano Standard 128GB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_823735-MLA105332811482_012026-F-camera-de-aco-dji-osmo-nano-standard-128gb-preto.webp"
+      },
+      {
+        "name": "Pocket Cinema 6K G2",
+        "brand": "Blackmagic Design",
+        "detailedModel": "CINECAMPOCHDEF6K2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_781541-MLA99400032662_112025-F.webp"
+      },
+      {
+        "name": "FX30",
+        "brand": "Sony",
+        "detailedModel": "ILME-FX30B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_990522-MLA99970863605_112025-F.webp"
+      },
+      {
+        "name": "H9R EIS",
+        "brand": "EKEN",
+        "detailedModel": "H9R",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_687100-MLB89833900752_082025-F.webp"
+      },
+      {
+        "name": "SJ4000",
+        "brand": "SJCAM",
+        "detailedModel": "SJ4000 WiFi",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_724448-MLA97395445796_112025-F.webp"
+      },
+      {
+        "name": "ZV-1",
+        "brand": "Sony",
+        "detailedModel": "DCZV1/B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_727909-MLA99468505172_112025-F.webp"
+      },
+      {
+        "name": "A7 III",
+        "brand": "Sony",
+        "detailedModel": "ILCE7M3K-B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_947684-MLA99402299766_112025-F.webp"
+      },
+      {
+        "name": "080-preta",
+        "brand": "Acrensly",
+        "detailedModel": "HD Digital Camera",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_675912-MLA100475729854_122025-F.webp"
+      }
+    ],
+    "cpus": [
+      {
+        "name": "Core i3-6100",
+        "brand": "Intel",
+        "detailedModel": "i3-6100",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_708440-MLA99473310232_112025-F.webp"
+      },
+      {
+        "name": "Core i3-550",
+        "brand": "Intel",
+        "detailedModel": "i3-550",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_767061-MLA99525926448_122025-F.webp"
+      },
+      {
+        "name": "Core i5-12400F",
+        "brand": "Intel",
+        "detailedModel": "i5-12400F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_702511-MLA99969847587_112025-F.webp"
+      },
+      {
+        "name": "Core i5-3570",
+        "brand": "Intel",
+        "detailedModel": "i5-3570",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_720487-MLA99516839598_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 5600GT",
+        "brand": "AMD",
+        "detailedModel": "5600GT",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_975621-MLA99589746250_122025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 5500",
+        "brand": "AMD",
+        "detailedModel": "5500",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_806163-MLA99416647702_112025-F.webp"
+      },
+      {
+        "name": "Core i5-2400",
+        "brand": "Intel",
+        "detailedModel": "i5-2400",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_973234-MLA96061427502_102025-F.webp"
+      },
+      {
+        "name": "FX-4300",
+        "brand": "AMD",
+        "detailedModel": "4300",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_841234-MLA99932608425_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 7 5700",
+        "brand": "AMD",
+        "detailedModel": "5700",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_796826-MLA99992353565_112025-F.webp"
+      },
+      {
+        "name": "Core i3-8100",
+        "brand": "Intel",
+        "detailedModel": "i3-8100",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_613285-MLA99505520286_112025-F.webp"
+      },
+      {
+        "name": "Core i9-11900KF",
+        "brand": "Intel",
+        "detailedModel": "i9-11900KF",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_953420-MLA99464965208_112025-F.webp"
+      },
+      {
+        "name": "Core i7-14700F",
+        "brand": "Intel",
+        "detailedModel": "i7-14700F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_766312-MLA104778140766_012026-F.webp"
+      },
+      {
+        "name": "Ryzen 9 7900X",
+        "brand": "AMD",
+        "detailedModel": "7900X",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_618579-MLA99472299804_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 8400F",
+        "brand": "AMD",
+        "detailedModel": "8400F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_784158-MLA101785131978_122025-F.webp"
+      },
+      {
+        "name": "Core i9-11900F",
+        "brand": "Intel",
+        "detailedModel": "i9-11900F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_922246-MLA48892332019_012022-F.webp"
+      },
+      {
+        "name": "Core i3-2100",
+        "brand": "Intel",
+        "detailedModel": "i3-2100",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_966205-MLA44208661425_112020-F.webp"
+      },
+      {
+        "name": "Ryzen 5 8600G",
+        "brand": "AMD",
+        "detailedModel": "8600G",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_707101-MLA99455205676_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 7 7700X",
+        "brand": "AMD",
+        "detailedModel": "7700X",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_742266-MLA99578794952_122025-F.webp"
+      },
+      {
+        "name": "Ryzen 9 9900X3D",
+        "brand": "AMD",
+        "detailedModel": "9900X3D",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_855799-MLA99507213716_112025-F.webp"
+      },
+      {
+        "name": "Core i5-3470",
+        "brand": "Intel",
+        "detailedModel": "i5-3470",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_895214-MLA99510191120_112025-F.webp"
+      },
+      {
+        "name": "Core i5-14600KF",
+        "brand": "Intel",
+        "detailedModel": "i5-14600KF",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_871068-MLA99469890224_112025-F.webp"
+      },
+      {
+        "name": "Core i5-14400",
+        "brand": "Intel",
+        "detailedModel": "i5-14400",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_781930-MLA99998952937_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 7 7800X3D",
+        "brand": "AMD",
+        "detailedModel": "7800X3D",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_772047-MLA99415879120_112025-F.webp"
+      },
+      {
+        "name": "Core i5-10400",
+        "brand": "Intel",
+        "detailedModel": "i5-10400",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_861698-MLA91648259910_092025-F.webp"
+      },
+      {
+        "name": "Ryzen 7 9800X3D",
+        "brand": "AMD",
+        "detailedModel": "9800X3D",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_731713-MLA99495051775_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 7600",
+        "brand": "AMD",
+        "detailedModel": "7600",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_987231-MLA100064086037_122025-F.webp"
+      },
+      {
+        "name": "Core i3-12100F",
+        "brand": "Intel",
+        "detailedModel": "i3-12100F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_813184-MLA100025376007_122025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 7600X",
+        "brand": "AMD",
+        "detailedModel": "7600X",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_805082-MLA99484774608_112025-F.webp"
+      },
+      {
+        "name": "Core i5-3330",
+        "brand": "Intel",
+        "detailedModel": "i5-3330",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_790207-MLA99465015710_112025-F.webp"
+      },
+      {
+        "name": "Core i5-12400",
+        "brand": "Intel",
+        "detailedModel": "i5-12400",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_897007-MLA99584240318_122025-F.webp"
+      },
+      {
+        "name": "Core i7-12700F",
+        "brand": "Intel",
+        "detailedModel": "i7-12700F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_635854-MLA99934709337_112025-F.webp"
+      },
+      {
+        "name": "Athlon 3000G",
+        "brand": "AMD",
+        "detailedModel": "3000G",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_919236-MLA99479471016_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 9600X",
+        "brand": "AMD",
+        "detailedModel": "9600X",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_663745-MLA99988664359_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 5600",
+        "brand": "AMD",
+        "detailedModel": "5600",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_694892-MLA99468203890_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 5600T",
+        "brand": "AMD",
+        "detailedModel": "5600T",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970975-MLA100049329519_122025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 4500",
+        "brand": "AMD",
+        "detailedModel": "4500",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_967186-MLA99939114401_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 8500G",
+        "brand": "AMD",
+        "detailedModel": "8500G",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_844455-MLA99991964421_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 5 5600XT",
+        "brand": "AMD",
+        "detailedModel": "5600XT",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_701674-MLA99957303433_112025-F.webp"
+      },
+      {
+        "name": "Ryzen 3 3200G",
+        "brand": "AMD",
+        "detailedModel": "3200G",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_641806-MLA99527450778_122025-F.webp"
+      }
+    ],
+    "drones": [
+      {
+        "name": "Mini Drone E998 Pro",
+        "brand": "Genérica",
+        "detailedModel": "E998 Pro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_792056-MLA91557630696_092025-F.webp"
+      },
+      {
+        "name": "Drone Dji Neo 2 Fly More",
+        "brand": "DJI",
+        "detailedModel": "Neo 2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_683752-MLA99988796100_122025-F.webp"
+      },
+      {
+        "name": "Mini 5 Pro Fly More",
+        "brand": "DJI",
+        "detailedModel": "Mini 5 Pro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_788272-MLA99507690048_112025-F.webp"
+      },
+      {
+        "name": " Neo Dji051",
+        "brand": "DJI",
+        "detailedModel": "Neo",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_643112-MLA99937779871_112025-F.webp"
+      },
+      {
+        "name": "Drone Mini Pro GPS 2",
+        "brand": "Mostaz",
+        "detailedModel": "Mini Drone Pro GPS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_974939-MLA99533870508_122025-F.webp"
+      },
+      {
+        "name": " Air 3S",
+        "brand": "DJI",
+        "detailedModel": "Air 3S",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_840803-MLA99495348730_112025-F.webp"
+      },
+      {
+        "name": " Mini 4K Standard",
+        "brand": "DJI",
+        "detailedModel": "Mini 4K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_987308-MLA99478889674_112025-F.webp"
+      },
+      {
+        "name": "SJRC F22S Pro 2",
+        "brand": "SJRC",
+        "detailedModel": "F22S Pro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_999206-MLA99945643049_112025-F.webp"
+      },
+      {
+        "name": " Mini 3 Standard",
+        "brand": "DJI",
+        "detailedModel": "Mini 3",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_868898-MLA100002976127_112025-F.webp"
+      },
+      {
+        "name": "V88max",
+        "brand": "DLI",
+        "detailedModel": "V88max",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_788060-MLB102131128499_122025-F.webp"
+      },
+      {
+        "name": "Mini Drone Pro GPS",
+        "brand": "Mostaz",
+        "detailedModel": "Mini Drone Pro GPS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_974939-MLA99533870508_122025-F.webp"
+      },
+      {
+        "name": "E88",
+        "brand": "DLI",
+        "detailedModel": "E88",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_806100-MLB99452488721_112025-F-mini-drone-e88-profissionals-barata-cmeras-fotografia-aerea.webp"
+      },
+      {
+        "name": "M3 Max",
+        "brand": "DLI",
+        "detailedModel": "M3 Max",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_874576-MLB94307812890_102025-F.webp"
+      },
+      {
+        "name": "Drone E88",
+        "brand": "Iigenai",
+        "detailedModel": "GN-310",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_759185-MLA99915281325_112025-F.webp"
+      },
+      {
+        "name": "Mini Drone GT3",
+        "brand": "Mijia",
+        "detailedModel": "GT3",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_938143-MLA100688152450_122025-F.webp"
+      },
+      {
+        "name": "Drone GT8",
+        "brand": "IIGENAI STORE",
+        "detailedModel": "GN-508",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_915393-MLA97978612113_112025-F.webp"
+      },
+      {
+        "name": "Mini 3 DJI RC",
+        "brand": "DJI",
+        "detailedModel": "Mini 3",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_940104-MLA105469160271_012026-F.webp"
+      },
+      {
+        "name": "Mini 3 Fly More Combo RC",
+        "brand": "DJI",
+        "detailedModel": "Mini 3 RC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_691373-MLA100073962015_122025-F.webp"
+      },
+      {
+        "name": "S2S Profissional",
+        "brand": "Genai",
+        "detailedModel": "LS-S2S",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_880606-MLA98658828201_112025-F.webp"
+      },
+      {
+        "name": "Drone ZD012 Profissional",
+        "brand": "IIsank",
+        "detailedModel": "GN-512",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_666327-MLB104123937587_012026-F.webp"
+      },
+      {
+        "name": "Drone E99 4k",
+        "brand": "DLI",
+        "detailedModel": "E99",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_724125-MLA99523584644_122025-F.webp"
+      },
+      {
+        "name": "Mini Drone E88",
+        "brand": "DLI",
+        "detailedModel": "E88",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_806100-MLB99452488721_112025-F-mini-drone-e88-profissionals-barata-cmeras-fotografia-aerea.webp"
+      },
+      {
+        "name": "Drone E99 4k",
+        "brand": "DLI",
+        "detailedModel": "E99",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_665964-MLA99447787764_112025-F.webp"
+      }
+    ],
+    "fechaduras": [
+      {
+        "name": "FR 201",
+        "brand": "Intelbras",
+        "detailedModel": "FR 201",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_620656-MLA99989546237_112025-F.webp"
+      },
+      {
+        "name": "FR 101",
+        "brand": "Intelbras",
+        "detailedModel": "FR 101",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_751871-MLA99990333799_112025-F.webp"
+      },
+      {
+        "name": "Smart Fechadura de Sobrepor",
+        "brand": "Positivo",
+        "detailedModel": "Smart Fechadura de Sobrepor",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_944989-MLA96514629767_102025-F.webp"
+      },
+      {
+        "name": "Tetra 1800/21",
+        "brand": "Stam",
+        "detailedModel": "Tetra 1800/21",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_658377-MLA99499826032_112025-F.webp"
+      },
+      {
+        "name": "Ark Max",
+        "brand": "LAZORO",
+        "detailedModel": "Ark Max",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_787439-MLA104930046625_012026-F.webp"
+      },
+      {
+        "name": "News Security",
+        "brand": "Homefy",
+        "detailedModel": "News Security",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_903737-MLA101265585568_122025-F.webp"
+      },
+      {
+        "name": "823/35",
+        "brand": "Stam",
+        "detailedModel": "823/35",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_741351-MLB92248202672_092025-F.webp"
+      },
+      {
+        "name": "Delta PRO",
+        "brand": "Kuanttum",
+        "detailedModel": "Delta PRO",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_976860-MLA99991328859_112025-F.webp"
+      },
+      {
+        "name": "Fechadura Digital Inteligente",
+        "brand": "Tensky",
+        "detailedModel": "N016",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_896660-MLA105444641395_012026-F.webp"
+      },
+      {
+        "name": "SL150",
+        "brand": "Papaiz",
+        "detailedModel": "SL150",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_608260-MLA99525272664_122025-F.webp"
+      },
+      {
+        "name": "A8/L6",
+        "brand": "Entersec",
+        "detailedModel": "A8/L6",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644348-MLA104000767089_012026-F.webp"
+      },
+      {
+        "name": "Athenas Digital Smart Vidro",
+        "brand": "Primebras",
+        "detailedModel": "Athenas Digital Smart Vidro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_737580-MLA99505242960_112025-F.webp"
+      },
+      {
+        "name": "SDD200",
+        "brand": "Silvana",
+        "detailedModel": "SDD200",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_976359-MLA100041206807_122025-F.webp"
+      },
+      {
+        "name": "Ultra Ajustável",
+        "brand": "AGL",
+        "detailedModel": "Ultra Ajustável",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_705289-MLA99406866502_112025-F.webp"
+      },
+      {
+        "name": "FR 102",
+        "brand": "Intelbras",
+        "detailedModel": "FR 102",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_602779-MLA99373435896_112025-F.webp"
       }
     ],
     "fones-de-ouvido": [
@@ -943,250 +1703,6 @@
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_859744-MLA99926384949_112025-F.webp"
       }
     ],
-    "drones": [
-      {
-        "name": "Mini Drone E998 Pro",
-        "brand": "Genérica",
-        "detailedModel": "E998 Pro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_792056-MLA91557630696_092025-F.webp"
-      },
-      {
-        "name": "Drone Dji Neo 2 Fly More",
-        "brand": "DJI",
-        "detailedModel": "Neo 2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_683752-MLA99988796100_122025-F.webp"
-      },
-      {
-        "name": "Mini 5 Pro Fly More",
-        "brand": "DJI",
-        "detailedModel": "Mini 5 Pro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_788272-MLA99507690048_112025-F.webp"
-      },
-      {
-        "name": " Neo Dji051",
-        "brand": "DJI",
-        "detailedModel": "Neo",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_643112-MLA99937779871_112025-F.webp"
-      },
-      {
-        "name": "Drone Mini Pro GPS 2",
-        "brand": "Mostaz",
-        "detailedModel": "Mini Drone Pro GPS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_974939-MLA99533870508_122025-F.webp"
-      },
-      {
-        "name": " Air 3S",
-        "brand": "DJI",
-        "detailedModel": "Air 3S",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_840803-MLA99495348730_112025-F.webp"
-      },
-      {
-        "name": " Mini 4K Standard",
-        "brand": "DJI",
-        "detailedModel": "Mini 4K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_987308-MLA99478889674_112025-F.webp"
-      },
-      {
-        "name": "SJRC F22S Pro 2",
-        "brand": "SJRC",
-        "detailedModel": "F22S Pro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_999206-MLA99945643049_112025-F.webp"
-      },
-      {
-        "name": " Mini 3 Standard",
-        "brand": "DJI",
-        "detailedModel": "Mini 3",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_868898-MLA100002976127_112025-F.webp"
-      },
-      {
-        "name": "V88max",
-        "brand": "DLI",
-        "detailedModel": "V88max",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_788060-MLB102131128499_122025-F.webp"
-      },
-      {
-        "name": "Mini Drone Pro GPS",
-        "brand": "Mostaz",
-        "detailedModel": "Mini Drone Pro GPS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_974939-MLA99533870508_122025-F.webp"
-      },
-      {
-        "name": "E88",
-        "brand": "DLI",
-        "detailedModel": "E88",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_806100-MLB99452488721_112025-F-mini-drone-e88-profissionals-barata-cmeras-fotografia-aerea.webp"
-      },
-      {
-        "name": "M3 Max",
-        "brand": "DLI",
-        "detailedModel": "M3 Max",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_874576-MLB94307812890_102025-F.webp"
-      },
-      {
-        "name": "Drone E88",
-        "brand": "Iigenai",
-        "detailedModel": "GN-310",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_759185-MLA99915281325_112025-F.webp"
-      },
-      {
-        "name": "Mini Drone GT3",
-        "brand": "Mijia",
-        "detailedModel": "GT3",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_938143-MLA100688152450_122025-F.webp"
-      },
-      {
-        "name": "Drone GT8",
-        "brand": "IIGENAI STORE",
-        "detailedModel": "GN-508",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_915393-MLA97978612113_112025-F.webp"
-      },
-      {
-        "name": "Mini 3 DJI RC",
-        "brand": "DJI",
-        "detailedModel": "Mini 3",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_940104-MLA105469160271_012026-F.webp"
-      },
-      {
-        "name": "Mini 3 Fly More Combo RC",
-        "brand": "DJI",
-        "detailedModel": "Mini 3 RC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_691373-MLA100073962015_122025-F.webp"
-      },
-      {
-        "name": "S2S Profissional",
-        "brand": "Genai",
-        "detailedModel": "LS-S2S",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_880606-MLA98658828201_112025-F.webp"
-      },
-      {
-        "name": "Drone ZD012 Profissional",
-        "brand": "IIsank",
-        "detailedModel": "GN-512",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_666327-MLB104123937587_012026-F.webp"
-      },
-      {
-        "name": "Drone E99 4k",
-        "brand": "DLI",
-        "detailedModel": "E99",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_724125-MLA99523584644_122025-F.webp"
-      },
-      {
-        "name": "Mini Drone E88",
-        "brand": "DLI",
-        "detailedModel": "E88",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_806100-MLB99452488721_112025-F-mini-drone-e88-profissionals-barata-cmeras-fotografia-aerea.webp"
-      },
-      {
-        "name": "Drone E99 4k",
-        "brand": "DLI",
-        "detailedModel": "E99",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_665964-MLA99447787764_112025-F.webp"
-      }
-    ],
-    "mouses": [
-      {
-        "name": "RF-600B",
-        "brand": "Davely",
-        "detailedModel": "RF-600B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_629898-MLA95373568293_102025-F.webp"
-      },
-      {
-        "name": "MMouse-02",
-        "brand": "Maxnova",
-        "detailedModel": "MMouse-02",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_897908-MLA99588739122_122025-F.webp"
-      },
-      {
-        "name": "150",
-        "brand": "HP",
-        "detailedModel": "240J6AA#ABM",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_639791-MLA100067533849_122025-F.webp"
-      },
-      {
-        "name": "MS-G270",
-        "brand": "Exbom Mouse Gamer",
-        "detailedModel": "MS-G270",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_761965-MLB99038892474_112025-F.webp"
-      },
-      {
-        "name": "MS-26BK",
-        "brand": "RHEAD",
-        "detailedModel": "MS-26BK",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_882395-MLA104896814763_012026-F.webp"
-      },
-      {
-        "name": "ARS00000184",
-        "brand": "Casenn",
-        "detailedModel": "ARS00000184",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_877607-MLA100088181885_122025-F.webp"
-      },
-      {
-        "name": "King Pro M916-PRO-1K",
-        "brand": "Redragon",
-        "detailedModel": "M916-PRO-1K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_789229-MLA99454988196_112025-F.webp"
-      },
-      {
-        "name": "MO307",
-        "brand": "Multilaser",
-        "detailedModel": "MO307",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_683864-MLA100085830469_122025-F.webp"
-      },
-      {
-        "name": "200",
-        "brand": "HP",
-        "detailedModel": "X6W31AA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_853463-MLA99517621875_112025-F.webp"
-      },
-      {
-        "name": "X11",
-        "brand": "Attack Shark",
-        "detailedModel": "X11",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_606816-MLA99489775010_112025-F.webp"
-      },
-      {
-        "name": "G502 HERO",
-        "brand": "Logitech G",
-        "detailedModel": "Logitech G502 Hero Negro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_817277-MLA99445321906_112025-F.webp"
-      },
-      {
-        "name": "WM126",
-        "brand": "Dell",
-        "detailedModel": "WM126",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_684561-MLA99934744653_112025-F.webp"
-      },
-      {
-        "name": "G403 HERO",
-        "brand": "Logitech G",
-        "detailedModel": "G403 HERO",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_868248-MLA99454511918_112025-F.webp"
-      },
-      {
-        "name": "M240 Silent",
-        "brand": "Logitech",
-        "detailedModel": "910-007113",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778492-MLA99453781010_112025-F.webp"
-      },
-      {
-        "name": "MX Vertical",
-        "brand": "Logitech",
-        "detailedModel": "MX Vertical Advanced Ergonomic Mouse",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_926785-MLA99858509739_112025-F.webp"
-      },
-      {
-        "name": "MS-62",
-        "brand": "Exbom",
-        "detailedModel": "MS-62",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_643584-MLB91919452516_092025-F.webp"
-      },
-      {
-        "name": "Vertix",
-        "brand": "APFER",
-        "detailedModel": "APM-V500",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_869466-MLA100026509347_122025-F.webp"
-      }
-    ],
     "geladeiras": [
       {
         "name": "Frost Free Duplex 473L Inverter",
@@ -1261,22 +1777,10 @@
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_983664-MLA99542762678_122025-F.webp"
       },
       {
-        "name": "CRC04AB",
-        "brand": "Consul",
-        "detailedModel": "CRC04AB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_734473-MLA99454489430_112025-F.webp"
-      },
-      {
         "name": "QRD02B2W",
         "brand": "CHiQ",
         "detailedModel": "QRD02B2W",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_780732-MLA99493020690_112025-F.webp"
-      },
-      {
-        "name": "CRC04AB",
-        "brand": "Consul",
-        "detailedModel": "CRC04AB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_787051-MLA99939118877_112025-F.webp"
       },
       {
         "name": "PFG50B",
@@ -1285,28 +1789,242 @@
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_610482-MLA99501585816_112025-F.webp"
       },
       {
-        "name": "CRC04AB",
-        "brand": "Consul",
-        "detailedModel": "CRC04AB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_734473-MLA99454489430_112025-F.webp"
-      },
-      {
         "name": "PFG85P",
         "brand": "Philco",
         "detailedModel": "PFG85P",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_966826-MLA99455772272_112025-F.webp"
       },
       {
-        "name": "PFG50B",
-        "brand": "Philco",
-        "detailedModel": "PFG50B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_888170-MLA99577792896_122025-F.webp"
-      },
-      {
         "name": "MDRD142FGD013",
         "brand": "Midea",
         "detailedModel": "MDRD142FGD013",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_955089-MLA99941125037_112025-F.webp"
+      }
+    ],
+    "gpus": [
+      {
+        "name": "GTX 1050 Ti 4GB",
+        "brand": "Arktek",
+        "detailedModel": "GTX 1050 Ti 4GB GDDR5",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_881331-MLA99924157499_112025-F.webp"
+      },
+      {
+        "name": "RTX 5060 8GB Dual",
+        "brand": "Asus",
+        "detailedModel": "ASUS Dual GeForce RTX 5060 8GB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_607744-MLA99993401063_112025-F.webp"
+      },
+      {
+        "name": "RX 6600 8GB",
+        "brand": "ASRock",
+        "detailedModel": "Asrock Challenger D RX 6600 8GB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_747052-MLA99593664434_122025-F.webp"
+      },
+      {
+        "name": "GeForce RTX 3050 Ventus 2X 6G OC",
+        "brand": "MSI",
+        "detailedModel": "MSI GeForce RTX 3050 Ventus 2X 6G OC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_984252-MLA99367775990_112025-F.webp"
+      },
+      {
+        "name": "RTX5060 8GB Black GF 1-click OC",
+        "brand": "Galax",
+        "detailedModel": "GPU NV RTX5060 56NSN8MDDCOC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_612266-MLA99853797913_112025-F.webp"
+      },
+      {
+        "name": "RTX 5060 8G VENTUS 2X OC",
+        "brand": "MSI",
+        "detailedModel": "VENTUS 2X OC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_650282-MLA99983922195_112025-F.webp"
+      },
+      {
+        "name": "RX580/8G",
+        "brand": "Revenger",
+        "detailedModel": "RX580/8G",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_738847-MLA99935835563_112025-F.webp"
+      },
+      {
+        "name": "GeForce GT 730",
+        "brand": "Revenger",
+        "detailedModel": "GeForce GT 730 4GB DDR3",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_969881-MLA99509684880_112025-F.webp"
+      },
+      {
+        "name": "RTX 3060 Black Edition",
+        "brand": "Zotac",
+        "detailedModel": "ZT-A30600E-10M 12GB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_772818-MLA95686191972_102025-F.webp"
+      },
+      {
+        "name": "RTX 5060 Windforce OC",
+        "brand": "Gigabyte",
+        "detailedModel": "GV-N5060WF2OC-8GB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_844442-MLA99993573853_112025-F.webp"
+      },
+      {
+        "name": "RTX 5060 Ti Shadow 2X OC Plus",
+        "brand": "MSI",
+        "detailedModel": "GPU NV RTX5060TI 912-V535-029",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_688267-MLA99580504460_122025-F.webp"
+      },
+      {
+        "name": "RX 7600 Gaming OC",
+        "brand": "Gigabyte",
+        "detailedModel": "GV-R76GAMING OC-8GD",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_952013-MLA99504935766_112025-F.webp"
+      },
+      {
+        "name": "RX 580 8GB",
+        "brand": "Arktek",
+        "detailedModel": "Arktek Cyclops Radeon RX 580 8GB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_723882-MLA99498281270_112025-F.webp"
+      },
+      {
+        "name": "RX 560 4GB",
+        "brand": "Pcwinmax",
+        "detailedModel": "Pcwinmax Radeon RX 560 4GB GDDR5",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_978641-MLA100012312273_122025-F.webp"
+      },
+      {
+        "name": "GTX 750 4GB",
+        "brand": "GeForce",
+        "detailedModel": "GeForce GTX 750 4GB GDDR5",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_920391-MLB96756918917_102025-F.webp"
+      },
+      {
+        "name": "GTX 750 4GB",
+        "brand": "GMOG",
+        "detailedModel": "GMOG GeForce GTX 750 4GB GDDR5",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_985878-MLA99510502007_112025-F.webp"
+      },
+      {
+        "name": "RX 9070 XT 16GB",
+        "brand": "ASRock",
+        "detailedModel": "ASRock AMD Radeon RX 9070 XT Steel Legend 16GB ARGB Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_736903-MLA99484759520_112025-F.webp"
+      },
+      {
+        "name": "R5 230 2GB",
+        "brand": "Pcyes",
+        "detailedModel": "Pcyes Radeon R5 230 2GB DDR3 64 Bits",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_902434-MLA99491742764_112025-F.webp"
+      },
+      {
+        "name": "RTX 5060 8GB",
+        "brand": "Gigabyte",
+        "detailedModel": "Gigabyte GeForce RTX 5060 Eagle Ice OC 8GB GDDR7",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_693636-MLA91571504368_092025-F.webp"
+      },
+      {
+        "name": "RTX 5060 Ti 8GB",
+        "brand": "MSI",
+        "detailedModel": "MSI GeForce RTX 5060 Ti Ventus 2X OC Plus 8GB GDDR7",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_654059-MLA99969943953_112025-F.webp"
+      },
+      {
+        "name": "Quadro T400 4GB",
+        "brand": "PNY",
+        "detailedModel": "PNY Quadro T400 4GB GDDR6",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_869840-MLA99870231069_112025-F.webp"
+      },
+      {
+        "name": "R5 230 2GB",
+        "brand": "Pcyes",
+        "detailedModel": "Pcyes Radeon R5 230 2GB GDDR3 160 Núcleos",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_760604-MLA99935514721_112025-F.webp"
+      },
+      {
+        "name": "RTX 4060 8GB",
+        "brand": "PNY",
+        "detailedModel": "PNY GeForce RTX 4060 Verto OC 8GB GDDR6",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_936882-MLA99999000589_112025-F.webp"
+      },
+      {
+        "name": "RX 580 8GB",
+        "brand": "Aitek",
+        "detailedModel": "Aitek DELTA Radeon RX 580 8GB GDDR5 256bit",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_927405-MLB83207446994_042025-F-placa-de-video-gamer-amd-radeon-rx580-hdmi-8gb-gddr5-256bit.webp"
+      },
+      {
+        "name": "GTX 1060 6GB",
+        "brand": "Winnfox",
+        "detailedModel": "Winnfox GeForce GTX 1060 6GB GDDR5 192bits",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778243-MLB91529114101_092025-F.webp"
+      }
+    ],
+    "impressoras": [
+      {
+        "name": "L6490",
+        "brand": "Epson",
+        "detailedModel": "L6490",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_859376-MLA99450654260_112025-F.webp"
+      },
+      {
+        "name": "DeskJet Ink Advantage 2874",
+        "brand": "HP",
+        "detailedModel": "2874",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_997367-MLA99927857041_112025-F.webp"
+      },
+      {
+        "name": "Smart Tank 584",
+        "brand": "HP",
+        "detailedModel": "584",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_961034-MLA99958290111_112025-F.webp"
+      },
+      {
+        "name": "EcoTank L3250",
+        "brand": "Epson",
+        "detailedModel": "C11CJ67301",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_867179-MLA99966959445_112025-F.webp"
+      },
+      {
+        "name": "ZD220",
+        "brand": "Zebra",
+        "detailedModel": "ZD220 (Substituta GC420T)",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_987750-MLA99959799225_112025-F.webp"
+      },
+      {
+        "name": "MP-4200 HS",
+        "brand": "Bematech",
+        "detailedModel": "MP-4200 HS (Substituta MP-4200 TH)",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_677350-MLA99451971144_112025-F.webp"
+      },
+      {
+        "name": "L4260",
+        "brand": "Epson",
+        "detailedModel": "EcoTank L4260",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_918837-MLA99991756367_112025-F.webp"
+      },
+      {
+        "name": "G3110",
+        "brand": "Canon",
+        "detailedModel": "Pixma G3110",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_611292-MLA99572305216_122025-F.webp"
+      },
+      {
+        "name": "L8050",
+        "brand": "Epson",
+        "detailedModel": "EcoTank L8050",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_726123-MCO53647298050_022023-F.webp"
+      },
+      {
+        "name": "Impressora Portátil Tatuagem",
+        "brand": "SZR",
+        "detailedModel": "Impressora Térmica Bluetooth A4 para Decalques",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_879163-MLB100313964296_122025-F-impressora-portatil-decalque-tatto-bluetooth-a4-ios-android.webp"
+      },
+      {
+        "name": "DCP-T530DW",
+        "brand": "Brother",
+        "detailedModel": "DCP-T530DW",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_649512-MLB93555727887_092025-F.webp"
+      },
+      {
+        "name": "Laser 107w",
+        "brand": "HP",
+        "detailedModel": "HP Laser 107w",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_991161-MLA99989981859_112025-F.webp"
       }
     ],
     "maquina-lavar-roupas": [
@@ -1363,12 +2081,6 @@
         "brand": "Midea",
         "detailedModel": "MA512W140/WK-05",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_750367-MLA99968694487_112025-F.webp"
-      },
-      {
-        "name": "LEC15",
-        "brand": "Electrolux",
-        "detailedModel": "LEC15",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_945463-MLA99483221950_112025-F.webp"
       },
       {
         "name": "LCS15",
@@ -1487,12 +2199,6 @@
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_628160-MLA99466162342_112025-F.webp"
       },
       {
-        "name": "MTO30",
-        "brand": "Electrolux",
-        "detailedModel": "10201PBA106",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_787358-MLA100187065347_122025-F.webp"
-      },
-      {
         "name": "CMS46",
         "brand": "Consul",
         "detailedModel": "CMS46ARANA",
@@ -1547,22 +2253,10 @@
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_975679-MLA96071769579_102025-F.webp"
       },
       {
-        "name": "ME36B",
-        "brand": "Electrolux",
-        "detailedModel": "ME36B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_871719-MLA99476767400_112025-F.webp"
-      },
-      {
         "name": "BMO23",
         "brand": "Britânia",
         "detailedModel": "BMO23",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_789419-MLA99992540327_112025-F.webp"
-      },
-      {
-        "name": "CMA20BB",
-        "brand": "Consul",
-        "detailedModel": "CMA20BBA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_859210-MLA100038122509_122025-F.webp"
       },
       {
         "name": "PMO42EB",
@@ -1577,22 +2271,10 @@
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_941067-MLA99452353582_112025-F.webp"
       },
       {
-        "name": "MHP20B1",
-        "brand": "Midea",
-        "detailedModel": "MHP20B1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_628160-MLA99466162342_112025-F.webp"
-      },
-      {
         "name": "NN-ST67L",
         "brand": "Panasonic",
         "detailedModel": "NN-ST67LSRUK",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_671575-MLA99509474864_112025-F.webp"
-      },
-      {
-        "name": "CMS46AB",
-        "brand": "Consul",
-        "detailedModel": "CMS46AB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_676017-MLA100033381819_122025-F.webp"
       },
       {
         "name": "MI41S",
@@ -1601,78 +2283,284 @@
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_737435-MLA99445404918_112025-F.webp"
       }
     ],
-    "impressoras": [
+    "monitores": [
       {
-        "name": "L6490",
-        "brand": "Epson",
-        "detailedModel": "L6490",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_859376-MLA99450654260_112025-F.webp"
+        "name": "S3",
+        "brand": "Samsung",
+        "detailedModel": "LS24D300GALMZD",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_931100-MLA99973037971_112025-F.webp"
       },
       {
-        "name": "DeskJet Ink Advantage 2874",
+        "name": "AC1025",
+        "brand": "Bettdow",
+        "detailedModel": "AC1025",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_767275-MLA99470531186_112025-F.webp"
+      },
+      {
+        "name": "221V8LB",
+        "brand": "Philips",
+        "detailedModel": "221V8LB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_725058-MLA99936607109_112025-F.webp"
+      },
+      {
+        "name": "ULT200",
+        "brand": "Ultra",
+        "detailedModel": "ULT200",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_922453-MLA91982845791_092025-F.webp"
+      },
+      {
+        "name": "24GS60F-B",
+        "brand": "LG",
+        "detailedModel": "24GS60F-B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_672627-MLA104455014957_012026-F.webp"
+      },
+      {
+        "name": "BM19K4HVW",
+        "brand": "Bluecase",
+        "detailedModel": "BM19K4HVW",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_780207-MLA100070978565_122025-F.webp"
+      },
+      {
+        "name": "MW21V",
+        "brand": "Fmaxx",
+        "detailedModel": "MW21V",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_738952-MLA99558122010_122025-F.webp"
+      },
+      {
+        "name": "MQ19V",
+        "brand": "Fmaxx",
+        "detailedModel": "MQ19V",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_631062-MLA99414535008_112025-F.webp"
+      },
+      {
+        "name": "VX190X",
+        "brand": "VXpro",
+        "detailedModel": "VX190X",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_828320-MLA99948248207_112025-F.webp"
+      },
+      {
+        "name": "27G4/P",
+        "brand": "AOC",
+        "detailedModel": "27G4/P",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_652244-MLA99448900052_112025-F.webp"
+      },
+      {
+        "name": "MK241Y",
+        "brand": "Acer",
+        "detailedModel": "MK241Y FLT",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_739717-MLA97428488825_112025-F.webp"
+      },
+      {
+        "name": "P2425H",
+        "brand": "Dell",
+        "detailedModel": "P2425H",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_966189-MLA99465976046_112025-F.webp"
+      },
+      {
+        "name": "CQ32G4E",
+        "brand": "AOC",
+        "detailedModel": "CQ32G4E",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_847859-MLA94128239876_102025-F.webp"
+      },
+      {
+        "name": "25G64",
+        "brand": "TCL",
+        "detailedModel": "25G64",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_723939-MLA103720530496_012026-F.webp"
+      },
+      {
+        "name": "Odyssey G30",
+        "brand": "Samsung",
+        "detailedModel": "LS24BG300ELMZD",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_680360-MLA99954411375_112025-F.webp"
+      },
+      {
+        "name": "22MP410-B",
+        "brand": "LG",
+        "detailedModel": "22MP410-B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_890876-MLA99938471091_112025-F.webp"
+      },
+      {
+        "name": "MWV23",
+        "brand": "ViewPro",
+        "detailedModel": "MWV23",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_605657-MLA102448595697_122025-F.webp"
+      },
+      {
+        "name": "KG241Y P3BIP",
+        "brand": "Acer",
+        "detailedModel": "KG241Y P3BIP",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_993160-MLA100033539815_122025-F.webp"
+      },
+      {
+        "name": "29WQ500-B",
+        "brand": "LG",
+        "detailedModel": "29WQ500-B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_863773-MLA96861169915_102025-F.webp"
+      },
+      {
+        "name": "MTM-1022",
+        "brand": "Tomate",
+        "detailedModel": "MTM-1022",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_859574-MLA99963144335_112025-F.webp"
+      },
+      {
+        "name": "24B35HM2",
+        "brand": "AOC",
+        "detailedModel": "24B35HM2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_858642-MLA99436181956_112025-F.webp"
+      },
+      {
+        "name": "MM215169HV/BK",
+        "brand": "Mymax",
+        "detailedModel": "MM215169HV/BK",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_751240-MLA95645992288_102025-F.webp"
+      },
+      {
+        "name": "Monitor Gamer",
+        "brand": "Antuvi",
+        "detailedModel": "Monitor Gamer Portátil 15.6",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_653941-MLB97526232737_112025-F.webp"
+      },
+      {
+        "name": "D-MNS215",
+        "brand": "Grasep",
+        "detailedModel": "D-MNS215",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_830931-MLA99929758099_112025-F.webp"
+      },
+      {
+        "name": "MF27HS",
+        "brand": "Fmaxx",
+        "detailedModel": "MF27HS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_722831-MLA99509480460_112025-F.webp"
+      },
+      {
+        "name": "24M2N3200L",
+        "brand": "Philips",
+        "detailedModel": "24M2N3200L",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_904476-MLB95834540027_102025-F.webp"
+      },
+      {
+        "name": "LS27D300GALMZD",
+        "brand": "Samsung",
+        "detailedModel": "LS27D300GALMZD",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_946816-MLA99885422877_112025-F.webp"
+      },
+      {
+        "name": "pc office gamer escritorio 19 20",
+        "brand": "Deutel",
+        "detailedModel": "pc office gamer escritorio 19 20",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_826907-MLB87243199140_072025-F.webp"
+      },
+      {
+        "name": "M200WHD",
+        "brand": "3Green",
+        "detailedModel": "M200WHD",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_664667-MLA100025262889_122025-F.webp"
+      }
+    ],
+    "mouses": [
+      {
+        "name": "RF-600B",
+        "brand": "Davely",
+        "detailedModel": "RF-600B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_629898-MLA95373568293_102025-F.webp"
+      },
+      {
+        "name": "MMouse-02",
+        "brand": "Maxnova",
+        "detailedModel": "MMouse-02",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_897908-MLA99588739122_122025-F.webp"
+      },
+      {
+        "name": "150",
         "brand": "HP",
-        "detailedModel": "2874",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_997367-MLA99927857041_112025-F.webp"
+        "detailedModel": "240J6AA#ABM",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_639791-MLA100067533849_122025-F.webp"
       },
       {
-        "name": "Smart Tank 584",
+        "name": "MS-G270",
+        "brand": "Exbom Mouse Gamer",
+        "detailedModel": "MS-G270",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_761965-MLB99038892474_112025-F.webp"
+      },
+      {
+        "name": "MS-26BK",
+        "brand": "RHEAD",
+        "detailedModel": "MS-26BK",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_882395-MLA104896814763_012026-F.webp"
+      },
+      {
+        "name": "ARS00000184",
+        "brand": "Casenn",
+        "detailedModel": "ARS00000184",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_877607-MLA100088181885_122025-F.webp"
+      },
+      {
+        "name": "King Pro M916-PRO-1K",
+        "brand": "Redragon",
+        "detailedModel": "M916-PRO-1K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_789229-MLA99454988196_112025-F.webp"
+      },
+      {
+        "name": "MO307",
+        "brand": "Multilaser",
+        "detailedModel": "MO307",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_683864-MLA100085830469_122025-F.webp"
+      },
+      {
+        "name": "200",
         "brand": "HP",
-        "detailedModel": "584",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_961034-MLA99958290111_112025-F.webp"
+        "detailedModel": "X6W31AA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_853463-MLA99517621875_112025-F.webp"
       },
       {
-        "name": "EcoTank L3250",
-        "brand": "Epson",
-        "detailedModel": "C11CJ67301",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_867179-MLA99966959445_112025-F.webp"
+        "name": "X11",
+        "brand": "Attack Shark",
+        "detailedModel": "X11",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_606816-MLA99489775010_112025-F.webp"
       },
       {
-        "name": "ZD220",
-        "brand": "Zebra",
-        "detailedModel": "ZD220 (Substituta GC420T)",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_987750-MLA99959799225_112025-F.webp"
+        "name": "G502 HERO",
+        "brand": "Logitech G",
+        "detailedModel": "Logitech G502 Hero Negro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_817277-MLA99445321906_112025-F.webp"
       },
       {
-        "name": "MP-4200 HS",
-        "brand": "Bematech",
-        "detailedModel": "MP-4200 HS (Substituta MP-4200 TH)",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_677350-MLA99451971144_112025-F.webp"
+        "name": "WM126",
+        "brand": "Dell",
+        "detailedModel": "WM126",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_684561-MLA99934744653_112025-F.webp"
       },
       {
-        "name": "L4260",
-        "brand": "Epson",
-        "detailedModel": "EcoTank L4260",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_918837-MLA99991756367_112025-F.webp"
+        "name": "G403 HERO",
+        "brand": "Logitech G",
+        "detailedModel": "G403 HERO",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_868248-MLA99454511918_112025-F.webp"
       },
       {
-        "name": "G3110",
-        "brand": "Canon",
-        "detailedModel": "Pixma G3110",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_611292-MLA99572305216_122025-F.webp"
+        "name": "M240 Silent",
+        "brand": "Logitech",
+        "detailedModel": "910-007113",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778492-MLA99453781010_112025-F.webp"
       },
       {
-        "name": "L8050",
-        "brand": "Epson",
-        "detailedModel": "EcoTank L8050",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_726123-MCO53647298050_022023-F.webp"
+        "name": "MX Vertical",
+        "brand": "Logitech",
+        "detailedModel": "MX Vertical Advanced Ergonomic Mouse",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_926785-MLA99858509739_112025-F.webp"
       },
       {
-        "name": "Impressora Portátil Tatuagem",
-        "brand": "SZR",
-        "detailedModel": "Impressora Térmica Bluetooth A4 para Decalques",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_879163-MLB100313964296_122025-F-impressora-portatil-decalque-tatto-bluetooth-a4-ios-android.webp"
+        "name": "MS-62",
+        "brand": "Exbom",
+        "detailedModel": "MS-62",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_643584-MLB91919452516_092025-F.webp"
       },
       {
-        "name": "DCP-T530DW",
-        "brand": "Brother",
-        "detailedModel": "DCP-T530DW",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_649512-MLB93555727887_092025-F.webp"
-      },
-      {
-        "name": "Laser 107w",
-        "brand": "HP",
-        "detailedModel": "HP Laser 107w",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_991161-MLA99989981859_112025-F.webp"
+        "name": "Vertix",
+        "brand": "APFER",
+        "detailedModel": "APM-V500",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_869466-MLA100026509347_122025-F.webp"
       }
     ],
     "notebooks": [
@@ -1869,96 +2757,652 @@
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_715489-MLA96077708129_102025-F.webp"
       }
     ],
-    "fechaduras": [
+    "placas-mae": [
       {
-        "name": "FR 201",
-        "brand": "Intelbras",
-        "detailedModel": "FR 201",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_620656-MLA99989546237_112025-F.webp"
+        "name": "Prime A520M-K",
+        "brand": "ASUS",
+        "detailedModel": "Prime A520M-K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_725895-MLA99492459638_112025-F.webp"
       },
       {
-        "name": "FR 101",
-        "brand": "Intelbras",
-        "detailedModel": "FR 101",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_751871-MLA99990333799_112025-F.webp"
+        "name": "A520M-A PRO",
+        "brand": "MSI",
+        "detailedModel": "A520M-A PRO",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644232-MLA99455670876_112025-F.webp"
       },
       {
-        "name": "Smart Fechadura de Sobrepor",
-        "brand": "Positivo",
-        "detailedModel": "Smart Fechadura de Sobrepor",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_944989-MLA96514629767_102025-F.webp"
+        "name": "B550M AORUS ELITE",
+        "brand": "Gigabyte",
+        "detailedModel": "B550M AORUS ELITE",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_846714-MLA99464080574_112025-F.webp"
       },
       {
-        "name": "Tetra 1800/21",
-        "brand": "Stam",
-        "detailedModel": "Tetra 1800/21",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_658377-MLA99499826032_112025-F.webp"
+        "name": "A520M K V2",
+        "brand": "Gigabyte",
+        "detailedModel": "A520M K V2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_642824-MLA99375931234_112025-F.webp"
       },
       {
-        "name": "Ark Max",
-        "brand": "LAZORO",
-        "detailedModel": "Ark Max",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_787439-MLA104930046625_012026-F.webp"
+        "name": "G-H81/M",
+        "brand": "Revenger",
+        "detailedModel": "G-H81/M",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_799253-MLA99849372099_112025-F.webp"
       },
       {
-        "name": "News Security",
-        "brand": "Homefy",
-        "detailedModel": "News Security",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_903737-MLA101265585568_122025-F.webp"
+        "name": "TUF GAMING B550M-PLUS",
+        "brand": "ASUS",
+        "detailedModel": "TUF GAMING B550M-PLUS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_666926-MLA99989580013_112025-F.webp"
       },
       {
-        "name": "823/35",
-        "brand": "Stam",
-        "detailedModel": "823/35",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_741351-MLB92248202672_092025-F.webp"
+        "name": "BMBB75-G3HGU-M2 REV 2.0",
+        "brand": "Bluecase",
+        "detailedModel": "BMBB75-G3HGU-M2 REV 2.0",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_777364-MLA95948463718_102025-F.webp"
       },
       {
-        "name": "Delta PRO",
-        "brand": "Kuanttum",
-        "detailedModel": "Delta PRO",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_976860-MLA99991328859_112025-F.webp"
+        "name": "G-H310M",
+        "brand": "Revenger",
+        "detailedModel": "G-H310M",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_863351-MLA99371781378_112025-F.webp"
       },
       {
-        "name": "Fechadura Digital Inteligente",
-        "brand": "Tensky",
-        "detailedModel": "N016",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_896660-MLA105444641395_012026-F.webp"
+        "name": "PCYB75-3G16",
+        "brand": "PCyes",
+        "detailedModel": "PCYB75-3G16",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_826431-MLA99923154549_112025-F.webp"
       },
       {
-        "name": "SL150",
-        "brand": "Papaiz",
-        "detailedModel": "SL150",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_608260-MLA99525272664_122025-F.webp"
+        "name": "A520M-HVS",
+        "brand": "ASRock",
+        "detailedModel": "A520M-HVS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_600626-MLA100029063065_122025-F.webp"
       },
       {
-        "name": "A8/L6",
-        "brand": "Entersec",
-        "detailedModel": "A8/L6",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644348-MLA104000767089_012026-F.webp"
+        "name": "PRIME H610M-CS D4",
+        "brand": "ASUS",
+        "detailedModel": "PRIME H610M-CS D4",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_980365-MLA99979674343_112025-F.webp"
       },
       {
-        "name": "Athenas Digital Smart Vidro",
-        "brand": "Primebras",
-        "detailedModel": "Athenas Digital Smart Vidro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_737580-MLA99505242960_112025-F.webp"
+        "name": "B840M GAMING WIFI6E",
+        "brand": "MSI",
+        "detailedModel": "B840M GAMING WIFI6E",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_662912-MLA99945608233_112025-F.webp"
       },
       {
-        "name": "SDD200",
-        "brand": "Silvana",
-        "detailedModel": "SDD200",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_976359-MLA100041206807_122025-F.webp"
+        "name": "B450M-HDV R4.0",
+        "brand": "ASRock",
+        "detailedModel": "B450M-HDV R4.0",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_807217-MLA99527550222_122025-F.webp"
       },
       {
-        "name": "Ultra Ajustável",
-        "brand": "AGL",
-        "detailedModel": "Ultra Ajustável",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_705289-MLA99406866502_112025-F.webp"
+        "name": "Inspiron 3511 LA-L241P 05PD08",
+        "brand": "Dell",
+        "detailedModel": "LA-L241P (GDM50) com Core i3-1115G4",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_720573-MLB101916614601_122025-F.webp"
       },
       {
-        "name": "FR 102",
-        "brand": "Intelbras",
-        "detailedModel": "FR 102",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_602779-MLA99373435896_112025-F.webp"
+        "name": "H61 M2K",
+        "brand": "Delta",
+        "detailedModel": "H61 M2K Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_607154-MLA104217268306_012026-F.webp"
+      },
+      {
+        "name": "G-A320",
+        "brand": "Revenger",
+        "detailedModel": "G-A320",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_797275-MLA99586891118_122025-F.webp"
+      },
+      {
+        "name": "Ender-3 V3 Plus Motherboard",
+        "brand": "Creality",
+        "detailedModel": "Ender-3 V3 Plus Motherboard Kit",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_991610-MLB89673208513_082025-F-placa-me-impressora-3d-creality-k1-ender-3-v3-plus-original.webp"
+      },
+      {
+        "name": "KP-H61",
+        "brand": "Knup",
+        "detailedModel": "KP-H61",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_904324-MLA99480162034_112025-F.webp"
+      },
+      {
+        "name": "MPG B550 GAMING PLUS",
+        "brand": "MSI",
+        "detailedModel": "MPG B550 GAMING PLUS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_896276-MLA99986168285_112025-F.webp"
+      },
+      {
+        "name": "B550M K",
+        "brand": "Gigabyte",
+        "detailedModel": "B550M K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_768362-MLA99985597141_112025-F.webp"
+      },
+      {
+        "name": "B75 Gamer Black",
+        "brand": "Coretech",
+        "detailedModel": "B75 Gamer Black LGA1155",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_656719-MLB97528164116_112025-F.webp"
+      },
+      {
+        "name": "G-H61 Lan 100/1000 SlotM2",
+        "brand": "Revenger",
+        "detailedModel": "G-H61 Lan 100/1000 SlotM2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_922414-MLA99513157768_112025-F.webp"
+      },
+      {
+        "name": "KP-H61/K",
+        "brand": "Knup",
+        "detailedModel": "KP-H61/K LGA1155",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_840015-MLA99501194892_112025-F.webp"
+      },
+      {
+        "name": "G-H110PRO",
+        "brand": "Revenger",
+        "detailedModel": "G-H110PRO",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_862829-MLA100007096123_122025-F.webp"
+      },
+      {
+        "name": "B550M PRO-VDH WiFi",
+        "brand": "MSI",
+        "detailedModel": "B550M PRO-VDH WiFi",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_786875-MLA99496907982_112025-F.webp"
+      },
+      {
+        "name": "MAG X870E TOMAHAWK WIFI",
+        "brand": "MSI",
+        "detailedModel": "MAG X870E TOMAHAWK WIFI",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_699140-MLA99498253338_112025-F.webp"
+      },
+      {
+        "name": "PRO B840M-B",
+        "brand": "MSI",
+        "detailedModel": "PRO B840M-B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_919859-MLA99989654139_112025-F.webp"
+      },
+      {
+        "name": "B450M Steel Legend",
+        "brand": "ASRock",
+        "detailedModel": "B450M Steel Legend",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_670564-MLA99492372486_112025-F.webp"
+      },
+      {
+        "name": "DELTA-A520M2K",
+        "brand": "Aitek",
+        "detailedModel": "DELTA-A520M2K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_847494-MLB101061898347_122025-F-placa-me-a520m-amd-matx-am4-ddr4-gamer-hdmi-usb30-vga.webp"
+      },
+      {
+        "name": "PRIME B650M-A WIFI",
+        "brand": "ASUS",
+        "detailedModel": "PRIME B650M-A WIFI",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_669727-MLA99471258824_112025-F.webp"
+      }
+    ],
+    "smartphones": [
+      {
+        "name": "Galaxy S24 Plus (Exynos)",
+        "brand": "Samsung",
+        "detailedModel": "SM-S926B/DS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_697434-MLA99504410690_112025-F.webp"
+      },
+      {
+        "name": "Moto G53 5G",
+        "brand": "Motorola",
+        "detailedModel": "Moto G53",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778225-MLA96148661865_102025-F.webp"
+      },
+      {
+        "name": "iPhone 15",
+        "brand": "Apple",
+        "detailedModel": "iPhone 15",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_841858-MLA95934002967_102025-F.webp"
+      },
+      {
+        "name": "Moto G56",
+        "brand": "Motorola",
+        "detailedModel": "Moto G56 5G 256GB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_919734-MLA99464900322_112025-F.webp"
+      },
+      {
+        "name": "Redmi 15",
+        "brand": "Xiaomi",
+        "detailedModel": "RED158256CZ",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_743925-MLA99975530263_112025-F.webp"
+      },
+      {
+        "name": "iPhone 16",
+        "brand": "Apple",
+        "detailedModel": "iPhone 16",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_673808-MLA99443133132_112025-F.webp"
+      },
+      {
+        "name": "Galaxy S20 FE",
+        "brand": "Samsung",
+        "detailedModel": "128Gb",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_760728-MLU75812188356_042024-F.webp"
+      },
+      {
+        "name": "Galaxy S21 FE 5G (Exynos)",
+        "brand": "Samsung",
+        "detailedModel": "SM-G990B/DS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_945411-MLA99943082101_112025-F.webp"
+      },
+      {
+        "name": "Galaxy A26 5G",
+        "brand": "Samsung",
+        "detailedModel": "SM-A266M",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_792472-MLA100025549859_122025-F.webp"
+      },
+      {
+        "name": "Galaxy A56 5G",
+        "brand": "Samsung",
+        "detailedModel": "SM-A566EZKCLTL",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_638445-MLA100187155155_122025-F.webp"
+      },
+      {
+        "name": "Galaxy A16",
+        "brand": "Samsung",
+        "detailedModel": "SM-A165M/DS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_707658-MLA96866257617_102025-F.webp"
+      },
+      {
+        "name": "C63",
+        "brand": "Realme",
+        "detailedModel": "RMX3933",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_604226-MLA99459898948_112025-F.webp"
+      },
+      {
+        "name": "iPhone 17",
+        "brand": "Apple",
+        "detailedModel": "A3294",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_724430-MLA97899894923_112025-F.webp"
+      },
+      {
+        "name": "C75 5G",
+        "brand": "Realme",
+        "detailedModel": "RMX3963",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_668245-MLA98700782827_112025-F.webp"
+      },
+      {
+        "name": "Reno 14 F",
+        "brand": "Oppo",
+        "detailedModel": "CPH2743G",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_998452-MLA99403895480_112025-F.webp"
+      },
+      {
+        "name": "iPhone 17 Pro Max",
+        "brand": "Apple",
+        "detailedModel": "A3296",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_833928-MLA95712598444_102025-F.webp"
+      },
+      {
+        "name": "iPhone 17 Pro",
+        "brand": "Apple",
+        "detailedModel": "A3523",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_703919-MLA96100970363_102025-F.webp"
+      },
+      {
+        "name": "iPhone 14",
+        "brand": "Apple",
+        "detailedModel": "MPV03BE/A",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_893187-MLA95703116456_102025-F.webp"
+      },
+      {
+        "name": "Galaxy A25 5G",
+        "brand": "Samsung",
+        "detailedModel": "SM-A256EZKDLTL",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_991220-MLA99458992374_112025-F.webp"
+      },
+      {
+        "name": "GT7",
+        "brand": "Realme",
+        "detailedModel": "RMX5061",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_967980-MLA99974372283_112025-F.webp"
+      },
+      {
+        "name": "Moto E6i",
+        "brand": "Motorola",
+        "detailedModel": "XT2053-5",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_914986-MLA99504842974_112025-F.webp"
+      },
+      {
+        "name": "Moto G82 5G",
+        "brand": "Motorola",
+        "detailedModel": "XT2225-1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_935865-MLA99476915000_112025-F.webp"
+      },
+      {
+        "name": "K62+",
+        "brand": "LG",
+        "detailedModel": "LM-K525BMW",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_673941-MLA100071315831_122025-F.webp"
+      },
+      {
+        "name": "C20",
+        "brand": "Nokia",
+        "detailedModel": "NK038",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_617876-MLU77343225271_062024-F.webp"
+      },
+      {
+        "name": "iPhone 13",
+        "brand": "Apple",
+        "detailedModel": "A2634",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644553-MLA95664299542_102025-F.webp"
+      },
+      {
+        "name": "Moto G31",
+        "brand": "Motorola",
+        "detailedModel": "XT2173-1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_909730-MLA99954036713_112025-F.webp"
+      },
+      {
+        "name": "2.4",
+        "brand": "Nokia",
+        "detailedModel": "TA-1274",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_910999-MLA95969984968_102025-F.webp"
+      },
+      {
+        "name": "Moto G35 5G",
+        "brand": "Motorola",
+        "detailedModel": "XT2433-2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_983786-MLA99479656582_112025-F.webp"
+      },
+      {
+        "name": "Moto G15",
+        "brand": "Motorola",
+        "detailedModel": "XT2521-2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_870845-MLA100041287939_122025-F.webp"
+      },
+      {
+        "name": "Edge 60 Fusion 5G",
+        "brand": "Motorola",
+        "detailedModel": "XT2503-1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_945110-MLA99420972908_112025-F.webp"
+      },
+      {
+        "name": "Moto G06",
+        "brand": "Motorola",
+        "detailedModel": "XT2535-1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_657060-MLA104761778541_012026-F.webp"
+      },
+      {
+        "name": "Moto G05",
+        "brand": "Motorola",
+        "detailedModel": "XT2523-2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_959928-MLA93411040754_092025-F.webp"
+      },
+      {
+        "name": "Moto G86 5G",
+        "brand": "Motorola",
+        "detailedModel": "XT2527-1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_680910-MLA93403249391_092025-F.webp"
+      },
+      {
+        "name": "Note 50X 5G",
+        "brand": "Infinix",
+        "detailedModel": "NOTE 50X 5G",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_938709-MLA97122170511_112025-F.webp"
+      },
+      {
+        "name": "F Pro 2",
+        "brand": "Multilaser",
+        "detailedModel": "P9153",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_861255-MLA99423572256_112025-F.webp"
+      },
+      {
+        "name": "Hot 50i",
+        "brand": "Infinix",
+        "detailedModel": "X6531",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_689433-MLA99962016097_112025-F.webp"
+      },
+      {
+        "name": "Note 40 5G",
+        "brand": "Infinix",
+        "detailedModel": "X6853",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_750275-MLA99932706575_112025-F.webp"
+      },
+      {
+        "name": "Galaxy A36 5G",
+        "brand": "Samsung",
+        "detailedModel": "SM-A366E/DS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_968548-MLA99944961199_112025-F.webp"
+      },
+      {
+        "name": "Reno13 F",
+        "brand": "Oppo",
+        "detailedModel": "CPH2699",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_637273-MLA99939930173_112025-F.webp"
+      },
+      {
+        "name": "14T",
+        "brand": "Xiaomi",
+        "detailedModel": "2406APNFAG",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_621581-MLA95366030231_102025-F.webp"
+      },
+      {
+        "name": "Smart 10",
+        "brand": "Infinix",
+        "detailedModel": "Smart10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_964227-MLA100071062557_122025-F.webp"
+      },
+      {
+        "name": "C73",
+        "brand": "Realme",
+        "detailedModel": "RMX5303",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_929245-MLA102616317533_122025-F.webp"
+      },
+      {
+        "name": "13+ 5G",
+        "brand": "Realme",
+        "detailedModel": "RMX5000",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_700337-MLA99969875369_112025-F.webp"
+      },
+      {
+        "name": "Redmi 14C",
+        "brand": "Xiaomi",
+        "detailedModel": "2409BRN2CA / 2409BRN2CC",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_846868-MLA99991309231_112025-F.webp"
+      },
+      {
+        "name": "G Max 2 (8 Mpx)",
+        "brand": "Multilaser",
+        "detailedModel": "P9183",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_760252-MLA91613848456_092025-F.webp"
+      },
+      {
+        "name": "Redmi 14C Azul",
+        "brand": "Xiaomi",
+        "detailedModel": "2409BRN2CL",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_794639-MLB88631772496_072025-F.webp"
+      },
+      {
+        "name": "K41s",
+        "brand": "LG",
+        "detailedModel": "LG K41s (K410BMW/K410ZMW/K410FMW/K410EMW)",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_906289-MLA99372291278_112025-F.webp"
+      }
+    ],
+    "smartvs": [
+      {
+        "name": "P58KGA",
+        "brand": "Philco",
+        "detailedModel": "P58KGA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_922530-MLA99453302308_112025-F.webp"
+      },
+      {
+        "name": "P32VIK",
+        "brand": "Philco",
+        "detailedModel": "P32VIK",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_691057-MLA100479527690_122025-F.webp"
+      },
+      {
+        "name": "43LR671C-B",
+        "brand": "LG",
+        "detailedModel": "43LR671C0SA.AWZ",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_929244-MLA104540336039_012026-F.webp"
+      },
+      {
+        "name": "32WDSNMX",
+        "brand": "Weyon",
+        "detailedModel": "32WDSNMX",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_824259-MLA99939289013_112025-F.webp"
+      },
+      {
+        "name": "75C7K",
+        "brand": "TCL",
+        "detailedModel": "75C7K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_782739-MLA103359617310_012026-F.webp"
+      },
+      {
+        "name": "UN43F6000FGXZD",
+        "brand": "Samsung",
+        "detailedModel": "F6000F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_668133-MLA99998133323_112025-F.webp"
+      },
+      {
+        "name": "55NANO80ASA",
+        "brand": "LG",
+        "detailedModel": "55NANO80ASA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_925791-MLA99949981259_112025-F.webp"
+      },
+      {
+        "name": "QN55QN70FAGXZD",
+        "brand": "Samsung",
+        "detailedModel": "QN70F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_962799-MLA94529301574_102025-F.webp"
+      },
+      {
+        "name": "PTV50VA4REGB",
+        "brand": "Philco",
+        "detailedModel": "PTV50VA4REGB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_764025-MLA99481366708_112025-F.webp"
+      },
+      {
+        "name": "LH55BEFH4GGXZD",
+        "brand": "Samsung",
+        "detailedModel": "LH55BEFH4GGXZD",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_807592-MLA96970001108_112025-F.webp"
+      },
+      {
+        "name": "LH65BEFH4GGXZD",
+        "brand": "Samsung",
+        "detailedModel": "LH65BEFH4GGXZD",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_712967-MLA96969981644_112025-F.webp"
+      },
+      {
+        "name": "40S5K",
+        "brand": "TCL",
+        "detailedModel": "40S5K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_960083-MLA103757070263_012026-F.webp"
+      },
+      {
+        "name": "AWS-TV-50-BL-02-A",
+        "brand": "Aiwa",
+        "detailedModel": "AWS-TV-50-BL-02-A",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_768600-MLA99887667399_112025-F.webp"
+      },
+      {
+        "name": "UN43U8100FGXZD",
+        "brand": "Samsung",
+        "detailedModel": "U8100F",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_648933-MLA99498284868_112025-F.webp"
+      },
+      {
+        "name": "32LR600BPSA",
+        "brand": "LG",
+        "detailedModel": "32LR600BPSA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_934018-MLA99576753908_122025-F.webp"
+      },
+      {
+        "name": "70PUG7019/78",
+        "brand": "Philips",
+        "detailedModel": "70PUG7019/78",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_974454-MLA99928210341_112025-F.webp"
+      },
+      {
+        "name": "43AU801C0SA",
+        "brand": "LG",
+        "detailedModel": "43AU801C0SA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_663736-MLA101387825184_122025-F.webp"
+      },
+      {
+        "name": "50P7K",
+        "brand": "TCL",
+        "detailedModel": "50P7K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_629030-MLA103240702876-012026-F.webp"
+      },
+      {
+        "name": "LS43F6000FGXZD",
+        "brand": "Samsung",
+        "detailedModel": "LS43F6000FGXZD",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_850374-MLA103344560695_012026-F.webp"
+      },
+      {
+        "name": "50S62",
+        "brand": "Semp",
+        "detailedModel": "50S62",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644662-MLA103737769538_012026-F.webp"
+      },
+      {
+        "name": "75P7K",
+        "brand": "TCL",
+        "detailedModel": "75P7K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_884010-MLA103850766403_012026-F.webp"
+      },
+      {
+        "name": "50UA8550PSA",
+        "brand": "LG",
+        "detailedModel": "50UA8550PSA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_674822-MLA96870825149_102025-F.webp"
+      },
+      {
+        "name": "43UA7500PSA",
+        "brand": "LG",
+        "detailedModel": "43UA7500PSA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_948824-MLA96872931345_102025-F.webp"
+      },
+      {
+        "name": "PTV50G7PR2CSB",
+        "brand": "Philco",
+        "detailedModel": "PTV50G7PR2CSB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_927144-MLA99525728168_122025-F.webp"
+      },
+      {
+        "name": "PTV58G7PAGCSBL",
+        "brand": "Philco",
+        "detailedModel": "PTV58G7PAGCSBL",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_664347-MLA99475191648_112025-F.webp"
+      },
+      {
+        "name": "BE55D-H",
+        "brand": "Samsung",
+        "detailedModel": "LH55BEDHVGGXZ",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644006-MLA99414862844_112025-F.webp"
+      },
+      {
+        "name": "TL081E",
+        "brand": "Multi",
+        "detailedModel": "TL081E",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_615358-MLA99991190537_112025-F.webp"
+      },
+      {
+        "name": "43S5K",
+        "brand": "TCL",
+        "detailedModel": "43S5K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_954980-MLA103322421580_012026-F.webp"
+      },
+      {
+        "name": "65P7K",
+        "brand": "TCL",
+        "detailedModel": "65P7K",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_681302-MLA103364086954_012026-F.webp"
+      },
+      {
+        "name": "BTV43VA4REGB",
+        "brand": "Britânia",
+        "detailedModel": "BTV43VA4REGB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_763506-MLA99463576368_112025-F.webp"
       }
     ],
     "smartwatches": [
@@ -2233,520 +3677,174 @@
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_938237-MLA99935867143_112025-F.webp"
       }
     ],
-    "placas-mae": [
+    "tablets": [
       {
-        "name": "Prime A520M-K",
-        "brand": "ASUS",
-        "detailedModel": "Prime A520M-K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_725895-MLA99492459638_112025-F.webp"
+        "name": "iPad 11",
+        "brand": "Apple",
+        "detailedModel": "iPad 11 (11ª Geração)",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_807691-MLA95669871706_102025-F.webp"
       },
       {
-        "name": "A520M-A PRO",
-        "brand": "MSI",
-        "detailedModel": "A520M-A PRO",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644232-MLA99455670876_112025-F.webp"
+        "name": "iPad Air 11 M3",
+        "brand": "Apple",
+        "detailedModel": "iPad Air 11 (M3)",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_936383-MLA95664439654_102025-F.webp"
       },
       {
-        "name": "B550M AORUS ELITE",
-        "brand": "Gigabyte",
-        "detailedModel": "B550M AORUS ELITE",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_846714-MLA99464080574_112025-F.webp"
+        "name": "iPad 10",
+        "brand": "Apple",
+        "detailedModel": "iPad 10 (10ª Geração)",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_967247-MLA96145680653_102025-F.webp"
       },
       {
-        "name": "A520M K V2",
-        "brand": "Gigabyte",
-        "detailedModel": "A520M K V2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_642824-MLA99375931234_112025-F.webp"
+        "name": "iPad Air 11",
+        "brand": "Apple",
+        "detailedModel": "iPad Air 11 (M3)",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_969466-MLA85623105900_062025-F.webp"
       },
       {
-        "name": "G-H81/M",
-        "brand": "Revenger",
-        "detailedModel": "G-H81/M",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_799253-MLA99849372099_112025-F.webp"
+        "name": "Idea Tab",
+        "brand": "Lenovo",
+        "detailedModel": "ZAFR0856BR",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_786165-MLA104009600019_012026-F.webp"
       },
       {
-        "name": "TUF GAMING B550M-PLUS",
-        "brand": "ASUS",
-        "detailedModel": "TUF GAMING B550M-PLUS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_666926-MLA99989580013_112025-F.webp"
+        "name": "Galaxy Tab A11",
+        "brand": "Samsung",
+        "detailedModel": "SM-X133N",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_892318-MLA99419882190_112025-F.webp"
       },
       {
-        "name": "BMBB75-G3HGU-M2 REV 2.0",
-        "brand": "Bluecase",
-        "detailedModel": "BMBB75-G3HGU-M2 REV 2.0",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_777364-MLA95948463718_102025-F.webp"
+        "name": "Tab",
+        "brand": "Lenovo",
+        "detailedModel": "ZAEH0151BR",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_933341-MLA99583622650_122025-F.webp"
       },
       {
-        "name": "G-H310M",
-        "brand": "Revenger",
-        "detailedModel": "G-H310M",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_863351-MLA99371781378_112025-F.webp"
+        "name": "Galaxy Tab A9+",
+        "brand": "Samsung",
+        "detailedModel": "SM-X210NZAAZTO",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_669379-MLA95704100626_102025-F.webp"
       },
       {
-        "name": "PCYB75-3G16",
-        "brand": "PCyes",
-        "detailedModel": "PCYB75-3G16",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_826431-MLA99923154549_112025-F.webp"
+        "name": "Vision Tab 10",
+        "brand": "Positivo",
+        "detailedModel": "Vision Tab 10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_703910-MLA99998133755_112025-F.webp"
       },
       {
-        "name": "A520M-HVS",
-        "brand": "ASRock",
-        "detailedModel": "A520M-HVS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_600626-MLA100029063065_122025-F.webp"
+        "name": "TL10",
+        "brand": "VAIO",
+        "detailedModel": "TL10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_964580-MLA99469499718_112025-F.webp"
       },
       {
-        "name": "PRIME H610M-CS D4",
-        "brand": "ASUS",
-        "detailedModel": "PRIME H610M-CS D4",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_980365-MLA99979674343_112025-F.webp"
+        "name": "Galaxy Tab S10 Lite",
+        "brand": "Samsung",
+        "detailedModel": "BSM-X400/1R6",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_986238-MLA99505933208_112025-F.webp"
       },
       {
-        "name": "B840M GAMING WIFI6E",
-        "brand": "MSI",
-        "detailedModel": "B840M GAMING WIFI6E",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_662912-MLA99945608233_112025-F.webp"
+        "name": "Tab Q10",
+        "brand": "Positivo",
+        "detailedModel": "T2070D",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_874109-MLA99904916883_112025-F.webp"
       },
       {
-        "name": "G-H81/M",
-        "brand": "Revenger",
-        "detailedModel": "G-H81/M",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_799253-MLA99849372099_112025-F.webp"
+        "name": "M10",
+        "brand": "Multi",
+        "detailedModel": "NB359",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_716343-MLA99982884809_112025-F.webp"
       },
       {
-        "name": "B450M-HDV R4.0",
-        "brand": "ASRock",
-        "detailedModel": "B450M-HDV R4.0",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_807217-MLA99527550222_122025-F.webp"
+        "name": "Galaxy Tab A9",
+        "brand": "Samsung",
+        "detailedModel": "SM-X115N",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_826577-MLA96868181557_102025-F.webp"
       },
       {
-        "name": "Prime A520M-K",
-        "brand": "ASUS",
-        "detailedModel": "Prime A520M-K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_725895-MLA99492459638_112025-F.webp"
+        "name": "Tab 10L Gen 3",
+        "brand": "TCL",
+        "detailedModel": "8193A1-JALCBR11",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_715797-MLA99453120962_112025-F.webp"
       },
       {
-        "name": "Inspiron 3511 LA-L241P 05PD08",
-        "brand": "Dell",
-        "detailedModel": "LA-L241P (GDM50) com Core i3-1115G4",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_720573-MLB101916614601_122025-F.webp"
+        "name": "E1035",
+        "brand": "Easytech",
+        "detailedModel": "E1035",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_803583-MLB103763554255_012026-F.webp"
       },
       {
-        "name": "H61 M2K",
-        "brand": "Delta",
-        "detailedModel": "H61 M2K Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_607154-MLA104217268306_012026-F.webp"
+        "name": "PC036",
+        "brand": "Acrensly",
+        "detailedModel": "PC036",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_668332-MLA105655711815_012026-F.webp"
       },
       {
-        "name": "A520M-HVS",
-        "brand": "ASRock",
-        "detailedModel": "A520M-HVS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_600626-MLA100029063065_122025-F.webp"
+        "name": "Galaxy Tab S10 FE",
+        "brand": "Samsung",
+        "detailedModel": "SM-X520N",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_820024-MLA99950929155_112025-F.webp"
       },
       {
-        "name": "G-A320",
-        "brand": "Revenger",
-        "detailedModel": "G-A320",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_797275-MLA99586891118_122025-F.webp"
+        "name": "Tab Plus Pro",
+        "brand": "Amiyo",
+        "detailedModel": "A06PLUS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_957744-MLA99926493433_112025-F.webp"
       },
       {
-        "name": "Prime A520M-K",
-        "brand": "ASUS",
-        "detailedModel": "Prime A520M-K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_725895-MLA99492459638_112025-F.webp"
+        "name": "Mil10",
+        "brand": "Milii",
+        "detailedModel": "Mil10 6GB + 256GB",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_771653-MLB93835011121_092025-F-tablet-pc-mil10-6gb-ram-256gb-tela-10-teclado-caneta-milli.webp"
       },
       {
-        "name": "Ender-3 V3 Plus Motherboard",
-        "brand": "Creality",
-        "detailedModel": "Ender-3 V3 Plus Motherboard Kit",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_991610-MLB89673208513_082025-F-placa-me-impressora-3d-creality-k1-ender-3-v3-plus-original.webp"
+        "name": "MatePad 11.5 New",
+        "brand": "Huawei",
+        "detailedModel": "BartokR-W09B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_666272-MLA99470513794_112025-F.webp"
       },
       {
-        "name": "KP-H61",
-        "brand": "Knup",
-        "detailedModel": "KP-H61",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_904324-MLA99480162034_112025-F.webp"
+        "name": "M17",
+        "brand": "Acrensly",
+        "detailedModel": "M17",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_784137-MLA105396715151_012026-F.webp"
       },
       {
-        "name": "MPG B550 GAMING PLUS",
-        "brand": "MSI",
-        "detailedModel": "MPG B550 GAMING PLUS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_896276-MLA99986168285_112025-F.webp"
+        "name": "PC036",
+        "brand": "Acrensly",
+        "detailedModel": "PC036-NGBR00",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_934046-MLA106041578725_012026-F.webp"
       },
       {
-        "name": "B550M K",
-        "brand": "Gigabyte",
-        "detailedModel": "B550M K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_768362-MLA99985597141_112025-F.webp"
+        "name": "Pad 7",
+        "brand": "Xiaomi",
+        "detailedModel": "2410CRP4CG",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_681634-MLA100021287705_122025-F.webp"
       },
       {
-        "name": "B75 Gamer Black",
-        "brand": "Coretech",
-        "detailedModel": "B75 Gamer Black LGA1155",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_656719-MLB97528164116_112025-F.webp"
+        "name": "TL12",
+        "brand": "VAIO",
+        "detailedModel": "TL12",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_606013-MLA99469527922_112025-F.webp"
       },
       {
-        "name": "G-H61 Lan 100/1000 SlotM2",
-        "brand": "Revenger",
-        "detailedModel": "G-H61 Lan 100/1000 SlotM2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_922414-MLA99513157768_112025-F.webp"
+        "name": "SE Pro",
+        "brand": "Atouch",
+        "detailedModel": "SE Pro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_958225-MLA99521780844_122025-F.webp"
       },
       {
-        "name": "KP-H61/K",
-        "brand": "Knup",
-        "detailedModel": "KP-H61/K LGA1155",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_840015-MLA99501194892_112025-F.webp"
+        "name": "E1035 8gb 256gb kit",
+        "brand": "Easytech",
+        "detailedModel": "EASYTECH-E1035",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_932495-MLB90455241189_082025-F.webp"
       },
       {
-        "name": "G-H110PRO",
-        "brand": "Revenger",
-        "detailedModel": "G-H110PRO",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_862829-MLA100007096123_122025-F.webp"
-      },
-      {
-        "name": "B550M PRO-VDH WiFi",
-        "brand": "MSI",
-        "detailedModel": "B550M PRO-VDH WiFi",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_786875-MLA99496907982_112025-F.webp"
-      },
-      {
-        "name": "MAG X870E TOMAHAWK WIFI",
-        "brand": "MSI",
-        "detailedModel": "MAG X870E TOMAHAWK WIFI",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_699140-MLA99498253338_112025-F.webp"
-      },
-      {
-        "name": "PRO B840M-B",
-        "brand": "MSI",
-        "detailedModel": "PRO B840M-B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_919859-MLA99989654139_112025-F.webp"
-      },
-      {
-        "name": "B450M Steel Legend",
-        "brand": "ASRock",
-        "detailedModel": "B450M Steel Legend",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_670564-MLA99492372486_112025-F.webp"
-      },
-      {
-        "name": "DELTA-A520M2K",
-        "brand": "Aitek",
-        "detailedModel": "DELTA-A520M2K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_847494-MLB101061898347_122025-F-placa-me-a520m-amd-matx-am4-ddr4-gamer-hdmi-usb30-vga.webp"
-      },
-      {
-        "name": "PRIME B650M-A WIFI",
-        "brand": "ASUS",
-        "detailedModel": "PRIME B650M-A WIFI",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_669727-MLA99471258824_112025-F.webp"
-      }
-    ],
-    "cafeteiras": [
-      {
-        "name": "Luna",
-        "brand": "3 Corações",
-        "detailedModel": "Luna",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_703405-MLA99854893367_112025-F.webp"
-      },
-      {
-        "name": "Passione",
-        "brand": "3 Corações",
-        "detailedModel": "Passione",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_702554-MLA99936325089_112025-F.webp"
-      },
-      {
-        "name": "Essenza Mini",
-        "brand": "Nespresso",
-        "detailedModel": "C White",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_652965-MLA100059078099_122025-F.webp"
-      },
-      {
-        "name": "Essenza Mini",
-        "brand": "Nespresso",
-        "detailedModel": "D30-BR3-RE-NE2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_861961-MLA99899361577_112025-F.webp"
-      },
-      {
-        "name": "CitiZ",
-        "brand": "Nespresso",
-        "detailedModel": "D113-BR3-BK-NE2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_879258-MLA99562179084_122025-F.webp"
-      },
-      {
-        "name": "Série 2300 LatteGo",
-        "brand": "Philips",
-        "detailedModel": "EP2330/33/CINZA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_910256-MLA99930308533_112025-F.webp"
-      },
-      {
-        "name": "Dolce Crema",
-        "brand": "Mondial",
-        "detailedModel": "Espresso Dolce Crema",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_935625-MLA99525311366_122025-F.webp"
-      },
-      {
-        "name": "Insta Coffee Portátil",
-        "brand": "Neonway",
-        "detailedModel": "Insta Coffee",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_890274-MLB101805056037_122025-F-cafeteira-portatil-eletrica-display-digital-capsulas-e-po.webp"
-      },
-      {
-        "name": "Supreme Touch",
-        "brand": "Gradiente",
-        "detailedModel": "PGCA012",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_875228-MLA99957147193_112025-F.webp"
-      },
-      {
-        "name": "PCF04A",
-        "brand": "Philco",
-        "detailedModel": "PCF04A",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_815034-MLA99531483428_122025-F.webp"
-      },
-      {
-        "name": "CMM15P",
-        "brand": "Midea",
-        "detailedModel": "CMM15P",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_604516-MLA100072586257_122025-F.webp"
-      },
-      {
-        "name": "WCM20",
-        "brand": "Wap",
-        "detailedModel": "WCM20",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_910521-MLA100072886333_122025-F.webp"
-      },
-      {
-        "name": "EP1220",
-        "brand": "Philips Walita",
-        "detailedModel": "EP1220/02",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_968593-MLA99502704490_112025-F.webp"
-      },
-      {
-        "name": "CAF230",
-        "brand": "Cadence",
-        "detailedModel": "CAF230",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_995719-MLA99443401184_112025-F.webp"
-      },
-      {
-        "name": "PGCA012",
-        "brand": "Gradiente",
-        "detailedModel": "PGCA012",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_646340-MLA99443347984_112025-F.webp"
-      },
-      {
-        "name": "Latte Easy",
-        "brand": "Gradiente",
-        "detailedModel": "Easy Latte Touch",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_898589-MLA81450489289_122024-F.webp"
-      },
-      {
-        "name": "Café Expresso 3 em 1",
-        "brand": "Sokany",
-        "detailedModel": "Café Expresso 3 em 1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_739373-MLA88408528483_072025-F.webp"
-      },
-      {
-        "name": "BrewStation Elite",
-        "brand": "Hamilton Beach",
-        "detailedModel": "48465",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_910347-MLA99525902094_122025-F.webp"
-      },
-      {
-        "name": "KF440",
-        "brand": "Reaken",
-        "detailedModel": "KF440",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_931225-MLB101035199844_122025-F-cafeteira-eeletrica-automatica-55litro-industrial-de-110v.webp"
-      },
-      {
-        "name": "KF440",
-        "brand": "Reaken",
-        "detailedModel": "KF440",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_931225-MLB101035199844_122025-F-cafeteira-eeletrica-automatica-55litro-industrial-de-110v.webp"
-      },
-      {
-        "name": "Vertuo Pop",
-        "brand": "Nespresso",
-        "detailedModel": "GCV2 Azul Pacífico",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_745759-MLA99579135046_122025-F.webp"
-      },
-      {
-        "name": "Genio S Basic",
-        "brand": "Arno",
-        "detailedModel": "DGS5",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_894567-MLA99958091989_112025-F.webp"
-      },
-      {
-        "name": "Touch",
-        "brand": "3 Corações",
-        "detailedModel": "Touch",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_781367-MLA99502409904_112025-F.webp"
-      },
-      {
-        "name": "CE1100G",
-        "brand": "Black+Decker",
-        "detailedModel": "CE1100G-BR",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_804346-MLA100293778255_122025-F.webp"
-      },
-      {
-        "name": "To Go",
-        "brand": "Cadence",
-        "detailedModel": "CAF201-220",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_767246-MLA99938470317_112025-F.webp"
-      },
-      {
-        "name": "OCAF400",
-        "brand": "Oster",
-        "detailedModel": "OCAF400",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_837510-MLA99562217516_122025-F.webp"
-      },
-      {
-        "name": "PCF20A",
-        "brand": "Philco",
-        "detailedModel": "PCF20A",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_692756-MLA99469873782_112025-F.webp"
-      },
-      {
-        "name": "CP30",
-        "brand": "Britânia",
-        "detailedModel": "CP30 Inox",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_934107-MLA99492672424_112025-F.webp"
-      },
-      {
-        "name": "Mini Me",
-        "brand": "Nescafé Dolce Gusto",
-        "detailedModel": "Mini Me Preta 220v",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_626577-MLA99520084810_112025-F.webp"
-      }
-    ],
-    "airfryers": [
-      {
-        "name": "NA130/00",
-        "brand": "Philips Walita",
-        "detailedModel": "NA130/00",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_623708-MLA99577999648_122025-F.webp"
-      },
-      {
-        "name": "NA130/09",
-        "brand": "Philips Walita",
-        "detailedModel": "NA130/09",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_858060-MLA99373778810_112025-F.webp"
-      },
-      {
-        "name": "AF-30",
-        "brand": "Mondial",
-        "detailedModel": "Family Inox IV",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_660792-MLA97351447703_112025-F.webp"
-      },
-      {
-        "name": "NA341",
-        "brand": "Philips Walita",
-        "detailedModel": "NA341",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_818147-MLA99507423644_112025-F.webp"
-      },
-      {
-        "name": "FWM45P1",
-        "brand": "Midea",
-        "detailedModel": "Widemax",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_733418-MLA99504461002_112025-F.webp"
-      },
-      {
-        "name": "CKSTAF60WDDF",
-        "brand": "Oster",
-        "detailedModel": "Diamondtech",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_675945-MLA99966366509_112025-F.webp"
-      },
-      {
-        "name": "AFITA1035A",
-        "brand": "Itatiaia",
-        "detailedModel": "AFITA1035A",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_616430-MLA98192923164_112025-F.webp"
-      },
-      {
-        "name": "PFR2200P",
-        "brand": "Philco",
-        "detailedModel": "Air Fryer Oven 4 em 1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_646055-MLA99511429566_112025-F.webp"
-      },
-      {
-        "name": "EAF40",
-        "brand": "Electrolux",
-        "detailedModel": "EAF40",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_696592-MLA104141415391_012026-F.webp"
-      },
-      {
-        "name": "PFR15PG",
-        "brand": "Philco",
-        "detailedModel": "PFR15PG",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_860668-MLU74370099605_022024-F.webp"
-      },
-      {
-        "name": "AFON-12L-AB",
-        "brand": "Mondial",
-        "detailedModel": "AFON-12L-AB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_641245-MLA99683681642_122025-F.webp"
-      },
-      {
-        "name": "BAF40A",
-        "brand": "Britânia",
-        "detailedModel": "063801125",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778760-MLA99856338061_112025-F.webp"
-      },
-      {
-        "name": "BAF45A",
-        "brand": "Britânia",
-        "detailedModel": "BAF45A",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_818764-MLA99962602187_112025-F.webp"
-      },
-      {
-        "name": "AFITA1035A",
-        "brand": "Itatiaia",
-        "detailedModel": "AFITA1035A",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_616430-MLA98192923164_112025-F.webp"
-      },
-      {
-        "name": "PAF55A",
-        "brand": "Philco",
-        "detailedModel": "PAF55A",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_950317-MLA99970944425_112025-F.webp"
-      },
-      {
-        "name": "EAF45",
-        "brand": "Electrolux",
-        "detailedModel": "EAF45",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_914550-MLA99990413573_112025-F.webp"
-      },
-      {
-        "name": "PAF11B",
-        "brand": "Philco",
-        "detailedModel": "PAF11B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_660936-MLA92716452059_092025-F.webp"
-      },
-      {
-        "name": "EAF45",
-        "brand": "Electrolux",
-        "detailedModel": "EAF45",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_780274-MLA99571434150_122025-F.webp"
-      },
-      {
-        "name": "EAF85",
-        "brand": "Electrolux",
-        "detailedModel": "5311AABR201",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_721756-MLA99555662232_122025-F.webp"
-      },
-      {
-        "name": "HD9206/90",
-        "brand": "Philips Walita",
-        "detailedModel": "Série 3000 XL HD9206/90",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_806264-MLA99550695498_122025-F.webp"
-      },
-      {
-        "name": "Max Cube AF-2",
-        "brand": "Fmaxx",
-        "detailedModel": "Max Cube AF-2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_771788-MLA85718473664_062025-F.webp"
-      },
-      {
-        "name": "RI9252",
-        "brand": "Philips Walita",
-        "detailedModel": "RI9252",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_757332-MLA99941444187_112025-F.webp"
+        "name": "Mirage 2022",
+        "brand": "Mirage",
+        "detailedModel": "2022",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_827023-MLA99562259604_122025-F.webp"
       }
     ],
     "teclados": [
@@ -2893,1260 +3991,6 @@
         "brand": "Teclado 60 por Cento Barato",
         "detailedModel": "Gamer 60% RGB USB ABNT2",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_880456-MLB83478015448_042025-F.webp"
-      }
-    ],
-    "tablets": [
-      {
-        "name": "iPad 11",
-        "brand": "Apple",
-        "detailedModel": "iPad 11 (11ª Geração)",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_807691-MLA95669871706_102025-F.webp"
-      },
-      {
-        "name": "iPad Air 11 M3",
-        "brand": "Apple",
-        "detailedModel": "iPad Air 11 (M3)",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_936383-MLA95664439654_102025-F.webp"
-      },
-      {
-        "name": "iPad 10",
-        "brand": "Apple",
-        "detailedModel": "iPad 10 (10ª Geração)",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_967247-MLA96145680653_102025-F.webp"
-      },
-      {
-        "name": "iPad Air 11",
-        "brand": "Apple",
-        "detailedModel": "iPad Air 11 (M3)",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_969466-MLA85623105900_062025-F.webp"
-      },
-      {
-        "name": "Idea Tab",
-        "brand": "Lenovo",
-        "detailedModel": "ZAFR0856BR",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_786165-MLA104009600019_012026-F.webp"
-      },
-      {
-        "name": "Galaxy Tab A11",
-        "brand": "Samsung",
-        "detailedModel": "SM-X133N",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_892318-MLA99419882190_112025-F.webp"
-      },
-      {
-        "name": "Tab",
-        "brand": "Lenovo",
-        "detailedModel": "ZAEH0151BR",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_933341-MLA99583622650_122025-F.webp"
-      },
-      {
-        "name": "Galaxy Tab A9+",
-        "brand": "Samsung",
-        "detailedModel": "SM-X210NZAAZTO",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_669379-MLA95704100626_102025-F.webp"
-      },
-      {
-        "name": "Vision Tab 10",
-        "brand": "Positivo",
-        "detailedModel": "Vision Tab 10",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_703910-MLA99998133755_112025-F.webp"
-      },
-      {
-        "name": "TL10",
-        "brand": "VAIO",
-        "detailedModel": "TL10",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_964580-MLA99469499718_112025-F.webp"
-      },
-      {
-        "name": "Galaxy Tab S10 Lite",
-        "brand": "Samsung",
-        "detailedModel": "BSM-X400/1R6",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_986238-MLA99505933208_112025-F.webp"
-      },
-      {
-        "name": "Tab Q10",
-        "brand": "Positivo",
-        "detailedModel": "T2070D",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_874109-MLA99904916883_112025-F.webp"
-      },
-      {
-        "name": "M10",
-        "brand": "Multi",
-        "detailedModel": "NB359",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_716343-MLA99982884809_112025-F.webp"
-      },
-      {
-        "name": "Galaxy Tab A9",
-        "brand": "Samsung",
-        "detailedModel": "SM-X115N",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_826577-MLA96868181557_102025-F.webp"
-      },
-      {
-        "name": "Tab 10L Gen 3",
-        "brand": "TCL",
-        "detailedModel": "8193A1-JALCBR11",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_715797-MLA99453120962_112025-F.webp"
-      },
-      {
-        "name": "E1035",
-        "brand": "Easytech",
-        "detailedModel": "E1035",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_803583-MLB103763554255_012026-F.webp"
-      },
-      {
-        "name": "PC036",
-        "brand": "Acrensly",
-        "detailedModel": "PC036",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_668332-MLA105655711815_012026-F.webp"
-      },
-      {
-        "name": "Galaxy Tab S10 FE",
-        "brand": "Samsung",
-        "detailedModel": "SM-X520N",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_820024-MLA99950929155_112025-F.webp"
-      },
-      {
-        "name": "Tab Plus Pro",
-        "brand": "Amiyo",
-        "detailedModel": "A06PLUS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_957744-MLA99926493433_112025-F.webp"
-      },
-      {
-        "name": "Mil10",
-        "brand": "Milii",
-        "detailedModel": "Mil10 6GB + 256GB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_771653-MLB93835011121_092025-F-tablet-pc-mil10-6gb-ram-256gb-tela-10-teclado-caneta-milli.webp"
-      },
-      {
-        "name": "Idea Tab",
-        "brand": "Lenovo",
-        "detailedModel": "ZAFR0856BR",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_786165-MLA104009600019_012026-F.webp"
-      },
-      {
-        "name": "MatePad 11.5 New",
-        "brand": "Huawei",
-        "detailedModel": "BartokR-W09B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_666272-MLA99470513794_112025-F.webp"
-      },
-      {
-        "name": "M17",
-        "brand": "Acrensly",
-        "detailedModel": "M17",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_784137-MLA105396715151_012026-F.webp"
-      },
-      {
-        "name": "PC036",
-        "brand": "Acrensly",
-        "detailedModel": "PC036-NGBR00",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_934046-MLA106041578725_012026-F.webp"
-      },
-      {
-        "name": "Pad 7",
-        "brand": "Xiaomi",
-        "detailedModel": "2410CRP4CG",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_681634-MLA100021287705_122025-F.webp"
-      },
-      {
-        "name": "TL12",
-        "brand": "VAIO",
-        "detailedModel": "TL12",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_606013-MLA99469527922_112025-F.webp"
-      },
-      {
-        "name": "SE Pro",
-        "brand": "Atouch",
-        "detailedModel": "SE Pro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_958225-MLA99521780844_122025-F.webp"
-      },
-      {
-        "name": "E1035 8gb 256gb kit",
-        "brand": "Easytech",
-        "detailedModel": "EASYTECH-E1035",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_932495-MLB90455241189_082025-F.webp"
-      },
-      {
-        "name": "Mirage 2022",
-        "brand": "Mirage",
-        "detailedModel": "2022",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_827023-MLA99562259604_122025-F.webp"
-      }
-    ],
-    "smartvs": [
-      {
-        "name": "P58KGA",
-        "brand": "Philco",
-        "detailedModel": "P58KGA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_922530-MLA99453302308_112025-F.webp"
-      },
-      {
-        "name": "P32VIK",
-        "brand": "Philco",
-        "detailedModel": "P32VIK",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_691057-MLA100479527690_122025-F.webp"
-      },
-      {
-        "name": "43LR671C-B",
-        "brand": "LG",
-        "detailedModel": "43LR671C0SA.AWZ",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_929244-MLA104540336039_012026-F.webp"
-      },
-      {
-        "name": "32WDSNMX",
-        "brand": "Weyon",
-        "detailedModel": "32WDSNMX",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_824259-MLA99939289013_112025-F.webp"
-      },
-      {
-        "name": "75C7K",
-        "brand": "TCL",
-        "detailedModel": "75C7K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_782739-MLA103359617310_012026-F.webp"
-      },
-      {
-        "name": "UN43F6000FGXZD",
-        "brand": "Samsung",
-        "detailedModel": "F6000F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_668133-MLA99998133323_112025-F.webp"
-      },
-      {
-        "name": "55NANO80ASA",
-        "brand": "LG",
-        "detailedModel": "55NANO80ASA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_925791-MLA99949981259_112025-F.webp"
-      },
-      {
-        "name": "QN55QN70FAGXZD",
-        "brand": "Samsung",
-        "detailedModel": "QN70F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_962799-MLA94529301574_102025-F.webp"
-      },
-      {
-        "name": "PTV50VA4REGB",
-        "brand": "Philco",
-        "detailedModel": "PTV50VA4REGB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_764025-MLA99481366708_112025-F.webp"
-      },
-      {
-        "name": "LH55BEFH4GGXZD",
-        "brand": "Samsung",
-        "detailedModel": "LH55BEFH4GGXZD",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_807592-MLA96970001108_112025-F.webp"
-      },
-      {
-        "name": "LH65BEFH4GGXZD",
-        "brand": "Samsung",
-        "detailedModel": "LH65BEFH4GGXZD",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_712967-MLA96969981644_112025-F.webp"
-      },
-      {
-        "name": "32WDSNMX",
-        "brand": "Weyon",
-        "detailedModel": "32WDSNMX",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_824259-MLA99939289013_112025-F.webp"
-      },
-      {
-        "name": "40S5K",
-        "brand": "TCL",
-        "detailedModel": "40S5K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_960083-MLA103757070263_012026-F.webp"
-      },
-      {
-        "name": "AWS-TV-50-BL-02-A",
-        "brand": "Aiwa",
-        "detailedModel": "AWS-TV-50-BL-02-A",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_768600-MLA99887667399_112025-F.webp"
-      },
-      {
-        "name": "UN43U8100FGXZD",
-        "brand": "Samsung",
-        "detailedModel": "U8100F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_648933-MLA99498284868_112025-F.webp"
-      },
-      {
-        "name": "32LR600BPSA",
-        "brand": "LG",
-        "detailedModel": "32LR600BPSA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_934018-MLA99576753908_122025-F.webp"
-      },
-      {
-        "name": "70PUG7019/78",
-        "brand": "Philips",
-        "detailedModel": "70PUG7019/78",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_974454-MLA99928210341_112025-F.webp"
-      },
-      {
-        "name": "43AU801C0SA",
-        "brand": "LG",
-        "detailedModel": "43AU801C0SA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_663736-MLA101387825184_122025-F.webp"
-      },
-      {
-        "name": "50P7K",
-        "brand": "TCL",
-        "detailedModel": "50P7K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_629030-MLA103240702876-012026-F.webp"
-      },
-      {
-        "name": "LS43F6000FGXZD",
-        "brand": "Samsung",
-        "detailedModel": "LS43F6000FGXZD",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_850374-MLA103344560695_012026-F.webp"
-      },
-      {
-        "name": "50S62",
-        "brand": "Semp",
-        "detailedModel": "50S62",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644662-MLA103737769538_012026-F.webp"
-      },
-      {
-        "name": "75P7K",
-        "brand": "TCL",
-        "detailedModel": "75P7K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_884010-MLA103850766403_012026-F.webp"
-      },
-      {
-        "name": "50UA8550PSA",
-        "brand": "LG",
-        "detailedModel": "50UA8550PSA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_674822-MLA96870825149_102025-F.webp"
-      },
-      {
-        "name": "43UA7500PSA",
-        "brand": "LG",
-        "detailedModel": "43UA7500PSA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_948824-MLA96872931345_102025-F.webp"
-      },
-      {
-        "name": "PTV50G7PR2CSB",
-        "brand": "Philco",
-        "detailedModel": "PTV50G7PR2CSB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_927144-MLA99525728168_122025-F.webp"
-      },
-      {
-        "name": "PTV58G7PAGCSBL",
-        "brand": "Philco",
-        "detailedModel": "PTV58G7PAGCSBL",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_664347-MLA99475191648_112025-F.webp"
-      },
-      {
-        "name": "BE55D-H",
-        "brand": "Samsung",
-        "detailedModel": "LH55BEDHVGGXZ",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644006-MLA99414862844_112025-F.webp"
-      },
-      {
-        "name": "TL081E",
-        "brand": "Multi",
-        "detailedModel": "TL081E",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_615358-MLA99991190537_112025-F.webp"
-      },
-      {
-        "name": "32LR600BPSA",
-        "brand": "LG",
-        "detailedModel": "32LR600BPSA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_934018-MLA99576753908_122025-F.webp"
-      },
-      {
-        "name": "43S5K",
-        "brand": "TCL",
-        "detailedModel": "43S5K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_954980-MLA103322421580_012026-F.webp"
-      },
-      {
-        "name": "65P7K",
-        "brand": "TCL",
-        "detailedModel": "65P7K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_681302-MLA103364086954_012026-F.webp"
-      },
-      {
-        "name": "BTV43VA4REGB",
-        "brand": "Britânia",
-        "detailedModel": "BTV43VA4REGB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_763506-MLA99463576368_112025-F.webp"
-      }
-    ],
-    "smartphones": [
-      {
-        "name": "Galaxy S24 Plus (Exynos)",
-        "brand": "Samsung",
-        "detailedModel": "SM-S926B/DS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_697434-MLA99504410690_112025-F.webp"
-      },
-      {
-        "name": "Moto G53 5G",
-        "brand": "Motorola",
-        "detailedModel": "Moto G53",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778225-MLA96148661865_102025-F.webp"
-      },
-      {
-        "name": "iPhone 15",
-        "brand": "Apple",
-        "detailedModel": "iPhone 15",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_841858-MLA95934002967_102025-F.webp"
-      },
-      {
-        "name": "Moto G56",
-        "brand": "Motorola",
-        "detailedModel": "Moto G56 5G 256GB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_919734-MLA99464900322_112025-F.webp"
-      },
-      {
-        "name": "Redmi 15",
-        "brand": "Xiaomi",
-        "detailedModel": "RED158256CZ",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_743925-MLA99975530263_112025-F.webp"
-      },
-      {
-        "name": "iPhone 16",
-        "brand": "Apple",
-        "detailedModel": "iPhone 16",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_673808-MLA99443133132_112025-F.webp"
-      },
-      {
-        "name": "Galaxy S20 FE",
-        "brand": "Samsung",
-        "detailedModel": "128Gb",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_760728-MLU75812188356_042024-F.webp"
-      },
-      {
-        "name": "Galaxy S21 FE 5G (Exynos)",
-        "brand": "Samsung",
-        "detailedModel": "SM-G990B/DS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_945411-MLA99943082101_112025-F.webp"
-      },
-      {
-        "name": "Galaxy A26 5G",
-        "brand": "Samsung",
-        "detailedModel": "SM-A266M",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_792472-MLA100025549859_122025-F.webp"
-      },
-      {
-        "name": "Galaxy A56 5G",
-        "brand": "Samsung",
-        "detailedModel": "SM-A566EZKCLTL",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_638445-MLA100187155155_122025-F.webp"
-      },
-      {
-        "name": "Galaxy A16",
-        "brand": "Samsung",
-        "detailedModel": "SM-A165M/DS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_707658-MLA96866257617_102025-F.webp"
-      },
-      {
-        "name": "C63",
-        "brand": "Realme",
-        "detailedModel": "RMX3933",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_604226-MLA99459898948_112025-F.webp"
-      },
-      {
-        "name": "iPhone 17",
-        "brand": "Apple",
-        "detailedModel": "A3294",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_724430-MLA97899894923_112025-F.webp"
-      },
-      {
-        "name": "C75 5G",
-        "brand": "Realme",
-        "detailedModel": "RMX3963",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_668245-MLA98700782827_112025-F.webp"
-      },
-      {
-        "name": "Reno 14 F",
-        "brand": "Oppo",
-        "detailedModel": "CPH2743G",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_998452-MLA99403895480_112025-F.webp"
-      },
-      {
-        "name": "iPhone 17 Pro Max",
-        "brand": "Apple",
-        "detailedModel": "A3296",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_833928-MLA95712598444_102025-F.webp"
-      },
-      {
-        "name": "iPhone 17 Pro",
-        "brand": "Apple",
-        "detailedModel": "A3523",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_703919-MLA96100970363_102025-F.webp"
-      },
-      {
-        "name": "iPhone 14",
-        "brand": "Apple",
-        "detailedModel": "MPV03BE/A",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_893187-MLA95703116456_102025-F.webp"
-      },
-      {
-        "name": "Galaxy A25 5G",
-        "brand": "Samsung",
-        "detailedModel": "SM-A256EZKDLTL",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_991220-MLA99458992374_112025-F.webp"
-      },
-      {
-        "name": "GT7",
-        "brand": "Realme",
-        "detailedModel": "RMX5061",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_967980-MLA99974372283_112025-F.webp"
-      },
-      {
-        "name": "Moto E6i",
-        "brand": "Motorola",
-        "detailedModel": "XT2053-5",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_914986-MLA99504842974_112025-F.webp"
-      },
-      {
-        "name": "Moto G82 5G",
-        "brand": "Motorola",
-        "detailedModel": "XT2225-1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_935865-MLA99476915000_112025-F.webp"
-      },
-      {
-        "name": "K62+",
-        "brand": "LG",
-        "detailedModel": "LM-K525BMW",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_673941-MLA100071315831_122025-F.webp"
-      },
-      {
-        "name": "C20",
-        "brand": "Nokia",
-        "detailedModel": "NK038",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_617876-MLU77343225271_062024-F.webp"
-      },
-      {
-        "name": "iPhone 13",
-        "brand": "Apple",
-        "detailedModel": "A2634",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_644553-MLA95664299542_102025-F.webp"
-      },
-      {
-        "name": "Moto G31",
-        "brand": "Motorola",
-        "detailedModel": "XT2173-1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_909730-MLA99954036713_112025-F.webp"
-      },
-      {
-        "name": "2.4",
-        "brand": "Nokia",
-        "detailedModel": "TA-1274",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_910999-MLA95969984968_102025-F.webp"
-      },
-      {
-        "name": "Moto G35 5G",
-        "brand": "Motorola",
-        "detailedModel": "XT2433-2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_983786-MLA99479656582_112025-F.webp"
-      },
-      {
-        "name": "Moto G15",
-        "brand": "Motorola",
-        "detailedModel": "XT2521-2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_870845-MLA100041287939_122025-F.webp"
-      },
-      {
-        "name": "Edge 60 Fusion 5G",
-        "brand": "Motorola",
-        "detailedModel": "XT2503-1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_945110-MLA99420972908_112025-F.webp"
-      },
-      {
-        "name": "Moto G06",
-        "brand": "Motorola",
-        "detailedModel": "XT2535-1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_657060-MLA104761778541_012026-F.webp"
-      },
-      {
-        "name": "Moto G05",
-        "brand": "Motorola",
-        "detailedModel": "XT2523-2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_959928-MLA93411040754_092025-F.webp"
-      },
-      {
-        "name": "Moto G86 5G",
-        "brand": "Motorola",
-        "detailedModel": "XT2527-1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_680910-MLA93403249391_092025-F.webp"
-      },
-      {
-        "name": "Note 50X 5G",
-        "brand": "Infinix",
-        "detailedModel": "NOTE 50X 5G",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_938709-MLA97122170511_112025-F.webp"
-      },
-      {
-        "name": "F Pro 2",
-        "brand": "Multilaser",
-        "detailedModel": "P9153",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_861255-MLA99423572256_112025-F.webp"
-      },
-      {
-        "name": "Hot 50i",
-        "brand": "Infinix",
-        "detailedModel": "X6531",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_689433-MLA99962016097_112025-F.webp"
-      },
-      {
-        "name": "Note 40 5G",
-        "brand": "Infinix",
-        "detailedModel": "X6853",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_750275-MLA99932706575_112025-F.webp"
-      },
-      {
-        "name": "Galaxy A36 5G",
-        "brand": "Samsung",
-        "detailedModel": "SM-A366E/DS",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_968548-MLA99944961199_112025-F.webp"
-      },
-      {
-        "name": "Reno13 F",
-        "brand": "Oppo",
-        "detailedModel": "CPH2699",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_637273-MLA99939930173_112025-F.webp"
-      },
-      {
-        "name": "14T",
-        "brand": "Xiaomi",
-        "detailedModel": "2406APNFAG",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_621581-MLA95366030231_102025-F.webp"
-      },
-      {
-        "name": "Smart 10",
-        "brand": "Infinix",
-        "detailedModel": "Smart10",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_964227-MLA100071062557_122025-F.webp"
-      },
-      {
-        "name": "C73",
-        "brand": "Realme",
-        "detailedModel": "RMX5303",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_929245-MLA102616317533_122025-F.webp"
-      },
-      {
-        "name": "13+ 5G",
-        "brand": "Realme",
-        "detailedModel": "RMX5000",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_700337-MLA99969875369_112025-F.webp"
-      },
-      {
-        "name": "Redmi 14C",
-        "brand": "Xiaomi",
-        "detailedModel": "2409BRN2CA / 2409BRN2CC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_846868-MLA99991309231_112025-F.webp"
-      },
-      {
-        "name": "Moto G86 5G",
-        "brand": "Motorola",
-        "detailedModel": "XT2527-1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_610845-MLA100007418929_122025-F.webp"
-      },
-      {
-        "name": "G Max 2 (8 Mpx)",
-        "brand": "Multilaser",
-        "detailedModel": "P9183",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_760252-MLA91613848456_092025-F.webp"
-      },
-      {
-        "name": "Redmi 14C Azul",
-        "brand": "Xiaomi",
-        "detailedModel": "2409BRN2CL",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_794639-MLB88631772496_072025-F.webp"
-      },
-      {
-        "name": "K41s",
-        "brand": "LG",
-        "detailedModel": "LG K41s (K410BMW/K410ZMW/K410FMW/K410EMW)",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_906289-MLA99372291278_112025-F.webp"
-      }
-    ],
-    "cpus": [
-      {
-        "name": "Core i3-6100",
-        "brand": "Intel",
-        "detailedModel": "i3-6100",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_708440-MLA99473310232_112025-F.webp"
-      },
-      {
-        "name": "Core i3-550",
-        "brand": "Intel",
-        "detailedModel": "i3-550",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_767061-MLA99525926448_122025-F.webp"
-      },
-      {
-        "name": "Core i5-12400F",
-        "brand": "Intel",
-        "detailedModel": "i5-12400F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_702511-MLA99969847587_112025-F.webp"
-      },
-      {
-        "name": "Core i5-3570",
-        "brand": "Intel",
-        "detailedModel": "i5-3570",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_720487-MLA99516839598_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 5600GT",
-        "brand": "AMD",
-        "detailedModel": "5600GT",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_975621-MLA99589746250_122025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 5500",
-        "brand": "AMD",
-        "detailedModel": "5500",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_806163-MLA99416647702_112025-F.webp"
-      },
-      {
-        "name": "Core i5-2400",
-        "brand": "Intel",
-        "detailedModel": "i5-2400",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_973234-MLA96061427502_102025-F.webp"
-      },
-      {
-        "name": "FX-4300",
-        "brand": "AMD",
-        "detailedModel": "4300",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_841234-MLA99932608425_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 7 5700",
-        "brand": "AMD",
-        "detailedModel": "5700",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_796826-MLA99992353565_112025-F.webp"
-      },
-      {
-        "name": "Core i3-8100",
-        "brand": "Intel",
-        "detailedModel": "i3-8100",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_613285-MLA99505520286_112025-F.webp"
-      },
-      {
-        "name": "Core i9-11900KF",
-        "brand": "Intel",
-        "detailedModel": "i9-11900KF",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_953420-MLA99464965208_112025-F.webp"
-      },
-      {
-        "name": "Core i7-14700F",
-        "brand": "Intel",
-        "detailedModel": "i7-14700F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_766312-MLA104778140766_012026-F.webp"
-      },
-      {
-        "name": "Ryzen 9 7900X",
-        "brand": "AMD",
-        "detailedModel": "7900X",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_618579-MLA99472299804_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 8400F",
-        "brand": "AMD",
-        "detailedModel": "8400F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_784158-MLA101785131978_122025-F.webp"
-      },
-      {
-        "name": "Core i9-11900F",
-        "brand": "Intel",
-        "detailedModel": "i9-11900F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_922246-MLA48892332019_012022-F.webp"
-      },
-      {
-        "name": "Core i3-2100",
-        "brand": "Intel",
-        "detailedModel": "i3-2100",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_966205-MLA44208661425_112020-F.webp"
-      },
-      {
-        "name": "Ryzen 5 8600G",
-        "brand": "AMD",
-        "detailedModel": "8600G",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_707101-MLA99455205676_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 7 7700X",
-        "brand": "AMD",
-        "detailedModel": "7700X",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_742266-MLA99578794952_122025-F.webp"
-      },
-      {
-        "name": "Ryzen 9 9900X3D",
-        "brand": "AMD",
-        "detailedModel": "9900X3D",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_855799-MLA99507213716_112025-F.webp"
-      },
-      {
-        "name": "Core i5-3470",
-        "brand": "Intel",
-        "detailedModel": "i5-3470",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_895214-MLA99510191120_112025-F.webp"
-      },
-      {
-        "name": "Core i5-14600KF",
-        "brand": "Intel",
-        "detailedModel": "i5-14600KF",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_871068-MLA99469890224_112025-F.webp"
-      },
-      {
-        "name": "Core i5-14400",
-        "brand": "Intel",
-        "detailedModel": "i5-14400",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_781930-MLA99998952937_112025-F.webp"
-      },
-      {
-        "name": "Core i5-3470",
-        "brand": "Intel",
-        "detailedModel": "i5-3470",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_668602-MLB98354862557_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 7 7800X3D",
-        "brand": "AMD",
-        "detailedModel": "7800X3D",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_772047-MLA99415879120_112025-F.webp"
-      },
-      {
-        "name": "Core i5-10400",
-        "brand": "Intel",
-        "detailedModel": "i5-10400",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_861698-MLA91648259910_092025-F.webp"
-      },
-      {
-        "name": "Ryzen 7 9800X3D",
-        "brand": "AMD",
-        "detailedModel": "9800X3D",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_731713-MLA99495051775_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 7600",
-        "brand": "AMD",
-        "detailedModel": "7600",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_987231-MLA100064086037_122025-F.webp"
-      },
-      {
-        "name": "Core i3-12100F",
-        "brand": "Intel",
-        "detailedModel": "i3-12100F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_813184-MLA100025376007_122025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 7600X",
-        "brand": "AMD",
-        "detailedModel": "7600X",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_805082-MLA99484774608_112025-F.webp"
-      },
-      {
-        "name": "Core i5-3330",
-        "brand": "Intel",
-        "detailedModel": "i5-3330",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_790207-MLA99465015710_112025-F.webp"
-      },
-      {
-        "name": "Core i5-12400",
-        "brand": "Intel",
-        "detailedModel": "i5-12400",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_897007-MLA99584240318_122025-F.webp"
-      },
-      {
-        "name": "Core i7-12700F",
-        "brand": "Intel",
-        "detailedModel": "i7-12700F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_635854-MLA99934709337_112025-F.webp"
-      },
-      {
-        "name": "Core i7-14700F",
-        "brand": "Intel",
-        "detailedModel": "i7-14700F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_766312-MLA104778140766_012026-F.webp"
-      },
-      {
-        "name": "Athlon 3000G",
-        "brand": "AMD",
-        "detailedModel": "3000G",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_919236-MLA99479471016_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 9600X",
-        "brand": "AMD",
-        "detailedModel": "9600X",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_663745-MLA99988664359_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 5600",
-        "brand": "AMD",
-        "detailedModel": "5600",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_694892-MLA99468203890_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 5600T",
-        "brand": "AMD",
-        "detailedModel": "5600T",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970975-MLA100049329519_122025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 4500",
-        "brand": "AMD",
-        "detailedModel": "4500",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_967186-MLA99939114401_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 8500G",
-        "brand": "AMD",
-        "detailedModel": "8500G",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_844455-MLA99991964421_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 7 5700",
-        "brand": "AMD",
-        "detailedModel": "5700",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_796826-MLA99992353565_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 5 5600XT",
-        "brand": "AMD",
-        "detailedModel": "5600XT",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_701674-MLA99957303433_112025-F.webp"
-      },
-      {
-        "name": "Ryzen 3 3200G",
-        "brand": "AMD",
-        "detailedModel": "3200G",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_641806-MLA99527450778_122025-F.webp"
-      }
-    ],
-    "cameras": [
-      {
-        "name": "Hero12 Black",
-        "brand": "GoPro",
-        "detailedModel": "CHDHX-121-RW",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_730021-MLA99583122530_122025-F.webp"
-      },
-      {
-        "name": "Hero13 Black",
-        "brand": "GoPro",
-        "detailedModel": "CHDRB-133-RW",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_812111-MLA99929366063_112025-F.webp"
-      },
-      {
-        "name": "Max 360",
-        "brand": "GoPro",
-        "detailedModel": "CHDHZ-203-RW",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_979436-MLA100187145761_122025-F.webp"
-      },
-      {
-        "name": "Hero13 Black",
-        "brand": "GoPro",
-        "detailedModel": "CHDHX-131-RW",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_857219-MLA99391123950_112025-F.webp"
-      },
-      {
-        "name": "HERO 4K",
-        "brand": "GoPro",
-        "detailedModel": "CHDHF-131-AT",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_853997-MLA99870127093_112025-F.webp"
-      },
-      {
-        "name": "A6700",
-        "brand": "Sony",
-        "detailedModel": "ILCE-6700",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_686030-MLA99367373890_112025-F.webp"
-      },
-      {
-        "name": "A10 Body",
-        "brand": "SJCAM",
-        "detailedModel": "A10 Body",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_987173-MLA99581909802_122025-F.webp"
-      },
-      {
-        "name": "ZV-E10 II",
-        "brand": "Sony",
-        "detailedModel": "ILCE-ZVE10M2K",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_659867-MLA100056280635_122025-F.webp"
-      },
-      {
-        "name": "Rebel T7",
-        "brand": "Canon",
-        "detailedModel": "EOS 2000D / Rebel T7",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_607413-MLA99473380696_112025-F.webp"
-      },
-      {
-        "name": "EOS R100",
-        "brand": "Canon",
-        "detailedModel": "EOS R100 with RF-S 18-45mm",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_682960-MLA99451136186_112025-F.webp"
-      },
-      {
-        "name": "BA-CAM215",
-        "brand": "Basike",
-        "detailedModel": "BA-CAM215",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_670436-MLB92100918634_092025-F-cmera-digital-4k-ultra-hd-64mp-com-zoom-af-tela-dupla.webp"
-      },
-      {
-        "name": "A7 IV",
-        "brand": "Sony",
-        "detailedModel": "ILCE-7M4/B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_628243-MLA99979900099_112025-F.webp"
-      },
-      {
-        "name": "ZV-E10",
-        "brand": "Sony",
-        "detailedModel": "ILCZVE10 / Lente 16-50mm",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_611746-MLA99455212054_112025-F.webp"
-      },
-      {
-        "name": "PYXIS 6K",
-        "brand": "Blackmagic Design",
-        "detailedModel": "CINECAMCPYXD60LFEF (Canon EF)",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_772451-MLA100037955413_122025-F.webp"
-      },
-      {
-        "name": "Osmo Nano",
-        "brand": "DJI",
-        "detailedModel": "Osmo Nano Standard 128GB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_823735-MLA105332811482_012026-F-camera-de-aco-dji-osmo-nano-standard-128gb-preto.webp"
-      },
-      {
-        "name": "Pocket Cinema 6K G2",
-        "brand": "Blackmagic Design",
-        "detailedModel": "CINECAMPOCHDEF6K2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_781541-MLA99400032662_112025-F.webp"
-      },
-      {
-        "name": "FX30",
-        "brand": "Sony",
-        "detailedModel": "ILME-FX30B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_990522-MLA99970863605_112025-F.webp"
-      },
-      {
-        "name": "ZV-E10 II",
-        "brand": "Sony",
-        "detailedModel": "ILCE-ZVE10M2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_796097-MLA100016308635_122025-F.webp"
-      },
-      {
-        "name": "H9R EIS",
-        "brand": "EKEN",
-        "detailedModel": "H9R",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_687100-MLB89833900752_082025-F.webp"
-      },
-      {
-        "name": "SJ4000",
-        "brand": "SJCAM",
-        "detailedModel": "SJ4000 WiFi",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_724448-MLA97395445796_112025-F.webp"
-      },
-      {
-        "name": "ZV-1",
-        "brand": "Sony",
-        "detailedModel": "DCZV1/B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_727909-MLA99468505172_112025-F.webp"
-      },
-      {
-        "name": "A7 III",
-        "brand": "Sony",
-        "detailedModel": "ILCE7M3K-B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_947684-MLA99402299766_112025-F.webp"
-      },
-      {
-        "name": "080-preta",
-        "brand": "Acrensly",
-        "detailedModel": "HD Digital Camera",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_675912-MLA100475729854_122025-F.webp"
-      }
-    ],
-    "ar-condicionado": [
-      {
-        "name": "CCB10F",
-        "brand": "Consul",
-        "detailedModel": "CCB10F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_931498-MLA99939956835_112025-F.webp"
-      },
-      {
-        "name": "CCB07FB",
-        "brand": "Consul",
-        "detailedModel": "CCB07FB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_712967-MLA99388471618_112025-F.webp"
-      },
-      {
-        "name": "CCN07EB",
-        "brand": "Consul",
-        "detailedModel": "CCN07EB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_952763-MLU73213834909_122023-F.webp"
-      },
-      {
-        "name": "KV-ACJ-ELET",
-        "brand": "Kian",
-        "detailedModel": "KV-ACJ-ELET",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_783755-MLA98882484461_112025-F.webp"
-      },
-      {
-        "name": "VTR-2VT",
-        "brand": "VTR ELETRONICS",
-        "detailedModel": "MINI CLIMATIZADOR",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_752372-MLA99995725591_112025-F.webp"
-      },
-      {
-        "name": "PAC9FB",
-        "brand": "Philco",
-        "detailedModel": "PAC9FB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_830937-MLA99932316841_112025-F.webp"
-      },
-      {
-        "name": "HJQE09C2CC",
-        "brand": "Elgin",
-        "detailedModel": "HJQE09C2CC-HJQI09C2WC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_873448-MLA98140273367_112025-F.webp"
-      },
-      {
-        "name": "Prime Air 9FC",
-        "brand": "Britânia",
-        "detailedModel": "PRIME AIR 9FC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_969183-MLA99888990131_112025-F.webp"
-      },
-      {
-        "name": "Voice +AI",
-        "brand": "LG",
-        "detailedModel": "Voice +AI",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_697001-MLA99563539662_122025-F.webp"
-      },
-      {
-        "name": "MPH-12CRV1",
-        "brand": "Midea",
-        "detailedModel": "MPH-12CRV",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_784612-MLA98823688728_112025-F.webp"
-      },
-      {
-        "name": "Color Adapt",
-        "brand": "Electrolux",
-        "detailedModel": "YI12F/YE12F",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_752001-MLA100001155415_112025-F.webp"
-      },
-      {
-        "name": "WindFree AI",
-        "brand": "Samsung",
-        "detailedModel": "WF AI Frio",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_753644-MLA99451198906_112025-F.webp"
-      },
-      {
-        "name": "S3-Q09AAQAK",
-        "brand": "LG",
-        "detailedModel": "S3-Q09AAQAK",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_915000-MLA99433689578_112025-F.webp"
-      },
-      {
-        "name": "S3UQ09AA31C",
-        "brand": "LG",
-        "detailedModel": "S3UQ09AA31C.EB2GAM1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_614207-MLA98397051885_112025-F.webp"
-      },
-      {
-        "name": "HJFI12C2WB",
-        "brand": "Elgin",
-        "detailedModel": "HJFI12C2WB / HJFE12C2CB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_964072-MLA99554953128_122025-F.webp"
-      },
-      {
-        "name": "PAC9FB",
-        "brand": "Philco",
-        "detailedModel": "PAC9FB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_773185-MLA99508095402_112025-F.webp"
-      },
-      {
-        "name": "HJFE09C2CC",
-        "brand": "Elgin",
-        "detailedModel": "HJFE09C2CC / HJFI09C2WC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_705261-MLA99988239757_112025-F.webp"
-      },
-      {
-        "name": "KV-ACJ-ELET",
-        "brand": "Kian",
-        "detailedModel": "KV-ACJ-ELET",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_783755-MLA98882484461_112025-F.webp"
-      },
-      {
-        "name": "GJC07BV-A6NMND1A",
-        "brand": "Gree",
-        "detailedModel": "GJC07BV-A6NMND1A",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_771955-MLA99413632356_112025-F.webp"
-      },
-      {
-        "name": "S3-W24K231A",
-        "brand": "LG",
-        "detailedModel": "S3UW24K231A.EB2GAM1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_868513-MLA99405356170_112025-F.webp"
-      },
-      {
-        "name": "HJFE12C2CD",
-        "brand": "Elgin",
-        "detailedModel": "HJFE12C2CD / HJFI12C2WD",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_622513-MLA99521778628_122025-F.webp"
-      },
-      {
-        "name": "PAC12000QF5",
-        "brand": "Philco",
-        "detailedModel": "PAC12000QF5",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_993676-MLA99470514992_112025-F.webp"
-      },
-      {
-        "name": "HJFE30C2CB",
-        "brand": "Elgin",
-        "detailedModel": "HJFE30C2CB / HJFI30C2WB",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_614534-MLA100012391495_122025-F.webp"
-      },
-      {
-        "name": "PAC18FC",
-        "brand": "Philco",
-        "detailedModel": "PAC18FC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778515-MLA99940510711_112025-F.webp"
-      },
-      {
-        "name": "S3UQ18KL31B",
-        "brand": "LG",
-        "detailedModel": "S3UQ18KL31B.EB2GAM1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_697001-MLA99563539662_122025-F.webp"
-      },
-      {
-        "name": "HJQE12C2CD",
-        "brand": "Elgin",
-        "detailedModel": "HJQE12C2CD / HJQI12C2WD",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_958094-MLA93958375647_102025-F.webp"
-      },
-      {
-        "name": "PAC12000F5",
-        "brand": "Philco",
-        "detailedModel": "PAC12000F5",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_632945-MLA99961007401_112025-F.webp"
-      },
-      {
-        "name": "KV-ACJ-ELET",
-        "brand": "Kian",
-        "detailedModel": "KV-ACJ-ELET",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_740438-MLA105346891775_012026-F.webp"
-      },
-      {
-        "name": "PAC12FC",
-        "brand": "Philco",
-        "detailedModel": "PAC12FC",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_607568-MLA99924798865_112025-F.webp"
-      },
-      {
-        "name": "AS-12TW2RLRCK00E",
-        "brand": "Hisense",
-        "detailedModel": "AS-12TW2RLRCK00E",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_844147-MLA104250858950_012026-F.webp"
-      },
-      {
-        "name": "S3UQ09JA31E",
-        "brand": "LG",
-        "detailedModel": "S3UQ09JA31E.EB2GAM1",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_880344-MLA99423241978_112025-F.webp"
-      },
-      {
-        "name": "MPPA-12CRV1",
-        "brand": "Midea",
-        "detailedModel": "MPPA-12CRV1 / MPPA-12CRV2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_983289-MLA100005510219_122025-F.webp"
-      },
-      {
-        "name": "S3UW12JA31A",
-        "brand": "LG",
-        "detailedModel": "S3UW12JA31A",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_802183-MLA99891197435_112025-F.webp"
       }
     ]
   }

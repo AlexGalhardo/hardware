@@ -1,12 +1,12 @@
 "use client";
 
-import { useState, useMemo, useEffect, useRef } from "react";
+import Fuse from "fuse.js";
 import { Search } from "lucide-react";
-import { Dialog, DialogContent } from "@/components/ui/dialog";
-import { Input } from "@/components/ui/input";
 import Image from "next/image";
 import Link from "next/link";
-import Fuse from "fuse.js";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { Dialog, DialogContent } from "@/components/ui/dialog";
+import { Input } from "@/components/ui/input";
 import type { Product } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
@@ -134,6 +134,7 @@ export function SearchModal({ allProducts }: SearchModalProps) {
 	return (
 		<>
 			<button
+				type="button"
 				onClick={() => setIsOpen(true)}
 				className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-muted transition-colors text-sm border w-full sm:w-auto"
 				title="Buscar produtos (Ctrl+K)"

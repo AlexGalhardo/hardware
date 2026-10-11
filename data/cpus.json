@@ -106,8 +106,8 @@
 				"costBenefit": 6.5,
 				"singleCorePerformance": 5.5,
 				"multiCorePerformance": 4.5,
-				"gaming": 4.0,
-				"powerEfficiency": 7.0
+				"gaming": 4,
+				"powerEfficiency": 7
 			}
 		}
 	},
@@ -209,10 +209,10 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 5.0,
-				"singleCorePerformance": 3.0,
+				"costBenefit": 5,
+				"singleCorePerformance": 3,
 				"multiCorePerformance": 2.5,
-				"gaming": 2.0,
+				"gaming": 2,
 				"powerEfficiency": 4.5
 			}
 		}
@@ -324,8 +324,8 @@
 				"costBenefit": 8.5,
 				"singleCorePerformance": 7.5,
 				"multiCorePerformance": 7.5,
-				"gaming": 8.0,
-				"powerEfficiency": 8.0
+				"gaming": 8,
+				"powerEfficiency": 8
 			}
 		}
 	},
@@ -427,8 +427,8 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 6.0,
-				"singleCorePerformance": 5.0,
+				"costBenefit": 6,
+				"singleCorePerformance": 5,
 				"multiCorePerformance": 4.5,
 				"gaming": 4.5,
 				"powerEfficiency": 5.5
@@ -533,9 +533,9 @@
 				"boxContents": ["Processador AMD Ryzen 5 5600GT", "Cooler Wraith Stealth"]
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"singleCorePerformance": 7.5,
-				"multiCorePerformance": 7.0,
+				"multiCorePerformance": 7,
 				"gaming": 7.5,
 				"powerEfficiency": 8.5
 			}
@@ -640,10 +640,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"singleCorePerformance": 7.0,
-				"multiCorePerformance": 7.0,
+				"singleCorePerformance": 7,
+				"multiCorePerformance": 7,
 				"gaming": 7.5,
-				"powerEfficiency": 8.0
+				"powerEfficiency": 8
 			}
 		}
 	},
@@ -746,7 +746,7 @@
 			},
 			"ratings": {
 				"costBenefit": 5.5,
-				"singleCorePerformance": 4.0,
+				"singleCorePerformance": 4,
 				"multiCorePerformance": 3.5,
 				"gaming": 3.5,
 				"powerEfficiency": 4.5
@@ -851,11 +851,11 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 4.0,
-				"singleCorePerformance": 3.0,
+				"costBenefit": 4,
+				"singleCorePerformance": 3,
 				"multiCorePerformance": 3.5,
-				"gaming": 3.0,
-				"powerEfficiency": 3.0
+				"gaming": 3,
+				"powerEfficiency": 3
 			}
 		}
 	},
@@ -959,8 +959,8 @@
 			"ratings": {
 				"costBenefit": 7.5,
 				"singleCorePerformance": 7.5,
-				"multiCorePerformance": 8.0,
-				"gaming": 7.0,
+				"multiCorePerformance": 8,
+				"gaming": 7,
 				"powerEfficiency": 8.5
 			}
 		}
@@ -1064,10 +1064,10 @@
 			},
 			"ratings": {
 				"costBenefit": 6.5,
-				"singleCorePerformance": 6.0,
+				"singleCorePerformance": 6,
 				"multiCorePerformance": 5.5,
-				"gaming": 5.0,
-				"powerEfficiency": 7.0
+				"gaming": 5,
+				"powerEfficiency": 7
 			}
 		}
 	},
@@ -1170,7 +1170,7 @@
 			},
 			"ratings": {
 				"costBenefit": null,
-				"singleCorePerformance": 8.0,
+				"singleCorePerformance": 8,
 				"multiCorePerformance": 7.5,
 				"gaming": 8.5,
 				"powerEfficiency": 5.5
@@ -1276,10 +1276,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"singleCorePerformance": 9.0,
+				"singleCorePerformance": 9,
 				"multiCorePerformance": 8.5,
-				"gaming": 9.0,
-				"powerEfficiency": 7.0
+				"gaming": 9,
+				"powerEfficiency": 7
 			}
 		}
 	},
@@ -1381,9 +1381,9 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"singleCorePerformance": 9.5,
-				"multiCorePerformance": 9.0,
+				"multiCorePerformance": 9,
 				"gaming": 8.5,
 				"powerEfficiency": 7.5
 			}
@@ -1488,10 +1488,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"singleCorePerformance": 8.0,
+				"singleCorePerformance": 8,
 				"multiCorePerformance": 7.5,
 				"gaming": 7.8,
-				"powerEfficiency": 9.0
+				"powerEfficiency": 9
 			}
 		}
 	},
@@ -1596,7 +1596,7 @@
 				"costBenefit": 6.5,
 				"singleCorePerformance": 8.5,
 				"multiCorePerformance": 7.5,
-				"gaming": 7.0,
+				"gaming": 7,
 				"powerEfficiency": 5.5
 			}
 		}
@@ -1699,11 +1699,11 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 4.0,
-				"singleCorePerformance": 4.0,
-				"multiCorePerformance": 3.0,
+				"costBenefit": 4,
+				"singleCorePerformance": 4,
+				"multiCorePerformance": 3,
 				"gaming": 2.5,
-				"powerEfficiency": 6.0
+				"powerEfficiency": 6
 			}
 		}
 	},
@@ -1805,7 +1805,7 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"singleCorePerformance": 8.5,
 				"multiCorePerformance": 7.8,
 				"gaming": 8.5,
@@ -1914,8 +1914,8 @@
 				"costBenefit": 8.2,
 				"singleCorePerformance": 9.2,
 				"multiCorePerformance": 8.8,
-				"gaming": 9.0,
-				"powerEfficiency": 8.0
+				"gaming": 9,
+				"powerEfficiency": 8
 			}
 		}
 	},
@@ -2017,9 +2017,9 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"singleCorePerformance": 9.3,
-				"multiCorePerformance": 9.0,
+				"multiCorePerformance": 9,
 				"gaming": 9.8,
 				"powerEfficiency": 8.5
 			}
@@ -2123,10 +2123,10 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 5.0,
+				"costBenefit": 5,
 				"singleCorePerformance": 5.5,
-				"multiCorePerformance": 5.0,
-				"gaming": 4.0,
+				"multiCorePerformance": 5,
+				"gaming": 4,
 				"powerEfficiency": 6.5
 			}
 		}
@@ -2229,8 +2229,8 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"singleCorePerformance": 9.0,
+				"costBenefit": 9,
+				"singleCorePerformance": 9,
 				"multiCorePerformance": 8.8,
 				"gaming": 9.2,
 				"powerEfficiency": 7.5
@@ -2339,113 +2339,7 @@
 				"singleCorePerformance": 8.5,
 				"multiCorePerformance": 8.2,
 				"gaming": 8.5,
-				"powerEfficiency": 8.0
-			}
-		}
-	},
-	{
-		"id": "intel-core-i5-3470",
-		"name": "Core i5-3470",
-		"brand": "Intel",
-		"line": "Core i5",
-		"model": "i5-3470",
-		"alphanumericModel": "BX80557E2160",
-		"color": null,
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_668602-MLB98354862557_112025-F.webp",
-		"price": 0,
-		"releaseDate": "Q2 2012",
-		"releaseMonth": 6,
-		"releaseYear": 2012,
-		"origin": null,
-		"category": "cpus",
-		"subcategory": "processador",
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1xgzLnG",
-		"specs": {
-			"manufacturer": "Intel",
-			"series": "3ª Geração Ivy Bridge",
-			"architecture": "Ivy Bridge",
-			"lithography": "22 nm",
-			"socket": "FCLGA1155",
-			"application": "Computadores de mesa",
-			"cores": {
-				"count": 4,
-				"threads": 4,
-				"performanceCores": null,
-				"efficientCores": null
-			},
-			"frequency": {
-				"base": "3.2 GHz",
-				"boost": "3.6 GHz",
-				"allCoreBoost": null
-			},
-			"cache": {
-				"l1": "256 KB (64 KB por núcleo)",
-				"l2": "1 MB (256 KB por núcleo)",
-				"l3": "6 MB",
-				"total": "7.25 MB"
-			},
-			"memory": {
-				"types": ["DDR3-1333", "DDR3-1600"],
-				"maxSize": "32 GB",
-				"channels": 2,
-				"maxSpeed": "1600 MT/s",
-				"maxBandwidth": "25.6 GB/s"
-			},
-			"power": {
-				"tdp": "77 W",
-				"maxTurbo": null,
-				"baseWatts": null
-			},
-			"graphics": {
-				"hasIntegrated": true,
-				"model": "Intel HD Graphics 2500",
-				"brand": "Intel",
-				"baseFrequency": "650 MHz",
-				"maxFrequency": "1100 MHz",
-				"executionUnits": 6,
-				"computeUnits": null,
-				"directX": "11",
-				"openGL": "4.0",
-				"outputsSupport": null,
-				"maxDisplays": 3,
-				"maxResolution": null
-			},
-			"pcie": {
-				"version": "3.0",
-				"lanes": 16
-			},
-			"features": {
-				"unlocked": false,
-				"hyperThreading": false,
-				"turboBoost": true,
-				"precisionBoost": null,
-				"overclocking": false,
-				"virtualization": true,
-				"k4Support": false,
-				"ecc": false,
-				"secure": ["Intel AES-NI"]
-			},
-			"cooling": {
-				"type": "Ar",
-				"included": true,
-				"coolerModel": null
-			},
-			"temperature": {
-				"max": null,
-				"tjMax": "105 °C"
-			},
-			"other": {
-				"isGaming": true,
-				"isOEM": false,
-				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX"],
-				"boxContents": null
-			},
-			"ratings": {
-				"costBenefit": 5.0,
-				"singleCorePerformance": 5.5,
-				"multiCorePerformance": 5.0,
-				"gaming": 4.0,
-				"powerEfficiency": 6.5
+				"powerEfficiency": 8
 			}
 		}
 	},
@@ -2653,10 +2547,10 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 7.0,
-				"singleCorePerformance": 7.0,
+				"costBenefit": 7,
+				"singleCorePerformance": 7,
 				"multiCorePerformance": 7.5,
-				"gaming": 7.0,
+				"gaming": 7,
 				"powerEfficiency": 7.5
 			}
 		}
@@ -2760,7 +2654,7 @@
 			},
 			"ratings": {
 				"costBenefit": 9.2,
-				"singleCorePerformance": 9.0,
+				"singleCorePerformance": 9,
 				"multiCorePerformance": 8.7,
 				"gaming": 9.9,
 				"powerEfficiency": 8.8
@@ -2866,10 +2760,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"singleCorePerformance": 9.0,
+				"singleCorePerformance": 9,
 				"multiCorePerformance": 7.5,
 				"gaming": 8.5,
-				"powerEfficiency": 9.0
+				"powerEfficiency": 9
 			}
 		}
 	},
@@ -2971,10 +2865,10 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"singleCorePerformance": 8.5,
 				"multiCorePerformance": 6.5,
-				"gaming": 8.0,
+				"gaming": 8,
 				"powerEfficiency": 8.5
 			}
 		}
@@ -3078,10 +2972,10 @@
 			},
 			"ratings": {
 				"costBenefit": 7.5,
-				"singleCorePerformance": 9.0,
+				"singleCorePerformance": 9,
 				"multiCorePerformance": 7.5,
 				"gaming": 8.5,
-				"powerEfficiency": 7.0
+				"powerEfficiency": 7
 			}
 		}
 	},
@@ -3183,11 +3077,11 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 3.0,
+				"costBenefit": 3,
 				"singleCorePerformance": 3.5,
-				"multiCorePerformance": 3.0,
+				"multiCorePerformance": 3,
 				"gaming": 2.5,
-				"powerEfficiency": 4.0
+				"powerEfficiency": 4
 			}
 		}
 	},
@@ -3289,11 +3183,11 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"singleCorePerformance": 8.5,
-				"multiCorePerformance": 8.0,
+				"multiCorePerformance": 8,
 				"gaming": 8.5,
-				"powerEfficiency": 9.0
+				"powerEfficiency": 9
 			}
 		}
 	},
@@ -3397,115 +3291,9 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"singleCorePerformance": 8.5,
-				"multiCorePerformance": 9.0,
-				"gaming": 9.0,
-				"powerEfficiency": 8.0
-			}
-		}
-	},
-	{
-		"id": "intel-core-i7-14700f",
-		"name": "Core i7-14700F",
-		"brand": "Intel",
-		"line": "Core i7",
-		"model": "i7-14700F",
-		"alphanumericModel": "BX8071514700F",
-		"color": null,
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_766312-MLA104778140766_012026-F.webp",
-		"price": 0,
-		"releaseDate": "Q1 2024",
-		"releaseMonth": 1,
-		"releaseYear": 2024,
-		"origin": null,
-		"category": "cpus",
-		"subcategory": "processador",
-		"mercadolivreUrl": "https://mercadolivre.com/sec/2keBpe8",
-		"specs": {
-			"manufacturer": "Intel",
-			"series": "14th Generation Raptor Lake Refresh",
-			"architecture": "Raptor Lake",
-			"lithography": "7 nm",
-			"socket": "FCLGA1700",
-			"application": "Computadores de mesa",
-			"cores": {
-				"count": 20,
-				"threads": 28,
-				"performanceCores": 8,
-				"efficientCores": 12
-			},
-			"frequency": {
-				"base": "2.1 GHz",
-				"boost": "5.4 GHz",
-				"allCoreBoost": null
-			},
-			"cache": {
-				"l1": null,
-				"l2": "28 MB",
-				"l3": "33 MB",
-				"total": "61 MB"
-			},
-			"memory": {
-				"types": ["DDR4", "DDR5"],
-				"maxSize": "192 GB",
-				"channels": 2,
-				"maxSpeed": "DDR5-5600 / DDR4-3200",
-				"maxBandwidth": null
-			},
-			"power": {
-				"tdp": "65 W",
-				"maxTurbo": "219 W",
-				"baseWatts": null
-			},
-			"graphics": {
-				"hasIntegrated": false,
-				"model": null,
-				"brand": null,
-				"baseFrequency": null,
-				"maxFrequency": null,
-				"executionUnits": null,
-				"computeUnits": null,
-				"directX": null,
-				"openGL": null,
-				"outputsSupport": null,
-				"maxDisplays": null,
-				"maxResolution": null
-			},
-			"pcie": {
-				"version": "5.0",
-				"lanes": 20
-			},
-			"features": {
-				"unlocked": false,
-				"hyperThreading": true,
-				"turboBoost": true,
-				"precisionBoost": false,
-				"overclocking": false,
-				"virtualization": true,
-				"k4Support": true,
-				"ecc": false,
-				"secure": null
-			},
-			"cooling": {
-				"type": "Ar",
-				"included": true,
-				"coolerModel": "Intel Laminar RM1"
-			},
-			"temperature": {
-				"max": "100 °C",
-				"tjMax": "100 °C"
-			},
-			"other": {
-				"isGaming": true,
-				"isOEM": false,
-				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2", "AVX-512"],
-				"boxContents": null
-			},
-			"ratings": {
-				"costBenefit": 8.5,
-				"singleCorePerformance": 9.0,
-				"multiCorePerformance": 9.5,
-				"gaming": 9.0,
-				"powerEfficiency": 8.0
+				"multiCorePerformance": 9,
+				"gaming": 9,
+				"powerEfficiency": 8
 			}
 		}
 	},
@@ -3607,10 +3395,10 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 7.0,
-				"singleCorePerformance": 4.0,
+				"costBenefit": 7,
+				"singleCorePerformance": 4,
 				"multiCorePerformance": 3.5,
-				"gaming": 4.0,
+				"gaming": 4,
 				"powerEfficiency": 8.5
 			}
 		}
@@ -3713,10 +3501,10 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"singleCorePerformance": 9.5,
-				"multiCorePerformance": 8.0,
-				"gaming": 9.0,
+				"multiCorePerformance": 8,
+				"gaming": 9,
 				"powerEfficiency": 9.5
 			}
 		}
@@ -3819,11 +3607,11 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"singleCorePerformance": 8.0,
-				"multiCorePerformance": 8.0,
+				"costBenefit": 9,
+				"singleCorePerformance": 8,
+				"multiCorePerformance": 8,
 				"gaming": 8.5,
-				"powerEfficiency": 9.0
+				"powerEfficiency": 9
 			}
 		}
 	},
@@ -3925,11 +3713,11 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"singleCorePerformance": 8.5,
 				"multiCorePerformance": 8.5,
 				"gaming": 8.5,
-				"powerEfficiency": 9.0
+				"powerEfficiency": 9
 			}
 		}
 	},
@@ -4033,9 +3821,9 @@
 			"ratings": {
 				"costBenefit": 7.5,
 				"singleCorePerformance": 6.5,
-				"multiCorePerformance": 7.0,
+				"multiCorePerformance": 7,
 				"gaming": 6.5,
-				"powerEfficiency": 8.0
+				"powerEfficiency": 8
 			}
 		}
 	},
@@ -4141,115 +3929,9 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"singleCorePerformance": 8.5,
-				"multiCorePerformance": 8.0,
+				"multiCorePerformance": 8,
 				"gaming": 7.5,
-				"powerEfficiency": 9.0
-			}
-		}
-	},
-	{
-		"id": "amd-ryzen-7-5700",
-		"name": "Ryzen 7 5700",
-		"brand": "AMD",
-		"line": "Ryzen 7",
-		"model": "5700",
-		"alphanumericModel": "100-100000743BOX",
-		"color": null,
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_796826-MLA99992353565_112025-F.webp",
-		"price": 0,
-		"releaseDate": "Q2 2022",
-		"releaseMonth": 4,
-		"releaseYear": 2022,
-		"origin": null,
-		"category": "cpus",
-		"subcategory": "processador",
-		"mercadolivreUrl": "https://mercadolivre.com/sec/2S1LcTB",
-		"specs": {
-			"manufacturer": "AMD",
-			"series": "Ryzen 5000 Series",
-			"architecture": "Zen 3",
-			"lithography": "7 nm",
-			"socket": "AM4",
-			"application": "Computadores de mesa",
-			"cores": {
-				"count": 8,
-				"threads": 16,
-				"performanceCores": null,
-				"efficientCores": null
-			},
-			"frequency": {
-				"base": "3.7 GHz",
-				"boost": "4.6 GHz",
-				"allCoreBoost": null
-			},
-			"cache": {
-				"l1": "512 KB",
-				"l2": "4 MB",
-				"l3": "16 MB",
-				"total": "20.512 MB"
-			},
-			"memory": {
-				"types": ["DDR4"],
-				"maxSize": "128 GB",
-				"channels": 2,
-				"maxSpeed": "DDR4-3200",
-				"maxBandwidth": null
-			},
-			"power": {
-				"tdp": "65 W",
-				"maxTurbo": null,
-				"baseWatts": null
-			},
-			"graphics": {
-				"hasIntegrated": false,
-				"model": null,
-				"brand": null,
-				"baseFrequency": null,
-				"maxFrequency": null,
-				"executionUnits": null,
-				"computeUnits": null,
-				"directX": null,
-				"openGL": null,
-				"outputsSupport": null,
-				"maxDisplays": null,
-				"maxResolution": null
-			},
-			"pcie": {
-				"version": "4.0",
-				"lanes": 20
-			},
-			"features": {
-				"unlocked": true,
-				"hyperThreading": false,
-				"turboBoost": false,
-				"precisionBoost": true,
-				"overclocking": true,
-				"virtualization": true,
-				"k4Support": true,
-				"ecc": false,
-				"secure": null
-			},
-			"cooling": {
-				"type": "Ar",
-				"included": true,
-				"coolerModel": "Wraith Stealth"
-			},
-			"temperature": {
-				"max": null,
-				"tjMax": "95 °C"
-			},
-			"other": {
-				"isGaming": true,
-				"isOEM": false,
-				"instructionSet": ["x86-64", "AVX2"],
-				"boxContents": null
-			},
-			"ratings": {
-				"costBenefit": 8.5,
-				"singleCorePerformance": 8.0,
-				"multiCorePerformance": 8.5,
-				"gaming": 8.0,
-				"powerEfficiency": 9.0
+				"powerEfficiency": 9
 			}
 		}
 	},
@@ -4351,11 +4033,11 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"singleCorePerformance": 8.5,
 				"multiCorePerformance": 8.5,
 				"gaming": 8.5,
-				"powerEfficiency": 9.0
+				"powerEfficiency": 9
 			}
 		}
 	},
@@ -4457,10 +4139,10 @@
 				"boxContents": null
 			},
 			"ratings": {
-				"costBenefit": 6.0,
+				"costBenefit": 6,
 				"singleCorePerformance": 4.5,
-				"multiCorePerformance": 4.0,
-				"gaming": 4.0,
+				"multiCorePerformance": 4,
+				"gaming": 4,
 				"powerEfficiency": 7.5
 			}
 		}

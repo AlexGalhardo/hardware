@@ -99,9 +99,9 @@
 			"accessories": ["Cabo USB-C para USB-C", "Adaptador de energia USB-C de 20W"],
 			"ratings": {
 				"costBenefit": 8.5,
-				"display": 8.0,
-				"performance": 8.0,
-				"battery": 8.0,
+				"display": 8,
+				"performance": 8,
+				"battery": 8,
 				"productivity": 7.5
 			}
 		}
@@ -205,11 +205,11 @@
 			},
 			"accessories": ["Cabo USB-C para USB-C (1 metro)", "Adaptador de energia USB-C de 20W"],
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"display": 8.5,
-				"performance": 9.0,
+				"performance": 9,
 				"battery": 8.5,
-				"productivity": 9.0
+				"productivity": 9
 			}
 		}
 	},
@@ -295,7 +295,7 @@
 			"speakers": "Estéreo (2 alto-falantes)",
 			"processor_details": {
 				"cores": 6,
-				"speed": 3.0,
+				"speed": 3,
 				"graphicProcessor": "Apple GPU (4 núcleos)"
 			},
 			"sensors": [
@@ -315,8 +315,8 @@
 				"costBenefit": 7.5,
 				"display": 7.5,
 				"performance": 7.5,
-				"battery": 8.0,
-				"productivity": 7.0
+				"battery": 8,
+				"productivity": 7
 			}
 		}
 	},
@@ -419,11 +419,11 @@
 			},
 			"accessories": ["Cabo USB-C para USB-C (1 metro)", "Adaptador de energia USB-C de 20W"],
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"display": 8.5,
-				"performance": 9.0,
+				"performance": 9,
 				"battery": 8.5,
-				"productivity": 9.0
+				"productivity": 9
 			}
 		}
 	},
@@ -520,10 +520,10 @@
 			"accessories": ["Caneta Lenovo Tab Pen", "Case/Capa", "Cabo USB-C"],
 			"ratings": {
 				"costBenefit": 8.5,
-				"display": 8.0,
+				"display": 8,
 				"performance": 6.5,
 				"battery": 7.5,
-				"productivity": 8.0
+				"productivity": 8
 			}
 		}
 	},
@@ -619,9 +619,9 @@
 			},
 			"accessories": ["Cabo USB-C", "Ferramenta de ejeção SIM"],
 			"ratings": {
-				"costBenefit": 8.0,
-				"display": 6.0,
-				"performance": 6.0,
+				"costBenefit": 8,
+				"display": 6,
+				"performance": 6,
 				"battery": 7.5,
 				"productivity": 6.5
 			}
@@ -709,7 +709,7 @@
 			"speakers": "2 alto-falantes",
 			"processor_details": {
 				"cores": 8,
-				"speed": 2.0,
+				"speed": 2,
 				"graphicProcessor": "Mali-G52 MC2"
 			},
 			"sensors": ["Giroscópio", "Acelerômetro"],
@@ -725,10 +725,10 @@
 			],
 			"ratings": {
 				"costBenefit": 7.5,
-				"display": 7.0,
+				"display": 7,
 				"performance": 5.5,
-				"battery": 7.0,
-				"productivity": 6.0
+				"battery": 7,
+				"productivity": 6
 			}
 		}
 	},
@@ -824,7 +824,7 @@
 			"accessories": ["Cabo USB", "Fonte", "Abridor de compartimento"],
 			"ratings": {
 				"costBenefit": 8.5,
-				"display": 8.0,
+				"display": 8,
 				"performance": 7.5,
 				"battery": 8.5,
 				"productivity": 7.5
@@ -936,11 +936,11 @@
 				"Manual"
 			],
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"display": 6.5,
 				"performance": 6.5,
 				"battery": 7.5,
-				"productivity": 7.0
+				"productivity": 7
 			}
 		}
 	},
@@ -1025,7 +1025,7 @@
 			"speakers": "Estéreo",
 			"processor_details": {
 				"cores": 8,
-				"speed": 2.0,
+				"speed": 2,
 				"graphicProcessor": "Mali-G57"
 			},
 			"sensors": ["Acelerômetro", "Bússola", "Giroscópio", "Sensor de luz ambiente", "Sensor Hall"],
@@ -1038,7 +1038,7 @@
 				"costBenefit": 8.5,
 				"display": 8.5,
 				"performance": 7.5,
-				"battery": 8.0,
+				"battery": 8,
 				"productivity": 8.5
 			}
 		}
@@ -1136,8 +1136,8 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"display": 8.5,
-				"performance": 8.0,
-				"battery": 9.0,
+				"performance": 8,
+				"battery": 9,
 				"productivity": 8.5
 			}
 		}
@@ -1235,9 +1235,9 @@
 			"accessories": ["Capa", "Cabo USB-C", "Carregador USB"],
 			"ratings": {
 				"costBenefit": 7.5,
-				"display": 6.0,
+				"display": 6,
 				"performance": 5.5,
-				"battery": 7.0,
+				"battery": 7,
 				"productivity": 6.5
 			}
 		}
@@ -1341,11 +1341,11 @@
 			},
 			"accessories": ["Capa protetora", "Fone de ouvido", "Cabo USB-C", "Carregador"],
 			"ratings": {
-				"costBenefit": 8.0,
-				"display": 6.0,
-				"performance": 5.0,
-				"battery": 7.0,
-				"productivity": 6.0
+				"costBenefit": 8,
+				"display": 6,
+				"performance": 5,
+				"battery": 7,
+				"productivity": 6
 			}
 		}
 	},
@@ -1444,8 +1444,8 @@
 				"costBenefit": 8.5,
 				"display": 6.5,
 				"performance": 6.5,
-				"battery": 8.0,
-				"productivity": 7.0
+				"battery": 8,
+				"productivity": 7
 			}
 		}
 	},
@@ -1542,10 +1542,10 @@
 			"accessories": ["Capa", "Carregador", "Cabo USB-C"],
 			"ratings": {
 				"costBenefit": 7.5,
-				"display": 6.0,
-				"performance": 5.0,
-				"battery": 8.0,
-				"productivity": 6.0
+				"display": 6,
+				"performance": 5,
+				"battery": 8,
+				"productivity": 6
 			}
 		}
 	},
@@ -1641,10 +1641,10 @@
 			},
 			"accessories": ["Teclado wireless", "Capa magnética", "Cabo USB-C", "Carregador 5V 2A"],
 			"ratings": {
-				"costBenefit": 8.0,
-				"display": 6.0,
+				"costBenefit": 8,
+				"display": 6,
 				"performance": 5.5,
-				"battery": 7.0,
+				"battery": 7,
 				"productivity": 7.5
 			}
 		}
@@ -1748,9 +1748,9 @@
 				"Cabo USB-C"
 			],
 			"ratings": {
-				"costBenefit": 6.0,
-				"display": 5.0,
-				"performance": 4.0,
+				"costBenefit": 6,
+				"display": 5,
+				"performance": 4,
 				"battery": 5.5,
 				"productivity": 5.5
 			}
@@ -1857,9 +1857,9 @@
 			],
 			"ratings": {
 				"costBenefit": 8.5,
-				"display": 8.0,
-				"performance": 7.0,
-				"battery": 9.0,
+				"display": 8,
+				"performance": 7,
+				"battery": 9,
 				"productivity": 8.5
 			}
 		}
@@ -1965,7 +1965,7 @@
 				"display": 5.5,
 				"performance": 4.5,
 				"battery": 6.5,
-				"productivity": 6.0
+				"productivity": 6
 			}
 		}
 	},
@@ -2061,111 +2061,11 @@
 			},
 			"accessories": ["Cabo", "Caneta", "Capa", "Carregador", "Fonte", "Teclado"],
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"display": 6.5,
 				"performance": 5.5,
 				"battery": 7.5,
-				"productivity": 7.0
-			}
-		}
-	},
-	{
-		"id": "lenovo-idea-tab-zafr0856br",
-		"name": "Idea Tab",
-		"brand": "Lenovo",
-		"line": "Idea Tab",
-		"model": "Idea Tab",
-		"detailedModel": "ZAFR0856BR",
-		"color": "Cinza",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_786165-MLA104009600019_012026-F.webp",
-		"price": 0,
-		"releaseDate": "2025-09",
-		"releaseMonth": "09",
-		"releaseYear": 2025,
-		"origin": null,
-		"category": "tablets",
-		"anatelNumber": "031032506667",
-		"amazonUrl": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1c6bEGy",
-		"shopeeUrl": null,
-		"alphanumericModel": "ZAFR0856BR",
-		"version": "WI-FI",
-		"manufacturer": "LENOVO Tecnologia",
-		"specs": {
-			"display": {
-				"size": "11\"",
-				"resolution": "2560 x 1600",
-				"type": "LCD",
-				"refreshRate": "90Hz",
-				"height": null,
-				"width": null,
-				"maxResolution": "2560 x 1600",
-				"ppi": 274,
-				"multiTouch": true
-			},
-			"processor": "Octa-core (2x Cortex-A76 2.4 GHz + 6x Cortex-A55)",
-			"chipset": "MediaTek Dimensity 6300",
-			"ram": "8 GB",
-			"storage": "128 GB",
-			"expandableStorage": true,
-			"memoryCardTypes": ["Micro SD"],
-			"maxMemorySupported": "1 TB",
-			"memorySpeed": null,
-			"battery": {
-				"capacity": "7040 mAh",
-				"type": "Lithium-Polymer",
-				"duration": "Mediante ao tipo de uso"
-			},
-			"camera": {
-				"main": "8 MP",
-				"mainResolution": "8 MP",
-				"mainQuantity": 1,
-				"front": "5 MP",
-				"frontResolution": "5 MP",
-				"frontQuantity": 1,
-				"videoResolution": "FHD",
-				"flash": false
-			},
-			"os": "Android",
-			"osVersion": "15",
-			"osCustomization": null,
-			"dimensions": "254.6 x 166.1 x 7 mm",
-			"depth": "7 mm",
-			"height": "6.99 mm",
-			"width": "25.46 cm",
-			"weight": "480 g",
-			"connectivity": {
-				"wifi": "Wi-Fi 5 (802.11ac)",
-				"bluetooth": "Sim",
-				"bluetoothVersion": "5.2",
-				"cellular": false,
-				"usb": "USB-C 2.0",
-				"simCardReader": null,
-				"dualSim": false,
-				"gps": false,
-				"headphoneJack": true,
-				"microphone": true
-			},
-			"stylusSupport": true,
-			"keyboardSupport": true,
-			"speakers": "4 alto-falantes com Dolby Atmos",
-			"processor_details": {
-				"cores": 8,
-				"speed": 2.4,
-				"graphicProcessor": "Mali-G57 MC2"
-			},
-			"sensors": ["Giroscópio"],
-			"security": {
-				"facialUnlock": true,
-				"parentalControl": false
-			},
-			"accessories": ["Caneta", "Case/Capa"],
-			"ratings": {
-				"costBenefit": 8.7,
-				"display": 8.2,
-				"performance": 7.0,
-				"battery": 8.0,
-				"productivity": 8.5
+				"productivity": 7
 			}
 		}
 	},
@@ -2361,11 +2261,11 @@
 			},
 			"accessories": ["Capa"],
 			"ratings": {
-				"costBenefit": 7.0,
-				"display": 6.0,
-				"performance": 5.0,
+				"costBenefit": 7,
+				"display": 6,
+				"performance": 5,
 				"battery": 6.5,
-				"productivity": 6.0
+				"productivity": 6
 			}
 		}
 	},
@@ -2451,7 +2351,7 @@
 			"speakers": null,
 			"processor_details": {
 				"cores": 8,
-				"speed": 2.0,
+				"speed": 2,
 				"graphicProcessor": null
 			},
 			"sensors": ["Giroscópio"],
@@ -2464,7 +2364,7 @@
 				"costBenefit": 7.2,
 				"display": 6.2,
 				"performance": 5.2,
-				"battery": 7.0,
+				"battery": 7,
 				"productivity": 6.5
 			}
 		}
@@ -2569,11 +2469,11 @@
 			},
 			"accessories": null,
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"display": 9.2,
 				"performance": 8.5,
-				"battery": 9.0,
-				"productivity": 9.0
+				"battery": 9,
+				"productivity": 9
 			}
 		}
 	},
@@ -2672,8 +2572,8 @@
 				"costBenefit": 8.8,
 				"display": 9.2,
 				"performance": 7.8,
-				"battery": 9.0,
-				"productivity": 9.0
+				"battery": 9,
+				"productivity": 9
 			}
 		}
 	},
@@ -2759,7 +2659,7 @@
 			"speakers": null,
 			"processor_details": {
 				"cores": 8,
-				"speed": 2.0,
+				"speed": 2,
 				"graphicProcessor": null
 			},
 			"sensors": null,
@@ -2859,7 +2759,7 @@
 			"speakers": null,
 			"processor_details": {
 				"cores": 8,
-				"speed": 2.0,
+				"speed": 2,
 				"graphicProcessor": null
 			},
 			"sensors": null,
@@ -2872,7 +2772,7 @@
 				"costBenefit": 7.8,
 				"display": 6.8,
 				"performance": 5.8,
-				"battery": 7.0,
+				"battery": 7,
 				"productivity": 7.5
 			}
 		}
@@ -2972,7 +2872,7 @@
 				"costBenefit": 6.5,
 				"display": 5.5,
 				"performance": 4.5,
-				"battery": 5.0,
+				"battery": 5,
 				"productivity": 5.5
 			}
 		}

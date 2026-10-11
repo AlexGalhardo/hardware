@@ -1,12 +1,11 @@
 "use client";
 
+import { Check, Minus, X } from "lucide-react";
 import React, { useEffect } from "react";
-
-import { Check, X, Minus } from "lucide-react";
-import { cn } from "@/lib/utils";
+import { formatRating } from "@/lib/data";
 import { getSpecConfig, type SpecSection } from "@/lib/spec-configs";
 import type { Product, ProductCategory } from "@/lib/types";
-import { formatRating } from "@/lib/data";
+import { cn } from "@/lib/utils";
 
 interface ComparisonTableProps {
 	products: (Product | null)[];
