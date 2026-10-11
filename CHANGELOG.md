@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.5.0] - 2026-10-11
+
+### Added
+
+- Environment check at the start of every build (`scripts/check-env.ts`, schema in `lib/env.ts`, zod 4): a malformed value always fails the build, and a production build fails when an essential variable is missing. Other builds need no variable.
+
+### Changed
+
+- An address that is not a page redirects to the home page: unknown top-level addresses in `proxy.ts`, unknown products in the product page. They used to answer 200 with the not-found screen.
+- `bun run typecheck` generates the route types first, so it no longer depends on a previous build.
+
 ## [1.4.0] - 2026-10-11
 
 ### Removed
@@ -88,7 +99,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Site as it was before this changelog started.
 
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.4.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.0...HEAD
+[1.5.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.1.0...v1.2.0

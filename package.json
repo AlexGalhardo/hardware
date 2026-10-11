@@ -1,10 +1,10 @@
 {
 	"name": "tudohardware",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
-		"build": "bun run sync-links && bun run sitemap && bun run stats && next build",
+		"build": "bun run check-env && bun run sync-links && bun run sitemap && bun run stats && next build",
 		"start": "bun run stats && bunx next build && next start",
 		"typecheck": "next typegen && tsc --noEmit",
 		"lint": "biome check app components lib scripts hooks",
@@ -13,6 +13,7 @@
 		"format": "bun run stats && biome format tsconfig.json biome.json package.json app/ data/ components/ lib/ hooks/ --fix",
 		"test": "bun test",
 		"ci": "bun run typecheck && bun run lint && bun run test && bun run lint:md && bun run build",
+		"check-env": "bun run scripts/check-env.ts",
 		"sync-links": "bun run scripts/sync-links.ts",
 		"stats": "bun run scripts/data-jsons-stats.ts",
 		"sitemap": "bun run scripts/create-sitemap.ts",

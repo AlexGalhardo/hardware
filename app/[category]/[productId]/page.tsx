@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import { categories, getProductsByCategory } from "@/lib/data";
 import type { ProductCategory } from "@/lib/types";
 import { ProductDetailClient } from "./product-detail-client";
@@ -62,9 +62,8 @@ export default async function ProductDetailPage({ params }: PageProps) {
 	const products = await getProductsByCategory(category as ProductCategory);
 	const product = products.find((p) => p.id === productId);
 
-	if (!product) {
-		notFound();
-	}
+	// An address that is not a product goes to the home page (same rule as proxy.ts).
+	if (!product) redirect("/");
 
 	const categoryInfo = categories.find((c) => c.id === category)!;
 	const relatedProducts = products.filter((p) => p.id !== productId).slice(0, 6);
