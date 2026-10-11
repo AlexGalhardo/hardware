@@ -18,7 +18,8 @@
 | Comando | O que faz |
 | --- | --- |
 | `bun run dev` | Servidor de desenvolvimento |
-| `bun run build` | `sync-links`, `sitemap`, `stats` e `next build` |
+| `bun run build` | `check-env`, `sync-links`, `sitemap`, `stats` e `next build` |
+| `bun run check-env` | Confere as variáveis de ambiente (`lib/env.ts`) |
 | `bun run typecheck` | `next typegen` (tipos das rotas) e `tsc --noEmit` |
 | `bun run lint` | Biome em `app`, `components`, `lib`, `scripts`, `hooks` |
 | `bun run lint:md` | markdownlint |

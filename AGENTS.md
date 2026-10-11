@@ -40,6 +40,7 @@ Next.js 16 (App Router) · React 19 · TypeScript 7 strict · Tailwind CSS 4 · 
 - **Segredos:** nada de chave real no repositório. `.env` é ignorado pelo git; `.env.example` só tem placeholders.
 - **Dependências:** última versão estável, com versão exata, sem `^` nem `~`. Dependência nova só com aprovação do dono.
 - **TypeScript:** sem `any` (o Biome recusa), sem `@ts-ignore`. O build falha com erro de tipo.
+- **Variáveis de ambiente:** toda variável nova entra no schema de `lib/env.ts` (e em `ESSENTIAL` se a produção não roda sem ela) e em `.env.example`.
 - **Lint:** `bun run lint` precisa passar sem erro. `biome-ignore` só com o motivo escrito na mesma linha.
 - **Idioma:** código, comentários e commits em inglês; textos de interface e documentação em português do Brasil.
 

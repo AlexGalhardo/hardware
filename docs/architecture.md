@@ -24,6 +24,7 @@ Site de fichas técnicas e comparação de produtos, com links de afiliado. Next
 1. `generateStaticParams` em `app/[category]/[productId]/page.tsx` gera uma página por produto de `data/`.
 2. O id da categoria na URL vem de `categories` (`lib/data.ts`), não do nome do arquivo: `smart-tvs` lê `data/smartvs.json`. O mapa completo está em `lib/admin/category-files.ts`.
 3. Os botões de loja usam `productAffiliateHref`, que aponta para o redirect do dashboard de links.
+4. Endereço que não é página vai para a home: `proxy.ts` decide os de um segmento (categoria inexistente), a página do produto decide os de produto inexistente, e `app/not-found.tsx` cobre o resto no navegador.
 
 ## Fluxo do conteúdo
 

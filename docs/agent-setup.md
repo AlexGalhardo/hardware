@@ -45,6 +45,14 @@ Não há banco de dados nem seed: o conteúdo já está em `data/*.json`.
 
 Todas descritas em [`.env.example`](../.env.example). Nenhuma é obrigatória para o site público rodar em desenvolvimento.
 
+Todo build começa por `bun run check-env` (`lib/env.ts`, zod):
+
+- **Valor mal formado** (segredo do Google fora do formato, e-mail inválido, URL sem `http`): o build falha em qualquer ambiente.
+- **Variável essencial ausente:** só falha no build de produção (`VERCEL_ENV=production`). Essenciais: `LINKS_DASHBOARD_TOKEN`, `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `ADMIN_EMAILS`, `GITHUB_TOKEN`, `GITHUB_REPO`.
+- **Opcional:** `GITHUB_BRANCH` (padrão `main`).
+
+A mensagem diz o nome da variável, nunca o valor.
+
 | Variável | Para quê | Sem ela |
 | --- | --- | --- |
 | `LINKS_DASHBOARD_TOKEN` | Registrar os links no dashboard no build | Build de produção falha; os outros só validam |
@@ -115,3 +123,5 @@ Nada a cadastrar no dashboard. Defina `LINKS_DASHBOARD_TOKEN` na Vercel com a ch
 | Painel: "Defina GITHUB_TOKEN e GITHUB_REPO" | Variáveis ausentes na Vercel |
 | Painel salvou e o site não mudou | O commit foi feito mas o deploy não disparou: confira a conexão do projeto com o repositório ([workflows.md](workflows.md)) |
 | Porta ocupada | Os scripts escolhem a próxima livre; ou passe `PORT=<porta>` |
+| Build: `Variáveis de ambiente com problema` | Corrija a variável citada. `GOOGLE_CLIENT_SECRET` inválido costuma ser outra variável colada na mesma linha do `.env` |
+| Login com Google volta com `?error=invalid_code` | O Google recusou o segredo: `GOOGLE_CLIENT_SECRET` errado na Vercel |
