@@ -50,7 +50,7 @@ vercel inspect <url> --logs         # log do build
 
 - **Pelo painel:** `/admin` grava um commit por alteração. Ver [admin.md](admin.md).
 - **Direto no repositório:** edite `data/<arquivo>.json`. O `id` é único na categoria; todo produto precisa de ao menos um link `https://`. `bun run sync-links` valida.
-- **Categoria nova:** arquivo em `data/`, entrada em `categories` e no mapa de `lib/data.ts`, em `lib/admin/category-files.ts`, em `categoryFileMap` de `scripts/create-sitemap.ts` e nos mapas de `scripts/create-csv.ts`.
+- **Categoria nova:** arquivo em `data/`, entrada em `categories` e no mapa de `lib/data.ts`, em `lib/admin/category-files.ts` e em `categoryFileMap` de `scripts/create-sitemap.ts`.
 
 ## Links de afiliado
 

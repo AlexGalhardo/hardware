@@ -16,13 +16,6 @@ export default function Footer() {
 					</a>
 
 					<a
-						href="/contato"
-						className="text-sm text-black dark:text-white hover:text-blue-500 hover:underline transition-all"
-					>
-						Contato
-					</a>
-
-					<a
 						href="/politica-de-privacidade"
 						className="text-sm text-black dark:text-white hover:text-blue-500 hover:underline transition-all"
 					>

@@ -25,10 +25,9 @@ Next.js 16 (App Router) · React 19 · TypeScript 7 strict · Tailwind CSS 4 · 
 | `lib/affiliate-links.ts` | Contrato com o dashboard de links. O mesmo arquivo existe nos outros sites: mude nos dois |
 | `lib/affiliate-catalogue.ts` | Como um produto vira id e `href` no dashboard. Importado por componentes de cliente: não importe `lib/data.ts` aqui |
 | `scripts/catalogue.ts`, `scripts/sync-links.ts` | Monta o catálogo e o envia ao dashboard antes do build |
-| `scripts/create-sitemap.ts`, `create-csv.ts`, `data-jsons-stats.ts` | Geram `public/sitemap.xml`, `telegram/produtos.csv` e `data-stats.json` no build |
+| `scripts/create-sitemap.ts`, `data-jsons-stats.ts` | Geram `public/sitemap.xml` e `data-stats.json` no build |
 | `app/admin/`, `app/api/admin/`, `lib/admin/`, `components/admin/` | Painel de produtos: login com Google (better-auth), CRUD por commit no GitHub, exportação. Ver [`docs/admin.md`](docs/admin.md) |
 | `hooks/use-dashboard-down.ts` | Desvio dos botões para a loja quando o dashboard de links não responde |
-| `telegram/` | Bot de ofertas separado (Fly.io). Fora do typecheck do site |
 | `infra/`, `setups/` | Docker e scripts de preparação |
 | `docs/` | Documentação (índice em `.claude/agents.md`); `docs/prompts/` tem os prompts de geração de JSON |
 
@@ -36,9 +35,9 @@ Next.js 16 (App Router) · React 19 · TypeScript 7 strict · Tailwind CSS 4 · 
 
 - **Links de afiliado só pelo dashboard.** Use `productAffiliateHref`. O único caso em que o botão aponta direto para a loja é o desvio de `useDashboardDown()`, quando o dashboard não responde. Ver "Links de afiliado" no [`README.md`](README.md).
 - **`id` do produto é único na categoria e estável.** Id repetido falha o build; id trocado apaga os cliques do produto no dashboard.
-- **Categoria nova:** arquivo em `data/`, entrada em `categories` e no mapa de `lib/data.ts`, em `lib/admin/category-files.ts`, em `categoryFileMap` de `scripts/create-sitemap.ts` e nos mapas de `scripts/create-csv.ts`.
+- **Categoria nova:** arquivo em `data/`, entrada em `categories` e no mapa de `lib/data.ts`, em `lib/admin/category-files.ts`, e em `categoryFileMap` de `scripts/create-sitemap.ts`.
 - **Painel:** toda página de `app/admin/(panel)/` chama `requireAdmin()` e toda rota de `app/api/admin/` passa por `adminRoute()`. O layout não protege os dados da página. Produto só é gravado por `saveProduct`/`deleteProduct` (`lib/admin/products.ts`).
-- **Segredos:** nada de chave real no repositório. `.env` e `telegram/.env` são ignorados pelo git; `.env.example` só tem placeholders.
+- **Segredos:** nada de chave real no repositório. `.env` é ignorado pelo git; `.env.example` só tem placeholders.
 - **Dependências:** última versão estável, com versão exata, sem `^` nem `~`. Dependência nova só com aprovação do dono.
 - **TypeScript:** sem `any` (o Biome recusa), sem `@ts-ignore`. O build falha com erro de tipo.
 - **Lint:** `bun run lint` precisa passar sem erro. `biome-ignore` só com o motivo escrito na mesma linha.
@@ -64,7 +63,5 @@ bun run build
 
 ## Dívida conhecida
 
-- `scripts/create-csv.ts` não conhece as categorias `cafeteiras`, `impressoras` e `fechaduras`.
-- O bot do Telegram publica o link direto da loja, sem passar pelo dashboard.
 - O deploy por push depende de o app da Vercel no GitHub ter acesso ao repositório (ver [`docs/workflows.md`](docs/workflows.md)). Sem isso, o deploy é `vercel deploy --prod` e os commits do painel não entram no ar sozinhos.
 - As telas do painel não têm teste no navegador (o login depende de uma conta Google real).

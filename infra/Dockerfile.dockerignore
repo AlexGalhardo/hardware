@@ -5,8 +5,6 @@ node_modules
 .env
 .env.*
 !.env.example
-telegram/.env
-telegram/node_modules
 *.tsbuildinfo
 .vercel
 .DS_Store

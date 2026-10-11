@@ -41,7 +41,6 @@ export default function PrivacidadePage() {
 						<ul className="list-disc list-inside text-black dark:text-white space-y-2">
 							<li>Informações de uso do site (páginas visitadas, tempo de permanência)</li>
 							<li>Informações do dispositivo (tipo de navegador, sistema operacional)</li>
-							<li>Dados de formulários de contato (nome, email, mensagem)</li>
 							<li>Cookies e tecnologias similares</li>
 						</ul>
 					</section>
@@ -51,7 +50,6 @@ export default function PrivacidadePage() {
 						<p className="text-black dark:text-white mb-3">Utilizamos as informações coletadas para:</p>
 						<ul className="list-disc list-inside text-black dark:text-white space-y-2">
 							<li>Melhorar a experiência do usuário no site</li>
-							<li>Responder a mensagens de contato</li>
 							<li>Analisar o uso do site para melhorias</li>
 						</ul>
 					</section>
@@ -71,18 +69,6 @@ export default function PrivacidadePage() {
 							Utilizamos cookies para melhorar sua experiência de navegação, lembrar suas preferências
 							(como tema claro/escuro) e coletar dados anônimos de uso. Você pode configurar seu navegador
 							para recusar cookies, mas isso pode afetar a funcionalidade do site.
-						</p>
-					</section>
-
-					<section>
-						<h2 className="text-xl font-semibold mb-3">6. Contato</h2>
-						<p className="text-black dark:text-white">
-							Se você tiver duvidas sobre esta Politica de Privacidade, entre em contato conosco através
-							da nossa{" "}
-							<Link href="/contato" className="text-primary hover:underline">
-								página de contato
-							</Link>
-							.
 						</p>
 					</section>
 				</div>

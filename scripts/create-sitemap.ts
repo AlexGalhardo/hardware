@@ -23,12 +23,6 @@ const staticUrls: SitemapUrl[] = [
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/contato",
-		lastmod: "2025-08-09T12:00:00.000Z",
-		changefreq: "monthly",
-		priority: "1.0",
-	},
-	{
 		loc: "https://alexgalhardo.github.io/tudohardware/sobre",
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",

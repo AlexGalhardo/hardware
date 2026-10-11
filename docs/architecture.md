@@ -13,10 +13,9 @@ Site de fichas técnicas e comparação de produtos, com links de afiliado. Next
 | `components/comparison/` | Cards, tabela e busca da comparação |
 | `lib/affiliate-links.ts` | Contrato com o dashboard de links (mesmo arquivo em todos os sites) |
 | `lib/affiliate-catalogue.ts`, `hooks/use-dashboard-down.ts` | Id e `href` de cada botão de loja, e o desvio para a loja quando o dashboard cai |
-| `scripts/` | Passos do build: `sync-links`, `create-csv`, `create-sitemap`, `data-jsons-stats` |
+| `scripts/` | Passos do build: `sync-links`, `create-sitemap`, `data-jsons-stats` |
 | `app/admin/`, `app/api/admin/`, `lib/admin/`, `components/admin/` | Painel de produtos. Ver [admin.md](admin.md) |
 | `app/api/auth/[...all]` | better-auth (login com Google do painel) |
-| `telegram/` | Bot de ofertas separado (Fly.io), fora do build do site |
 | `infra/`, `setups/` | Docker e scripts de preparação. Ver [agent-setup.md](agent-setup.md) |
 | `docs/prompts/` | Prompts usados para gerar o JSON de cada categoria |
 
@@ -54,5 +53,3 @@ edição direta no git ───────────────────
 ## Limites conhecidos
 
 - O painel não envia imagens: o campo de imagem recebe um endereço.
-- `scripts/create-csv.ts` não conhece as categorias `cafeteiras`, `impressoras` e `fechaduras`.
-- O bot do Telegram publica o link direto da loja, sem passar pelo dashboard.
