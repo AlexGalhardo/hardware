@@ -1,0 +1,7537 @@
+[
+	{
+		"id": "consul-ccb10f",
+		"name": "CCB10F",
+		"brand": "Consul",
+		"line": "Janela",
+		"model": "CCB10F",
+		"alphanumericModel": "CCB10F",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_931498-MLA99939956835_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/19CQ2gz",
+		"manufacturer": "Consul",
+		"specs": {
+			"manufacturer": "Consul",
+			"type": "Janela",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 10000,
+				"watts": 1250,
+				"coverage": {
+					"minArea": 10,
+					"maxArea": 15,
+					"idealArea": 12
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": 3.04,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "242,4 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "10000 BTU/h",
+				"powerConsumption": "1250 W",
+				"eer": 3.04,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 30
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "Bivolt",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1250 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "7,8 A",
+				"wireGauge": null,
+				"circuitBreaker": "20 A"
+			},
+			"refrigerant": {
+				"type": "R-410A",
+				"amount": null,
+				"gwp": 2088,
+				"environmentalImpact": "Médio"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "530 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 2,
+					"autoMode": false
+				},
+				"outdoorUnit": null
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 48,
+					"max": 52,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": 52
+				}
+			},
+			"filters": {
+				"types": ["Anti-bacteriano", "Antifungos", "Anti-ácaros"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": false,
+				"turboMode": false,
+				"dryMode": false,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": false,
+				"timer": false,
+				"timerHours": null,
+				"display": false,
+				"displayType": null,
+				"remoteControl": false,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": false,
+				"ionizer": false,
+				"airPurifier": false,
+				"dehumidifier": false,
+				"followMe": false,
+				"iFeelSensor": false,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "480 mm",
+					"height": "330 mm",
+					"depth": "482 mm"
+				},
+				"weight": "24,8 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Janela"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "480 mm",
+					"height": "330 mm",
+					"depth": "482 mm"
+				},
+				"weight": "24,8 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": false,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Janela",
+				"tubeLength": {
+					"included": "N/A",
+					"maximum": "N/A"
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": false,
+					"screws": true,
+					"template": true
+				},
+				"difficulty": "Média",
+				"estimatedTime": "2-3 horas",
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": null,
+				"parts": "1 ano",
+				"labor": "1 ano",
+				"conditions": ["Defeitos de fabricação", "Uso adequado conforme manual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "127V / 220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 2-3 anos (se necessário)",
+				"estimatedLifespan": "8-10 anos"
+			},
+			"bundled": {
+				"remoteControl": false,
+				"batteries": false,
+				"installationKit": false,
+				"drainHose": false,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Quartos", "Escritórios", "Salas pequenas"]
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"efficiency": 7,
+				"quietness": 6,
+				"coolingPower": 7,
+				"features": 4,
+				"durability": 7,
+				"easeOfUse": 8
+			}
+		}
+	},
+	{
+		"id": "consul-ccb07fb",
+		"name": "CCB07FB",
+		"brand": "Consul",
+		"line": "Janela",
+		"model": "CCB07FB",
+		"alphanumericModel": "CCB07FB",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_712967-MLA99388471618_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ukfWLC",
+		"manufacturer": "Consul",
+		"specs": {
+			"manufacturer": "Consul",
+			"type": "Janela",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 7500,
+				"watts": 1000,
+				"coverage": {
+					"minArea": 8,
+					"maxArea": 12,
+					"idealArea": 10
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": 2.87,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "584 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "7500 BTU/h",
+				"powerConsumption": "1000 W",
+				"eer": 2.87,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 30
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "Bivolt",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1000 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "6,5 A",
+				"wireGauge": null,
+				"circuitBreaker": "15 A"
+			},
+			"refrigerant": {
+				"type": "R-22",
+				"amount": null,
+				"gwp": 1810,
+				"environmentalImpact": "Alto"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "420 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 2,
+					"autoMode": false
+				},
+				"outdoorUnit": null
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 46,
+					"max": 49,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": 49
+				}
+			},
+			"filters": {
+				"types": ["Anti-bacteriano", "Antifungos", "Anti-poeira"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": false,
+				"ecoMode": false,
+				"turboMode": false,
+				"dryMode": false,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": false,
+				"timer": false,
+				"timerHours": null,
+				"display": false,
+				"displayType": null,
+				"remoteControl": false,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": false,
+				"ionizer": false,
+				"airPurifier": false,
+				"dehumidifier": false,
+				"followMe": false,
+				"iFeelSensor": false,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "480 mm",
+					"height": "330 mm",
+					"depth": "482 mm"
+				},
+				"weight": "23,3 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Janela"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "480 mm",
+					"height": "330 mm",
+					"depth": "482 mm"
+				},
+				"weight": "23,3 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": false,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Janela",
+				"tubeLength": {
+					"included": "N/A",
+					"maximum": "N/A"
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": false,
+					"screws": true,
+					"template": true
+				},
+				"difficulty": "Média",
+				"estimatedTime": "2-3 horas",
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": null,
+				"parts": "1 ano",
+				"labor": "1 ano",
+				"conditions": ["Defeitos de fabricação", "Uso adequado conforme manual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "127V / 220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 2-3 anos (se necessário)",
+				"estimatedLifespan": "8-10 anos"
+			},
+			"bundled": {
+				"remoteControl": false,
+				"batteries": false,
+				"installationKit": false,
+				"drainHose": false,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Quartos pequenos", "Escritórios", "Home office"]
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"efficiency": 7,
+				"quietness": 7,
+				"coolingPower": 6,
+				"features": 3,
+				"durability": 7,
+				"easeOfUse": 8
+			}
+		}
+	},
+	{
+		"id": "consul-ccn07eb",
+		"name": "CCN07EB",
+		"brand": "Consul",
+		"line": "Janela Eletrônico",
+		"model": "CCN07EB",
+		"alphanumericModel": "CCN07EB",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_952763-MLU73213834909_122023-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseYear": 2023,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2m5yDUV",
+		"manufacturer": "Consul",
+		"specs": {
+			"manufacturer": "Consul",
+			"type": "Janela",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 7500,
+				"watts": 748,
+				"coverage": {
+					"minArea": 8,
+					"maxArea": 12,
+					"idealArea": 10
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": 2.94,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "584 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "7500 BTU/h",
+				"powerConsumption": "748 W",
+				"eer": 2.94,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 30
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "Bivolt",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "748 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "6,5 A",
+				"wireGauge": null,
+				"circuitBreaker": "15 A"
+			},
+			"refrigerant": {
+				"type": "R-22",
+				"amount": null,
+				"gwp": 1810,
+				"environmentalImpact": "Alto"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "420 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": null
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 46,
+					"max": 49,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": 49
+				}
+			},
+			"filters": {
+				"types": ["Anti-bacteriano", "Antifungos", "Anti-poeira"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": null,
+				"mobileApp": "Consul Smart",
+				"sleepMode": true,
+				"ecoMode": false,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": false,
+				"timer": true,
+				"timerHours": 24,
+				"display": true,
+				"displayType": "LED",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": false,
+				"ionizer": false,
+				"airPurifier": false,
+				"dehumidifier": true,
+				"followMe": false,
+				"iFeelSensor": false,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "480 mm",
+					"height": "330 mm",
+					"depth": "482 mm"
+				},
+				"weight": "21,8 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": "Frontal",
+				"installation": "Janela"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "480 mm",
+					"height": "330 mm",
+					"depth": "482 mm"
+				},
+				"weight": "21,8 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": false,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Janela",
+				"tubeLength": {
+					"included": "N/A",
+					"maximum": "N/A"
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": false,
+					"screws": true,
+					"template": true
+				},
+				"difficulty": "Média",
+				"estimatedTime": "2-3 horas",
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": null,
+				"parts": "1 ano",
+				"labor": "1 ano",
+				"conditions": ["Defeitos de fabricação", "Uso adequado conforme manual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant"],
+				"voltageRange": "127V / 220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 2-3 anos (se necessário)",
+				"estimatedLifespan": "8-10 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": true,
+				"installationKit": false,
+				"drainHose": false,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Quartos", "Escritórios", "Salas pequenas"]
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"efficiency": 7,
+				"quietness": 7,
+				"coolingPower": 7,
+				"features": 8,
+				"durability": 7,
+				"easeOfUse": 9
+			}
+		}
+	},
+	{
+		"id": "kian-kv-acj-elet",
+		"name": "KV-ACJ-ELET",
+		"brand": "Kian",
+		"line": "Janela Eletrônico",
+		"model": "KV-ACJ-ELET",
+		"alphanumericModel": "KV-ACJ-ELET",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_783755-MLA98882484461_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/13trJ9A",
+		"manufacturer": "Kian",
+		"specs": {
+			"manufacturer": "Kian",
+			"type": "Janela",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 10000,
+				"watts": 963,
+				"coverage": {
+					"minArea": 10,
+					"maxArea": 15,
+					"idealArea": 12
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": 3.04,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "242 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "10000 BTU/h",
+				"powerConsumption": "963 W",
+				"eer": 3.04,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 30
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "963 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "7,5 A",
+				"wireGauge": null,
+				"circuitBreaker": "20 A"
+			},
+			"refrigerant": {
+				"type": "R-410A",
+				"amount": null,
+				"gwp": 2088,
+				"environmentalImpact": "Médio"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "530 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": null
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 58,
+					"max": 63,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": 63
+				}
+			},
+			"filters": {
+				"types": ["Anti-poeira"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": false,
+				"turboMode": false,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": false,
+				"timer": true,
+				"timerHours": 24,
+				"display": true,
+				"displayType": "LED",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": false,
+				"ionizer": false,
+				"airPurifier": false,
+				"dehumidifier": true,
+				"followMe": false,
+				"iFeelSensor": false,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "543 mm",
+					"height": "378 mm",
+					"depth": "486 mm"
+				},
+				"weight": "25 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": "Frontal",
+				"installation": "Janela"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "543 mm",
+					"height": "378 mm",
+					"depth": "486 mm"
+				},
+				"weight": "25 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": false,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Janela",
+				"tubeLength": {
+					"included": "N/A",
+					"maximum": "N/A"
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": false,
+					"screws": true,
+					"template": true
+				},
+				"difficulty": "Média",
+				"estimatedTime": "2-3 horas",
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": null,
+				"parts": "1 ano",
+				"labor": "1 ano",
+				"conditions": ["Defeitos de fabricação", "Uso adequado conforme manual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 2-3 anos (se necessário)",
+				"estimatedLifespan": "8-10 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": true,
+				"installationKit": false,
+				"drainHose": false,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Quartos", "Escritórios", "Salas pequenas"]
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"efficiency": 7,
+				"quietness": 5,
+				"coolingPower": 7,
+				"features": 6,
+				"durability": 6,
+				"easeOfUse": 7
+			}
+		}
+	},
+	{
+		"id": "vtr-eletronics-vtr-2vt",
+		"name": "VTR-2VT",
+		"brand": "VTR ELETRONICS",
+		"line": "Mini ar condicionado portátil",
+		"model": "MINI CLIMATIZADOR",
+		"alphanumericModel": "VTR-2VT",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_752372-MLA99995725591_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1SD5VFU",
+		"manufacturer": "VTR ELETRONICS",
+		"specs": {
+			"manufacturer": "Outros",
+			"type": "Portátil",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 0,
+				"watts": 10,
+				"coverage": {
+					"minArea": 1,
+					"maxArea": 2,
+					"idealArea": 1
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": null,
+				"annualConsumption": "8,76 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "Evaporativo",
+				"powerConsumption": "10 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 20,
+					"maxTemp": 35
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "Bivolt",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "10 W",
+					"heating": null,
+					"standby": "5 W"
+				},
+				"currentRating": "1,5 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "N/A (Evaporativo)",
+				"amount": "N/A",
+				"gwp": null,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "100 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": false
+				},
+				"outdoorUnit": null
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 40,
+					"max": 50,
+					"silentMode": 40
+				},
+				"outdoorUnit": {
+					"level": 0
+				}
+			},
+			"filters": {
+				"types": ["Anti-poeira", "Esponja"],
+				"washable": true,
+				"replacement": "Semanal (limpeza)"
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": false,
+				"ecoMode": false,
+				"turboMode": false,
+				"dryMode": false,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": false,
+				"timer": false,
+				"timerHours": null,
+				"display": false,
+				"displayType": null,
+				"remoteControl": false,
+				"swingHorizontal": true,
+				"swingVertical": false,
+				"swingAuto": false,
+				"ionizer": false,
+				"airPurifier": false,
+				"dehumidifier": false,
+				"followMe": false,
+				"iFeelSensor": false,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "150 mm",
+					"height": "200 mm",
+					"depth": "150 mm"
+				},
+				"weight": "0,8 kg",
+				"color": "Branco",
+				"material": "Plástico ABS",
+				"displayLocation": null,
+				"installation": "Piso"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "N/A",
+					"height": "N/A",
+					"depth": "N/A"
+				},
+				"weight": "N/A",
+				"material": null,
+				"compressor": {
+					"type": "N/A (Evaporativo)",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": false,
+					"weatherproof": false,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Portátil",
+				"tubeLength": {
+					"included": "N/A",
+					"maximum": "N/A"
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Manual",
+					"included": false
+				},
+				"mounting": {
+					"bracket": false,
+					"screws": false,
+					"template": false
+				},
+				"difficulty": "Fácil",
+				"estimatedTime": "Plug and play",
+				"professionalRequired": false
+			},
+			"warranty": {
+				"general": "3 meses",
+				"compressor": null,
+				"parts": "3 meses",
+				"labor": null,
+				"conditions": ["Defeitos de fabricação"]
+			},
+			"certifications": {
+				"inmetro": false,
+				"procel": null,
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "5V DC (USB)"
+			},
+			"maintenance": {
+				"filterCleaning": "Semanal",
+				"professionalService": "Não necessário",
+				"gasRefill": "N/A",
+				"estimatedLifespan": "1-2 anos"
+			},
+			"bundled": {
+				"remoteControl": false,
+				"batteries": false,
+				"installationKit": false,
+				"drainHose": false,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": false,
+				"accessories": ["Cabo USB"]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 15,
+						"max": 40
+					},
+					"heating": null
+				},
+				"operatingHumidity": {
+					"min": 20,
+					"max": 90
+				},
+				"recommendedUse": ["Mesa de escritório", "Uso pessoal", "Pequenos espaços"]
+			},
+			"ratings": {
+				"costBenefit": 6,
+				"efficiency": 4,
+				"quietness": 7,
+				"coolingPower": 3,
+				"features": 3,
+				"durability": 4,
+				"easeOfUse": 9
+			}
+		}
+	},
+	{
+		"id": "philco-pac9fb",
+		"name": "PAC9FB",
+		"brand": "Philco",
+		"line": "Split Eco Inverter",
+		"model": "PAC9FB",
+		"alphanumericModel": "PAC9FB",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_830937-MLA99932316841_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1Wp773Z",
+		"anatelNumber": "58451911765",
+		"manufacturer": "Philco",
+		"specs": {
+			"manufacturer": "Philco",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 9000,
+				"watts": 810,
+				"coverage": {
+					"minArea": 8,
+					"maxArea": 12,
+					"idealArea": 10
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": 3.33,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "550 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "9000 BTU/h",
+				"powerConsumption": "810 W",
+				"eer": 3.33,
+				"operatingRange": {
+					"minTemp": 16,
+					"maxTemp": 32
+				}
+			},
+			"heating": {
+				"capacity": "9000 BTU/h",
+				"powerConsumption": "850 W",
+				"cop": 3.18,
+				"operatingRange": {
+					"minTemp": -7,
+					"maxTemp": 24
+				}
+			},
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "810 W",
+					"heating": "850 W",
+					"standby": "1 W"
+				},
+				"currentRating": "3,7 A",
+				"wireGauge": "2,5 mm²",
+				"circuitBreaker": "15 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": "580 g",
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "500 m³/h",
+					"heatingMode": "500 m³/h",
+					"fanSpeeds": 4,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": "1200 m³/h"
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 38,
+					"max": 40,
+					"silentMode": 38
+				},
+				"outdoorUnit": {
+					"level": 52
+				}
+			},
+			"filters": {
+				"types": ["Anti-bacteriano", "Antifungos", "Anti-poeira"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "Philco Home Smart",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": 24,
+				"display": true,
+				"displayType": "LED",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": false,
+				"airPurifier": false,
+				"dehumidifier": true,
+				"followMe": false,
+				"iFeelSensor": false,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "720 mm",
+					"height": "265 mm",
+					"depth": "190 mm"
+				},
+				"weight": "7,5 kg",
+				"color": "Branco",
+				"material": "Plástico ABS",
+				"displayLocation": "Frontal",
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "680 mm",
+					"height": "530 mm",
+					"depth": "285 mm"
+				},
+				"weight": "18,5 kg",
+				"material": "Metal",
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": "IPX4"
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": "3 m",
+					"maximum": "15 m"
+				},
+				"heightDifference": "10 m",
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": true,
+					"screws": true,
+					"template": true
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": "3-4 horas",
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": "1 ano",
+				"labor": "1 ano",
+				"conditions": ["Defeitos de fabricação", "Instalação por profissional habilitado"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "10-12 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": true,
+				"installationKit": true,
+				"drainHose": true,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": ["Tubulação 1/4\" e 3/8\""]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": {
+						"min": -7,
+						"max": 24
+					}
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Quartos", "Escritórios", "Salas pequenas", "Home office"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"efficiency": 8,
+				"quietness": 9,
+				"coolingPower": 8,
+				"features": 8,
+				"durability": 8,
+				"easeOfUse": 8
+			}
+		}
+	},
+	{
+		"id": "elgin-hjqe09c2cc",
+		"name": "HJQE09C2CC",
+		"brand": "Elgin",
+		"line": "Eco Inverter II",
+		"model": "HJQE09C2CC-HJQI09C2WC",
+		"alphanumericModel": "45HJQI09C2WC",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_873448-MLA98140273367_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/22sbtA1",
+		"manufacturer": "Elgin",
+		"specs": {
+			"manufacturer": "Elgin",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 9000,
+				"watts": 2637,
+				"coverage": {
+					"minArea": 8,
+					"maxArea": 12,
+					"idealArea": 10
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": 3.41,
+				"cop": 3.41,
+				"procelSeal": "Ouro",
+				"annualConsumption": "381 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "9000 BTU/h",
+				"powerConsumption": "2637 W",
+				"eer": 3.41,
+				"operatingRange": {
+					"minTemp": 16,
+					"maxTemp": 32
+				}
+			},
+			"heating": {
+				"capacity": "9000 BTU/h",
+				"powerConsumption": "2637 W",
+				"cop": 3.41,
+				"operatingRange": {
+					"minTemp": -7,
+					"maxTemp": 24
+				}
+			},
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "2637 W",
+					"heating": "2637 W",
+					"standby": "1 W"
+				},
+				"currentRating": "12 A",
+				"wireGauge": "2,5 mm²",
+				"circuitBreaker": "20 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": "550 g",
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "674,28 m³/h",
+					"heatingMode": "674,28 m³/h",
+					"fanSpeeds": 4,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": "1300 m³/h"
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 39,
+					"max": 41,
+					"silentMode": 39
+				},
+				"outdoorUnit": {
+					"level": 51
+				}
+			},
+			"filters": {
+				"types": ["CleanAir AG+", "Íons de prata", "Anti-bacteriano"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "Elgin Air",
+				"sleepMode": false,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": false,
+				"fanMode": false,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": 24,
+				"display": true,
+				"displayType": "LED Invisível",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": false,
+				"airPurifier": true,
+				"dehumidifier": false,
+				"followMe": false,
+				"iFeelSensor": true,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "710 mm",
+					"height": "280 mm",
+					"depth": "195 mm"
+				},
+				"weight": "7,3 kg",
+				"color": "Branco",
+				"material": "Plástico ABS",
+				"displayLocation": "Frontal",
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "650 mm",
+					"height": "455 mm",
+					"depth": "235 mm"
+				},
+				"weight": "17,35 kg",
+				"material": "Metal com revestimento anticorrosivo",
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": "IPX4"
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": "3 m",
+					"maximum": "15 m"
+				},
+				"heightDifference": "7 m",
+				"drain": {
+					"type": "Gravidade (dreno duplo)",
+					"included": true
+				},
+				"mounting": {
+					"bracket": true,
+					"screws": true,
+					"template": true
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": "3-4 horas",
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "3 anos",
+				"compressor": "10 anos",
+				"parts": "3 anos",
+				"labor": "3 anos",
+				"conditions": ["Defeitos de fabricação", "Instalação por assistência técnica autorizada Elgin"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "Ouro",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "10-12 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": true,
+				"installationKit": true,
+				"drainHose": true,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": ["Tubulação 1/4\" e 3/8\""]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 16,
+						"max": 43
+					},
+					"heating": {
+						"min": -7,
+						"max": 24
+					}
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Quartos", "Escritórios", "Salas pequenas", "Home office"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"efficiency": 9,
+				"quietness": 9,
+				"coolingPower": 8,
+				"features": 9,
+				"durability": 9,
+				"easeOfUse": 8
+			}
+		}
+	},
+	{
+		"id": "britania-prime-air-9fc",
+		"name": "Prime Air 9FC",
+		"brand": "Britânia",
+		"line": "Prime Air",
+		"model": "PRIME AIR 9FC",
+		"alphanumericModel": "9FC",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_969183-MLA99888990131_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1byXwu4",
+		"manufacturer": "Philco",
+		"specs": {
+			"manufacturer": "Philco",
+			"type": "Split Hi-Wall",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 9000,
+				"watts": 900,
+				"coverage": {
+					"minArea": 8,
+					"maxArea": 12,
+					"idealArea": 10
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": 3.0,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "550 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "9000 BTU/h",
+				"powerConsumption": "900 W",
+				"eer": 3.0,
+				"operatingRange": {
+					"minTemp": 16,
+					"maxTemp": 32
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "900 W",
+					"heating": null,
+					"standby": "1 W"
+				},
+				"currentRating": "4,1 A",
+				"wireGauge": "2,5 mm²",
+				"circuitBreaker": "15 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": "550 g",
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "450 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": "1100 m³/h"
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 40,
+					"max": 46,
+					"silentMode": 40
+				},
+				"outdoorUnit": {
+					"level": 55
+				}
+			},
+			"filters": {
+				"types": ["Anti-bacteriano", "Antifungos", "Anti-poeira"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": false,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": false,
+				"timer": true,
+				"timerHours": 24,
+				"display": true,
+				"displayType": "LED",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": false,
+				"airPurifier": false,
+				"dehumidifier": true,
+				"followMe": false,
+				"iFeelSensor": false,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "725 mm",
+					"height": "200 mm",
+					"depth": "295 mm"
+				},
+				"weight": "7,5 kg",
+				"color": "Branco",
+				"material": "Plástico ABS",
+				"displayLocation": "Frontal",
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "655 mm",
+					"height": "450 mm",
+					"depth": "240 mm"
+				},
+				"weight": "18 kg",
+				"material": "Metal com aletas anticorrosivas",
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": "IPX4"
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": "3 m",
+					"maximum": "15 m"
+				},
+				"heightDifference": "10 m",
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": true,
+					"screws": true,
+					"template": true
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": "3-4 horas",
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "5 anos",
+				"parts": "1 ano",
+				"labor": "1 ano",
+				"conditions": ["Defeitos de fabricação", "Instalação por técnico autorizado"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Compatível com Kit Philco Home Smart Wi-Fi (vendido separadamente)"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "8-10 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": true,
+				"installationKit": false,
+				"drainHose": true,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": ["Tubulação 1/4\" e 3/8\""]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 16,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Quartos", "Escritórios", "Salas pequenas"]
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"efficiency": 7,
+				"quietness": 7,
+				"coolingPower": 7,
+				"features": 6,
+				"durability": 7,
+				"easeOfUse": 8
+			}
+		}
+	},
+	{
+		"id": "lg-s3uq18kl31b",
+		"name": "Voice +AI",
+		"brand": "LG",
+		"line": "Dual Inverter Voice",
+		"model": "Voice +AI",
+		"alphanumericModel": "S3UQ18KL31B.EB2GAM1",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_697001-MLA99563539662_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2RyoTSn",
+		"manufacturer": "LG",
+		"specs": {
+			"manufacturer": "LG",
+			"type": "Split Hi-Wall",
+			"technology": "Dual Inverter",
+			"capacity": {
+				"btu": 18000,
+				"watts": 1790,
+				"coverage": {
+					"minArea": 21,
+					"maxArea": 30,
+					"idealArea": 25
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": 3.02,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "766,43 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "18000 BTU/h",
+				"powerConsumption": "1790 W",
+				"eer": 3.02,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 48
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1790 W",
+					"heating": null,
+					"standby": "1 W"
+				},
+				"currentRating": "8,0 A",
+				"wireGauge": "2,5 mm²",
+				"circuitBreaker": "20 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": "580 g",
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "2280 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 4,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": "2280 m³/h"
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 19,
+					"max": 44,
+					"silentMode": 19
+				},
+				"outdoorUnit": {
+					"level": 53
+				}
+			},
+			"filters": {
+				"types": ["Anti-bacteriano", "Anti-poeira", "Multi-Filtro"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "LG ThinQ",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": 24,
+				"display": true,
+				"displayType": "LED",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": false,
+				"airPurifier": false,
+				"dehumidifier": true,
+				"followMe": false,
+				"iFeelSensor": true,
+				"coldPlasma": false,
+				"childLock": true
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "998 mm",
+					"height": "345 mm",
+					"depth": "210 mm"
+				},
+				"weight": "10,1 kg",
+				"color": "Branco",
+				"material": "Plástico ABS Premium",
+				"displayLocation": "Frontal",
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "770 mm",
+					"height": "545 mm",
+					"depth": "288 mm"
+				},
+				"weight": "27,4 kg",
+				"material": "Metal com proteção GoldFin",
+				"compressor": {
+					"type": "Rotativo Dual Inverter",
+					"brand": "LG"
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": "IPX4"
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": "3 m",
+					"maximum": "25 m"
+				},
+				"heightDifference": "15 m",
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": true,
+					"screws": true,
+					"template": true
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": "3-5 horas",
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": "1 ano",
+				"labor": "1 ano",
+				"conditions": [
+					"Defeitos de fabricação",
+					"Manutenções preventivas anuais obrigatórias em assistência técnica autorizada LG"
+				]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant", "LG ThinQ"],
+				"voltageRange": "220V (suporta até 450V de pico)"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual (obrigatório para manter garantia do compressor)",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "12-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": true,
+				"installationKit": true,
+				"drainHose": true,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": ["Tubulação 1/4\" e 1/2\""]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 48
+					},
+					"heating": null
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Salas médias", "Quartos grandes", "Escritórios", "Ambientes comerciais"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"efficiency": 10,
+				"quietness": 10,
+				"coolingPower": 9,
+				"features": 10,
+				"durability": 10,
+				"easeOfUse": 9
+			}
+		}
+	},
+	{
+		"id": "midea-mph-12crv1",
+		"name": "MPH-12CRV1",
+		"brand": "Midea",
+		"line": "Springer Midea MPH",
+		"model": "MPH-12CRV",
+		"alphanumericModel": "MPH-12CRV1",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_784612-MLA98823688728_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1bLCxdf",
+		"manufacturer": "Midea",
+		"specs": {
+			"manufacturer": "Midea",
+			"type": "Portátil",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 12000,
+				"watts": 1350,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 20,
+					"idealArea": 18
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": 2.75,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "441 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1350 W",
+				"eer": 2.75,
+				"operatingRange": {
+					"minTemp": 16,
+					"maxTemp": 32
+				}
+			},
+			"heating": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1750 W",
+				"cop": null,
+				"operatingRange": {
+					"minTemp": -7,
+					"maxTemp": 24
+				}
+			},
+			"electrical": {
+				"voltage": "110V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1350 W",
+					"heating": "1750 W",
+					"standby": "1 W"
+				},
+				"currentRating": "15,9 A",
+				"wireGauge": "2,5 mm²",
+				"circuitBreaker": "20 A"
+			},
+			"refrigerant": {
+				"type": "R-410A",
+				"amount": "600 g",
+				"gwp": 2088,
+				"environmentalImpact": "Médio"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "310 m³/h",
+					"heatingMode": "310 m³/h",
+					"fanSpeeds": 4,
+					"autoMode": true
+				},
+				"outdoorUnit": null
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 55,
+					"max": 60,
+					"silentMode": 55
+				},
+				"outdoorUnit": {
+					"level": 60
+				}
+			},
+			"filters": {
+				"types": ["Anti-poeira"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": false,
+				"turboMode": false,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": false,
+				"timer": true,
+				"timerHours": 24,
+				"display": true,
+				"displayType": "LED",
+				"remoteControl": true,
+				"swingHorizontal": false,
+				"swingVertical": true,
+				"swingAuto": false,
+				"ionizer": false,
+				"airPurifier": false,
+				"dehumidifier": true,
+				"followMe": false,
+				"iFeelSensor": false,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "345 mm",
+					"height": "703 mm",
+					"depth": "355 mm"
+				},
+				"weight": "25,3 kg",
+				"color": "Branco e Cinza",
+				"material": "Plástico ABS",
+				"displayLocation": "Superior",
+				"installation": "Piso"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "345 mm",
+					"height": "703 mm",
+					"depth": "355 mm"
+				},
+				"weight": "25,3 kg",
+				"material": "Plástico e Metal",
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": false,
+					"weatherproof": false,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Portátil",
+				"tubeLength": {
+					"included": "1,5 m",
+					"maximum": "1,5 m"
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Bandeja removível",
+					"included": true
+				},
+				"mounting": {
+					"bracket": false,
+					"screws": false,
+					"template": true
+				},
+				"difficulty": "Fácil",
+				"estimatedTime": "30 minutos",
+				"professionalRequired": false
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "3 anos",
+				"parts": "1 ano",
+				"labor": "1 ano",
+				"conditions": ["Defeitos de fabricação", "Registro do produto"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "110V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "8-10 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": true,
+				"installationKit": true,
+				"drainHose": true,
+				"sealingKit": true,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": ["Kit de adaptação para janela"]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 16,
+						"max": 43
+					},
+					"heating": {
+						"min": -7,
+						"max": 24
+					}
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Quartos", "Escritórios", "Salas pequenas"]
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"efficiency": 6,
+				"quietness": 5,
+				"coolingPower": 7,
+				"features": 5,
+				"durability": 7,
+				"easeOfUse": 9
+			}
+		}
+	},
+	{
+		"id": "electrolux-yi12f-ye12f",
+		"name": "Color Adapt",
+		"brand": "Electrolux",
+		"line": "Color Adapt",
+		"model": "YI12F/YE12F",
+		"alphanumericModel": "YI12F",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_752001-MLA100001155415_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1BQwWn8",
+		"manufacturer": "Electrolux",
+		"specs": {
+			"manufacturer": "Electrolux",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 12000,
+				"watts": 1200,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 20,
+					"idealArea": 18
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": 3.23,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "397 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "479 W",
+				"eer": 3.23,
+				"operatingRange": {
+					"minTemp": 16,
+					"maxTemp": 43
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "479 W",
+					"heating": null,
+					"standby": "1 W"
+				},
+				"currentRating": "6,8 A",
+				"wireGauge": "2,5 mm²",
+				"circuitBreaker": "15 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": "530 g",
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "570 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 5,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": "1800 m³/h"
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 19,
+					"max": 37,
+					"silentMode": 19
+				},
+				"outdoorUnit": {
+					"level": 48
+				}
+			},
+			"filters": {
+				"types": ["Proteção Ativa", "Anti-bacteriano", "Anti-poeira"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "Electrolux Home+",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": 24,
+				"display": true,
+				"displayType": "LED",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": false,
+				"airPurifier": true,
+				"dehumidifier": true,
+				"followMe": false,
+				"iFeelSensor": true,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "720 mm",
+					"height": "200 mm",
+					"depth": "270 mm"
+				},
+				"weight": "9,5 kg",
+				"color": "Branco (personalizável)",
+				"material": "Plástico ABS fosco",
+				"displayLocation": "Frontal",
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "370 mm",
+					"height": "560 mm",
+					"depth": "485 mm"
+				},
+				"weight": "23 kg",
+				"material": "Metal com proteção Blue Tech",
+				"compressor": {
+					"type": "Rotativo Inverter",
+					"brand": "Electrolux"
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": "IPX4"
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": "3 m",
+					"maximum": "15 m"
+				},
+				"heightDifference": "4 m",
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": true,
+					"screws": true,
+					"template": true
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": "3-4 horas",
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": "1 ano",
+				"labor": "1 ano",
+				"conditions": ["Defeitos de fabricação", "Instalação por técnico autorizado"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant", "Electrolux Home+"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "12-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": true,
+				"installationKit": true,
+				"drainHose": true,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": ["Tubulação 1/4\" e 3/8\""]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 16,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Quartos", "Salas médias", "Escritórios"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"efficiency": 9,
+				"quietness": 9,
+				"coolingPower": 9,
+				"features": 10,
+				"durability": 9,
+				"easeOfUse": 9
+			}
+		}
+	},
+	{
+		"id": "samsung-ar60f18d1aw",
+		"name": "WindFree AI",
+		"brand": "Samsung",
+		"line": "WindFree AI",
+		"model": "WF AI Frio",
+		"alphanumericModel": "F-AR60F18D1AW",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_753644-MLA99451198906_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2qcKGYN",
+		"manufacturer": "Samsung",
+		"specs": {
+			"manufacturer": "Samsung",
+			"type": "Split Hi-Wall",
+			"technology": "Digital Inverter",
+			"capacity": {
+				"btu": 18000,
+				"watts": 1790,
+				"coverage": {
+					"minArea": 20,
+					"maxArea": 30,
+					"idealArea": 25
+				}
+			},
+			"efficiency": {
+				"energyClass": "B",
+				"eer": 3.24,
+				"cop": null,
+				"procelSeal": "B",
+				"annualConsumption": "681 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "18000 BTU/h",
+				"powerConsumption": "1630 W",
+				"eer": 3.24,
+				"operatingRange": {
+					"minTemp": 16,
+					"maxTemp": 48
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1630 W",
+					"heating": null,
+					"standby": "1 W"
+				},
+				"currentRating": "7,7 A",
+				"wireGauge": "2,5 mm²",
+				"circuitBreaker": "20 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": "1050 g",
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "996 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 5,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": "2280 m³/h"
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 16,
+					"max": 43,
+					"silentMode": 16
+				},
+				"outdoorUnit": {
+					"level": 53
+				}
+			},
+			"filters": {
+				"types": ["Anti-bacteriano", "Anti-poeira"],
+				"washable": true,
+				"replacement": "Mensal (limpeza)"
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant", "Bixby"],
+				"mobileApp": "SmartThings",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": 24,
+				"display": true,
+				"displayType": "LED",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": false,
+				"airPurifier": false,
+				"dehumidifier": true,
+				"followMe": false,
+				"iFeelSensor": true,
+				"coldPlasma": false,
+				"childLock": false
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "998 mm",
+					"height": "345 mm",
+					"depth": "210 mm"
+				},
+				"weight": "10,1 kg",
+				"color": "Branco",
+				"material": "Plástico ABS Premium",
+				"displayLocation": "Frontal",
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "770 mm",
+					"height": "545 mm",
+					"depth": "288 mm"
+				},
+				"weight": "27,4 kg",
+				"material": "Metal com proteção anticorrosiva",
+				"compressor": {
+					"type": "Rotativo Digital Inverter",
+					"brand": "Samsung"
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": "IPX4"
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": "3 m",
+					"maximum": "30 m"
+				},
+				"heightDifference": "15 m",
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": true,
+					"screws": true,
+					"template": true
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": "3-5 horas",
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": "1 ano",
+				"labor": "1 ano",
+				"conditions": ["Defeitos de fabricação", "Instalação por técnico autorizado Samsung"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "B",
+				"iso": null,
+				"ansi": false,
+				"other": ["Anatel 107252102752"]
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant", "Bixby", "SmartThings"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "12-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": true,
+				"installationKit": true,
+				"drainHose": true,
+				"sealingKit": false,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": ["Tubulação 1/4\" e 1/2\""]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 16,
+						"max": 48
+					},
+					"heating": null
+				},
+				"operatingHumidity": {
+					"min": 30,
+					"max": 80
+				},
+				"recommendedUse": ["Salas médias", "Quartos grandes", "Escritórios", "Ambientes comerciais"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"efficiency": 9,
+				"quietness": 10,
+				"coolingPower": 9,
+				"features": 10,
+				"durability": 9,
+				"easeOfUse": 9
+			}
+		}
+	},
+	{
+		"id": "lg-dual-inverter-compact-ai-9000",
+		"name": "S3-Q09AAQAK",
+		"brand": "LG",
+		"line": "AI Dual Inverter Compact",
+		"model": "S3-Q09AAQAK",
+		"detailedModel": "S3-Q09AAQAK",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_915000-MLA99433689578_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1nroqM2",
+		"manufacturer": "LG",
+		"specs": {
+			"manufacturer": "LG",
+			"type": "Split Hi-Wall",
+			"technology": "Dual Inverter",
+			"capacity": {
+				"btu": 9000,
+				"watts": 2638,
+				"coverage": {
+					"minArea": 10,
+					"maxArea": 15,
+					"idealArea": 12
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "396,2 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "9000 BTU/h",
+				"powerConsumption": "780 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 16,
+					"maxTemp": 43
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "780 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "4,5 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "12.0 / 8.0 / 6.0 / 4.0 m³/min",
+					"heatingMode": null,
+					"fanSpeeds": 4,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 38,
+					"max": null,
+					"silentMode": 38
+				},
+				"outdoorUnit": {
+					"level": 51
+				}
+			},
+			"filters": {
+				"types": ["Anti-bacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": true,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": null,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": null,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "754 mm",
+					"height": null,
+					"depth": null
+				},
+				"weight": null,
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": null,
+					"height": null,
+					"depth": null
+				},
+				"weight": null,
+				"material": null,
+				"compressor": {
+					"type": "Rotativo Dual",
+					"brand": "LG"
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": "7 m",
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": null,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 16,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Escritórios", "Salas pequenas"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"efficiency": 9,
+				"quietness": 9,
+				"coolingPower": 8.5,
+				"features": 8,
+				"durability": 9,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "lg-dual-inverter-voice-ai-9000",
+		"name": "S3UQ09AA31C",
+		"brand": "LG",
+		"line": "Dual Inverter Voice +AI",
+		"model": "S3UQ09AA31C.EB2GAM1",
+		"detailedModel": "S3UQ09AA31C.EB2GAM1",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_614207-MLA98397051885_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2d35Jnw",
+		"manufacturer": "LG",
+		"specs": {
+			"manufacturer": "LG",
+			"type": "Split Hi-Wall",
+			"technology": "Dual Inverter",
+			"capacity": {
+				"btu": 9000,
+				"watts": 2638,
+				"coverage": {
+					"minArea": 10,
+					"maxArea": 15,
+					"idealArea": 12
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "363,3 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "9000 BTU/h",
+				"powerConsumption": "800 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 30
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "800 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "4,5 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "12.0 m³/min",
+					"heatingMode": null,
+					"fanSpeeds": 4,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 28,
+					"max": 42,
+					"silentMode": 28
+				},
+				"outdoorUnit": {
+					"level": 51
+				}
+			},
+			"filters": {
+				"types": ["Anti-bacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Google Assistant", "Alexa"],
+				"mobileApp": "LG ThinQ",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "754 mm",
+					"height": "308 mm",
+					"depth": "189 mm"
+				},
+				"weight": "7,3 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "717 mm",
+					"height": "495 mm",
+					"depth": "230 mm"
+				},
+				"weight": "20 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo Dual",
+					"brand": "LG"
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": "7 m",
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Defeitos de fabricação", "Instalação por técnico autorizado"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["LG ThinQ", "Google Assistant", "Alexa"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Escritórios", "Salas pequenas"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"efficiency": 9.5,
+				"quietness": 9,
+				"coolingPower": 8.5,
+				"features": 9,
+				"durability": 9,
+				"easeOfUse": 9
+			}
+		}
+	},
+	{
+		"id": "elgin-eco-inverter-ii-wifi-12000",
+		"name": "HJFI12C2WB",
+		"brand": "Elgin",
+		"line": "Eco Inverter II Wi-Fi",
+		"model": "HJFI12C2WB / HJFE12C2CB",
+		"detailedModel": "HJFI12C2WB / HJFE12C2CB",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_964072-MLA99554953128_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1Bq4kH2",
+		"manufacturer": "Elgin",
+		"specs": {
+			"manufacturer": "Elgin",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 12000,
+				"watts": null,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 25,
+					"idealArea": 20
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "502 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1000 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": null,
+					"maxTemp": null
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1000 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "5,94 A",
+				"wireGauge": null,
+				"circuitBreaker": "10 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "943,85 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": null,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": null,
+					"max": null,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": 52
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano", "Ionizador", "Filtro de Íons de Prata"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "AC Elgin Air",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": null,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital (invisível)",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": true,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "1090 mm",
+					"height": "320 mm",
+					"depth": "225 mm"
+				},
+				"weight": "12,9 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "845 mm",
+					"height": "655 mm",
+					"depth": "325 mm"
+				},
+				"weight": "36,1 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "3 anos",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por credenciado Elgin", "Manutenção preventiva anual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": null,
+						"max": null
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Salas médias", "Ambientes de até 20-25 m²"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"efficiency": 9,
+				"quietness": 8,
+				"coolingPower": 8.5,
+				"features": 8.5,
+				"durability": 8.5,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "philco-pac9fb-inverter-9000",
+		"name": "PAC9FB",
+		"brand": "Philco",
+		"line": "Split Inverter",
+		"model": "PAC9FB",
+		"alphanumericModel": "PAC9FB",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_773185-MLA99508095402_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2TX41NS",
+		"manufacturer": "Philco",
+		"specs": {
+			"manufacturer": "Philco",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 9000,
+				"watts": null,
+				"coverage": {
+					"minArea": 10,
+					"maxArea": 15,
+					"idealArea": 12
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "376 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "9000 BTU/h",
+				"powerConsumption": "810 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 16,
+					"maxTemp": 32
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "810 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "3,7 A",
+				"wireGauge": null,
+				"circuitBreaker": "16 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "8,33 m³/min",
+					"heatingMode": null,
+					"fanSpeeds": null,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 40,
+					"max": null,
+					"silentMode": 40
+				},
+				"outdoorUnit": {
+					"level": 55
+				}
+			},
+			"filters": {
+				"types": ["Antipoeira", "Antibacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": null,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "725 mm",
+					"height": "200 mm",
+					"depth": "295 mm"
+				},
+				"weight": "7 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "725 mm",
+					"height": "530 mm",
+					"depth": "270 mm"
+				},
+				"weight": "18,5 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por técnico credenciado", "Manutenção preventiva conforme manual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": [
+					"Compatível com Kit Philco Home Smart Wi-Fi (vendido separadamente)",
+					"Google Assistant",
+					"Alexa"
+				],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 16,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Escritórios", "Ambientes pequenos a médios"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"efficiency": 8.5,
+				"quietness": 8,
+				"coolingPower": 8,
+				"features": 7.5,
+				"durability": 8,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "elgin-eco-inverter-ii-wifi-9000",
+		"name": "HJFE09C2CC",
+		"brand": "Elgin",
+		"line": "Eco Inverter II Wi-Fi",
+		"model": "HJFE09C2CC / HJFI09C2WC",
+		"detailedModel": "HJFE09C2CC / HJFI09C2WC",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_705261-MLA99988239757_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1PbbHqp",
+		"manufacturer": "Elgin",
+		"specs": {
+			"manufacturer": "Elgin",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 9000,
+				"watts": 2640,
+				"coverage": {
+					"minArea": 10,
+					"maxArea": 15,
+					"idealArea": 12
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "381 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "9000 BTU/h",
+				"powerConsumption": "810 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": null,
+					"maxTemp": null
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "810 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": null,
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "747,77 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": null,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 38,
+					"max": null,
+					"silentMode": 38
+				},
+				"outdoorUnit": {
+					"level": 47
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano", "Filtro de Íons de Prata", "Ionizador Ativo"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "AC Elgin Air",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": null,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital (invisível)",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": true,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "710 mm",
+					"height": "280 mm",
+					"depth": "195 mm"
+				},
+				"weight": "6,5 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "650 mm",
+					"height": "455 mm",
+					"depth": "235 mm"
+				},
+				"weight": "17,5 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "3 anos",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por credenciado Elgin", "Manutenção preventiva anual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": null,
+						"max": null
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Escritórios", "Ambientes pequenos a médios"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"efficiency": 9,
+				"quietness": 8.5,
+				"coolingPower": 8.5,
+				"features": 8.5,
+				"durability": 8.5,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "kian-kv-acj-elet-10000",
+		"name": "KV-ACJ-ELET",
+		"brand": "Kian",
+		"line": null,
+		"model": "KV-ACJ-ELET",
+		"alphanumericModel": "KV-ACJ-ELET",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_783755-MLA98882484461_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/13trJ9A",
+		"manufacturer": "Kian",
+		"specs": {
+			"manufacturer": "Kian",
+			"type": "Janela",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 10000,
+				"watts": null,
+				"coverage": {
+					"minArea": 12,
+					"maxArea": 20,
+					"idealArea": 15
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "650 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "10000 BTU/h",
+				"powerConsumption": "950 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 43
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "950 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "5 A",
+				"wireGauge": null,
+				"circuitBreaker": "15 A"
+			},
+			"refrigerant": {
+				"type": "R-410A",
+				"amount": null,
+				"gwp": 2088,
+				"environmentalImpact": "Alto"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": null,
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 63,
+					"max": null,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": null
+				}
+			},
+			"filters": {
+				"types": ["Antipoeira"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": null,
+				"turboMode": null,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": null,
+				"swingAuto": null,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "543 mm",
+					"height": "378 mm",
+					"depth": "486 mm"
+				},
+				"weight": "25 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Janela"
+			},
+			"outdoorUnit": {
+				"dimensions": null,
+				"weight": null,
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": null,
+					"weatherproof": null,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Janela",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Média",
+				"estimatedTime": "1-2 horas",
+				"professionalRequired": false
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "3 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "8-12 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Salas pequenas", "Ambientes de até 20 m²"]
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"efficiency": 7,
+				"quietness": 5,
+				"coolingPower": 7.5,
+				"features": 6,
+				"durability": 7,
+				"easeOfUse": 7.5
+			}
+		}
+	},
+	{
+		"id": "gree-gjc07bv-a6nmnd1a-7000",
+		"name": "GJC07BV-A6NMND1A",
+		"brand": "Gree",
+		"line": "Eco Garden",
+		"model": "GJC07BV-A6NMND1A",
+		"alphanumericModel": "GJC07BV-A6NMND1A",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_771955-MLA99413632356_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Sqm8ws",
+		"manufacturer": "Gree",
+		"specs": {
+			"manufacturer": "Gree",
+			"type": "Janela",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 7000,
+				"watts": null,
+				"coverage": {
+					"minArea": 8,
+					"maxArea": 12,
+					"idealArea": 10
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "450 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "7000 BTU/h",
+				"powerConsumption": "705 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 43
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "127V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "705 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "5,9 A",
+				"wireGauge": null,
+				"circuitBreaker": "15 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "245 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": false
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": null,
+					"max": 55,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": null
+				}
+			},
+			"filters": {
+				"types": ["Antipoeira"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": false,
+				"ecoMode": true,
+				"turboMode": null,
+				"dryMode": false,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": true,
+				"timer": false,
+				"timerHours": null,
+				"display": false,
+				"displayType": null,
+				"remoteControl": false,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": null,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": false,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "302 mm",
+					"height": "348 mm",
+					"depth": "408 mm"
+				},
+				"weight": "17 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Janela"
+			},
+			"outdoorUnit": {
+				"dimensions": null,
+				"weight": null,
+				"material": null,
+				"compressor": {
+					"type": "Convencional",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Janela",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Média",
+				"estimatedTime": "1-2 horas",
+				"professionalRequired": false
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "3 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "127V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "8-12 anos"
+			},
+			"bundled": {
+				"remoteControl": false,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos pequenos", "Ambientes de até 10-12 m²"]
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"efficiency": 8.5,
+				"quietness": 6,
+				"coolingPower": 7.5,
+				"features": 5.5,
+				"durability": 7.5,
+				"easeOfUse": 7
+			}
+		}
+	},
+	{
+		"id": "lg-dual-inverter-voice-ai-24000-qf",
+		"name": "S3-W24K231A",
+		"brand": "LG",
+		"line": "Voice +AI",
+		"model": "S3UW24K231A.EB2GAM1",
+		"alphanumericModel": "S3-W24K231A",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_868513-MLA99405356170_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2BS62mj",
+		"manufacturer": "LG",
+		"specs": {
+			"manufacturer": "LG",
+			"type": "Split Hi-Wall",
+			"technology": "Dual Inverter",
+			"capacity": {
+				"btu": 24000,
+				"watts": null,
+				"coverage": {
+					"minArea": 30,
+					"maxArea": 50,
+					"idealArea": 40
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "833 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "24000 BTU/h",
+				"powerConsumption": "2040 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 43
+				}
+			},
+			"heating": {
+				"capacity": "24000 BTU/h",
+				"powerConsumption": "1890 W",
+				"cop": null,
+				"operatingRange": {
+					"minTemp": -5,
+					"maxTemp": 24
+				}
+			},
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "2040 W",
+					"heating": "1890 W",
+					"standby": null
+				},
+				"currentRating": "9,2 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "20.5 m³/min",
+					"heatingMode": "20.5 m³/min",
+					"fanSpeeds": 4,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 32,
+					"max": 47,
+					"silentMode": 32
+				},
+				"outdoorUnit": {
+					"level": 55
+				}
+			},
+			"filters": {
+				"types": ["Anti-bacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "LG ThinQ",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "998 mm",
+					"height": "345 mm",
+					"depth": "210 mm"
+				},
+				"weight": "10,1 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "870 mm",
+					"height": "650 mm",
+					"depth": "330 mm"
+				},
+				"weight": "41,6 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo Dual",
+					"brand": "LG"
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": "7 m",
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por técnico autorizado", "Manutenção preventiva anual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["LG ThinQ", "Alexa", "Google Assistant"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": {
+						"min": -5,
+						"max": 24
+					}
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Salas amplas", "Ambientes de até 40 m²", "Regiões com variações de temperatura"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"efficiency": 9.5,
+				"quietness": 9,
+				"coolingPower": 9,
+				"features": 9.5,
+				"durability": 9,
+				"easeOfUse": 9
+			}
+		}
+	},
+	{
+		"id": "elgin-eco-inverter-ii-wifi-12000",
+		"name": "HJFE12C2CD",
+		"brand": "Elgin",
+		"line": "Eco Inverter II Wi-Fi",
+		"model": "HJFE12C2CD / HJFI12C2WD",
+		"detailedModel": "HJFE12C2CD / HJFI12C2WD",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_622513-MLA99521778628_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1KryiBH",
+		"manufacturer": "Elgin",
+		"specs": {
+			"manufacturer": "Elgin",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 12000,
+				"watts": null,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 25,
+					"idealArea": 20
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "502 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1000 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": null,
+					"maxTemp": null
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1000 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "5,94 A",
+				"wireGauge": null,
+				"circuitBreaker": "10 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "789,49 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": null,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": null,
+					"max": 43,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": 52
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano", "Íons de Prata", "Ionizador Ativo"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "AC Elgin Air",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": null,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital (invisível)",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": true,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": true,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "755 mm",
+					"height": "295 mm",
+					"depth": "200 mm"
+				},
+				"weight": "7,65 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "760 mm",
+					"height": "510 mm",
+					"depth": "315 mm"
+				},
+				"weight": "21,35 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": "7 m",
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "3 anos",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por credenciado Elgin", "Manutenção preventiva anual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant", "AC Elgin Air"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": null,
+						"max": null
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Salas médias", "Quartos", "Ambientes de até 20-25 m²"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"efficiency": 9,
+				"quietness": 8.5,
+				"coolingPower": 8.5,
+				"features": 8.5,
+				"durability": 8.5,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "philco-pac12000qf5-portatil-qf",
+		"name": "PAC12000QF5",
+		"brand": "Philco",
+		"line": null,
+		"model": "PAC12000QF5",
+		"alphanumericModel": "PAC12000QF5",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_993676-MLA99470514992_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/32q1d5c",
+		"manufacturer": "Philco",
+		"specs": {
+			"manufacturer": "Philco",
+			"type": "Portátil",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 12000,
+				"watts": 1200,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 25,
+					"idealArea": 20
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "850 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1200 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 35
+				}
+			},
+			"heating": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1200 W",
+				"cop": null,
+				"operatingRange": {
+					"minTemp": 5,
+					"maxTemp": 30
+				}
+			},
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1200 W",
+					"heating": "1200 W",
+					"standby": null
+				},
+				"currentRating": "10,1 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-410A",
+				"amount": null,
+				"gwp": 2088,
+				"environmentalImpact": "Alto"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "286 m³/h",
+					"heatingMode": "286 m³/h",
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 51,
+					"max": null,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": null
+				}
+			},
+			"filters": {
+				"types": ["Antifungos", "Antibacteriano", "Vírus Protect", "Ionizador"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": null,
+				"turboMode": null,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": null,
+				"swingAuto": null,
+				"ionizer": true,
+				"airPurifier": true,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "415 mm",
+					"height": "715 mm",
+					"depth": "350 mm"
+				},
+				"weight": "25 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Piso"
+			},
+			"outdoorUnit": {
+				"dimensions": null,
+				"weight": null,
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": null,
+					"weatherproof": null,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Portátil",
+				"tubeLength": {
+					"included": "Kit exaustão incluso",
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Auto-evaporação (principal) + manual",
+					"included": true
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Fácil",
+				"estimatedTime": "30 min - 1 hora",
+				"professionalRequired": false
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "3 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "8-12 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": true,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": ["Kit janela exaustão"]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 35
+					},
+					"heating": {
+						"min": 5,
+						"max": 30
+					}
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Salas médias", "Ambientes de até 20-25 m²", "Uso sazonal Quente/Frio"]
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"efficiency": 7.5,
+				"quietness": 6.5,
+				"coolingPower": 8,
+				"features": 8,
+				"durability": 7.5,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "elgin-eco-inverter-ii-wifi-30000",
+		"name": "HJFE30C2CB",
+		"brand": "Elgin",
+		"line": "Eco Inverter II Wi-Fi",
+		"model": "HJFE30C2CB / HJFI30C2WB",
+		"detailedModel": "HJFE30C2CB / HJFI30C2WB",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_614534-MLA100012391495_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2qAuMbL",
+		"manufacturer": "Elgin",
+		"specs": {
+			"manufacturer": "Elgin",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 30000,
+				"watts": 8790,
+				"coverage": {
+					"minArea": 40,
+					"maxArea": 60,
+					"idealArea": 50
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "1035 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "30000 BTU/h",
+				"powerConsumption": "2638 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": null,
+					"maxTemp": null
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "2638 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": null,
+				"wireGauge": "4 mm²",
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "1090.12 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": null,
+					"max": 50,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": 59
+				}
+			},
+			"filters": {
+				"types": [
+					"Íons de Prata",
+					"Ionizador Ativo",
+					"Anti-bacteriano",
+					"Anti-fungo",
+					"Anti-ácaros",
+					"Anti-vírus"
+				],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "AC Elgin Air",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital (invisível)",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": true,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": true,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "1090 mm",
+					"height": "320 mm",
+					"depth": "225 mm"
+				},
+				"weight": "13,8 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "925 mm",
+					"height": "705 mm",
+					"depth": "345 mm"
+				},
+				"weight": "40,3 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": "20 m"
+				},
+				"heightDifference": "8 m",
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "3 anos",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por credenciado Elgin", "Manutenção preventiva anual", "CTI preenchido"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": ["INMETRO 0067242014"]
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": null,
+						"max": null
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Salas grandes", "Ambientes comerciais leves", "Até 50 m²"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"efficiency": 9,
+				"quietness": 8,
+				"coolingPower": 9,
+				"features": 8.5,
+				"durability": 8.5,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "philco-pac18fc-inverter-18000",
+		"name": "PAC18FC",
+		"brand": "Philco",
+		"line": "Inverter",
+		"model": "PAC18FC",
+		"alphanumericModel": "PAC18FC",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_778515-MLA99940510711_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1vbLZms",
+		"manufacturer": "Philco",
+		"specs": {
+			"manufacturer": "Philco",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 18000,
+				"watts": 1620,
+				"coverage": {
+					"minArea": 20,
+					"maxArea": 35,
+					"idealArea": 28
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "724 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "18000 BTU/h",
+				"powerConsumption": "1620 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 16,
+					"maxTemp": 32
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1620 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "7,4 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "850 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": null,
+					"max": 45,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": 56
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano", "Antifungos", "Proteção contra vírus"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "900 mm",
+					"height": "215 mm",
+					"depth": "290 mm"
+				},
+				"weight": "12 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "885 mm",
+					"height": "270 mm",
+					"depth": "560 mm"
+				},
+				"weight": "25,6 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por técnico credenciado", "Manutenção preventiva conforme manual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": [
+					"Compatível com Kit Philco Home Smart Wi-Fi (vendido separadamente)",
+					"Alexa",
+					"Google Assistant"
+				],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 16,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Salas médias", "Quartos grandes", "Ambientes de até 30 m²"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"efficiency": 8.5,
+				"quietness": 8,
+				"coolingPower": 8.5,
+				"features": 7.5,
+				"durability": 8,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "lg-dual-inverter-voice-ai-18000",
+		"name": "S3UQ18KL31B",
+		"brand": "LG",
+		"line": "Voice +AI",
+		"model": "S3UQ18KL31B.EB2GAM1",
+		"detailedModel": "S3UQ18KL31B.EB2GAM1",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_697001-MLA99563539662_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2RyoTSn",
+		"manufacturer": "LG",
+		"specs": {
+			"manufacturer": "LG",
+			"type": "Split Hi-Wall",
+			"technology": "Dual Inverter",
+			"capacity": {
+				"btu": 18000,
+				"watts": 1790,
+				"coverage": {
+					"minArea": 20,
+					"maxArea": 35,
+					"idealArea": 30
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "766,43 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "18000 BTU/h",
+				"powerConsumption": "1790 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 43
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1790 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "8 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "18 m³/min",
+					"heatingMode": null,
+					"fanSpeeds": 4,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 32,
+					"max": 45,
+					"silentMode": 32
+				},
+				"outdoorUnit": {
+					"level": 53
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "LG ThinQ",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "998 mm",
+					"height": "345 mm",
+					"depth": "210 mm"
+				},
+				"weight": "10,1 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "770 mm",
+					"height": "545 mm",
+					"depth": "288 mm"
+				},
+				"weight": "12,5 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo Dual",
+					"brand": "LG"
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": "7 m",
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por técnico autorizado", "Manutenção preventiva anual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["LG ThinQ", "Alexa", "Google Assistant"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Salas médias", "Quartos grandes", "Ambientes de até 30 m²"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"efficiency": 9.5,
+				"quietness": 9,
+				"coolingPower": 8.5,
+				"features": 9,
+				"durability": 9,
+				"easeOfUse": 9
+			}
+		}
+	},
+	{
+		"id": "elgin-eco-ii-wifi-inverter-12000-qf",
+		"name": "HJQE12C2CD",
+		"brand": "Elgin",
+		"line": "Eco II Wi-Fi",
+		"model": "HJQE12C2CD / HJQI12C2WD",
+		"detailedModel": "HJQE12C2CD / HJQI12C2WD",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_958094-MLA93958375647_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/24Diqux",
+		"manufacturer": "Elgin",
+		"specs": {
+			"manufacturer": "Elgin",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 12000,
+				"watts": null,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 25,
+					"idealArea": 20
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "520 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1000 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 43
+				}
+			},
+			"heating": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "950 W",
+				"cop": null,
+				"operatingRange": {
+					"minTemp": -7,
+					"maxTemp": 24
+				}
+			},
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1000 W",
+					"heating": "950 W",
+					"standby": null
+				},
+				"currentRating": "5,5 A",
+				"wireGauge": null,
+				"circuitBreaker": "10 A"
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "789 m³/h",
+					"heatingMode": "789 m³/h",
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 38,
+					"max": 43,
+					"silentMode": 38
+				},
+				"outdoorUnit": {
+					"level": 52
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "AC Elgin Air",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital (invisível)",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": true,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": true,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "755 mm",
+					"height": "295 mm",
+					"depth": "200 mm"
+				},
+				"weight": "7,65 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "650 mm",
+					"height": "455 mm",
+					"depth": "235 mm"
+				},
+				"weight": "21,35 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": "15 m"
+				},
+				"heightDifference": "7 m",
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "3 anos",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por credenciado Elgin", "Manutenção preventiva anual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": {
+						"min": -7,
+						"max": 24
+					}
+				},
+				"operatingHumidity": null,
+				"recommendedUse": [
+					"Salas médias",
+					"Quartos",
+					"Ambientes de até 20-25 m²",
+					"Regiões com invernos moderados"
+				]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"efficiency": 9,
+				"quietness": 8.5,
+				"coolingPower": 8.5,
+				"features": 8.5,
+				"durability": 8.5,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "philco-pac12000f5-portatil-frio",
+		"name": "PAC12000F5",
+		"brand": "Philco",
+		"line": null,
+		"model": "PAC12000F5",
+		"alphanumericModel": "PAC12000F5",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_632945-MLA99961007401_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1XSBp28",
+		"manufacturer": "Philco",
+		"specs": {
+			"manufacturer": "Philco",
+			"type": "Portátil",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 12000,
+				"watts": 1200,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 25,
+					"idealArea": 20
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "850 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1200 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 35
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1200 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "10 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-410A",
+				"amount": null,
+				"gwp": 2088,
+				"environmentalImpact": "Alto"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "286 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 51,
+					"max": null,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": null
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": null,
+				"turboMode": null,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": null,
+				"swingAuto": null,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "415 mm",
+					"height": "715 mm",
+					"depth": "350 mm"
+				},
+				"weight": "25 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Piso"
+			},
+			"outdoorUnit": {
+				"dimensions": null,
+				"weight": null,
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": null,
+					"weatherproof": null,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Portátil",
+				"tubeLength": {
+					"included": "Kit exaustão incluso",
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Auto-evaporação (principal) + manual",
+					"included": true
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Fácil",
+				"estimatedTime": "30 min - 1 hora",
+				"professionalRequired": false
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "3 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "8-12 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": true,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": ["Kit janela exaustão"]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 35
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Salas médias", "Ambientes de até 20-25 m²", "Uso sazonal"]
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"efficiency": 7.5,
+				"quietness": 6.5,
+				"coolingPower": 8,
+				"features": 7.5,
+				"durability": 7.5,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "kian-kv-acj-elet-12000-110v",
+		"name": "KV-ACJ-ELET",
+		"brand": "Kian",
+		"line": null,
+		"model": "KV-ACJ-ELET",
+		"alphanumericModel": "KV-ACJ-ELET",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_740438-MLA105346891775_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1t2V273",
+		"manufacturer": "Kian",
+		"specs": {
+			"manufacturer": "Kian",
+			"type": "Janela",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 12000,
+				"watts": null,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 25,
+					"idealArea": 20
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "780 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1100 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 43
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "110V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1100 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "10 A",
+				"wireGauge": null,
+				"circuitBreaker": "20 A"
+			},
+			"refrigerant": {
+				"type": "R-410A",
+				"amount": null,
+				"gwp": 2088,
+				"environmentalImpact": "Alto"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": null,
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 63,
+					"max": null,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": null
+				}
+			},
+			"filters": {
+				"types": ["Antipoeira"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": null,
+				"turboMode": null,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": null,
+				"swingAuto": null,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "555 mm",
+					"height": "435 mm",
+					"depth": "601 mm"
+				},
+				"weight": "30 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Janela"
+			},
+			"outdoorUnit": {
+				"dimensions": null,
+				"weight": null,
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": null,
+					"weatherproof": null,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Janela",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Gravidade",
+					"included": true
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Média",
+				"estimatedTime": "1-2 horas",
+				"professionalRequired": false
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "3 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "110V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "8-12 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Salas médias", "Ambientes de até 20-25 m²"]
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"efficiency": 7.5,
+				"quietness": 5,
+				"coolingPower": 8,
+				"features": 6.5,
+				"durability": 7,
+				"easeOfUse": 8
+			}
+		}
+	},
+	{
+		"id": "philco-pac12fc-inverter-12000",
+		"name": "PAC12FC",
+		"brand": "Philco",
+		"line": "Inverter",
+		"model": "PAC12FC",
+		"alphanumericModel": "PAC12FC",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_607568-MLA99924798865_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1WHvpj4",
+		"manufacturer": "Philco",
+		"specs": {
+			"manufacturer": "Philco",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 12000,
+				"watts": 1080,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 20,
+					"idealArea": 18
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "530 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1080 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 16,
+					"maxTemp": 43
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1080 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "5 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "8,33 m³/min",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 41,
+					"max": null,
+					"silentMode": 41
+				},
+				"outdoorUnit": {
+					"level": 57
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano", "Antifungos", "Proteção contra vírus (kit opcional)"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "790 mm",
+					"height": "270 mm",
+					"depth": "195 mm"
+				},
+				"weight": "8 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "470 mm",
+					"height": "560 mm",
+					"depth": "355 mm"
+				},
+				"weight": "16 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por técnico credenciado", "Manutenção preventiva conforme manual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": [
+					"Compatível com Kit Philco Home Smart Wi-Fi (vendido separadamente)",
+					"Alexa",
+					"Google Assistant"
+				],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 16,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Salas pequenas a médias", "Ambientes de até 20 m²"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"efficiency": 9,
+				"quietness": 8.5,
+				"coolingPower": 8.5,
+				"features": 7.5,
+				"durability": 8,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "hisense-eco-plus-inverter-12000",
+		"name": "AS-12TW2RLRCK00E",
+		"brand": "Hisense",
+		"line": "Hi Wall Eco Plus",
+		"model": "AS-12TW2RLRCK00E",
+		"alphanumericModel": "AS-12TW2RLRCK00E",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_844147-MLA104250858950_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1HNQgrQ",
+		"manufacturer": "Hisense",
+		"specs": {
+			"manufacturer": "Hisense",
+			"type": "Split Hi-Wall",
+			"technology": "Inverter",
+			"capacity": {
+				"btu": 12000,
+				"watts": null,
+				"coverage": {
+					"minArea": 16,
+					"maxArea": 21,
+					"idealArea": 18
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "527 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1080 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 43
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1080 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "7,3 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "10 m³/min",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 40,
+					"max": null,
+					"silentMode": 40
+				},
+				"outdoorUnit": {
+					"level": 55
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": false,
+				"smartControl": false,
+				"voiceControl": null,
+				"mobileApp": null,
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "790 mm",
+					"height": "270 mm",
+					"depth": "200 mm"
+				},
+				"weight": "7 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "660 mm",
+					"height": "480 mm",
+					"depth": "240 mm"
+				},
+				"weight": "20 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por técnico autorizado", "Manutenção preventiva anual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": null,
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Salas pequenas", "Ambientes de até 20 m²"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"efficiency": 9,
+				"quietness": 8.5,
+				"coolingPower": 8.5,
+				"features": 8,
+				"durability": 8.5,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "lg-ai-smart-inverter-voice-9000",
+		"name": "S3UQ09JA31E",
+		"brand": "LG",
+		"line": "AI Smart Inverter Voice",
+		"model": "S3UQ09JA31E.EB2GAM1",
+		"detailedModel": "S3UQ09JA31E.EB2GAM1",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_880344-MLA99423241978_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2VB1u1B",
+		"manufacturer": "LG",
+		"specs": {
+			"manufacturer": "LG",
+			"type": "Split Hi-Wall",
+			"technology": "Dual Inverter",
+			"capacity": {
+				"btu": 9000,
+				"watts": 2638,
+				"coverage": {
+					"minArea": 10,
+					"maxArea": 15,
+					"idealArea": 12
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "396 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "9000 BTU/h",
+				"powerConsumption": "1230 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 43
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1230 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "5,5 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "12 m³/min",
+					"heatingMode": null,
+					"fanSpeeds": 4,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 32,
+					"max": 42,
+					"silentMode": 32
+				},
+				"outdoorUnit": {
+					"level": 52
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "LG ThinQ",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "837 mm",
+					"height": "308 mm",
+					"depth": "189 mm"
+				},
+				"weight": "7,1 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "717 mm",
+					"height": "495 mm",
+					"depth": "230 mm"
+				},
+				"weight": "26,1 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo Dual",
+					"brand": "LG"
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": "7 m",
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por técnico autorizado", "Manutenção preventiva anual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["LG ThinQ", "Alexa", "Google Assistant"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Escritórios", "Salas pequenas", "Ambientes de até 15 m²"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"efficiency": 9.5,
+				"quietness": 9.5,
+				"coolingPower": 8.5,
+				"features": 9.5,
+				"durability": 9,
+				"easeOfUse": 9
+			}
+		}
+	},
+	{
+		"id": "midea-mppa-12crv-portatil-12000",
+		"name": "MPPA-12CRV1",
+		"brand": "Midea",
+		"line": null,
+		"model": "MPPA-12CRV1 / MPPA-12CRV2",
+		"alphanumericModel": "MPPA-12CRV1/MPPA-12CRV2",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_983289-MLA100005510219_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1xbHgDT",
+		"manufacturer": "Midea",
+		"specs": {
+			"manufacturer": "Midea",
+			"type": "Portátil",
+			"technology": "On/Off",
+			"capacity": {
+				"btu": 12000,
+				"watts": 1200,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 25,
+					"idealArea": 20
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "441 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1200 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 35
+				}
+			},
+			"heating": null,
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1200 W",
+					"heating": null,
+					"standby": null
+				},
+				"currentRating": "10 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-410A",
+				"amount": null,
+				"gwp": 2088,
+				"environmentalImpact": "Alto"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "336 m³/h",
+					"heatingMode": null,
+					"fanSpeeds": 3,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 51,
+					"max": null,
+					"silentMode": null
+				},
+				"outdoorUnit": {
+					"level": null
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant", "Siri"],
+				"mobileApp": "Midea Air",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": null,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": false,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": null,
+				"swingVertical": null,
+				"swingAuto": null,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "415 mm",
+					"height": "715 mm",
+					"depth": "350 mm"
+				},
+				"weight": "25 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Piso"
+			},
+			"outdoorUnit": {
+				"dimensions": null,
+				"weight": null,
+				"material": null,
+				"compressor": {
+					"type": "Rotativo",
+					"brand": null
+				},
+				"protection": {
+					"anticorrosion": null,
+					"weatherproof": null,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Portátil",
+				"tubeLength": {
+					"included": "Kit exaustão incluso",
+					"maximum": null
+				},
+				"heightDifference": null,
+				"drain": {
+					"type": "Auto-evaporação (principal) + manual",
+					"included": true
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Fácil",
+				"estimatedTime": "30 min - 1 hora",
+				"professionalRequired": false
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "3 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["Alexa", "Google Assistant", "Siri"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": null,
+				"estimatedLifespan": "8-12 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": true,
+				"installationKit": true,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": ["Kit janela exaustão"]
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 35
+					},
+					"heating": null
+				},
+				"operatingHumidity": null,
+				"recommendedUse": ["Quartos", "Salas médias", "Ambientes de até 20 m²", "Uso sazonal"]
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"efficiency": 7.5,
+				"quietness": 6.5,
+				"coolingPower": 8,
+				"features": 8.5,
+				"durability": 7.5,
+				"easeOfUse": 8.5
+			}
+		}
+	},
+	{
+		"id": "lg-dual-inverter-voice-12000-qf",
+		"name": "S3UW12JA31A",
+		"brand": "LG",
+		"line": "Dual Inverter Voice",
+		"model": "S3UW12JA31A",
+		"alphanumericModel": "S3UW12JA31A",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_802183-MLA99891197435_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "ar-condicionado",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2GTUTYY",
+		"manufacturer": "LG",
+		"specs": {
+			"manufacturer": "LG",
+			"type": "Split Hi-Wall",
+			"technology": "Dual Inverter",
+			"capacity": {
+				"btu": 12000,
+				"watts": null,
+				"coverage": {
+					"minArea": 15,
+					"maxArea": 25,
+					"idealArea": 20
+				}
+			},
+			"efficiency": {
+				"energyClass": "A",
+				"eer": null,
+				"cop": null,
+				"procelSeal": "A",
+				"annualConsumption": "512 kWh/ano"
+			},
+			"cooling": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1170 W",
+				"eer": null,
+				"operatingRange": {
+					"minTemp": 18,
+					"maxTemp": 43
+				}
+			},
+			"heating": {
+				"capacity": "12000 BTU/h",
+				"powerConsumption": "1030 W",
+				"cop": null,
+				"operatingRange": {
+					"minTemp": -5,
+					"maxTemp": 24
+				}
+			},
+			"electrical": {
+				"voltage": "220V",
+				"phases": "Monofásico",
+				"frequency": "60Hz",
+				"powerConsumption": {
+					"cooling": "1170 W",
+					"heating": "1030 W",
+					"standby": null
+				},
+				"currentRating": "6,2 A",
+				"wireGauge": null,
+				"circuitBreaker": null
+			},
+			"refrigerant": {
+				"type": "R-32",
+				"amount": null,
+				"gwp": 675,
+				"environmentalImpact": "Baixo"
+			},
+			"airflow": {
+				"indoorUnit": {
+					"coolingMode": "14 m³/min",
+					"heatingMode": "14 m³/min",
+					"fanSpeeds": 4,
+					"autoMode": true
+				},
+				"outdoorUnit": {
+					"airflow": null
+				}
+			},
+			"noise": {
+				"indoorUnit": {
+					"min": 32,
+					"max": 45,
+					"silentMode": 32
+				},
+				"outdoorUnit": {
+					"level": 52
+				}
+			},
+			"filters": {
+				"types": ["Antibacteriano"],
+				"washable": true,
+				"replacement": null
+			},
+			"features": {
+				"wifi": true,
+				"smartControl": true,
+				"voiceControl": ["Alexa", "Google Assistant"],
+				"mobileApp": "LG ThinQ",
+				"sleepMode": true,
+				"ecoMode": true,
+				"turboMode": true,
+				"dryMode": true,
+				"fanMode": true,
+				"autoClean": true,
+				"autoRestart": true,
+				"timer": true,
+				"timerHours": null,
+				"display": true,
+				"displayType": "Digital",
+				"remoteControl": true,
+				"swingHorizontal": true,
+				"swingVertical": true,
+				"swingAuto": true,
+				"ionizer": null,
+				"airPurifier": null,
+				"dehumidifier": true,
+				"followMe": null,
+				"iFeelSensor": null,
+				"coldPlasma": null,
+				"childLock": null
+			},
+			"indoorUnit": {
+				"dimensions": {
+					"width": "837 mm",
+					"height": "308 mm",
+					"depth": "189 mm"
+				},
+				"weight": "8,5 kg",
+				"color": "Branco",
+				"material": null,
+				"displayLocation": null,
+				"installation": "Parede"
+			},
+			"outdoorUnit": {
+				"dimensions": {
+					"width": "717 mm",
+					"height": "495 mm",
+					"depth": "230 mm"
+				},
+				"weight": "25 kg",
+				"material": null,
+				"compressor": {
+					"type": "Rotativo Dual",
+					"brand": "LG"
+				},
+				"protection": {
+					"anticorrosion": true,
+					"weatherproof": true,
+					"ipRating": null
+				}
+			},
+			"installation": {
+				"type": "Split",
+				"tubeLength": {
+					"included": null,
+					"maximum": null
+				},
+				"heightDifference": "7 m",
+				"drain": {
+					"type": null,
+					"included": null
+				},
+				"mounting": {
+					"bracket": null,
+					"screws": null,
+					"template": null
+				},
+				"difficulty": "Profissional",
+				"estimatedTime": null,
+				"professionalRequired": true
+			},
+			"warranty": {
+				"general": "1 ano",
+				"compressor": "10 anos",
+				"parts": null,
+				"labor": null,
+				"conditions": ["Instalação por técnico autorizado", "Manutenção preventiva anual"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"procel": "A",
+				"iso": null,
+				"ansi": false,
+				"other": null
+			},
+			"compatibility": {
+				"exteriorUnits": null,
+				"smartHome": ["LG ThinQ", "Alexa", "Google Assistant"],
+				"voltageRange": "220V"
+			},
+			"maintenance": {
+				"filterCleaning": "Mensal",
+				"professionalService": "Anual",
+				"gasRefill": "A cada 3-5 anos (se necessário)",
+				"estimatedLifespan": "10-15 anos"
+			},
+			"bundled": {
+				"remoteControl": true,
+				"batteries": null,
+				"installationKit": null,
+				"drainHose": null,
+				"sealingKit": null,
+				"manual": true,
+				"warrantyCard": true,
+				"accessories": null
+			},
+			"environment": {
+				"operatingTemp": {
+					"cooling": {
+						"min": 18,
+						"max": 43
+					},
+					"heating": {
+						"min": -5,
+						"max": 24
+					}
+				},
+				"operatingHumidity": null,
+				"recommendedUse": [
+					"Quartos",
+					"Salas médias",
+					"Ambientes de até 20-25 m²",
+					"Regiões com invernos moderados"
+				]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"efficiency": 9.5,
+				"quietness": 9.5,
+				"coolingPower": 9,
+				"features": 9.5,
+				"durability": 9,
+				"easeOfUse": 9
+			}
+		}
+	}
+]

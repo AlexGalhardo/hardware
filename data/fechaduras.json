@@ -1,0 +1,2280 @@
+[
+	{
+		"id": "intelbras-fr-201",
+		"name": "FR 201",
+		"brand": "Intelbras",
+		"line": null,
+		"model": "FR 201",
+		"alphanumericModel": "FR 201",
+		"color": "Preto/Prateado",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_620656-MLA99989546237_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1sXNGZp",
+		"manufacturer": "Intelbras",
+		"specs": {
+			"manufacturer": "Intelbras",
+			"basicInfo": {
+				"color": "Preto/Prateado",
+				"finish": "Preto",
+				"direction": "Direita/Esquerda",
+				"isDigital": true,
+				"installationType": "De sobrepor",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Código", "Cartão RFID", "Chave mecânica"],
+				"proximityCardType": "RFID",
+				"numericCodesSupported": 12,
+				"biometricCapacity": null,
+				"cardCapacity": 100,
+				"passwordCapacity": 4,
+				"antiTheftAlarm": true,
+				"shockProtection": true,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": null,
+				"emergencyPower": true,
+				"securityLevel": null
+			},
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": false,
+				"appName": null,
+				"remoteControl": false,
+				"smartHomeIntegration": []
+			},
+			"access": {
+				"masterPassword": true,
+				"guestPassword": false,
+				"temporaryPassword": false,
+				"oneTimePassword": false,
+				"accessLog": false,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": true,
+				"batteryLife": "1 ano",
+				"lowBatteryIndicator": true,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 2.5,
+				"maxThickness": 5,
+				"recommendedThickness": "2,5 a 5 cm",
+				"doorTypes": ["Madeira", "Metal"],
+				"lockType": "Trava"
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touch Screen",
+				"touchScreen": true,
+				"backlight": true
+			},
+			"physical": {
+				"materials": ["Plástico ABS", "Zinco", "Alumínio"],
+				"weatherResistant": false,
+				"waterproofRating": null,
+				"includesHandle": false,
+				"handleType": null,
+				"finishType": "Preto"
+			},
+			"dimensions": {
+				"height": "16,3 cm",
+				"width": "6,8 cm",
+				"depth": null,
+				"weight": "888 g"
+			},
+			"installation": {
+				"difficulty": "Fácil",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": false,
+				"privacyMode": true,
+				"silentMode": false,
+				"freezeProtection": false,
+				"fireProtection": true,
+				"duplicateCardProtection": false,
+				"wrongPasswordLock": true,
+				"wrongPasswordAttempts": 5,
+				"lockoutTime": "1 minuto"
+			},
+			"notifications": {
+				"doorOpenAlert": false,
+				"intrusionAlert": true,
+				"lowBatteryAlert": true,
+				"soundAlerts": true,
+				"visualAlerts": true
+			},
+			"bundled": {
+				"cards": 3,
+				"tags": 3,
+				"keys": 0,
+				"installationKit": true,
+				"fixingBox": false,
+				"shims": 6,
+				"manual": true,
+				"accessories": ["Kit de instalação", "1 gabarito de fixação", "1 tope de fechaduras"]
+			},
+			"warranty": {
+				"period": "2 anos",
+				"type": null,
+				"support": null
+			},
+			"certifications": {
+				"anatel": true,
+				"inmetro": false,
+				"ce": false,
+				"fcc": false,
+				"other": []
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"security": 7.5,
+				"easeOfUse": 9,
+				"durability": 8,
+				"installation": 9,
+				"features": 7,
+				"connectivity": 3
+			}
+		}
+	},
+	{
+		"id": "intelbras-fr-101",
+		"name": "FR 101",
+		"brand": "Intelbras",
+		"line": null,
+		"model": "FR 101",
+		"alphanumericModel": "FR 101",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_751871-MLA99990333799_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2JztgZi",
+		"manufacturer": "Intelbras",
+		"specs": {
+			"manufacturer": "Intelbras",
+			"basicInfo": {
+				"color": "Preto",
+				"finish": "Grafite",
+				"direction": "Direita/Esquerda",
+				"isDigital": true,
+				"installationType": "De sobrepor",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Senha", "Código"],
+				"proximityCardType": "RFID",
+				"numericCodesSupported": 4,
+				"biometricCapacity": null,
+				"cardCapacity": null,
+				"passwordCapacity": 4,
+				"antiTheftAlarm": true,
+				"shockProtection": false,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": "3 segundos",
+				"emergencyPower": true,
+				"securityLevel": null
+			},
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": false,
+				"appName": null,
+				"remoteControl": false,
+				"smartHomeIntegration": null
+			},
+			"access": {
+				"masterPassword": true,
+				"guestPassword": false,
+				"temporaryPassword": false,
+				"oneTimePassword": false,
+				"accessLog": false,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": true,
+				"batteryLife": "1 ano",
+				"lowBatteryIndicator": true,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 2.5,
+				"maxThickness": 5,
+				"recommendedThickness": "2,5 a 5 cm",
+				"doorTypes": ["Madeira", "Metal", "Alumínio"],
+				"lockType": "Trinco"
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touch Screen",
+				"touchScreen": true,
+				"backlight": true
+			},
+			"physical": {
+				"materials": ["Alumínio", "Plástico ABS", "Zinco"],
+				"weatherResistant": false,
+				"waterproofRating": null,
+				"includesHandle": false,
+				"handleType": null,
+				"finishType": "Grafite"
+			},
+			"dimensions": {
+				"height": "17,8 cm",
+				"width": "7,2 cm",
+				"depth": "1,8 cm",
+				"weight": "976 g"
+			},
+			"installation": {
+				"difficulty": "Fácil",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": false,
+				"privacyMode": true,
+				"silentMode": false,
+				"freezeProtection": false,
+				"fireProtection": false,
+				"duplicateCardProtection": false,
+				"wrongPasswordLock": true,
+				"wrongPasswordAttempts": 5,
+				"lockoutTime": "1 minuto"
+			},
+			"notifications": {
+				"doorOpenAlert": false,
+				"intrusionAlert": true,
+				"lowBatteryAlert": true,
+				"soundAlerts": true,
+				"visualAlerts": false
+			},
+			"bundled": {
+				"cards": null,
+				"tags": null,
+				"keys": null,
+				"installationKit": true,
+				"fixingBox": true,
+				"shims": 6,
+				"manual": true,
+				"accessories": [
+					"4 parafusos Philips chata autoatarraxante M4 X 20mm",
+					"2 parafusos Philips panela M5 X 35mm",
+					"4 parafusos Philips panela M4 X 33mm",
+					"4 parafusos Philips chata autoatarraxante M4 X 25mm",
+					"Gabarito de furação",
+					"Batente"
+				]
+			},
+			"warranty": {
+				"period": "2 anos",
+				"type": "Fabricante",
+				"support": "Assistência técnica autorizada Intelbras"
+			},
+			"certifications": {
+				"anatel": false,
+				"inmetro": true,
+				"ce": false,
+				"fcc": false,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"security": 7.5,
+				"easeOfUse": 9,
+				"durability": 8,
+				"installation": 9,
+				"features": 7,
+				"connectivity": 3
+			}
+		}
+	},
+	{
+		"id": "positivo-smart-fechadura-sobrepor-wifi",
+		"name": "Smart Fechadura de Sobrepor",
+		"brand": "Positivo",
+		"line": "Casa Inteligente",
+		"model": "Smart Fechadura de Sobrepor",
+		"alphanumericModel": "PSFS",
+		"color": "Preta",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_944989-MLA96514629767_102025-F.webp",
+		"price": 0,
+		"releaseDate": "Junho de 2025",
+		"releaseYear": 2025,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1CeNMkQ",
+		"manufacturer": "Positivo",
+		"specs": {
+			"manufacturer": "Positivo",
+			"basicInfo": {
+				"color": "Preta",
+				"finish": "Alumínio + Aço Inox 304 + Acrilonitrila Butadieno Estireno",
+				"direction": "Direita/Esquerda",
+				"isDigital": true,
+				"installationType": "De sobrepor",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Senha", "Biometria", "Tag", "Aplicativo", "Chave mecânica"],
+				"proximityCardType": "RFID",
+				"numericCodesSupported": 20,
+				"biometricCapacity": 50,
+				"cardCapacity": 30,
+				"passwordCapacity": 20,
+				"antiTheftAlarm": true,
+				"shockProtection": true,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": "Configurável",
+				"emergencyPower": true,
+				"securityLevel": null
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"zigbee": false,
+				"hasApp": true,
+				"appName": "Positivo Casa Inteligente",
+				"remoteControl": true,
+				"smartHomeIntegration": ["Alexa", "Google Home"]
+			},
+			"access": {
+				"masterPassword": true,
+				"guestPassword": true,
+				"temporaryPassword": true,
+				"oneTimePassword": true,
+				"accessLog": true,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": true,
+				"batteryLife": "9 meses",
+				"lowBatteryIndicator": true,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 3.5,
+				"maxThickness": 5,
+				"recommendedThickness": "3,5 a 5 cm",
+				"doorTypes": ["Madeira"],
+				"lockType": "Trinco"
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touch Screen",
+				"touchScreen": true,
+				"backlight": true
+			},
+			"physical": {
+				"materials": ["Alumínio", "Aço inox 304", "Acrilonitrila Butadieno Estireno"],
+				"weatherResistant": false,
+				"waterproofRating": null,
+				"includesHandle": true,
+				"handleType": "Maçaneta integrada",
+				"finishType": "Vidro temperado"
+			},
+			"dimensions": {
+				"height": "15,9 cm",
+				"width": "8 cm",
+				"depth": "3,8 cm",
+				"weight": "1,5 kg"
+			},
+			"installation": {
+				"difficulty": "Fácil",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": false,
+				"privacyMode": true,
+				"silentMode": false,
+				"freezeProtection": false,
+				"fireProtection": false,
+				"duplicateCardProtection": false,
+				"wrongPasswordLock": true,
+				"wrongPasswordAttempts": 5,
+				"lockoutTime": "3 minutos"
+			},
+			"notifications": {
+				"doorOpenAlert": true,
+				"intrusionAlert": true,
+				"lowBatteryAlert": true,
+				"soundAlerts": true,
+				"visualAlerts": true
+			},
+			"bundled": {
+				"cards": null,
+				"tags": 3,
+				"keys": 2,
+				"installationKit": true,
+				"fixingBox": false,
+				"shims": null,
+				"manual": true,
+				"accessories": ["Gabarito de instalação"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": "Fabricante",
+				"support": "Assistência técnica autorizada Positivo"
+			},
+			"certifications": {
+				"anatel": true,
+				"inmetro": false,
+				"ce": false,
+				"fcc": false,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"security": 8,
+				"easeOfUse": 9,
+				"durability": 8,
+				"installation": 9,
+				"features": 9,
+				"connectivity": 9
+			}
+		}
+	},
+	{
+		"id": "stam-tetra-1800-21-inox",
+		"name": "Tetra 1800/21",
+		"brand": "Stam",
+		"line": "Parma 1800",
+		"model": "Tetra 1800/21",
+		"alphanumericModel": "1800/21",
+		"color": "Prateado",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_658377-MLA99499826032_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1grs9zv",
+		"manufacturer": "Stam",
+		"specs": {
+			"manufacturer": "Stam",
+			"basicInfo": {
+				"color": "Prateado",
+				"finish": "Cromado",
+				"direction": "Direita/Esquerda",
+				"isDigital": false,
+				"installationType": "Externa",
+				"useEnvironment": ["Externo"]
+			},
+			"security": {
+				"openingMechanisms": ["Chave mecânica"],
+				"proximityCardType": null,
+				"numericCodesSupported": null,
+				"biometricCapacity": null,
+				"cardCapacity": null,
+				"passwordCapacity": null,
+				"antiTheftAlarm": false,
+				"shockProtection": false,
+				"tamperAlert": false,
+				"autoLock": false,
+				"autoLockTime": null,
+				"emergencyPower": false,
+				"securityLevel": "Média"
+			},
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": false,
+				"appName": null,
+				"remoteControl": false,
+				"smartHomeIntegration": null
+			},
+			"access": {
+				"masterPassword": false,
+				"guestPassword": false,
+				"temporaryPassword": false,
+				"oneTimePassword": false,
+				"accessLog": false,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Energia elétrica",
+				"batteryType": null,
+				"batteryQuantity": null,
+				"batteriesIncluded": false,
+				"batteryLife": null,
+				"lowBatteryIndicator": false,
+				"emergencyPowerPort": false
+			},
+			"doorSpecifications": {
+				"minThickness": 2.5,
+				"maxThickness": 4,
+				"recommendedThickness": "2,5 a 4 cm",
+				"doorTypes": ["Aço inoxidável"],
+				"lockType": "Trinco"
+			},
+			"display": {
+				"hasDisplay": false,
+				"type": null,
+				"touchScreen": false,
+				"backlight": false
+			},
+			"physical": {
+				"materials": ["Aço ABNT 1010", "Zamac", "Aço inox", "Latão", "Plástico de engenharia"],
+				"weatherResistant": true,
+				"waterproofRating": null,
+				"includesHandle": true,
+				"handleType": "Alavanca",
+				"finishType": "Espelho Inox"
+			},
+			"dimensions": {
+				"height": "18 cm",
+				"width": "12,2 cm",
+				"depth": "2 cm",
+				"weight": null
+			},
+			"installation": {
+				"difficulty": "Profissional",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": false,
+				"privacyMode": false,
+				"silentMode": false,
+				"freezeProtection": false,
+				"fireProtection": false,
+				"duplicateCardProtection": false,
+				"wrongPasswordLock": false,
+				"wrongPasswordAttempts": null,
+				"lockoutTime": null
+			},
+			"notifications": {
+				"doorOpenAlert": false,
+				"intrusionAlert": false,
+				"lowBatteryAlert": false,
+				"soundAlerts": false,
+				"visualAlerts": false
+			},
+			"bundled": {
+				"cards": null,
+				"tags": null,
+				"keys": 2,
+				"installationKit": true,
+				"fixingBox": false,
+				"shims": null,
+				"manual": true,
+				"accessories": ["Cilindro tetra bi-partido de pinos", "Espelhos", "Contra testa", "Maçanetas"]
+			},
+			"warranty": {
+				"period": null,
+				"type": null,
+				"support": null
+			},
+			"certifications": {
+				"anatel": false,
+				"inmetro": false,
+				"ce": false,
+				"fcc": false,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"security": 7,
+				"easeOfUse": 8,
+				"durability": 8.5,
+				"installation": 6,
+				"features": 4,
+				"connectivity": 0
+			}
+		}
+	},
+	{
+		"id": "lazoro-ark-max-lam-525a",
+		"name": "Ark Max",
+		"brand": "LAZORO",
+		"line": null,
+		"model": "Ark Max",
+		"alphanumericModel": "LAM-525A",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_787439-MLA104930046625_012026-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1op5DF3",
+		"manufacturer": "LAZORO",
+		"specs": {
+			"manufacturer": "Outros",
+			"basicInfo": {
+				"color": "Preto",
+				"finish": null,
+				"direction": "Reversível",
+				"isDigital": true,
+				"installationType": "De embutir",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Biometria", "Senha", "Cartão RFID", "Chave mecânica", "Bluetooth"],
+				"proximityCardType": "RFID",
+				"numericCodesSupported": 100,
+				"biometricCapacity": 100,
+				"cardCapacity": 100,
+				"passwordCapacity": 100,
+				"antiTheftAlarm": null,
+				"shockProtection": true,
+				"tamperAlert": null,
+				"autoLock": null,
+				"autoLockTime": null,
+				"emergencyPower": null,
+				"securityLevel": null
+			},
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": true,
+				"zigbee": false,
+				"hasApp": true,
+				"appName": "Tuya",
+				"remoteControl": true,
+				"smartHomeIntegration": null
+			},
+			"access": {
+				"masterPassword": null,
+				"guestPassword": null,
+				"temporaryPassword": null,
+				"oneTimePassword": null,
+				"accessLog": null,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AAA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": true,
+				"batteryLife": "1 ano",
+				"lowBatteryIndicator": null,
+				"emergencyPowerPort": null
+			},
+			"doorSpecifications": {
+				"minThickness": 3,
+				"maxThickness": 7,
+				"recommendedThickness": null,
+				"doorTypes": ["Madeira", "Metal", "Plástico"],
+				"lockType": null
+			},
+			"display": {
+				"hasDisplay": false,
+				"type": null,
+				"touchScreen": false,
+				"backlight": null
+			},
+			"physical": {
+				"materials": ["Metal", "Aço inoxidável"],
+				"weatherResistant": null,
+				"waterproofRating": null,
+				"includesHandle": true,
+				"handleType": null,
+				"finishType": null
+			},
+			"dimensions": {
+				"height": "24,7 cm",
+				"width": "5,5 cm",
+				"depth": "2,4 cm",
+				"weight": "1,5 kg"
+			},
+			"installation": {
+				"difficulty": "Média",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": null,
+				"privacyMode": null,
+				"silentMode": null,
+				"freezeProtection": null,
+				"fireProtection": null,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": null,
+				"wrongPasswordAttempts": null,
+				"lockoutTime": null
+			},
+			"notifications": {
+				"doorOpenAlert": null,
+				"intrusionAlert": null,
+				"lowBatteryAlert": null,
+				"soundAlerts": null,
+				"visualAlerts": null
+			},
+			"bundled": {
+				"cards": 4,
+				"tags": null,
+				"keys": 2,
+				"installationKit": true,
+				"fixingBox": null,
+				"shims": null,
+				"manual": true,
+				"accessories": [
+					"Guia Rápido de Instalação",
+					"Corpo da fechadura em aço inoxidável",
+					"Acessórios de instalação"
+				]
+			},
+			"warranty": {
+				"period": null,
+				"type": null,
+				"support": null
+			},
+			"certifications": {
+				"anatel": null,
+				"inmetro": null,
+				"ce": null,
+				"fcc": null,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"security": 7,
+				"easeOfUse": 7.5,
+				"durability": 7,
+				"installation": 7,
+				"features": 6.5,
+				"connectivity": 6
+			}
+		}
+	},
+	{
+		"id": "homefy-news-security-h-0204w",
+		"name": "News Security",
+		"brand": "Homefy",
+		"line": null,
+		"model": "News Security",
+		"alphanumericModel": "H-0204W",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_903737-MLA101265585568_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/321j1TP",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"basicInfo": {
+				"color": "Preto",
+				"finish": "Aço inoxidável",
+				"direction": "Reversível",
+				"isDigital": true,
+				"installationType": "De embutir",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Biometria", "Senha", "Cartão RFID", "Tag"],
+				"proximityCardType": "RFID",
+				"numericCodesSupported": 100,
+				"biometricCapacity": null,
+				"cardCapacity": 100,
+				"passwordCapacity": 100,
+				"antiTheftAlarm": null,
+				"shockProtection": null,
+				"tamperAlert": null,
+				"autoLock": null,
+				"autoLockTime": null,
+				"emergencyPower": true,
+				"securityLevel": null
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": true,
+				"appName": null,
+				"remoteControl": true,
+				"smartHomeIntegration": null
+			},
+			"access": {
+				"masterPassword": null,
+				"guestPassword": null,
+				"temporaryPassword": null,
+				"oneTimePassword": null,
+				"accessLog": null,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": false,
+				"batteryLife": null,
+				"lowBatteryIndicator": true,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 3.5,
+				"maxThickness": 5.5,
+				"recommendedThickness": null,
+				"doorTypes": ["Madeira"],
+				"lockType": null
+			},
+			"display": {
+				"hasDisplay": false,
+				"type": null,
+				"touchScreen": false,
+				"backlight": null
+			},
+			"physical": {
+				"materials": ["Alumínio", "Aço inoxidável"],
+				"weatherResistant": null,
+				"waterproofRating": null,
+				"includesHandle": true,
+				"handleType": null,
+				"finishType": "Aço inoxidável"
+			},
+			"dimensions": {
+				"height": "26,8 cm",
+				"width": "6,5 cm",
+				"depth": "7 mm",
+				"weight": "3,5 kg"
+			},
+			"installation": {
+				"difficulty": "Média",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": null,
+				"privacyMode": null,
+				"silentMode": null,
+				"freezeProtection": null,
+				"fireProtection": null,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": null,
+				"wrongPasswordAttempts": null,
+				"lockoutTime": null
+			},
+			"notifications": {
+				"doorOpenAlert": null,
+				"intrusionAlert": null,
+				"lowBatteryAlert": true,
+				"soundAlerts": null,
+				"visualAlerts": null
+			},
+			"bundled": {
+				"cards": null,
+				"tags": null,
+				"keys": 2,
+				"installationKit": true,
+				"fixingBox": null,
+				"shims": null,
+				"manual": true,
+				"accessories": ["Gabarito", "Parafusos"]
+			},
+			"warranty": {
+				"period": null,
+				"type": null,
+				"support": null
+			},
+			"certifications": {
+				"anatel": null,
+				"inmetro": null,
+				"ce": null,
+				"fcc": null,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"security": 7,
+				"easeOfUse": 7,
+				"durability": 6.5,
+				"installation": 6.5,
+				"features": 7.5,
+				"connectivity": 8
+			}
+		}
+	},
+	{
+		"id": "stam-823-35-banheiro-preto",
+		"name": "823/35",
+		"brand": "Stam",
+		"line": "Fano",
+		"model": "823/35",
+		"alphanumericModel": "823/35 RQ1",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_741351-MLB92248202672_092025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/28VyFXG",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"basicInfo": {
+				"color": "Preto",
+				"finish": "Preto/Fosco",
+				"direction": "Reversível",
+				"isDigital": false,
+				"installationType": "De embutir",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Chave mecânica"],
+				"proximityCardType": null,
+				"numericCodesSupported": null,
+				"biometricCapacity": null,
+				"cardCapacity": null,
+				"passwordCapacity": null,
+				"antiTheftAlarm": null,
+				"shockProtection": null,
+				"tamperAlert": null,
+				"autoLock": null,
+				"autoLockTime": null,
+				"emergencyPower": null,
+				"securityLevel": "Média"
+			},
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": false,
+				"appName": null,
+				"remoteControl": false,
+				"smartHomeIntegration": null
+			},
+			"access": {
+				"masterPassword": null,
+				"guestPassword": null,
+				"temporaryPassword": null,
+				"oneTimePassword": null,
+				"accessLog": null,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Energia elétrica",
+				"batteryType": null,
+				"batteryQuantity": null,
+				"batteriesIncluded": null,
+				"batteryLife": null,
+				"lowBatteryIndicator": null,
+				"emergencyPowerPort": null
+			},
+			"doorSpecifications": {
+				"minThickness": 2.5,
+				"maxThickness": 4,
+				"recommendedThickness": "25mm a 35mm",
+				"doorTypes": ["Madeira"],
+				"lockType": "Trinco"
+			},
+			"display": {
+				"hasDisplay": false,
+				"type": null,
+				"touchScreen": null,
+				"backlight": null
+			},
+			"physical": {
+				"materials": ["Aço ABNT 1010/1020", "Zamak", "Aço inoxidável", "Latão", "Plástico de engenharia"],
+				"weatherResistant": null,
+				"waterproofRating": null,
+				"includesHandle": true,
+				"handleType": "Reta em Zamak",
+				"finishType": "Preto Fosco"
+			},
+			"dimensions": {
+				"height": "122 mm",
+				"width": "14 mm",
+				"depth": "61 mm",
+				"weight": null
+			},
+			"installation": {
+				"difficulty": "Fácil",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": null,
+				"privacyMode": true,
+				"silentMode": null,
+				"freezeProtection": null,
+				"fireProtection": null,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": null,
+				"wrongPasswordAttempts": null,
+				"lockoutTime": null
+			},
+			"notifications": {
+				"doorOpenAlert": null,
+				"intrusionAlert": null,
+				"lowBatteryAlert": null,
+				"soundAlerts": null,
+				"visualAlerts": null
+			},
+			"bundled": {
+				"cards": null,
+				"tags": null,
+				"keys": 2,
+				"installationKit": true,
+				"fixingBox": null,
+				"shims": null,
+				"manual": null,
+				"accessories": ["Máquina", "Tranqueta", "Chave reserva", "Maçanetas", "Roseta quadrada", "Contra testa"]
+			},
+			"warranty": {
+				"period": "3 meses",
+				"type": "Fabricante",
+				"support": null
+			},
+			"certifications": {
+				"anatel": null,
+				"inmetro": null,
+				"ce": null,
+				"fcc": null,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"security": 6,
+				"easeOfUse": 8,
+				"durability": 8,
+				"installation": 8.5,
+				"features": 5,
+				"connectivity": null
+			}
+		}
+	},
+	{
+		"id": "kuanttum-delta-pro-gv0498",
+		"name": "Delta PRO",
+		"brand": "Kuanttum",
+		"line": null,
+		"model": "Delta PRO",
+		"alphanumericModel": "GV0498",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_976860-MLA99991328859_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1AryCst",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"basicInfo": {
+				"color": "Preto",
+				"finish": "Piano preto",
+				"direction": "Reversível",
+				"isDigital": true,
+				"installationType": "De embutir",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Biometria", "Senha", "Cartão RFID", "Tag", "Chave mecânica", "Aplicativo"],
+				"proximityCardType": "RFID",
+				"numericCodesSupported": 100,
+				"biometricCapacity": 100,
+				"cardCapacity": 100,
+				"passwordCapacity": 100,
+				"antiTheftAlarm": true,
+				"shockProtection": false,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": "Após período predefinido",
+				"emergencyPower": true,
+				"securityLevel": null
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": true,
+				"appName": "Tuya / Smart Life",
+				"remoteControl": true,
+				"smartHomeIntegration": ["Alexa", "Google Home"]
+			},
+			"access": {
+				"masterPassword": true,
+				"guestPassword": true,
+				"temporaryPassword": true,
+				"oneTimePassword": true,
+				"accessLog": true,
+				"logCapacity": 300
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AAA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": false,
+				"batteryLife": "6 meses",
+				"lowBatteryIndicator": true,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 3,
+				"maxThickness": 7,
+				"recommendedThickness": "30-70 mm",
+				"doorTypes": ["Madeira", "MDF"],
+				"lockType": "Trava"
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touch Screen",
+				"touchScreen": true,
+				"backlight": true
+			},
+			"physical": {
+				"materials": ["Alumínio", "ABS", "Acrílico polido"],
+				"weatherResistant": false,
+				"waterproofRating": "Resistente a respingos",
+				"includesHandle": true,
+				"handleType": "Maçaneta embutida",
+				"finishType": "Piano preto"
+			},
+			"dimensions": {
+				"height": "250 mm",
+				"width": "55 mm",
+				"depth": "67 mm",
+				"weight": null
+			},
+			"installation": {
+				"difficulty": "Média",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": true,
+				"privacyMode": null,
+				"silentMode": null,
+				"freezeProtection": null,
+				"fireProtection": null,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": true,
+				"wrongPasswordAttempts": null,
+				"lockoutTime": null
+			},
+			"notifications": {
+				"doorOpenAlert": true,
+				"intrusionAlert": true,
+				"lowBatteryAlert": true,
+				"soundAlerts": true,
+				"visualAlerts": true
+			},
+			"bundled": {
+				"cards": 2,
+				"tags": 2,
+				"keys": 2,
+				"installationKit": true,
+				"fixingBox": false,
+				"shims": null,
+				"manual": true,
+				"accessories": ["Gabarito", "Parafusos", "Contra testa/batente"]
+			},
+			"warranty": {
+				"period": "12 meses",
+				"type": "Fabricante",
+				"support": "Suporte técnico especializado"
+			},
+			"certifications": {
+				"anatel": null,
+				"inmetro": null,
+				"ce": null,
+				"fcc": null,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"security": 8,
+				"easeOfUse": 8.5,
+				"durability": 7.5,
+				"installation": 7.5,
+				"features": 9,
+				"connectivity": 9
+			}
+		}
+	},
+	{
+		"id": "tensky-fechadura-digital-tuya-n016",
+		"name": "Fechadura Digital Inteligente",
+		"brand": "Tensky",
+		"line": null,
+		"model": "N016",
+		"alphanumericModel": "N016",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_896660-MLA105444641395_012026-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1w8w4a9",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"basicInfo": {
+				"color": "Preto",
+				"finish": "Piano preto",
+				"direction": "Reversível",
+				"isDigital": true,
+				"installationType": "De embutir",
+				"useEnvironment": ["Interno", "Externo"]
+			},
+			"security": {
+				"openingMechanisms": ["Biometria", "Senha", "Código", "Cartão RFID", "Chave mecânica", "Aplicativo"],
+				"proximityCardType": "RFID",
+				"numericCodesSupported": 100,
+				"biometricCapacity": 100,
+				"cardCapacity": 100,
+				"passwordCapacity": 100,
+				"antiTheftAlarm": true,
+				"shockProtection": true,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": null,
+				"emergencyPower": true,
+				"securityLevel": null
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"zigbee": false,
+				"hasApp": true,
+				"appName": "Tuya / Smart Life",
+				"remoteControl": true,
+				"smartHomeIntegration": ["Alexa", "Google Home"]
+			},
+			"access": {
+				"masterPassword": true,
+				"guestPassword": true,
+				"temporaryPassword": true,
+				"oneTimePassword": true,
+				"accessLog": true,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AAA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": false,
+				"batteryLife": "2 anos",
+				"lowBatteryIndicator": false,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 3,
+				"maxThickness": 5,
+				"recommendedThickness": "30-50 mm",
+				"doorTypes": ["Madeira", "Metal"],
+				"lockType": "Trava"
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touch Screen",
+				"touchScreen": true,
+				"backlight": true
+			},
+			"physical": {
+				"materials": ["Plástico ABS", "Liga de alumínio"],
+				"weatherResistant": true,
+				"waterproofRating": "IP43",
+				"includesHandle": true,
+				"handleType": null,
+				"finishType": "Piano preto"
+			},
+			"dimensions": {
+				"height": "33 cm",
+				"width": "12 cm",
+				"depth": "2,8 cm",
+				"weight": "1,6 kg"
+			},
+			"installation": {
+				"difficulty": "Média",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": true,
+				"privacyMode": true,
+				"silentMode": null,
+				"freezeProtection": null,
+				"fireProtection": null,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": true,
+				"wrongPasswordAttempts": 5,
+				"lockoutTime": "3 minutos"
+			},
+			"notifications": {
+				"doorOpenAlert": true,
+				"intrusionAlert": true,
+				"lowBatteryAlert": true,
+				"soundAlerts": true,
+				"visualAlerts": true
+			},
+			"bundled": {
+				"cards": null,
+				"tags": null,
+				"keys": 4,
+				"installationKit": true,
+				"fixingBox": null,
+				"shims": null,
+				"manual": true,
+				"accessories": ["Parafusos", "Kit de instalação"]
+			},
+			"warranty": {
+				"period": "12 meses",
+				"type": null,
+				"support": null
+			},
+			"certifications": {
+				"anatel": null,
+				"inmetro": null,
+				"ce": null,
+				"fcc": null,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"security": 7,
+				"easeOfUse": 7.5,
+				"durability": 6.5,
+				"installation": 7,
+				"features": 8,
+				"connectivity": 8.5
+			}
+		}
+	},
+	{
+		"id": "papaiz-sl150-biometrica",
+		"name": "SL150",
+		"brand": "Papaiz",
+		"line": "Smart Lock",
+		"model": "SL150",
+		"alphanumericModel": "SL150",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_608260-MLA99525272664_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Julho de 2025",
+		"releaseYear": 2025,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1uEGYEX",
+		"manufacturer": "Papaiz",
+		"specs": {
+			"manufacturer": "Papaiz",
+			"basicInfo": {
+				"color": "Preto",
+				"finish": "Pintura eletrostática",
+				"direction": "Reversível",
+				"isDigital": true,
+				"installationType": "De embutir",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Biometria", "Senha", "Cartão RFID", "Tag", "Chave mecânica"],
+				"proximityCardType": "RFID",
+				"numericCodesSupported": 100,
+				"biometricCapacity": 100,
+				"cardCapacity": 100,
+				"passwordCapacity": 100,
+				"antiTheftAlarm": true,
+				"shockProtection": true,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": null,
+				"emergencyPower": true,
+				"securityLevel": "Alta"
+			},
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": false,
+				"appName": null,
+				"remoteControl": false,
+				"smartHomeIntegration": null
+			},
+			"access": {
+				"masterPassword": true,
+				"guestPassword": true,
+				"temporaryPassword": true,
+				"oneTimePassword": true,
+				"accessLog": true,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AAA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": true,
+				"batteryLife": "6-12 meses",
+				"lowBatteryIndicator": true,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 3.5,
+				"maxThickness": 6,
+				"recommendedThickness": "35-50 mm",
+				"doorTypes": ["Madeira", "Metal"],
+				"lockType": "Trinco"
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touch Screen",
+				"touchScreen": true,
+				"backlight": true
+			},
+			"physical": {
+				"materials": ["Liga metálica", "Plástico ABS", "Zinco"],
+				"weatherResistant": false,
+				"waterproofRating": null,
+				"includesHandle": true,
+				"handleType": "Maçaneta integrada",
+				"finishType": "Pintura eletrostática"
+			},
+			"dimensions": {
+				"height": "26 cm",
+				"width": "6,2 cm",
+				"depth": "3 cm",
+				"weight": "2 kg"
+			},
+			"installation": {
+				"difficulty": "Média",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": true,
+				"privacyMode": true,
+				"silentMode": true,
+				"freezeProtection": null,
+				"fireProtection": null,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": true,
+				"wrongPasswordAttempts": null,
+				"lockoutTime": null
+			},
+			"notifications": {
+				"doorOpenAlert": true,
+				"intrusionAlert": true,
+				"lowBatteryAlert": true,
+				"soundAlerts": true,
+				"visualAlerts": true
+			},
+			"bundled": {
+				"cards": null,
+				"tags": 3,
+				"keys": 2,
+				"installationKit": true,
+				"fixingBox": false,
+				"shims": null,
+				"manual": true,
+				"accessories": [
+					"Gabarito de instalação",
+					"Parafusos",
+					"Contra testa",
+					"Maçaneta interna",
+					"Maçaneta externa"
+				]
+			},
+			"warranty": {
+				"period": "3 anos (2 anos padrão + 1 ano adicional com instalador credenciado)",
+				"type": "Fabricante",
+				"support": "Suporte técnico Papaiz/ASSA ABLOY"
+			},
+			"certifications": {
+				"anatel": true,
+				"inmetro": true,
+				"ce": null,
+				"fcc": null,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"security": 9,
+				"easeOfUse": 9,
+				"durability": 9,
+				"installation": 8,
+				"features": 8,
+				"connectivity": null
+			}
+		}
+	},
+	{
+		"id": "entersec-a8-l6-wifi-tuya",
+		"name": "A8/L6",
+		"brand": "Entersec",
+		"line": null,
+		"model": "A8/L6",
+		"alphanumericModel": "A8, L6",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_644348-MLA104000767089_012026-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2V8hCz5",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"basicInfo": {
+				"color": "Preto",
+				"finish": "Grafite",
+				"direction": "Reversível",
+				"isDigital": true,
+				"installationType": "De embutir",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Biometria", "Senha", "Cartão RFID", "Tag", "Chave mecânica", "Aplicativo"],
+				"proximityCardType": "RFID",
+				"numericCodesSupported": 100,
+				"biometricCapacity": 100,
+				"cardCapacity": 100,
+				"passwordCapacity": 100,
+				"antiTheftAlarm": true,
+				"shockProtection": false,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": null,
+				"emergencyPower": true,
+				"securityLevel": null
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": true,
+				"appName": "Tuya / Smart Life",
+				"remoteControl": true,
+				"smartHomeIntegration": ["Alexa", "Google Home"]
+			},
+			"access": {
+				"masterPassword": true,
+				"guestPassword": true,
+				"temporaryPassword": true,
+				"oneTimePassword": true,
+				"accessLog": true,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": false,
+				"batteryLife": "1 ano",
+				"lowBatteryIndicator": true,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 3,
+				"maxThickness": 3.5,
+				"recommendedThickness": "30-35 mm",
+				"doorTypes": ["Madeira"],
+				"lockType": "Trava"
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touch Screen",
+				"touchScreen": true,
+				"backlight": true
+			},
+			"physical": {
+				"materials": ["Liga de alumínio", "Plástico ABS"],
+				"weatherResistant": false,
+				"waterproofRating": null,
+				"includesHandle": true,
+				"handleType": null,
+				"finishType": "Grafite"
+			},
+			"dimensions": {
+				"height": "25,7 cm",
+				"width": "6,6 cm",
+				"depth": null,
+				"weight": "1,2 kg"
+			},
+			"installation": {
+				"difficulty": "Média",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": true,
+				"privacyMode": true,
+				"silentMode": null,
+				"freezeProtection": null,
+				"fireProtection": null,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": true,
+				"wrongPasswordAttempts": 5,
+				"lockoutTime": "5 minutos"
+			},
+			"notifications": {
+				"doorOpenAlert": true,
+				"intrusionAlert": true,
+				"lowBatteryAlert": true,
+				"soundAlerts": true,
+				"visualAlerts": true
+			},
+			"bundled": {
+				"cards": null,
+				"tags": null,
+				"keys": 2,
+				"installationKit": true,
+				"fixingBox": null,
+				"shims": null,
+				"manual": true,
+				"accessories": ["Gabarito", "Parafusos"]
+			},
+			"warranty": {
+				"period": "12 meses",
+				"type": null,
+				"support": null
+			},
+			"certifications": {
+				"anatel": null,
+				"inmetro": null,
+				"ce": null,
+				"fcc": null,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"security": 7,
+				"easeOfUse": 7.5,
+				"durability": 6.5,
+				"installation": 7,
+				"features": 8,
+				"connectivity": 8.5
+			}
+		}
+	},
+	{
+		"id": "primebras-athenas-digital-smart-vidro",
+		"name": "Athenas Digital Smart Vidro",
+		"brand": "Primebras",
+		"line": "Athenas",
+		"model": "Athenas Digital Smart Vidro",
+		"alphanumericModel": "PV4003BLE",
+		"color": "Preto fosco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_737580-MLA99505242960_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2si1EQp",
+		"manufacturer": "Papaiz",
+		"specs": {
+			"manufacturer": "Papaiz",
+			"basicInfo": {
+				"color": "Preto fosco",
+				"finish": "Preto fosco",
+				"direction": "Reversível",
+				"isDigital": true,
+				"installationType": "De sobrepor",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Biometria", "Senha", "Cartão RFID", "Tag", "Aplicativo"],
+				"proximityCardType": "RFID",
+				"numericCodesSupported": 1000,
+				"biometricCapacity": 50,
+				"cardCapacity": 1000,
+				"passwordCapacity": 1000,
+				"antiTheftAlarm": true,
+				"shockProtection": false,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": "Imediato após fechamento",
+				"emergencyPower": true,
+				"securityLevel": "Alta"
+			},
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": true,
+				"zigbee": false,
+				"hasApp": true,
+				"appName": "Primebras Home",
+				"remoteControl": true,
+				"smartHomeIntegration": null
+			},
+			"access": {
+				"masterPassword": true,
+				"guestPassword": true,
+				"temporaryPassword": true,
+				"oneTimePassword": true,
+				"accessLog": true,
+				"logCapacity": 300
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": true,
+				"batteryLife": "6-12 meses",
+				"lowBatteryIndicator": true,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 0.8,
+				"maxThickness": 1.2,
+				"recommendedThickness": "8-12 mm",
+				"doorTypes": ["Vidro"],
+				"lockType": "Trava"
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touch Screen",
+				"touchScreen": true,
+				"backlight": true
+			},
+			"physical": {
+				"materials": ["Liga de alumínio", "Aço inoxidável", "Policarbonato", "PVC"],
+				"weatherResistant": false,
+				"waterproofRating": null,
+				"includesHandle": false,
+				"handleType": null,
+				"finishType": "Preto fosco"
+			},
+			"dimensions": {
+				"height": "170 mm",
+				"width": "64 mm",
+				"depth": "20 mm (externa) / 38 mm (interna)",
+				"weight": null
+			},
+			"installation": {
+				"difficulty": "Fácil",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": true,
+				"privacyMode": true,
+				"silentMode": true,
+				"freezeProtection": null,
+				"fireProtection": null,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": true,
+				"wrongPasswordAttempts": null,
+				"lockoutTime": null
+			},
+			"notifications": {
+				"doorOpenAlert": true,
+				"intrusionAlert": true,
+				"lowBatteryAlert": true,
+				"soundAlerts": true,
+				"visualAlerts": true
+			},
+			"bundled": {
+				"cards": null,
+				"tags": 2,
+				"keys": null,
+				"installationKit": true,
+				"fixingBox": true,
+				"shims": null,
+				"manual": true,
+				"accessories": [
+					"Batente alvenaria",
+					"Batente sobrepor retangular",
+					"2 Adesivos para instalação",
+					"Kit de parafusos"
+				]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": "Fabricante",
+				"support": "Suporte técnico Primebras"
+			},
+			"certifications": {
+				"anatel": null,
+				"inmetro": null,
+				"ce": null,
+				"fcc": null,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"security": 8.5,
+				"easeOfUse": 9,
+				"durability": 8.5,
+				"installation": 9.5,
+				"features": 8.5,
+				"connectivity": 7.5
+			}
+		}
+	},
+	{
+		"id": "silvana-sdd200-smart-lock",
+		"name": "SDD200",
+		"brand": "Silvana",
+		"line": "Smart Lock",
+		"model": "SDD200",
+		"alphanumericModel": "SDD200",
+		"color": "Preta",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_976359-MLA100041206807_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2EaLwzT",
+		"manufacturer": "Papaiz",
+		"specs": {
+			"manufacturer": "Papaiz",
+			"basicInfo": {
+				"color": "Preta",
+				"finish": "Aço inoxidável",
+				"direction": "Reversível",
+				"isDigital": true,
+				"installationType": "De sobrepor",
+				"useEnvironment": ["Interno", "Externo"]
+			},
+			"security": {
+				"openingMechanisms": ["Senha"],
+				"proximityCardType": null,
+				"numericCodesSupported": 199,
+				"biometricCapacity": null,
+				"cardCapacity": null,
+				"passwordCapacity": 199,
+				"antiTheftAlarm": true,
+				"shockProtection": true,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": "Automático com sensor",
+				"emergencyPower": true,
+				"securityLevel": "Alta"
+			},
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": false,
+				"appName": null,
+				"remoteControl": false,
+				"smartHomeIntegration": null
+			},
+			"access": {
+				"masterPassword": true,
+				"guestPassword": true,
+				"temporaryPassword": true,
+				"oneTimePassword": false,
+				"accessLog": false,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": true,
+				"batteryLife": "Até 2500 acionamentos",
+				"lowBatteryIndicator": true,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 3,
+				"maxThickness": 5,
+				"recommendedThickness": "30-50 mm",
+				"doorTypes": ["Madeira", "Alumínio"],
+				"lockType": "Trinco"
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touch Screen",
+				"touchScreen": true,
+				"backlight": true
+			},
+			"physical": {
+				"materials": ["Aço carbono", "Alumínio", "Zamak", "Plástico de engenharia"],
+				"weatherResistant": true,
+				"waterproofRating": null,
+				"includesHandle": false,
+				"handleType": null,
+				"finishType": "Preto"
+			},
+			"dimensions": {
+				"height": "21 cm",
+				"width": "9 cm",
+				"depth": "25 cm",
+				"weight": "1,2 kg"
+			},
+			"installation": {
+				"difficulty": "Fácil",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": false,
+				"privacyMode": true,
+				"silentMode": true,
+				"freezeProtection": null,
+				"fireProtection": true,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": false,
+				"wrongPasswordAttempts": null,
+				"lockoutTime": null
+			},
+			"notifications": {
+				"doorOpenAlert": true,
+				"intrusionAlert": true,
+				"lowBatteryAlert": true,
+				"soundAlerts": true,
+				"visualAlerts": true
+			},
+			"bundled": {
+				"cards": null,
+				"tags": null,
+				"keys": null,
+				"installationKit": true,
+				"fixingBox": null,
+				"shims": null,
+				"manual": true,
+				"accessories": ["Parafusos para instalação", "Bateria 9V para emergência"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": "Fabricante",
+				"support": "Suporte técnico Silvana ASSA ABLOY"
+			},
+			"certifications": {
+				"anatel": null,
+				"inmetro": true,
+				"ce": null,
+				"fcc": null,
+				"other": ["NBR 14913"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"security": 8,
+				"easeOfUse": 9,
+				"durability": 8.5,
+				"installation": 9.5,
+				"features": 7.5,
+				"connectivity": null
+			}
+		}
+	},
+	{
+		"id": "agl-ultra-ajustavel-chave-e-code",
+		"name": "Ultra Ajustável",
+		"brand": "AGL",
+		"line": "Ultra",
+		"model": "Ultra Ajustável",
+		"alphanumericModel": "Ultra E-Code",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_705289-MLA99406866502_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2XGsDUa",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"basicInfo": {
+				"color": "Preto",
+				"finish": "Plástico",
+				"direction": "Reversível",
+				"isDigital": false,
+				"installationType": "De embutir",
+				"useEnvironment": ["Interno", "Externo"]
+			},
+			"security": {
+				"openingMechanisms": ["Chave mecânica"],
+				"proximityCardType": null,
+				"numericCodesSupported": null,
+				"biometricCapacity": null,
+				"cardCapacity": null,
+				"passwordCapacity": null,
+				"antiTheftAlarm": true,
+				"shockProtection": false,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": "20s (configurável 1-60s)",
+				"emergencyPower": false,
+				"securityLevel": "Média"
+			},
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": false,
+				"appName": null,
+				"remoteControl": false,
+				"smartHomeIntegration": null
+			},
+			"access": {
+				"masterPassword": null,
+				"guestPassword": null,
+				"temporaryPassword": null,
+				"oneTimePassword": null,
+				"accessLog": false,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Energia elétrica",
+				"batteryType": null,
+				"batteryQuantity": null,
+				"batteriesIncluded": false,
+				"batteryLife": null,
+				"lowBatteryIndicator": false,
+				"emergencyPowerPort": false
+			},
+			"doorSpecifications": {
+				"minThickness": 4.2,
+				"maxThickness": 10,
+				"recommendedThickness": "42-100 mm",
+				"doorTypes": ["Madeira", "Metal"],
+				"lockType": "Trava"
+			},
+			"display": {
+				"hasDisplay": false,
+				"type": null,
+				"touchScreen": null,
+				"backlight": null
+			},
+			"physical": {
+				"materials": ["Aço", "Plástico"],
+				"weatherResistant": true,
+				"waterproofRating": "IP65",
+				"includesHandle": false,
+				"handleType": null,
+				"finishType": "Plástico"
+			},
+			"dimensions": {
+				"height": "12 cm",
+				"width": "17 cm",
+				"depth": "11 cm",
+				"weight": "1,054 kg"
+			},
+			"installation": {
+				"difficulty": "Profissional",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": true
+			},
+			"features": {
+				"voiceGuide": false,
+				"privacyMode": false,
+				"silentMode": true,
+				"freezeProtection": null,
+				"fireProtection": null,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": false,
+				"wrongPasswordAttempts": null,
+				"lockoutTime": null
+			},
+			"notifications": {
+				"doorOpenAlert": true,
+				"intrusionAlert": false,
+				"lowBatteryAlert": false,
+				"soundAlerts": true,
+				"visualAlerts": false
+			},
+			"bundled": {
+				"cards": null,
+				"tags": null,
+				"keys": 2,
+				"installationKit": true,
+				"fixingBox": true,
+				"shims": null,
+				"manual": true,
+				"accessories": ["Batente para sobrepor", "Fonte de alimentação 12V", "Kit de parafusos"]
+			},
+			"warranty": {
+				"period": "12 meses",
+				"type": "Fabricante",
+				"support": null
+			},
+			"certifications": {
+				"anatel": null,
+				"inmetro": null,
+				"ce": null,
+				"fcc": null,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"security": 7.5,
+				"easeOfUse": 7,
+				"durability": 8,
+				"installation": 6,
+				"features": 6.5,
+				"connectivity": null
+			}
+		}
+	},
+	{
+		"id": "intelbras-fr-102-sobrepor",
+		"name": "FR 102",
+		"brand": "Intelbras",
+		"line": "FR",
+		"model": "FR 102",
+		"alphanumericModel": "FR 102",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_602779-MLA99373435896_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "fechaduras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/13kNjUt",
+		"manufacturer": "Intelbras",
+		"specs": {
+			"manufacturer": "Intelbras",
+			"basicInfo": {
+				"color": "Preto",
+				"finish": "Grafite",
+				"direction": "Reversível",
+				"isDigital": true,
+				"installationType": "De sobrepor",
+				"useEnvironment": ["Interno"]
+			},
+			"security": {
+				"openingMechanisms": ["Senha"],
+				"proximityCardType": null,
+				"numericCodesSupported": 100,
+				"biometricCapacity": null,
+				"cardCapacity": null,
+				"passwordCapacity": 100,
+				"antiTheftAlarm": true,
+				"shockProtection": false,
+				"tamperAlert": true,
+				"autoLock": true,
+				"autoLockTime": "Programável",
+				"emergencyPower": true,
+				"securityLevel": "Alta"
+			},
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": false,
+				"zigbee": false,
+				"hasApp": false,
+				"appName": null,
+				"remoteControl": false,
+				"smartHomeIntegration": null
+			},
+			"access": {
+				"masterPassword": true,
+				"guestPassword": true,
+				"temporaryPassword": false,
+				"oneTimePassword": false,
+				"accessLog": false,
+				"logCapacity": null
+			},
+			"power": {
+				"powerType": "Pilha",
+				"batteryType": "AA",
+				"batteryQuantity": 4,
+				"batteriesIncluded": true,
+				"batteryLife": "Até 1 ano (média 10 acessos/dia)",
+				"lowBatteryIndicator": true,
+				"emergencyPowerPort": true
+			},
+			"doorSpecifications": {
+				"minThickness": 2.5,
+				"maxThickness": 5,
+				"recommendedThickness": "25-50 mm",
+				"doorTypes": ["Madeira"],
+				"lockType": "Trinco"
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touch Screen",
+				"touchScreen": true,
+				"backlight": true
+			},
+			"physical": {
+				"materials": ["Plástico ABS", "Zamak"],
+				"weatherResistant": false,
+				"waterproofRating": null,
+				"includesHandle": true,
+				"handleType": "Manopla interna",
+				"finishType": "Grafite"
+			},
+			"dimensions": {
+				"height": "26,5 cm",
+				"width": "8,5 cm",
+				"depth": "20,5 cm",
+				"weight": "1,43 kg"
+			},
+			"installation": {
+				"difficulty": "Fácil",
+				"includesInstallationKit": true,
+				"reversible": true,
+				"requiresWiring": false
+			},
+			"features": {
+				"voiceGuide": false,
+				"privacyMode": true,
+				"silentMode": false,
+				"freezeProtection": null,
+				"fireProtection": null,
+				"duplicateCardProtection": null,
+				"wrongPasswordLock": true,
+				"wrongPasswordAttempts": 5,
+				"lockoutTime": "1 minuto de alarme sonoro"
+			},
+			"notifications": {
+				"doorOpenAlert": false,
+				"intrusionAlert": true,
+				"lowBatteryAlert": true,
+				"soundAlerts": true,
+				"visualAlerts": true
+			},
+			"bundled": {
+				"cards": null,
+				"tags": null,
+				"keys": null,
+				"installationKit": true,
+				"fixingBox": false,
+				"shims": 6,
+				"manual": true,
+				"accessories": [
+					"1 gabarito de fixação",
+					"1 kit de instalação",
+					"4 pilhas alcalinas AA",
+					"6 calços para suporte das trancas",
+					"1 batente"
+				]
+			},
+			"warranty": {
+				"period": "12 meses",
+				"type": "Fabricante",
+				"support": "Suporte técnico Intelbras"
+			},
+			"certifications": {
+				"anatel": true,
+				"inmetro": true,
+				"ce": null,
+				"fcc": null,
+				"other": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"security": 8.5,
+				"easeOfUse": 9,
+				"durability": 8.5,
+				"installation": 9.5,
+				"features": 7.5,
+				"connectivity": null
+			}
+		}
+	}
+]

@@ -1,0 +1,3637 @@
+[
+	{
+		"id": "basike-ba-rad293",
+		"name": "BA-RAD293",
+		"brand": "Basike",
+		"line": "Boombox",
+		"model": "BA-RAD293",
+		"detailedModel": "caixa de som Bluetooth",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_977733-MLA99450899418_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "209382314103",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1vMhCGp",
+		"shopeeUrl": null,
+		"alphanumericModel": "BA-RAD293",
+		"version": null,
+		"manufacturer": "Basike",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 100,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "3 alto-falantes",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": "Sim",
+					"passive": true
+				},
+				"frequency": {
+					"min": 50,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.3",
+					"range": "10m",
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX5",
+				"dustproof": "Sim",
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": true,
+				"voiceAssistant": ["Siri", "Google Assistant"],
+				"eqSettings": true,
+				"customEQ": true,
+				"app": false,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": "10000mAh",
+				"playTime": "12h",
+				"chargingTime": "3h",
+				"quickCharge": false,
+				"powerBank": true
+			},
+			"power": {
+				"type": "Bateria recarregável",
+				"voltage": "5V",
+				"acAdapter": false
+			},
+			"build": {
+				"material": "Plástico",
+				"dimensions": {
+					"width": "34.7cm",
+					"height": "12.5cm",
+					"depth": "12.8cm",
+					"weight": "2.3kg"
+				},
+				"mounting": null
+			},
+			"controls": {
+				"type": "Botões físicos",
+				"volume": true,
+				"playback": true,
+				"voiceControl": true,
+				"touch": false
+			},
+			"accessories": ["Cabo USB Tipo C", "Alça de transporte"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"soundQuality": 8.0,
+				"bassResponse": 8.5,
+				"portability": 8.0,
+				"batteryLife": 9.0
+			}
+		}
+	},
+	{
+		"id": "imenso-ims-x39",
+		"name": "X39",
+		"brand": "Imenso",
+		"line": null,
+		"model": "IMS-X39",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_634877-MLA99475192414_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "083052415957",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2RzMzZs",
+		"shopeeUrl": null,
+		"alphanumericModel": "X39",
+		"version": null,
+		"manufacturer": "Imenso",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 100,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": null,
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 65,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.3",
+					"range": "18m",
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX6",
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": false,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": false,
+				"customEQ": false,
+				"app": false,
+				"ledLights": true,
+				"micInput": false,
+				"karaoke": false
+			},
+			"battery": {
+				"capacity": "9000mAh",
+				"playTime": "12h",
+				"chargingTime": "4h",
+				"quickCharge": false,
+				"powerBank": false
+			},
+			"power": {
+				"type": "Bateria recarregável",
+				"voltage": "DC5V",
+				"acAdapter": false
+			},
+			"build": {
+				"material": "Plástico",
+				"dimensions": {
+					"width": null,
+					"height": null,
+					"depth": null,
+					"weight": null
+				},
+				"mounting": null
+			},
+			"controls": {
+				"type": "Botões físicos",
+				"volume": true,
+				"playback": true,
+				"voiceControl": false,
+				"touch": false
+			},
+			"accessories": ["Alça de transporte", "Cabo auxiliar", "Cabo Type-C", "Manual do usuário"],
+			"ratings": {
+				"costBenefit": 8.0,
+				"soundQuality": 8.0,
+				"bassResponse": 8.0,
+				"portability": 8.5,
+				"batteryLife": 7.5
+			}
+		}
+	},
+	{
+		"id": "jbl-go-4-azul",
+		"name": "Go 4",
+		"brand": "JBL",
+		"line": "GO",
+		"model": "JBL GO 4",
+		"detailedModel": null,
+		"color": "Azul",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_845858-MLA99444150348_112025-F.webp",
+		"price": null,
+		"releaseDate": "Junho de 2024",
+		"releaseMonth": "Junho",
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "219722307120",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1315Ch6",
+		"shopeeUrl": null,
+		"alphanumericModel": "JBL GO 4",
+		"version": null,
+		"manufacturer": "JBL",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 4.2,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "1 transdutor de 45mm (1,75\")",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 90,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": "> 85 dB"
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.3",
+					"range": "10m",
+					"multipoint": true,
+					"codec": ["A2DP V1.4", "AVRCP V1.6"]
+				},
+				"wifi": null,
+				"wired": {
+					"aux": false,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IP67",
+				"dustproof": "IP67",
+				"portability": true,
+				"stereo": true,
+				"partyMode": false,
+				"fones-de-ouvido": true,
+				"voiceAssistant": ["Google Assistant", "Siri"],
+				"eqSettings": true,
+				"customEQ": true,
+				"app": true,
+				"ledLights": false,
+				"micInput": false,
+				"karaoke": false
+			},
+			"battery": {
+				"capacity": "850mAh (3,23Wh equivalente a 3,8V)",
+				"playTime": "7h (até 9h com Playtime Boost)",
+				"chargingTime": "3h",
+				"quickCharge": false,
+				"powerBank": false
+			},
+			"power": {
+				"type": "Bateria recarregável",
+				"voltage": "5V 1A",
+				"acAdapter": false
+			},
+			"build": {
+				"material": "Plástico reciclado (80%) e tecido reciclado (100%) na grade",
+				"dimensions": {
+					"width": "94.3mm",
+					"height": "75.7mm",
+					"depth": "42.2mm",
+					"weight": "190g"
+				},
+				"mounting": ["Alça integrada"]
+			},
+			"controls": {
+				"type": "Botões físicos em relevo",
+				"volume": true,
+				"playback": true,
+				"voiceControl": true,
+				"touch": false
+			},
+			"accessories": ["Cabo USB Tipo-C", "Guia de início rápido", "Cartão de garantia", "Ficha de segurança"],
+			"ratings": {
+				"costBenefit": 9.0,
+				"soundQuality": 8.5,
+				"bassResponse": 8.0,
+				"portability": 10.0,
+				"batteryLife": 8.5
+			}
+		}
+	},
+	{
+		"id": "philco-pcx4500",
+		"name": "PCX4500",
+		"brand": "Philco",
+		"line": null,
+		"model": "PCX4500",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_991289-MLA99508513906_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "102392315588",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2CfarVi",
+		"shopeeUrl": null,
+		"alphanumericModel": "56603789",
+		"version": null,
+		"manufacturer": "Philco",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 300,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.1 canais",
+					"woofer": "2x 4 polegadas",
+					"tweeter": "Sim",
+					"midrange": null,
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 60,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.3",
+					"range": "10m",
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": true,
+				"app": false,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "4h",
+				"chargingTime": null,
+				"quickCharge": false,
+				"powerBank": false
+			},
+			"power": {
+				"type": "Bateria recarregável / Bivolt",
+				"voltage": "DC 5V 2A",
+				"acAdapter": true
+			},
+			"build": {
+				"material": "Plástico",
+				"dimensions": {
+					"width": "21.3cm",
+					"height": "42.5cm",
+					"depth": "19.5cm",
+					"weight": "3.04kg"
+				},
+				"mounting": ["Alça de transporte"]
+			},
+			"controls": {
+				"type": "Painel digital + Controle remoto",
+				"volume": true,
+				"playback": true,
+				"voiceControl": false,
+				"touch": false
+			},
+			"accessories": ["Cabo USB-C", "Cabo auxiliar P2", "Controle remoto", "Manual de instruções"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"soundQuality": 8.0,
+				"bassResponse": 8.5,
+				"portability": 7.0,
+				"batteryLife": 6.5
+			}
+		}
+	},
+	{
+		"id": "sabala-dra-909",
+		"name": "DR-909",
+		"brand": "Sabala",
+		"line": "Boombox",
+		"model": "DRa-909",
+		"detailedModel": "DR-909",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_748535-MLA99925975241_112025-F.webp",
+		"price": null,
+		"releaseDate": "Agosto de 2025",
+		"releaseMonth": "Agosto",
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "154572114359",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1YhsDrS",
+		"shopeeUrl": null,
+		"alphanumericModel": "SABALA DR-909",
+		"version": null,
+		"manufacturer": "Sabala",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 200,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "3 vias (1x woofer 100W + 2x midrange 30W + 2x tweeter 20W)",
+					"woofer": "1x 100W",
+					"tweeter": "2x 20W",
+					"midrange": "2x 30W",
+					"subwoofer": null,
+					"passive": true
+				},
+				"frequency": {
+					"min": 50,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.3",
+					"range": "10-13m",
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX6",
+				"dustproof": "IPX6",
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": true,
+				"app": false,
+				"ledLights": false,
+				"micInput": false,
+				"karaoke": false
+			},
+			"battery": {
+				"capacity": "39000mAh",
+				"playTime": "36h (uso moderado) / 8-10h (volume máximo)",
+				"chargingTime": "4h",
+				"quickCharge": true,
+				"powerBank": true
+			},
+			"power": {
+				"type": "Bateria recarregável / AC Adapter",
+				"voltage": "24V 2.5A (carregamento rápido)",
+				"acAdapter": true
+			},
+			"build": {
+				"material": "ABS plástico",
+				"dimensions": {
+					"width": "16.5cm",
+					"height": "45.5cm",
+					"depth": "14.6cm",
+					"weight": "7kg"
+				},
+				"mounting": ["Alça de transporte integrada"]
+			},
+			"controls": {
+				"type": "Botões físicos na parte superior",
+				"volume": true,
+				"playback": true,
+				"voiceControl": false,
+				"touch": false
+			},
+			"accessories": ["Cabo USB com carregador rápido 24V/2.5A", "Bolsa de transporte", "Manual do usuário"],
+			"ratings": {
+				"costBenefit": 9.5,
+				"soundQuality": 9.0,
+				"bassResponse": 9.5,
+				"portability": 7.5,
+				"batteryLife": 10.0
+			}
+		}
+	},
+	{
+		"id": "aiwa-aws-t1w-02",
+		"name": "AWS-T1W-02",
+		"brand": "Aiwa",
+		"line": "Tower Speaker",
+		"model": "AWS-T1W-02",
+		"detailedModel": "AWS-T1W-02",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_651042-MLA99944068411_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "48932416647",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2goB6Yt",
+		"shopeeUrl": null,
+		"alphanumericModel": "AWS-T1W-02",
+		"version": null,
+		"manufacturer": "Aiwa",
+		"specs": {
+			"type": "Torre",
+			"audio": {
+				"power": {
+					"rms": 1600,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "Sistema 3 vias (1x Woofer 10\" + 2x Midrange + 2x Tweeter 2\")",
+					"woofer": "1x 10 polegadas",
+					"tweeter": "2x 2 polegadas",
+					"midrange": "2 drivers",
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 25,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.3",
+					"range": "10m",
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": true
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": false,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": true,
+				"app": true,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": null,
+			"power": {
+				"type": "AC (rede elétrica)",
+				"voltage": "Bivolt (100-240V)",
+				"acAdapter": true
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"dimensions": {
+					"width": "35cm",
+					"height": "75.4cm",
+					"depth": "35cm",
+					"weight": "17.5kg"
+				},
+				"mounting": ["Rodas para transporte"]
+			},
+			"controls": {
+				"type": "Painel físico + App móvel (iOS/Android)",
+				"volume": true,
+				"playback": true,
+				"voiceControl": false,
+				"touch": false
+			},
+			"accessories": ["Cabo de alimentação 1.5m", "Manual de instruções"],
+			"ratings": {
+				"costBenefit": 9.0,
+				"soundQuality": 9.0,
+				"bassResponse": 9.5,
+				"portability": 6.0,
+				"batteryLife": null
+			}
+		}
+	},
+	{
+		"id": "amvox-aca-600-bagvox",
+		"name": "ACA 600 Bagvox",
+		"brand": "Amvox",
+		"line": "Audio",
+		"model": "ACA 600 Bagvox",
+		"detailedModel": "ACA 600 BAGVOX BLACK",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_674803-MLA99505013180_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023-10",
+		"releaseMonth": "Outubro",
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "59762412749",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2vAZ8Tr",
+		"shopeeUrl": null,
+		"alphanumericModel": "600",
+		"version": null,
+		"manufacturer": "Amvox",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 600,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.1",
+					"woofer": "2x 6.5\"",
+					"tweeter": "1x 1\"",
+					"midrange": null,
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 40,
+					"max": 60,
+					"unit": "Hz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": null,
+					"range": null,
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": false,
+				"partyMode": false,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": false,
+				"app": false,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": false
+			},
+			"battery": {
+				"capacity": "1800mAh",
+				"playTime": "4 horas",
+				"chargingTime": "2 horas",
+				"quickCharge": false,
+				"powerBank": true
+			},
+			"power": {
+				"type": "Bateria/Fonte",
+				"voltage": "Bivolt 110V/220V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "20 cm",
+					"height": "45 cm",
+					"depth": "27 cm",
+					"weight": "5.3 kg"
+				},
+				"mounting": ["De piso"]
+			},
+			"controls": {
+				"type": "Botões físicos",
+				"volume": true,
+				"playback": true,
+				"voiceControl": false,
+				"touch": false
+			},
+			"accessories": ["Cabo de energia", "Manual do usuário", "Alças ajustáveis removíveis"],
+			"ratings": {
+				"costBenefit": 8,
+				"soundQuality": 7,
+				"bassResponse": 7,
+				"portability": 9,
+				"batteryLife": 6
+			}
+		}
+	},
+	{
+		"id": "amvox-aca-221-gigante-ii",
+		"name": "ACA 221 Gigante II",
+		"brand": "Amvox",
+		"line": null,
+		"model": "ACA 221 Gigante II",
+		"detailedModel": "ACA 221 Gigante II",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_705609-MLA100048298233_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2023-08",
+		"releaseMonth": "Agosto",
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "67902412655",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1hRZBC8",
+		"shopeeUrl": null,
+		"alphanumericModel": "ACA 221",
+		"version": null,
+		"manufacturer": "Amvox",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 220,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.0",
+					"woofer": "8\"",
+					"tweeter": "4\"",
+					"midrange": null,
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 60,
+					"max": 18,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": null,
+					"range": null,
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": false,
+				"partyMode": true,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": false,
+				"app": false,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "4 horas",
+				"chargingTime": "2 horas",
+				"quickCharge": false,
+				"powerBank": false
+			},
+			"power": {
+				"type": "Bateria/Fonte",
+				"voltage": "Bivolt 110V/220V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "24 cm",
+					"height": "37 cm",
+					"depth": "21 cm",
+					"weight": "1.82 kg"
+				},
+				"mounting": ["De piso", "Pedestal"]
+			},
+			"controls": {
+				"type": "Botões físicos",
+				"volume": true,
+				"playback": true,
+				"voiceControl": false,
+				"touch": false
+			},
+			"accessories": ["Alça de transporte", "Cabo de energia"],
+			"ratings": {
+				"costBenefit": 8,
+				"soundQuality": 7,
+				"bassResponse": 8,
+				"portability": 9,
+				"batteryLife": 6
+			}
+		}
+	},
+	{
+		"id": "amvox-aca-255-hit",
+		"name": "ACA 255 Hit",
+		"brand": "Amvox",
+		"line": "Audio",
+		"model": "ACA 255 Hit",
+		"detailedModel": "ACA 255 Hit",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_928496-MLA99872541579_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-03",
+		"releaseMonth": "Março",
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "80341810354",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1mtuXCs",
+		"shopeeUrl": null,
+		"alphanumericModel": "ACA 255",
+		"version": null,
+		"manufacturer": "Amvox",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 250,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.0",
+					"woofer": "8\"",
+					"tweeter": "4\"",
+					"midrange": null,
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 45,
+					"max": 15,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.0",
+					"range": "10m",
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": true
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": false,
+				"app": false,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "4 horas",
+				"chargingTime": "2 horas",
+				"quickCharge": false,
+				"powerBank": false
+			},
+			"power": {
+				"type": "Bateria/Fonte",
+				"voltage": "Bivolt 110V/220V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "24 cm",
+					"height": "37 cm",
+					"depth": "21 cm",
+					"weight": "2 kg"
+				},
+				"mounting": ["De piso"]
+			},
+			"controls": {
+				"type": "Botões físicos",
+				"volume": true,
+				"playback": true,
+				"voiceControl": true,
+				"touch": false
+			},
+			"accessories": ["Alça de transporte", "Cabo de energia", "Manual do usuário"],
+			"ratings": {
+				"costBenefit": 8,
+				"soundQuality": 7,
+				"bassResponse": 7,
+				"portability": 9,
+				"batteryLife": 6
+			}
+		}
+	},
+	{
+		"id": "philco-pcx3800-flash-lights",
+		"name": "PCX3800 Flash Lights",
+		"brand": "Philco",
+		"line": null,
+		"model": "PCX3800",
+		"detailedModel": "PCX3800 Flash Lights",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_910339-MLA99504557104_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-05",
+		"releaseMonth": "Maio",
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "39592416592",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/13bgzMA",
+		"shopeeUrl": null,
+		"alphanumericModel": "PCX3800",
+		"version": null,
+		"manufacturer": "Philco",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 250,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.0",
+					"woofer": "8\"",
+					"tweeter": "1.5\"",
+					"midrange": null,
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 60,
+					"max": 18,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.1",
+					"range": "12m",
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": false,
+				"partyMode": true,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": false,
+				"customEQ": false,
+				"app": false,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": "3000mAh",
+				"playTime": "9 horas",
+				"chargingTime": null,
+				"quickCharge": false,
+				"powerBank": false
+			},
+			"power": {
+				"type": "Bateria/Fonte",
+				"voltage": "Bivolt 110V/220V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": "Plástico",
+				"dimensions": {
+					"width": "24 cm",
+					"height": "37 cm",
+					"depth": "21 cm",
+					"weight": "3.5 kg"
+				},
+				"mounting": ["De piso"]
+			},
+			"controls": {
+				"type": "Botões físicos",
+				"volume": true,
+				"playback": true,
+				"voiceControl": false,
+				"touch": false
+			},
+			"accessories": ["Alça de transporte", "Cabo de energia", "Manual do usuário"],
+			"ratings": {
+				"costBenefit": 8,
+				"soundQuality": 6,
+				"bassResponse": 7,
+				"portability": 8,
+				"batteryLife": 8
+			}
+		}
+	},
+	{
+		"id": "pulse-pulsebox-3-sp511",
+		"name": "Pulsebox 3",
+		"brand": "Pulsesound",
+		"line": "SO",
+		"model": "Pulsebox 3",
+		"detailedModel": "SP511",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_788363-MLA99472715530_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-02",
+		"releaseMonth": "Fevereiro",
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "088842403111",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1WTWmew",
+		"shopeeUrl": null,
+		"alphanumericModel": "SP511",
+		"version": null,
+		"manufacturer": "Pulse",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 1400,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.0",
+					"woofer": "2x 8\"",
+					"tweeter": "2x Driver 3\"",
+					"midrange": null,
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 50,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.3",
+					"range": "10m",
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": true
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": false,
+				"partyMode": true,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": false,
+				"app": false,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": null,
+			"power": {
+				"type": "Corrente elétrica",
+				"voltage": "Bivolt 110V/220V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "34.2 cm",
+					"height": "79.6 cm",
+					"depth": "36 cm",
+					"weight": "13 kg"
+				},
+				"mounting": ["De piso", "Tripé"]
+			},
+			"controls": {
+				"type": "Botões físicos + Display",
+				"volume": true,
+				"playback": true,
+				"voiceControl": true,
+				"touch": false
+			},
+			"accessories": ["Alça de transporte fixa", "Cabo de energia", "Manual do usuário", "Microfone com fio"],
+			"ratings": {
+				"costBenefit": 9,
+				"soundQuality": 8,
+				"bassResponse": 9,
+				"portability": 6,
+				"batteryLife": null
+			}
+		}
+	},
+	{
+		"id": "britania-bbs200bt-speaker-extreme",
+		"name": "Speaker Extreme",
+		"brand": "Britânia",
+		"line": null,
+		"model": "BBS200BT",
+		"detailedModel": "Speaker Extreme Flash Lights TWS",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_717966-MLA99987930081_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-01",
+		"releaseMonth": "Janeiro",
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "171432315588",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1m9pagp",
+		"shopeeUrl": null,
+		"alphanumericModel": "BBS200BT",
+		"version": null,
+		"manufacturer": "Britânia",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 200,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.0",
+					"woofer": "2x 3\"",
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 50,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.3",
+					"range": "10m",
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX5",
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": false,
+				"app": false,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": "4500mAh",
+				"playTime": "4-9 horas",
+				"chargingTime": null,
+				"quickCharge": false,
+				"powerBank": false
+			},
+			"power": {
+				"type": "Bateria/Fonte",
+				"voltage": "Bivolt 110V/220V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"dimensions": {
+					"width": "37 cm",
+					"height": "28.5 cm",
+					"depth": "14.3 cm",
+					"weight": "2.178 kg"
+				},
+				"mounting": ["De piso"]
+			},
+			"controls": {
+				"type": "Botões físicos",
+				"volume": true,
+				"playback": true,
+				"voiceControl": false,
+				"touch": false
+			},
+			"accessories": ["Controle remoto", "Cabo de carregamento USB-C 1.2m", "Manual do usuário"],
+			"ratings": {
+				"costBenefit": 8,
+				"soundQuality": 7,
+				"bassResponse": 8,
+				"portability": 9,
+				"batteryLife": 7
+			}
+		}
+	},
+	{
+		"id": "knup-kp-ro803-soundbar-gamer",
+		"name": "KP-RO803",
+		"brand": "Knup",
+		"line": null,
+		"model": "KP-RO803",
+		"detailedModel": "Soundbar RGB Gamer",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_795909-MLA100092172023_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2021-11",
+		"releaseMonth": "Novembro",
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1j8fXNA",
+		"shopeeUrl": null,
+		"alphanumericModel": "KP-RO803",
+		"version": null,
+		"manufacturer": "Knup",
+		"specs": {
+			"type": "Soundbar",
+			"audio": {
+				"power": {
+					"rms": 6,
+					"peak": 12,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.0",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": "2x 3W",
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 45,
+					"max": 16,
+					"unit": "kHz"
+				},
+				"impedance": "4 Ohms",
+				"sensitivity": null,
+				"snr": "85dB"
+			},
+			"connectivity": {
+				"bluetooth": null,
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": false,
+				"stereo": true,
+				"partyMode": false,
+				"fones-de-ouvido": false,
+				"voiceAssistant": null,
+				"eqSettings": false,
+				"customEQ": false,
+				"app": false,
+				"ledLights": true,
+				"micInput": false,
+				"karaoke": false
+			},
+			"battery": null,
+			"power": {
+				"type": "USB",
+				"voltage": "5V DC",
+				"acAdapter": false
+			},
+			"build": {
+				"material": "Plástico",
+				"dimensions": {
+					"width": "38.5 cm",
+					"height": "6.5 cm",
+					"depth": "5.5 cm",
+					"weight": "400g"
+				},
+				"mounting": ["Mesa", "Monitor"]
+			},
+			"controls": {
+				"type": "Roda física",
+				"volume": true,
+				"playback": false,
+				"voiceControl": false,
+				"touch": false
+			},
+			"accessories": ["Cabo USB 1.3m", "Cabo P2 1.3m"],
+			"ratings": {
+				"costBenefit": 9,
+				"soundQuality": 5,
+				"bassResponse": 4,
+				"portability": 7,
+				"batteryLife": null
+			}
+		}
+	},
+	{
+		"id": "amvox-aca-150-pop",
+		"name": "ACA 150 Pop",
+		"brand": "Amvox",
+		"line": null,
+		"model": "ACA 150 Pop",
+		"detailedModel": "ACA 150 Pop",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_724539-MLA99496731090_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-06",
+		"releaseMonth": "Junho",
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "059752416594",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1DEdDTi",
+		"shopeeUrl": null,
+		"alphanumericModel": "ACA 150",
+		"version": null,
+		"manufacturer": "Amvox",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 150,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.0",
+					"woofer": "4\"",
+					"tweeter": "4\"",
+					"midrange": null,
+					"subwoofer": null,
+					"passive": false
+				},
+				"frequency": {
+					"min": 60,
+					"max": 18,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.0",
+					"range": "10m",
+					"multipoint": false,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": false,
+				"partyMode": true,
+				"fones-de-ouvido": true,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": false,
+				"app": false,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "4 horas",
+				"chargingTime": "2 horas",
+				"quickCharge": false,
+				"powerBank": false
+			},
+			"power": {
+				"type": "Bateria/Fonte",
+				"voltage": "Bivolt 110V/220V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "17.5 cm",
+					"height": "22 cm",
+					"depth": "17.5 cm",
+					"weight": "1.06 kg"
+				},
+				"mounting": ["De piso"]
+			},
+			"controls": {
+				"type": "Botões físicos",
+				"volume": true,
+				"playback": true,
+				"voiceControl": false,
+				"touch": false
+			},
+			"accessories": ["Alça para transporte", "Cabo de energia", "Manual do usuário"],
+			"ratings": {
+				"costBenefit": 9,
+				"soundQuality": 6,
+				"bassResponse": 6,
+				"portability": 10,
+				"batteryLife": 6
+			}
+		}
+	},
+	{
+		"id": "heruz-hz-2000",
+		"name": "HZ-2000",
+		"brand": "Heruz",
+		"line": null,
+		"model": "HZ-2000",
+		"detailedModel": "Caixa de Som Grande Heruz 2000",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_810078-MLA99951634371_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "96212415117",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1gssgSi",
+		"shopeeUrl": null,
+		"alphanumericModel": "2000",
+		"version": null,
+		"manufacturer": "Heruz",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": null,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "Subwoofer",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": null,
+					"max": null,
+					"unit": "Hz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": null,
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": null,
+				"partyMode": null,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "4h",
+				"chargingTime": "4h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "USB",
+				"voltage": null,
+				"acAdapter": null
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": null,
+					"height": null,
+					"depth": null,
+					"weight": null
+				},
+				"mounting": ["Rodas", "Puxador"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": null,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Microfone", "Suporte", "Base"],
+			"ratings": {
+				"costBenefit": 7.5,
+				"soundQuality": 7.0,
+				"bassResponse": 7.5,
+				"portability": 8.0,
+				"batteryLife": 6.5
+			}
+		}
+	},
+	{
+		"id": "basike-ba-rad295",
+		"name": "RAD295",
+		"brand": "Basike",
+		"line": "Boombox",
+		"model": "RAD295",
+		"detailedModel": "Ba-RAD295 Hifi Xtreme 3",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_767810-MLA97122733764_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "209382314103",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2JSHLeS",
+		"shopeeUrl": null,
+		"alphanumericModel": "RAD295",
+		"version": null,
+		"manufacturer": "Basike",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": null,
+					"peak": 80,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": null,
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": true
+				},
+				"frequency": {
+					"min": null,
+					"max": null,
+					"unit": "Hz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.3",
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX6",
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": "8000mAh",
+				"playTime": "6-8h",
+				"chargingTime": "6-8h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria recarregável",
+				"voltage": null,
+				"acAdapter": false
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "14.5cm",
+					"height": "30cm",
+					"depth": "15.8cm",
+					"weight": "2kg"
+				},
+				"mounting": null
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": null,
+			"ratings": {
+				"costBenefit": 8.5,
+				"soundQuality": 7.8,
+				"bassResponse": 8.2,
+				"portability": 8.5,
+				"batteryLife": 7.5
+			}
+		}
+	},
+	{
+		"id": "pulse-sp626",
+		"name": "SP626",
+		"brand": "Pulse",
+		"line": "Pulse X",
+		"model": "SP626",
+		"detailedModel": "Boombox",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_806860-MLA92330173253_092025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "191282303111",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1QKXQ8j",
+		"shopeeUrl": null,
+		"alphanumericModel": "SP626",
+		"version": null,
+		"manufacturer": "Pulse",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 220,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": null,
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": null,
+					"max": null,
+					"unit": "Hz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": null,
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": null,
+				"chargingTime": null,
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria recarregável",
+				"voltage": null,
+				"acAdapter": null
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": null,
+					"height": null,
+					"depth": null,
+					"weight": null
+				},
+				"mounting": null
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": null,
+			"ratings": {
+				"costBenefit": 8.0,
+				"soundQuality": 7.8,
+				"bassResponse": 8.2,
+				"portability": 8.0,
+				"batteryLife": 7.0
+			}
+		}
+	},
+	{
+		"id": "jbl-partybox-encore-2",
+		"name": "PartyBox Encore 2",
+		"brand": "JBL",
+		"line": "PartyBox",
+		"model": "JBLPBENCORE22MICBR",
+		"detailedModel": "PartyBox Encore 2 com Microfone",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_734366-MLA99936636035_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "004632507120",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/33q4ffT",
+		"shopeeUrl": null,
+		"alphanumericModel": "JBLPBENCORE22MICBR",
+		"version": null,
+		"manufacturer": "Harman International Industries",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 100,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "1 Woofer + Tweeters",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": 40,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": null,
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX4",
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": true,
+				"app": true,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "15h",
+				"chargingTime": null,
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria de íon de lítio",
+				"voltage": "5V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "31.95cm",
+					"height": "33.86cm",
+					"depth": "26.3cm",
+					"weight": "6.39kg"
+				},
+				"mounting": ["Puxador", "De piso"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Microfone wireless", "Carregador", "Suporte"],
+			"ratings": {
+				"costBenefit": 9.0,
+				"soundQuality": 8.8,
+				"bassResponse": 8.7,
+				"portability": 8.5,
+				"batteryLife": 9.2
+			}
+		}
+	},
+	{
+		"id": "basike-boombox-100w",
+		"name": "Boombox",
+		"brand": "Basike",
+		"line": null,
+		"model": "Boombox",
+		"detailedModel": "Boombox 100W Bluetooth Portátil",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_929161-MLA99482304046_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "209382314103",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/31NHcHu",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "Basike",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 100,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "Subwoofer + Tweeter",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": true
+				},
+				"frequency": {
+					"min": 20,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.3",
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX6",
+				"dustproof": true,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": true,
+				"app": null,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": "10000mAh",
+				"playTime": "12h",
+				"chargingTime": "4h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria de íon de lítio",
+				"voltage": "7.4V",
+				"acAdapter": false
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "27.6cm",
+					"height": "18cm",
+					"depth": "13.9cm",
+					"weight": "1.56kg"
+				},
+				"mounting": ["Puxador"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Microfone", "Suporte", "Base"],
+			"ratings": {
+				"costBenefit": 8.7,
+				"soundQuality": 8.0,
+				"bassResponse": 8.5,
+				"portability": 9.0,
+				"batteryLife": 8.2
+			}
+		}
+	},
+	{
+		"id": "philco-pcx5200",
+		"name": "PCX5200",
+		"brand": "Philco",
+		"line": "Extreme",
+		"model": "PCX5200",
+		"detailedModel": "Extreme 600W Bluetooth",
+		"color": "Preta",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_793261-MLA100032097433_122025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "39582416592",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1CPBbeY",
+		"shopeeUrl": null,
+		"alphanumericModel": "PCX5200",
+		"version": null,
+		"manufacturer": "Philco",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 600,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "Woofer 12\" + Tweeter 1.5\"",
+					"woofer": "12\"",
+					"tweeter": "1.5\"",
+					"midrange": null,
+					"subwoofer": null,
+					"passive": true
+				},
+				"frequency": {
+					"min": null,
+					"max": null,
+					"unit": "Hz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.1",
+					"range": "10m+",
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "4h",
+				"chargingTime": null,
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria de íon de lítio",
+				"voltage": "12V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "34cm",
+					"height": "58cm",
+					"depth": "30cm",
+					"weight": "7.3kg"
+				},
+				"mounting": ["Puxador", "De piso"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Base", "Carregador"],
+			"ratings": {
+				"costBenefit": 8.2,
+				"soundQuality": 7.9,
+				"bassResponse": 8.5,
+				"portability": 7.5,
+				"batteryLife": 6.8
+			}
+		}
+	},
+	{
+		"id": "agold-sm15-60w",
+		"name": "SM-15",
+		"brand": "A'Gold",
+		"line": null,
+		"model": "SM-15",
+		"detailedModel": "Caixa de Som Bluetooth Bass Boost IPX6",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_805885-MLA102789701728_012026-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "085262314028",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2xwsqQH",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "A'Gold",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 60,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2x 66mm",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": 120,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.0",
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX6",
+				"dustproof": true,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": false,
+				"karaoke": false
+			},
+			"battery": {
+				"capacity": "2600mAh",
+				"playTime": "10h",
+				"chargingTime": "2h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria de íon de lítio",
+				"voltage": "7.4V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": null,
+					"height": null,
+					"depth": null,
+					"weight": "1.31kg"
+				},
+				"mounting": ["Puxador", "Base"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Suporte", "Base", "Carregador"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"soundQuality": 7.8,
+				"bassResponse": 8.3,
+				"portability": 9.0,
+				"batteryLife": 8.0
+			}
+		}
+	},
+	{
+		"id": "k12-karaoke-bege",
+		"name": "K12",
+		"brand": "Genérica",
+		"line": "K12",
+		"model": "Karaoke",
+		"detailedModel": "K12 Karaokê 2 Microfones Bluetooth",
+		"color": "Bege",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_787802-MLA95250114061_102025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1cKJqPN",
+		"shopeeUrl": null,
+		"alphanumericModel": "K12",
+		"version": null,
+		"manufacturer": "HAIXIA-LTDA",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 6,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "Subwoofer + Médio",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": 90,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.1",
+					"range": "10m",
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": null,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": "1200mAh",
+				"playTime": "6h",
+				"chargingTime": "6h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria de íon de lítio + USB",
+				"voltage": "3.7V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "9cm",
+					"height": "8cm",
+					"depth": "8cm",
+					"weight": "390g"
+				},
+				"mounting": ["Puxador", "Mesa"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["2 Microfones sem fio", "Carregador"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"soundQuality": 7.0,
+				"bassResponse": 6.5,
+				"portability": 9.5,
+				"batteryLife": 7.5
+			}
+		}
+	},
+	{
+		"id": "heruz-hz-1000-sf",
+		"name": "HZ-1000-SF",
+		"brand": "Heruz",
+		"line": "Bluetooth",
+		"model": "HZ-1000-SF",
+		"detailedModel": "Caixa de Som Grande HZ-1000 com 2 Mic Sem Fio",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_614650-MLA100372320830_122025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "16442513887",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1z4eLJD",
+		"shopeeUrl": null,
+		"alphanumericModel": "HZ-1000-SF",
+		"version": null,
+		"manufacturer": "Amby",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 10,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "Subwoofer",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": 120,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": null,
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": null,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "4h",
+				"chargingTime": "4h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "USB-C + Bateria recarregável",
+				"voltage": "5V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "34cm",
+					"height": "52cm",
+					"depth": "30cm",
+					"weight": "8kg"
+				},
+				"mounting": ["Rodas", "Puxador", "Ajustável"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["2 Microfones sem fio", "Base", "Suporte", "Carregador"],
+			"ratings": {
+				"costBenefit": 7.8,
+				"soundQuality": 7.2,
+				"bassResponse": 7.5,
+				"portability": 8.0,
+				"batteryLife": 6.5
+			}
+		}
+	},
+	{
+		"id": "aiwa-aws-bbs-02-a",
+		"name": "AWS-BBS-02-A",
+		"brand": "Aiwa",
+		"line": null,
+		"model": "AWS-BBS-02-A",
+		"detailedModel": "Boombox Bluetooth",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_705633-MLA99972136109_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "183672205236",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/26DJwXr",
+		"shopeeUrl": null,
+		"alphanumericModel": "AWS-BBS-02-A",
+		"version": null,
+		"manufacturer": "Aiwa",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": null,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": null,
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": null,
+					"max": null,
+					"unit": "Hz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": null,
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": null,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": null,
+				"micInput": null,
+				"karaoke": null
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": null,
+				"chargingTime": null,
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria recarregável",
+				"voltage": null,
+				"acAdapter": null
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "35.6cm",
+					"height": "17.8cm",
+					"depth": "13.4cm",
+					"weight": null
+				},
+				"mounting": null
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": null,
+			"ratings": {
+				"costBenefit": 8.0,
+				"soundQuality": 7.5,
+				"bassResponse": 7.2,
+				"portability": 8.5,
+				"batteryLife": 7.8
+			}
+		}
+	},
+	{
+		"id": "heruz-hz-711",
+		"name": "HZ-711",
+		"brand": "Heruz",
+		"line": "Caixa de Som Heruz",
+		"model": "HZ-711",
+		"detailedModel": "Caixa de Som Karaoke 711",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_866038-MLA99505013362_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "108822413887",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1RLdGbK",
+		"shopeeUrl": null,
+		"alphanumericModel": "HZ711A",
+		"version": null,
+		"manufacturer": "Amby",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 10,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.1",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": 120,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": null,
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": true,
+				"portability": true,
+				"stereo": null,
+				"partyMode": null,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "4h",
+				"chargingTime": "4h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria de íon de lítio",
+				"voltage": "5V",
+				"acAdapter": false
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "20cm",
+					"height": "37cm",
+					"depth": "20cm",
+					"weight": "1.7kg"
+				},
+				"mounting": ["De piso"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Microfone", "Base", "Controle remoto"],
+			"ratings": {
+				"costBenefit": 7.5,
+				"soundQuality": 6.8,
+				"bassResponse": 7.0,
+				"portability": 8.2,
+				"batteryLife": 6.0
+			}
+		}
+	},
+	{
+		"id": "bassion-karaoke-infantil-rosa",
+		"name": "Caixa Som Infantil Sem Fio",
+		"brand": "Bassion",
+		"line": null,
+		"model": "Caixa Som Infantil Sem Fio",
+		"detailedModel": "Caixinha Som Karaokê Microfone Infantil Sem Fio",
+		"color": "Rosa",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_706612-MLA96418197174_102025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "139472213658",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2UbWraf",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "Bassion",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 10,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.1",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": null,
+					"max": null,
+					"unit": "Hz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": null,
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": null,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "3h",
+				"chargingTime": "3h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "USB",
+				"voltage": null,
+				"acAdapter": false
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": null,
+					"height": null,
+					"depth": null,
+					"weight": null
+				},
+				"mounting": ["Mesa"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Microfone sem fio"],
+			"ratings": {
+				"costBenefit": 8.0,
+				"soundQuality": 7.0,
+				"bassResponse": 6.5,
+				"portability": 9.0,
+				"batteryLife": 6.0
+			}
+		}
+	},
+	{
+		"id": "kapbom-ka-8596",
+		"name": "KA-8596",
+		"brand": "Kapbom",
+		"line": "KA-8596",
+		"model": "KA-8596",
+		"detailedModel": "Bluetooth Portátil 50W LED TWS",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_789356-MLA99406484632_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1JEbyta",
+		"shopeeUrl": null,
+		"alphanumericModel": "KA-8596",
+		"version": null,
+		"manufacturer": "Kapbom",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 50,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": null,
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": null,
+					"max": null,
+					"unit": "Hz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.0",
+					"range": "10m",
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": null,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX4",
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": false,
+				"karaoke": false
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "4h",
+				"chargingTime": "1h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria recarregável",
+				"voltage": null,
+				"acAdapter": false
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": null,
+					"height": null,
+					"depth": null,
+					"weight": null
+				},
+				"mounting": ["Base"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Base"],
+			"ratings": {
+				"costBenefit": 8.8,
+				"soundQuality": 7.5,
+				"bassResponse": 7.8,
+				"portability": 9.0,
+				"batteryLife": 7.0
+			}
+		}
+	},
+	{
+		"id": "inova-rad-12416",
+		"name": "RAD-12416",
+		"brand": "Inova",
+		"line": null,
+		"model": "RAD-12416",
+		"detailedModel": "Mini Caixinha Som Bluetooth Portátil",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_782189-MLB93785190853_092025-F-inova-caixa-de-som-mini-bluetooth-tws-grave-potent-com-radio.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "232482314103",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1uaWX3o",
+		"shopeeUrl": null,
+		"alphanumericModel": "RAD-12416",
+		"version": null,
+		"manufacturer": "Inova",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 3,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "Subwoofer + Tweeter",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": 150,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.0",
+					"range": "10m",
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX7",
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": false,
+				"karaoke": false
+			},
+			"battery": {
+				"capacity": "800mAh",
+				"playTime": "4h",
+				"chargingTime": "4h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria recarregável",
+				"voltage": null,
+				"acAdapter": false
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": null,
+					"height": null,
+					"depth": null,
+					"weight": null
+				},
+				"mounting": null
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": null,
+			"ratings": {
+				"costBenefit": 8.7,
+				"soundQuality": 7.2,
+				"bassResponse": 7.0,
+				"portability": 9.5,
+				"batteryLife": 7.5
+			}
+		}
+	},
+	{
+		"id": "mondial-cm-400",
+		"name": "CM-400",
+		"brand": "Mondial",
+		"line": "Connect Lights",
+		"model": "CM-400",
+		"detailedModel": "Connect Lights CM-400_BIV",
+		"color": "Preto/Vermelho",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_668758-MLA99963187239_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "149682003211",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ocd1d3",
+		"shopeeUrl": null,
+		"alphanumericModel": "CM-400_BIV",
+		"version": null,
+		"manufacturer": "Mondial",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 400,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2.1",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": null,
+					"max": null,
+					"unit": "Hz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.0",
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": null,
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": false,
+				"karaoke": false
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "2.5h",
+				"chargingTime": "3h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria recarregável + Corrente elétrica",
+				"voltage": null,
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "35cm",
+					"height": "54.5cm",
+					"depth": "33cm",
+					"weight": "5.11kg"
+				},
+				"mounting": ["Rodas", "Puxador", "De piso", "Poste"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Carregador"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"soundQuality": 8.0,
+				"bassResponse": 8.2,
+				"portability": 8.0,
+				"batteryLife": 6.5
+			}
+		}
+	},
+	{
+		"id": "generica-50w-rgb-tws-bivolt",
+		"name": "50W RGB TWS",
+		"brand": "Genérica",
+		"line": null,
+		"model": "USB TWS Grave Medio Subwoofer",
+		"detailedModel": "Caixa de Som Bluetooth Portátil 50W RGB TWS Woofer",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_660970-MLB92006132275_092025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "164932114191",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ytcJje",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": null,
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 50,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "5.1",
+					"woofer": null,
+					"tweeter": null,
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": null,
+					"max": null,
+					"unit": "Hz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.0",
+					"range": "10m",
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX4",
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": null,
+				"customEQ": null,
+				"app": null,
+				"ledLights": true,
+				"micInput": false,
+				"karaoke": false
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "3h",
+				"chargingTime": "2h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria recarregável Bivolt",
+				"voltage": null,
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": null,
+					"height": null,
+					"depth": null,
+					"weight": null
+				},
+				"mounting": ["Base"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Base"],
+			"ratings": {
+				"costBenefit": 8.2,
+				"soundQuality": 7.3,
+				"bassResponse": 7.5,
+				"portability": 8.8,
+				"batteryLife": 6.8
+			}
+		}
+	},
+	{
+		"id": "jbl-partybox-stage-320",
+		"name": "PartyBox Stage 320",
+		"brand": "JBL",
+		"line": "PartyBox",
+		"model": "JBLPBSTAGE320BR",
+		"detailedModel": "PartyBox Stage 320",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_748325-MLA95379123655_102025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "caixa-de-som",
+		"anatelNumber": "219732307120",
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2JgypVq",
+		"shopeeUrl": null,
+		"alphanumericModel": "JBLPBSTAGE320BR",
+		"version": null,
+		"manufacturer": "Harman",
+		"specs": {
+			"type": "Portátil",
+			"audio": {
+				"power": {
+					"rms": 240,
+					"peak": null,
+					"unit": "W"
+				},
+				"drivers": {
+					"configuration": "2x 6.5\" Woofer + 2x 1\" Tweeter",
+					"woofer": "6.5\"",
+					"tweeter": "1\"",
+					"midrange": null,
+					"subwoofer": null,
+					"passive": null
+				},
+				"frequency": {
+					"min": 40,
+					"max": 20,
+					"unit": "kHz"
+				},
+				"impedance": null,
+				"sensitivity": null,
+				"snr": null
+			},
+			"connectivity": {
+				"bluetooth": {
+					"version": "5.4",
+					"range": null,
+					"multipoint": null,
+					"codec": null
+				},
+				"wifi": null,
+				"wired": {
+					"aux": true,
+					"optical": false,
+					"usb": true,
+					"hdmi": false,
+					"rca": false
+				},
+				"nfc": false
+			},
+			"features": {
+				"waterproof": "IPX4",
+				"dustproof": null,
+				"portability": true,
+				"stereo": true,
+				"partyMode": true,
+				"fones-de-ouvido": null,
+				"voiceAssistant": null,
+				"eqSettings": true,
+				"customEQ": true,
+				"app": true,
+				"ledLights": true,
+				"micInput": true,
+				"karaoke": true
+			},
+			"battery": {
+				"capacity": null,
+				"playTime": "18h",
+				"chargingTime": "3h",
+				"quickCharge": null,
+				"powerBank": null
+			},
+			"power": {
+				"type": "Bateria de íon de lítio substituível",
+				"voltage": "7.2V",
+				"acAdapter": true
+			},
+			"build": {
+				"material": null,
+				"dimensions": {
+					"width": "35.5cm",
+					"height": "66.9cm",
+					"depth": "38.5cm",
+					"weight": "16.5kg"
+				},
+				"mounting": ["Rodas", "Puxador telescópico", "De piso"]
+			},
+			"controls": {
+				"type": null,
+				"volume": true,
+				"playback": true,
+				"voiceControl": null,
+				"touch": null
+			},
+			"accessories": ["Carregador"],
+			"ratings": {
+				"costBenefit": 8.8,
+				"soundQuality": 9.0,
+				"bassResponse": 8.9,
+				"portability": 8.5,
+				"batteryLife": 9.0
+			}
+		}
+	}
+]

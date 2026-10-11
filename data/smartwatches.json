@@ -1,0 +1,4510 @@
+[
+	{
+		"id": "bettdow-fb041",
+		"name": "FB041",
+		"brand": "Bettdow",
+		"line": null,
+		"model": "FB041",
+		"detailedModel": "FB041",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_809540-MLA100744664393_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/15ZHMfu",
+		"amazonUrl": "https://amzn.to/4t3EGLC",
+		"shopeeUrl": null,
+		"subcategory": "relogio",
+
+		"specs": {
+			"display": {
+				"size": "1,83\"",
+				"resolution": null,
+				"type": "TFT LCD",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "128 MB",
+			"storage": "128 MB",
+			"os": null,
+			"compatibility": "Android 6.0+, iOS 12.0+",
+			"batteryLife": "5-7 dias (uso normal), até 30 dias (standby)",
+			"waterResistance": "3ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": null,
+			"weight": null,
+			"case": {
+				"size": "3 mm",
+				"material": "TFT",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "TFT",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "PU",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": true
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Inglês", "Espanhol", "Alemão", "Francês", "Italiano", "Japonês", "Português", "Russo"],
+			"accessories": ["Fio USB"],
+			"isKids": false,
+			"isSmartband": true,
+			"version": null,
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 7.0,
+				"healthFeatures": 7.5,
+				"battery": 7.0,
+				"fitness": 7.0
+			}
+		}
+	},
+	{
+		"id": "bettdow-fb041-branco",
+		"name": "FB041 Branco",
+		"brand": "Bettdow",
+		"line": null,
+		"model": "FB041",
+		"detailedModel": "FB041",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_935772-MLA100259540334_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ckpcfu",
+		"specs": {
+			"display": {
+				"size": "1,83\"",
+				"resolution": null,
+				"type": "TFT LCD",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "128 MB",
+			"storage": "128 MB",
+			"os": null,
+			"compatibility": "Android 6.0+, iOS 12.0+",
+			"batteryLife": "5-7 dias (uso normal), até 30 dias (standby)",
+			"waterResistance": "3ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": null,
+			"weight": null,
+			"case": {
+				"size": "3 mm",
+				"material": "TFT",
+				"color": "Branco"
+			},
+			"bezel": {
+				"material": "TFT",
+				"color": "Branco"
+			},
+			"strap": {
+				"material": "PU",
+				"color": "Branco",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": true
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Alemão", "Espanhol", "Francês", "Inglês", "Italiano", "Japonês", "Português", "Russo"],
+			"accessories": ["Fio USB"],
+			"isKids": false,
+			"isSmartband": true,
+			"version": null,
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 7.0,
+				"healthFeatures": 7.5,
+				"battery": 7.0,
+				"fitness": 7.0
+			}
+		}
+	},
+	{
+		"id": "bazik-prime-w38-pro-max",
+		"name": "W38 Pro Max",
+		"brand": "Bazik Prime",
+		"line": "Series 2024",
+		"model": "W38 Pro Max",
+		"detailedModel": "W38 PRO MAX",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_967957-MLA96081858217_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "37242214637",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2feQzp3",
+		"specs": {
+			"display": {
+				"size": "1,51\"",
+				"resolution": "360 x 360",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": "AC7012/A6",
+			"ram": "192 MB",
+			"storage": "192 MB",
+			"os": null,
+			"compatibility": "Android, iOS",
+			"batteryLife": "7 dias (uso normal), 2-3 dias (uso intensivo)",
+			"waterResistance": "IP67",
+			"waterResistanceDepth": "1 metro por 30 minutos",
+			"dimensions": null,
+			"weight": null,
+			"case": {
+				"size": "47 mm",
+				"material": "Liga de zinco",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Liga de zinco",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone líquido",
+				"color": "Laranja/Preta/Cinza",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": [
+				"Árabe",
+				"Czech",
+				"Turco",
+				"Inglês",
+				"Francês",
+				"Grego",
+				"Persa",
+				"Polonês",
+				"Português",
+				"Russo",
+				"Espanhol",
+				"Tailandês",
+				"Vietnamita"
+			],
+			"accessories": null,
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Relógio Smartwatchs",
+			"ratings": {
+				"costBenefit": 8.0,
+				"display": 8.5,
+				"healthFeatures": 7.5,
+				"battery": 7.0,
+				"fitness": 8.0
+			}
+		}
+	},
+	{
+		"id": "microwear-w11-mini-pro-serie-11",
+		"name": "W11 Mini Pro Série 11",
+		"brand": "Microwear",
+		"line": "Lançamento Microwear Séries 11 Versão 2026",
+		"model": "W11 Mini Pro Série 11",
+		"detailedModel": "W11 Mini Pro",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_942554-MLB90644968082_082025-F-relogio-smartwatch-w11-mini-pro-serie-11-amoled-lancamento.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "051032415274",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1HDdByV",
+		"specs": {
+			"display": {
+				"size": "1,85\"",
+				"resolution": "390 x 450",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "256 MB",
+			"storage": "2 GB",
+			"os": null,
+			"compatibility": "Android, iOS",
+			"batteryLife": "5-6 dias (uso normal)",
+			"waterResistance": "IP68 / 3ATM",
+			"waterResistanceDepth": "3 metros",
+			"dimensions": null,
+			"weight": null,
+			"case": {
+				"size": "42 mm",
+				"material": "Titânio",
+				"color": null
+			},
+			"bezel": {
+				"material": "DLC",
+				"color": null
+			},
+			"strap": {
+				"material": "Silicone Premium e Couro",
+				"color": null,
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": true,
+				"temperature": true,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": true,
+				"dynamicIsland": true,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": true
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": [
+				"190 idiomas",
+				"Alemão",
+				"Espanhol",
+				"Francês",
+				"Grego",
+				"Inglês",
+				"Italiano",
+				"Português",
+				"Russo"
+			],
+			"accessories": null,
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Série 11 2026",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 9.0,
+				"healthFeatures": 9.0,
+				"battery": 7.5,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "samsung-galaxy-fit3",
+		"name": "Galaxy Fit3",
+		"brand": "Samsung",
+		"line": "Galaxy Fit",
+		"model": "Galaxy Fit3",
+		"detailedModel": "SM-R390",
+		"color": "Grafite",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_873980-MLA99983291435_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "198302301739",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2yoWWdf",
+		"amazonUrl": "https://amzn.to/49Zujjp",
+		"shopeeUrl": "https://s.shopee.com.br/8fMR90AM1w",
+		"subcategory": "relogio",
+
+		"specs": {
+			"display": {
+				"size": "1,6\"",
+				"resolution": "402 x 256",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "16 MB",
+			"storage": "256 MB",
+			"os": "FreeRTOS",
+			"compatibility": "Android 10.0+",
+			"batteryLife": "13 dias (uso normal)",
+			"waterResistance": "5ATM / IP68",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "42,9 x 28,8 x 9,9 mm",
+			"weight": "36,8 g",
+			"case": {
+				"size": "43 mm",
+				"material": "Alumínio",
+				"color": "Cinza"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Cinza-escuro"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Cinza-escuro",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": true,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": false,
+				"music": false,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Espanhol", "Inglês", "Português"],
+			"accessories": ["Cabo para carregador com conector Type C | POGO", "Manual Usuário", "Fio USB"],
+			"isKids": false,
+			"isSmartband": true,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 8.5,
+				"healthFeatures": 8.0,
+				"battery": 9.5,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "huawei-watch-gt6-pro-46mm",
+		"name": "Watch GT 6 Pro",
+		"brand": "Huawei",
+		"line": "Watch GT 6",
+		"model": "Watch GT 6 Pro",
+		"detailedModel": "Atum-B29F",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_681278-MLA103632118572_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2025-09",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2025,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "39832503257",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2WNQ8sK",
+		"amazonUrl": "https://amzn.to/4qPAX34",
+		"shopeeUrl": "https://s.shopee.com.br/3fxlBuZyGL",
+		"subcategory": "celular",
+
+		"specs": {
+			"display": {
+				"size": "1,47\"",
+				"resolution": "466 x 466",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": "64 GB",
+			"os": "HarmonyOS",
+			"compatibility": "Android 9.0+, iOS 13.0+",
+			"batteryLife": "21 dias (uso leve), 12 dias (uso típico), 7 dias (AOD ativo)",
+			"waterResistance": "5ATM / IP69",
+			"waterResistanceDepth": "50 metros (resistência estática), 40 metros (mergulho)",
+			"dimensions": "45,6 x 45,6 x 11,25 mm",
+			"weight": "54 g (sem pulseira)",
+			"case": {
+				"size": "46 mm",
+				"material": "Liga de titânio",
+				"color": "Prateado-escuro"
+			},
+			"bezel": {
+				"material": "Liga de titânio",
+				"color": "Prateado-escuro"
+			},
+			"strap": {
+				"material": "Fluoroelastômero",
+				"color": "Preto",
+				"type": "Loop esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": true,
+				"temperature": true,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "6.0",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Espanhol", "Francês", "Inglês"],
+			"accessories": ["Fio USB", "Berço de carregamento sem fio"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 8.0,
+				"display": 9.0,
+				"healthFeatures": 9.5,
+				"battery": 9.5,
+				"fitness": 9.0
+			}
+		}
+	},
+	{
+		"id": "bettdow-fb050",
+		"name": "FB050",
+		"brand": "Bettdow",
+		"line": "Sport GPS",
+		"model": "FB050",
+		"detailedModel": "FB050",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_901887-MLB100826193785_122025-F-relogio-smartwatch-bettdow-fb050-amoled-esportivo-gps-143.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "214892305662",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1CdCfzB",
+		"specs": {
+			"display": {
+				"size": "1,43\"",
+				"resolution": "466 x 466",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "64 MB",
+			"storage": "128 MB",
+			"os": null,
+			"compatibility": "Android, iOS",
+			"batteryLife": "5-7 dias (uso normal)",
+			"waterResistance": "IP67",
+			"waterResistanceDepth": "4 metros",
+			"dimensions": null,
+			"weight": null,
+			"case": {
+				"size": "22 mm",
+				"material": "ABS",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "ABS",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "ABS",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Alemão", "Espanhol", "Francês", "Inglês", "Italiano", "Japonês", "Português", "Russo"],
+			"accessories": null,
+			"isKids": true,
+			"isSmartband": true,
+			"version": "Sport GPS",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 8.5,
+				"healthFeatures": 7.5,
+				"battery": 7.5,
+				"fitness": 8.0
+			}
+		}
+	},
+	{
+		"id": "amazfit-t-rex-3",
+		"name": "T-Rex 3",
+		"brand": "Amazfit",
+		"line": "T-REX",
+		"model": "T-Rex 3",
+		"detailedModel": "A2323",
+		"color": "Vermelho",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_847859-MLA99522543972_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-09",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1E5PyTF",
+		"amazonUrl": "https://amzn.to/4r89Akc",
+		"shopeeUrl": null,
+		"subcategory": "relogio",
+
+		"specs": {
+			"display": {
+				"size": "1,5\"",
+				"resolution": "480 x 480",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "64 MB",
+			"storage": "32 GB",
+			"os": "Zepp OS 4.0",
+			"compatibility": "Android 7.0+, iOS 14.0+",
+			"batteryLife": "27 dias (uso típico), 13 dias (uso intensivo), 180 horas (modo GPS)",
+			"waterResistance": "10ATM",
+			"waterResistanceDepth": "100 metros (certificado para mergulho livre até 45 metros)",
+			"dimensions": "48,5 x 48,5 x 13,75 mm",
+			"weight": "68,3 g (sem pulseira)",
+			"case": {
+				"size": "48 mm",
+				"material": "Aço inoxidável 316L",
+				"color": "Cinza-escuro"
+			},
+			"bezel": {
+				"material": "Aço inoxidável 316L",
+				"color": "Cinza-escuro"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Vermelho",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": true,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": false,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": true
+			},
+			"connectivity": {
+				"bluetooth": "5.2",
+				"wifi": true,
+				"cellular": false
+			},
+			"languages": ["Espanhol", "Francês", "Inglês", "Português", "Italiano", "Russo"],
+			"accessories": ["Fio USB", "Base de carregamento magnética"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 9.0,
+				"display": 9.5,
+				"healthFeatures": 9.0,
+				"battery": 9.5,
+				"fitness": 9.5
+			}
+		}
+	},
+	{
+		"id": "huawei-band-10",
+		"name": "Band 10",
+		"brand": "Huawei",
+		"line": "Band",
+		"model": "Band 10",
+		"detailedModel": "Band 10",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_772291-MLA100008466405_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025-03",
+		"releaseMonth": "Março",
+		"releaseYear": 2025,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1CR1HdR",
+		"specs": {
+			"display": {
+				"size": "1,47\"",
+				"resolution": "194 x 368",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": null,
+			"os": null,
+			"compatibility": "Android 9.0+, iOS 13.0+",
+			"batteryLife": "14 dias (uso leve), 8 dias (uso típico)",
+			"waterResistance": "5ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "43,45 x 24,54 x 8,99 mm",
+			"weight": "14 g (sem pulseira)",
+			"case": {
+				"size": "43,45 mm",
+				"material": "Polímeros duráveis",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Polímeros duráveis",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Fluoroelastômero",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": false,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Multi-idiomas", "Português", "Inglês"],
+			"accessories": [
+				"HUAWEI Band 10",
+				"Cabo de carregamento",
+				"Guia do usuário e Informações de Segurança e Cartão de Garantia"
+			],
+			"isKids": false,
+			"isSmartband": true,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 9.0,
+				"display": 8.0,
+				"healthFeatures": 8.5,
+				"battery": 9.0,
+				"fitness": 8.0
+			}
+		}
+	},
+	{
+		"id": "apple-watch-series-11-42mm",
+		"name": "Watch Series 11",
+		"brand": "Apple",
+		"line": "Series 11",
+		"model": "Watch Series 11",
+		"detailedModel": "GPS 42mm",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_932535-MLA95405131986_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2025-09-19",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2025,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "36342501993",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2cGasko",
+		"amazonUrl": "https://amzn.to/4sXYzUB",
+		"shopeeUrl": "https://s.shopee.com.br/7pnK9v6kll",
+		"subcategory": "relogio",
+
+		"specs": {
+			"display": {
+				"size": "1,69\"",
+				"resolution": "430 x 352",
+				"type": "LTPO OLED",
+				"alwaysOn": true
+			},
+			"processor": "Apple S10",
+			"ram": "1 GB",
+			"storage": "64 GB",
+			"os": "watchOS 26",
+			"compatibility": "iOS 26+",
+			"batteryLife": "24 horas (uso normal), 38 horas (modo de baixa energia)",
+			"waterResistance": "WR50M",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "42 x 36 x 9,7 mm",
+			"weight": "34,6 g",
+			"case": {
+				"size": "42 mm",
+				"material": "Alumínio",
+				"color": "Preto-azeviche"
+			},
+			"bezel": {
+				"material": "Alumínio",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Fluoroelastômero",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": true,
+				"temperature": true,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": true
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": true,
+				"cellular": false
+			},
+			"languages": null,
+			"accessories": null,
+			"isKids": false,
+			"isSmartband": false,
+			"version": "GPS",
+			"ratings": {
+				"costBenefit": 7.5,
+				"display": 9.5,
+				"healthFeatures": 10.0,
+				"battery": 8.0,
+				"fitness": 9.5
+			}
+		}
+	},
+	{
+		"id": "apple-watch-series-10-46mm",
+		"name": "Watch Series 10",
+		"brand": "Apple",
+		"line": "Series 10",
+		"model": "Watch Series 10",
+		"detailedModel": "MWWR3AM/A",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_654997-MLA100007935361_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-09-20",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "68462401993",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/33WJ8S6",
+		"amazonUrl": "https://amzn.to/4a04Czl",
+		"shopeeUrl": "https://s.shopee.com.br/gK9cnoUZg",
+		"subcategory": "relogio",
+
+		"specs": {
+			"display": {
+				"size": "1,81\"",
+				"resolution": "416 x 496",
+				"type": "LTPO3 OLED",
+				"alwaysOn": true
+			},
+			"processor": "Apple S10",
+			"ram": "1 GB",
+			"storage": "64 GB",
+			"os": "watchOS 11",
+			"compatibility": "iOS 18+",
+			"batteryLife": "18 horas (uso normal), 36 horas (modo de baixa energia)",
+			"waterResistance": "WR50",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "46 x 39 x 9,7 mm",
+			"weight": "36,4 g",
+			"case": {
+				"size": "46 mm",
+				"material": "Alumínio",
+				"color": "Preto-azeviche"
+			},
+			"bezel": {
+				"material": "Alumínio",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Fluoroelastômero",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": true,
+				"temperature": true,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": true
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": true,
+				"cellular": false
+			},
+			"languages": ["Multilinguagem"],
+			"accessories": [
+				"Apple Watch Series 10",
+				"Pulseira",
+				"Cabo magnético de carga rápida USB-C para Apple Watch (1 m)"
+			],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "GPS",
+			"ratings": {
+				"costBenefit": 7.5,
+				"display": 9.5,
+				"healthFeatures": 9.5,
+				"battery": 7.5,
+				"fitness": 9.5
+			}
+		}
+	},
+	{
+		"id": "apple-watch-ultra-2-49mm",
+		"name": "Watch Ultra 2",
+		"brand": "Apple",
+		"line": "Ultra",
+		"model": "Watch Ultra 2",
+		"detailedModel": "A2986",
+		"color": "Azul",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_876023-MLA99470593296_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023-09-12",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2023,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "127612301993",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1KnNiRE",
+		"specs": {
+			"display": {
+				"size": "1,92\"",
+				"resolution": "410 x 502",
+				"type": "LTPO2 OLED",
+				"alwaysOn": true
+			},
+			"processor": "Apple S9 SiP",
+			"ram": "1 GB",
+			"storage": "64 GB",
+			"os": "watchOS 10",
+			"compatibility": "iOS 17+",
+			"batteryLife": "36 horas (uso normal), 72 horas (modo de baixa energia)",
+			"waterResistance": "WR100 / IPX6",
+			"waterResistanceDepth": "100 metros (resistência estática), 40 metros (mergulho recreativo EN13319)",
+			"dimensions": "49 x 44 x 14,4 mm",
+			"weight": "61,4 g",
+			"case": {
+				"size": "49 mm",
+				"material": "Titânio",
+				"color": "Natural"
+			},
+			"bezel": {
+				"material": "Titânio",
+				"color": "Titânio"
+			},
+			"strap": {
+				"material": "Titânio/Nylon/Poliéster/Elastano",
+				"color": "Azul",
+				"type": "Trail Loop"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": true,
+				"temperature": true,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": true
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": true,
+				"cellular": true
+			},
+			"languages": ["Multilinguagem"],
+			"accessories": ["Pulseira Trail Loop", "Cabo de carregamento magnético de 1 m"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "GPS + Cellular",
+			"ratings": {
+				"costBenefit": 7.0,
+				"display": 10.0,
+				"healthFeatures": 10.0,
+				"battery": 9.0,
+				"fitness": 10.0
+			}
+		}
+	},
+	{
+		"id": "xiaomi-redmi-watch-5-active",
+		"name": "Redmi Watch 5 Active",
+		"brand": "Xiaomi",
+		"line": "Redmi",
+		"model": "Redmi Watch 5 Active",
+		"detailedModel": "M2351W1",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_949046-MLA99507276886_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-08",
+		"releaseMonth": "Agosto",
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "82482409185",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2tgCJuP",
+		"specs": {
+			"display": {
+				"size": "2\"",
+				"resolution": "320 x 385",
+				"type": "LCD",
+				"alwaysOn": false
+			},
+			"processor": null,
+			"ram": "256 MB",
+			"storage": "256 MB",
+			"os": "HyperOS",
+			"compatibility": "Android 8.0+, iOS 12.0+",
+			"batteryLife": "18 dias (uso típico), 12 dias (uso intensivo)",
+			"waterResistance": "5ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "49,1 x 40,4 x 11,4 mm",
+			"weight": "30,6 g",
+			"case": {
+				"size": "49,1 mm",
+				"material": "Plástico com revestimento metálico",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Prateado"
+			},
+			"strap": {
+				"material": "Silicone (TPU)",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Português", "Global"],
+			"accessories": ["Cabo de carregamento magnético", "Manual do usuário"],
+			"isKids": false,
+			"isSmartband": true,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 9.5,
+				"display": 7.5,
+				"healthFeatures": 8.0,
+				"battery": 9.5,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "apple-watch-se-2-40mm",
+		"name": "Watch SE 2 40mm",
+		"brand": "Apple",
+		"line": "Watch SE",
+		"model": "Watch SE 2",
+		"detailedModel": "A2722",
+		"color": "Bege",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_928374-MLB92696421383_092025-F.webp",
+		"price": 0,
+		"releaseDate": "2022-09-16",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2022,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "108782001993",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/25D8G1x",
+		"specs": {
+			"display": {
+				"size": "1,57\"",
+				"resolution": "324 x 394",
+				"type": "LTPO OLED Retina",
+				"alwaysOn": false
+			},
+			"processor": "Apple S8",
+			"ram": "1 GB",
+			"storage": "32 GB",
+			"os": "watchOS 9",
+			"compatibility": "iOS 16+",
+			"batteryLife": "18 horas (uso normal)",
+			"waterResistance": "WR50",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "40 x 34 x 10,7 mm",
+			"weight": "26,4 g",
+			"case": {
+				"size": "40 mm",
+				"material": "Alumínio",
+				"color": "Bege"
+			},
+			"bezel": {
+				"material": "Alumínio",
+				"color": "Bege"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Bege",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": false,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": false,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": true,
+				"cellular": false
+			},
+			"languages": null,
+			"accessories": ["Cabo de carregamento magnético"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "GPS",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 8.0,
+				"healthFeatures": 7.5,
+				"battery": 7.0,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "apple-watch-se-2-44mm",
+		"name": "Watch SE 2 44mm",
+		"brand": "Apple",
+		"line": "Watch SE",
+		"model": "Watch SE 2",
+		"detailedModel": "MXEJ3BE/A",
+		"color": "Azul-Tempestade",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_639565-MLA99950758341_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2022-09-16",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2022,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "106872201993",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2caMmfN",
+		"specs": {
+			"display": {
+				"size": "1,73\"",
+				"resolution": "368 x 448",
+				"type": "LTPO OLED Retina",
+				"alwaysOn": false
+			},
+			"processor": "Apple S8",
+			"ram": "1 GB",
+			"storage": "32 GB",
+			"os": "watchOS 9",
+			"compatibility": "iOS 16+",
+			"batteryLife": "18 horas (uso normal)",
+			"waterResistance": "WR50",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "44 x 38 x 10,7 mm",
+			"weight": "32,9 g",
+			"case": {
+				"size": "44 mm",
+				"material": "Alumínio",
+				"color": "Prata"
+			},
+			"bezel": {
+				"material": "Alumínio",
+				"color": "Prata"
+			},
+			"strap": {
+				"material": "Fluoroelastômero",
+				"color": "Azul tempestade",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": false,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": true,
+				"cellular": false
+			},
+			"languages": [
+				"Alemão",
+				"Árabe",
+				"Inglês",
+				"Português",
+				"Catalão",
+				"Chinês simplificado",
+				"Coreano",
+				"Croata",
+				"Dinamarquês",
+				"Eslovaco",
+				"Esloveno",
+				"Finlandês",
+				"Francês",
+				"Grego",
+				"Hebraico",
+				"Hindi",
+				"Holandês",
+				"Húngaro",
+				"Indonésio",
+				"Italiano",
+				"Japonês",
+				"Malaio",
+				"Norueguês",
+				"Polonês",
+				"Romeno",
+				"Russo",
+				"Sueco",
+				"Tcheco"
+			],
+			"accessories": ["Pulseira esportiva", "Cabo de carregamento magnético de 1 m"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "GPS",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 8.0,
+				"healthFeatures": 7.5,
+				"battery": 7.0,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "apple-watch-ultra-3-49mm",
+		"name": "Watch Ultra 3",
+		"brand": "Apple",
+		"line": "Ultra",
+		"model": "Watch Ultra 3",
+		"detailedModel": "GPS + Cellular",
+		"color": "Azul-âncora",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_742347-MLA99449599322_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025-09-19",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2025,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "36362501993",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1Hkf7jv",
+		"specs": {
+			"display": {
+				"size": "1,93\"",
+				"resolution": "410 x 502",
+				"type": "LTPO3 OLED",
+				"alwaysOn": true
+			},
+			"processor": "Apple S10 SiP",
+			"ram": "1 GB",
+			"storage": "64 GB",
+			"os": "watchOS 12",
+			"compatibility": "iOS 18+",
+			"batteryLife": "42 horas (uso normal), 72 horas (modo de baixa energia)",
+			"waterResistance": "WR100 / IPX6",
+			"waterResistanceDepth": "100 metros (resistência estática), 40 metros (mergulho recreativo EN13319)",
+			"dimensions": "49 x 44 x 14,4 mm",
+			"weight": "61,3 g",
+			"case": {
+				"size": "49 mm",
+				"material": "Titânio aeroespacial",
+				"color": "Natural"
+			},
+			"bezel": {
+				"material": "Titânio",
+				"color": "Titânio"
+			},
+			"strap": {
+				"material": "Titânio/Fluoroelastômero",
+				"color": "Azul-âncora",
+				"type": "Ocean Band"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": true,
+				"temperature": true,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": true
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": true,
+				"cellular": true
+			},
+			"languages": ["Multilinguagem"],
+			"accessories": ["Pulseira Ocean Band", "Cabo de carregamento magnético de 1 m"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "GPS + Cellular",
+			"ratings": {
+				"costBenefit": 7.0,
+				"display": 10.0,
+				"healthFeatures": 10.0,
+				"battery": 9.5,
+				"fitness": 10.0
+			}
+		}
+	},
+	{
+		"id": "apple-watch-series-10-46mm-ouro-rosa",
+		"name": "Watch Series 10 GPS",
+		"brand": "Apple",
+		"line": "Series 10",
+		"model": "Watch Series 10",
+		"detailedModel": "MWWR3AM/A",
+		"color": "Ameixa",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_883127-MLA99931781729_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-09-20",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "68462401993",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2hgBiYd",
+		"specs": {
+			"display": {
+				"size": "1,81\"",
+				"resolution": "416 x 496",
+				"type": "LTPO3 OLED",
+				"alwaysOn": true
+			},
+			"processor": "Apple S10",
+			"ram": "1 GB",
+			"storage": "64 GB",
+			"os": "watchOS 11",
+			"compatibility": "iOS 18+",
+			"batteryLife": "18 horas (uso normal), 36 horas (modo de baixa energia)",
+			"waterResistance": "WR50",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "46 x 39 x 9,7 mm",
+			"weight": "36,4 g",
+			"case": {
+				"size": "46 mm",
+				"material": "Alumínio",
+				"color": "Ouro-rosa"
+			},
+			"bezel": {
+				"material": "Alumínio",
+				"color": "Ouro-rosa"
+			},
+			"strap": {
+				"material": "Fluoroelastômero",
+				"color": "Ameixa",
+				"type": "Loop esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": true,
+				"temperature": true,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": true
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": true,
+				"cellular": false
+			},
+			"languages": ["Multilinguagem"],
+			"accessories": [
+				"Apple Watch Series 10",
+				"Pulseira Loop esportiva",
+				"Cabo magnético de carga rápida USB-C para Apple Watch (1 m)"
+			],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "GPS",
+			"ratings": {
+				"costBenefit": 7.5,
+				"display": 9.5,
+				"healthFeatures": 9.5,
+				"battery": 7.5,
+				"fitness": 9.5
+			}
+		}
+	},
+	{
+		"id": "apple-watch-se-2-40mm-meia-noite",
+		"name": "Watch SE 2",
+		"brand": "Apple",
+		"line": "Watch SE",
+		"model": "Watch SE 2",
+		"detailedModel": "GPS 40mm",
+		"color": "Meia-noite",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_985490-MLA99882162843_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2022-09-16",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2022,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "108782001993",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2YsauCw",
+		"specs": {
+			"display": {
+				"size": "1,57\"",
+				"resolution": "324 x 394",
+				"type": "LTPO OLED Retina",
+				"alwaysOn": false
+			},
+			"processor": "Apple S8",
+			"ram": "1 GB",
+			"storage": "32 GB",
+			"os": "watchOS 9",
+			"compatibility": "iOS 16+",
+			"batteryLife": "18 horas (uso normal)",
+			"waterResistance": "WR50 / IP6X",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "40 x 34 x 10,7 mm",
+			"weight": "26,4 g",
+			"case": {
+				"size": "40 mm",
+				"material": "Alumínio",
+				"color": "Meia-noite"
+			},
+			"bezel": {
+				"material": "Alumínio",
+				"color": "Meia-noite"
+			},
+			"strap": {
+				"material": "Fluoroelastômero",
+				"color": "Meia-noite",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": false,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": false,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": true,
+				"cellular": false
+			},
+			"languages": ["Multilinguagem"],
+			"accessories": ["Cabo de carregamento magnético rápido para USB-C (1 m)", "Pulseira"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "GPS",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 8.0,
+				"healthFeatures": 7.5,
+				"battery": 7.0,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "apple-watch-series-11-42mm-prateado",
+		"name": "Watch Series 11",
+		"brand": "Apple",
+		"line": "Series 11",
+		"model": "Watch Series 11",
+		"detailedModel": "GPS 42mm",
+		"color": "Roxo-névoa",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_797507-MLA95397349140_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2025-09-19",
+		"releaseMonth": "Setembro",
+		"releaseYear": 2025,
+		"origin": "China",
+		"category": "smartwatches",
+		"subcategory": "relogio",
+		"anatelNumber": "36342501993",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1Fn92rk",
+		"specs": {
+			"display": {
+				"size": "1,69\"",
+				"resolution": "430 x 352",
+				"type": "LTPO OLED",
+				"alwaysOn": true
+			},
+			"processor": "Apple S10",
+			"ram": "1 GB",
+			"storage": "64 GB",
+			"os": "watchOS 12",
+			"compatibility": "iOS 18+",
+			"batteryLife": "24 horas (uso normal), 38 horas (modo de baixa energia)",
+			"waterResistance": "WR50M",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "42 x 36 x 9,7 mm",
+			"weight": "34,6 g",
+			"case": {
+				"size": "42 mm",
+				"material": "Alumínio",
+				"color": "Prateado"
+			},
+			"bezel": {
+				"material": "Alumínio",
+				"color": "Roxo-névoa"
+			},
+			"strap": {
+				"material": "Fluoroelastômero",
+				"color": "Roxo-névoa",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": true,
+				"temperature": true,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": true
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": true,
+				"cellular": false
+			},
+			"languages": null,
+			"accessories": null,
+			"isKids": false,
+			"isSmartband": false,
+			"version": "GPS",
+			"ratings": {
+				"costBenefit": 7.5,
+				"display": 9.5,
+				"healthFeatures": 10.0,
+				"battery": 8.0,
+				"fitness": 9.5
+			}
+		}
+	},
+	{
+		"id": "amazfit-bip-6-rojo",
+		"name": "Bip 6",
+		"brand": "Amazfit",
+		"line": "Bip",
+		"model": "Bip 6",
+		"detailedModel": "Bip 6",
+		"color": "Vermelho",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_776030-MLA99948858665_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": "03",
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1zavfq5",
+		"specs": {
+			"display": {
+				"size": "1,97\"",
+				"resolution": "390x450",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": "Huangshan Dual Core RISC-V",
+			"ram": "64 MB",
+			"storage": "512 MB",
+			"os": "Zepp OS 4.5",
+			"compatibility": "Android 7.0+, iOS 14.0+",
+			"batteryLife": "Até 14 dias (uso típico), até 26 dias (modo economia), até 6 dias (uso intenso)",
+			"waterResistance": "5 ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": null,
+			"weight": "27.9 g (sem pulseira)",
+			"case": {
+				"size": "46 mm",
+				"material": "Liga de alumínio + polímero reforçado com fibra",
+				"color": "Vermelho"
+			},
+			"bezel": {
+				"material": "Liga de alumínio",
+				"color": "Vermelho"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Vermelho",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": true,
+				"calendar": false,
+				"findDevice": false,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.2",
+				"wifi": true,
+				"cellular": false
+			},
+			"languages": ["Espanhol"],
+			"accessories": ["Base de carregamento USB-C (sem cabo)"],
+			"isKids": false,
+			"isSmartband": true,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 9.0,
+				"display": 8.5,
+				"healthFeatures": 8.0,
+				"battery": 9.0,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "aurafit-am12-laranja-rosa-verde",
+		"name": "AM12",
+		"brand": "Aurafit",
+		"line": null,
+		"model": "AM12",
+		"detailedModel": "AM12 (HW8 ULTRA variante)",
+		"color": "Caixa Laranja / Pulseira Rosa Verde Claro",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_742094-MLA101174427985_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1EskNhy",
+		"specs": {
+			"display": {
+				"size": "1,32\"",
+				"resolution": "466x466",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": "JL7012/A6",
+			"ram": "640 KB",
+			"storage": "128 MB",
+			"os": null,
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 13 dias (uso típico), 5-7 dias (uso normal), até 15 dias (standby)",
+			"waterResistance": "IP67",
+			"waterResistanceDepth": null,
+			"dimensions": "43.85 x 11.50 mm",
+			"weight": "31.8 g (sem pulseira), 43.9 g (total)",
+			"case": {
+				"size": "43.85 mm",
+				"material": "Liga de zinco (Zinc Alloy)",
+				"color": "Laranja"
+			},
+			"bezel": {
+				"material": "Liga de zinco",
+				"color": "Ouro Rosa"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Rosa Verde Claro",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": false,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": false,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.3 + 3.0",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Inglês", "Espanhol"],
+			"accessories": ["Base de carregamento sem fio"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 8.5,
+				"healthFeatures": 7.5,
+				"battery": 8.0,
+				"fitness": 7.5
+			}
+		}
+	},
+	{
+		"id": "microwear-ultra-3-ai-5g-prateado",
+		"name": "Ultra 3 AI 5G",
+		"brand": "Microwear",
+		"line": "Serie 10",
+		"model": "Ultra 3 AI 5G",
+		"detailedModel": "Ultra 3 AI 5G",
+		"color": "Prateado",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_665758-MLA99937191045_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/32gJnwx",
+		"specs": {
+			"display": {
+				"size": "2,06\"",
+				"resolution": "420x485",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": "SC8541E Quad Core 1.4GHz",
+			"ram": "2 GB",
+			"storage": "16 GB",
+			"os": "Android 10 / Micro OS 10",
+			"compatibility": "Android e iOS",
+			"batteryLife": "Até 2 dias (uso típico), 1 dia (uso intenso), até 4-5 dias (standby moderado)",
+			"waterResistance": "IP68",
+			"waterResistanceDepth": "1 metro (conforme anúncio, uso leve em água)",
+			"dimensions": "49 x 44 x 14 mm",
+			"weight": "36 g",
+			"case": {
+				"size": "49 mm",
+				"material": "Liga de zinco / Titânio-like",
+				"color": "Prateado"
+			},
+			"bezel": {
+				"material": "DLC",
+				"color": "Prateado"
+			},
+			"strap": {
+				"material": "Silicone / Couro / Metálica",
+				"color": "Prateado",
+				"type": "Ocean / Couro / Silicone / Alpino"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": true,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": true,
+				"dynamicIsland": true,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.2",
+				"wifi": true,
+				"cellular": true
+			},
+			"languages": ["Inglês", "Espanhol", "Português"],
+			"accessories": ["Fio USB", "Pulseiras extras (dependendo da variante)"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Ultra 3 AI",
+			"ratings": {
+				"costBenefit": 8.0,
+				"display": 8.5,
+				"healthFeatures": 7.0,
+				"battery": 6.0,
+				"fitness": 7.5
+			}
+		}
+	},
+	{
+		"id": "huawei-watch-fit-special-edition-preto",
+		"name": "Watch Fit Special Edition",
+		"brand": "Huawei",
+		"line": "Watch Fit",
+		"model": "Special Edition",
+		"detailedModel": "Metis-B19",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_834882-MLA99179260766_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseMonth": "08",
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/11cTCAA",
+		"specs": {
+			"display": {
+				"size": "1,64\"",
+				"resolution": "280x456",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": "4 GB",
+			"os": "Lite OS / HarmonyOS-based",
+			"compatibility": "Android 6.0+, iOS 9.0+",
+			"batteryLife": "Até 9 dias (uso típico), até 6 dias (com monitoramento avançado), até 3 dias (AOD ativado)",
+			"waterResistance": "5 ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": null,
+			"weight": "21 g",
+			"case": {
+				"size": "39,4 mm",
+				"material": "Polímero",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Polímero",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": false,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Espanhol", "Inglês"],
+			"accessories": ["Base de carregamento", "Cabo de carregamento", "Guia de início rápido"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 8.5,
+				"healthFeatures": 8.0,
+				"battery": 9.0,
+				"fitness": 8.0
+			}
+		}
+	},
+	{
+		"id": "skmei-bazik-w47-zl02-preto",
+		"name": "Bazik W47",
+		"brand": "Skmei",
+		"line": "Bazik W47",
+		"model": "ZL02",
+		"detailedModel": "ZL02",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_632037-MLA99533926144_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseMonth": null,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/29wad36",
+		"specs": {
+			"display": {
+				"size": "1,28\"",
+				"resolution": "240x240",
+				"type": "IPS TFT",
+				"alwaysOn": false
+			},
+			"processor": null,
+			"ram": "128 MB",
+			"storage": "128 MB",
+			"os": null,
+			"compatibility": "Android 5.0+, iOS 9.0+",
+			"batteryLife": "Até 5-7 dias (uso típico), até 10-15 dias (standby)",
+			"waterResistance": "IP67",
+			"waterResistanceDepth": null,
+			"dimensions": "45,5 x 45,5 x 10 mm",
+			"weight": "45 g",
+			"case": {
+				"size": "45 mm",
+				"material": "ABS",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Resina",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Português"],
+			"accessories": null,
+			"isKids": false,
+			"isSmartband": true,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 7.5,
+				"display": 7.0,
+				"healthFeatures": 6.5,
+				"battery": 7.5,
+				"fitness": 6.5
+			}
+		}
+	},
+	{
+		"id": "haylou-solar-ultra-ls23-preto",
+		"name": "Solar Ultra",
+		"brand": "Haylou",
+		"line": null,
+		"model": "LS23",
+		"detailedModel": "Solar Ultra (LS23)",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_983980-MLA99937063901_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/25pM6qF",
+		"specs": {
+			"display": {
+				"size": "1,6\"",
+				"resolution": "480x480",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": null,
+			"os": "Proprietary (Haylou Fun App)",
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 22 dias (uso típico), até 10-15 dias (uso normal com chamadas e monitoramento), até 60 dias (modo economia)",
+			"waterResistance": "5 ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": null,
+			"weight": null,
+			"case": {
+				"size": "45 mm",
+				"material": "Liga de zinco / Plástico reforçado",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Liga de zinco",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.2",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Inglês", "Espanhol", "Português Brasil", "Chinês simplificado", "Chinês tradicional"],
+			"accessories": ["Cabo de carregamento"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 9.0,
+				"display": 9.0,
+				"healthFeatures": 8.0,
+				"battery": 9.5,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "microwear-s11-pro-prata",
+		"name": "S11 Pro",
+		"brand": "Microwear",
+		"line": "Série 11",
+		"model": "S11 Pro",
+		"detailedModel": "S11 Pro Série 11",
+		"color": "Prateado",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_660392-MLA106002098107_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/15DYWQp",
+		"specs": {
+			"display": {
+				"size": "2,07\"",
+				"resolution": "468x548",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "2 GB",
+			"storage": "2 GB",
+			"os": "Proprietary (MActive Pro app)",
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 5-7 dias (uso típico), 2-3 dias (uso intenso com GPS/chamadas/AI), até 10-15 dias (standby moderado)",
+			"waterResistance": "IP68",
+			"waterResistanceDepth": null,
+			"dimensions": null,
+			"weight": null,
+			"case": {
+				"size": "47 mm",
+				"material": "Metal / Alumínio",
+				"color": "Prateado"
+			},
+			"bezel": {
+				"material": "Alumínio e Plástico",
+				"color": "Prateado"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Branco",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": true,
+				"dynamicIsland": true,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.2",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Espanhol", "Inglês", "Português", "Multilíngue"],
+			"accessories": ["Cabo de carregamento"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 9.0,
+				"healthFeatures": 7.5,
+				"battery": 7.0,
+				"fitness": 8.0
+			}
+		}
+	},
+	{
+		"id": "microwear-s10-serie-10-pro-preto",
+		"name": "S10",
+		"brand": "Microwear",
+		"line": "Serie 10",
+		"model": "S10",
+		"detailedModel": "Serie 10 Pro",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_698179-MLA99497442309_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": "89102415274",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1BcBdVf",
+		"specs": {
+			"display": {
+				"size": "2,1\"",
+				"resolution": "468x548",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "1 GB",
+			"storage": "1 GB",
+			"os": "MicroOS 10 / Proprietary (MActive Pro app)",
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 3-5 dias (uso típico), 1-2 dias (uso intenso com GPS/AI/chamadas), até 7-10 dias (standby moderado)",
+			"waterResistance": "IP68",
+			"waterResistanceDepth": "1 metro (uso leve em água)",
+			"dimensions": null,
+			"weight": "105 g",
+			"case": {
+				"size": "47 mm",
+				"material": "ABS",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "ABS / Plástico",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": true,
+				"dynamicIsland": true,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.1 ou 5.2",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Inglês", "Português", "Global/Multilíngue"],
+			"accessories": ["Fio USB"],
+			"isKids": false,
+			"isSmartband": true,
+			"version": "Series 10",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 8.5,
+				"healthFeatures": 7.5,
+				"battery": 7.0,
+				"fitness": 7.5
+			}
+		}
+	},
+	{
+		"id": "amazfit-t-rex-3-vermelho-cinza",
+		"name": "T-Rex 3",
+		"brand": "Amazfit",
+		"line": "T-Rex",
+		"model": "T-Rex 3",
+		"detailedModel": "A2323",
+		"color": "Caixa Cinza-Escuro / Pulseira Vermelha",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_847859-MLA99522543972_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-09",
+		"releaseMonth": "09",
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1E5PyTF",
+		"specs": {
+			"display": {
+				"size": "1,5\"",
+				"resolution": "480x480",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "64 MB",
+			"storage": "32 GB",
+			"os": "Zepp OS 4",
+			"compatibility": "Android 7.0+, iOS 14.0+",
+			"batteryLife": "Até 27 dias (uso típico), até 43 dias (modo economia), até 180 horas (GPS contínuo)",
+			"waterResistance": "10 ATM",
+			"waterResistanceDepth": "100 metros",
+			"dimensions": "48 x 48 x 13,75 mm",
+			"weight": "68 g (com pulseira)",
+			"case": {
+				"size": "48 mm",
+				"material": "Titânio reforçado + polímero",
+				"color": "Cinza-Escuro"
+			},
+			"bezel": {
+				"material": "Titânio",
+				"color": "Cinza-Escuro"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Vermelho",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": true,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.4",
+				"wifi": true,
+				"cellular": false
+			},
+			"languages": ["Espanhol", "Francês", "Inglês", "Português", "Italiano", "Russo"],
+			"accessories": ["Fio USB"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 9.0,
+				"display": 9.0,
+				"healthFeatures": 8.5,
+				"battery": 9.5,
+				"fitness": 9.0
+			}
+		}
+	},
+	{
+		"id": "amazfit-bip-6-preto",
+		"name": "Bip 6",
+		"brand": "Amazfit",
+		"line": "Bip",
+		"model": "Bip 6",
+		"detailedModel": "Bip 6",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_730721-MLA99936014281_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025-03",
+		"releaseMonth": "03",
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1TVFdNr",
+		"specs": {
+			"display": {
+				"size": "1,97\"",
+				"resolution": "390x450",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": null,
+			"os": "Zepp OS 4.5",
+			"compatibility": "Android 7.0+, iOS 14.0+",
+			"batteryLife": "Até 14 dias (uso típico), até 6 dias (uso intenso), até 26 dias (modo economia)",
+			"waterResistance": "5 ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "46 mm (caixa)",
+			"weight": "27.9 g (sem pulseira)",
+			"case": {
+				"size": "46 mm",
+				"material": "Liga de alumínio + polímero reforçado com fibra",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.2",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Alemão", "Coreano", "Espanhol", "Francês", "Inglês", "Italiano", "Japonês", "Português"],
+			"accessories": ["Base de carregamento USB-C (sem cabo)"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 9.5,
+				"display": 9.0,
+				"healthFeatures": 8.5,
+				"battery": 9.0,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "sport-m6-premium-preto",
+		"name": "M6 Premium",
+		"brand": "Sport",
+		"line": "Fitness",
+		"model": "M6",
+		"detailedModel": "NX5",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_766669-MLA104456582382_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2021",
+		"releaseMonth": null,
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": "47182011624",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1NeSp1G",
+		"specs": {
+			"display": {
+				"size": "0,96\"",
+				"resolution": "160x80",
+				"type": "TFT LCD",
+				"alwaysOn": false
+			},
+			"processor": null,
+			"ram": null,
+			"storage": null,
+			"os": null,
+			"compatibility": "Android 5.0+, iOS 9.0+",
+			"batteryLife": "Até 5-7 dias (uso normal), 1 dia (monitoramento constante), até 15 dias (standby)",
+			"waterResistance": "IP67",
+			"waterResistanceDepth": null,
+			"dimensions": null,
+			"weight": "20 g",
+			"case": {
+				"size": "40 mm",
+				"material": "Plástico",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Borracha",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": false,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": true,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "4.0",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Inglês"],
+			"accessories": null,
+			"isKids": false,
+			"isSmartband": true,
+			"version": "Premium",
+			"ratings": {
+				"costBenefit": 6.5,
+				"display": 5.5,
+				"healthFeatures": 5.0,
+				"battery": 6.5,
+				"fitness": 5.5
+			}
+		}
+	},
+	{
+		"id": "huawei-watch-gt-6-46mm-preto",
+		"name": "Watch GT 6",
+		"brand": "Huawei",
+		"line": "GT",
+		"model": "GT 6",
+		"detailedModel": "Atum-B19",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_909185-MLA104158425775_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2025-09",
+		"releaseMonth": "09",
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": "39832503257",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1arWt3G",
+		"specs": {
+			"display": {
+				"size": "1,47\"",
+				"resolution": "466x466",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": "64 GB",
+			"os": "HarmonyOS 6.0",
+			"compatibility": "Android 9.0+, iOS 13.0+",
+			"batteryLife": "Até 21 dias (uso leve), até 12 dias (uso típico), até 7 dias (AOD ativado), até 40 horas (GPS contínuo)",
+			"waterResistance": "5 ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "46 x 46 x 10.95 mm",
+			"weight": "51.3 g (sem pulseira)",
+			"case": {
+				"size": "46 mm",
+				"material": "Alumínio / Aço inoxidável",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Fluoroelastômero",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": true,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "6.0",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Português"],
+			"accessories": ["Cabo de carregamento magnético"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 9.0,
+				"display": 9.0,
+				"healthFeatures": 8.5,
+				"battery": 9.5,
+				"fitness": 9.0
+			}
+		}
+	},
+	{
+		"id": "amazfit-active-2-preto",
+		"name": "Active 2",
+		"brand": "Amazfit",
+		"line": "Active",
+		"model": "Active 2",
+		"detailedModel": "A2437",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_940401-MLA99552444222_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025-01",
+		"releaseMonth": "01",
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1nc7dSs",
+		"specs": {
+			"display": {
+				"size": "1,32\"",
+				"resolution": "466x466",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "512 MB",
+			"storage": "64 MB",
+			"os": "Zepp OS",
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 10 dias (uso típico), até 5 dias (uso intenso), até 19 dias (modo economia), até 21 horas (GPS contínuo)",
+			"waterResistance": "5 ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": null,
+			"weight": "40 g (aprox. com pulseira)",
+			"case": {
+				"size": "44 mm",
+				"material": "Aço inoxidável",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Aço inoxidável",
+				"color": "Prateado"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": true,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.2",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": [
+				"Alemão",
+				"Chinês",
+				"Coreano",
+				"Espanhol",
+				"Francês",
+				"Inglês",
+				"Italiano",
+				"Japonês",
+				"Polonês",
+				"Português",
+				"Turco",
+				"Ucraniano",
+				"Árabe"
+			],
+			"accessories": ["Fio USB"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 9.5,
+				"display": 9.0,
+				"healthFeatures": 8.5,
+				"battery": 9.0,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "qcy-gt-s8-preto",
+		"name": "GT S8",
+		"brand": "QCY",
+		"line": "Watch",
+		"model": "GT S8",
+		"detailedModel": "WA23S8A",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_919648-MLA99871222133_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": "233832303372",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/12L9sHH",
+		"specs": {
+			"display": {
+				"size": "1,43\"",
+				"resolution": "466x466",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "1 GB",
+			"storage": "1 MB",
+			"os": null,
+			"compatibility": "Android 6.0+, iOS 12.0+",
+			"batteryLife": "Até 10 dias (uso típico), 4-7 dias (uso normal), até 15 dias (standby)",
+			"waterResistance": "IPX8",
+			"waterResistanceDepth": null,
+			"dimensions": "46.18 x 10.5 mm",
+			"weight": "40 g (aprox. com pulseira)",
+			"case": {
+				"size": "44 mm",
+				"material": "ABS / Liga de zinco + alumínio",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0 ou superior",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Múltiplos Idiomas"],
+			"accessories": ["Fio USB", "Manual"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 8.5,
+				"healthFeatures": 7.0,
+				"battery": 8.0,
+				"fitness": 7.5
+			}
+		}
+	},
+	{
+		"id": "axel-ecom-smartwatch-fone-preto",
+		"name": "Smartwatch com Fone",
+		"brand": "AXEL ECOM",
+		"line": "Smartwatch Face Esporte",
+		"model": "Relógio e Fone",
+		"detailedModel": "Smartwatch Digital Inteligente",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_739542-MLA99601476018_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": "191782114497",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1gU3woE",
+		"specs": {
+			"display": {
+				"size": "1,57\"",
+				"resolution": null,
+				"type": "LCD MIP",
+				"alwaysOn": false
+			},
+			"processor": null,
+			"ram": "128 MB",
+			"storage": "128 MB",
+			"os": null,
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 3-5 dias (uso típico), 1 dia (uso intenso com fone/chamadas), até 7-10 dias (standby)",
+			"waterResistance": null,
+			"waterResistanceDepth": null,
+			"dimensions": null,
+			"weight": "250 g",
+			"case": {
+				"size": "40 mm",
+				"material": "Plástico Resistente (ABS)",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": false,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0 ou superior",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Inglês"],
+			"accessories": ["Fone TWS integrado", "Manual"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Padrão",
+			"ratings": {
+				"costBenefit": 6.0,
+				"display": 5.5,
+				"healthFeatures": 5.0,
+				"battery": 5.5,
+				"fitness": 5.0
+			}
+		}
+	},
+	{
+		"id": "qcy-gs-s6-cinza",
+		"name": "GS S6",
+		"brand": "QCY",
+		"line": "GS",
+		"model": "GS S6",
+		"detailedModel": "WA23S6A",
+		"color": "Cinza",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_975638-MLA98666139683_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": "215142303372",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Qt1H7t",
+		"specs": {
+			"display": {
+				"size": "2,02\"",
+				"resolution": "320x502",
+				"type": "TFT LCD",
+				"alwaysOn": false
+			},
+			"processor": null,
+			"ram": null,
+			"storage": null,
+			"os": null,
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 10 dias (uso básico), 5-7 dias (uso diário), até 14 dias (standby)",
+			"waterResistance": "IPX8",
+			"waterResistanceDepth": null,
+			"dimensions": null,
+			"weight": "55 g",
+			"case": {
+				"size": "44 mm",
+				"material": "ABS",
+				"color": "Cinza"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Cinza-escuro"
+			},
+			"strap": {
+				"material": "Sílica",
+				"color": "Cinza",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Chinês", "Espanhol", "Francês", "Inglês", "Italiano", "Português"],
+			"accessories": ["Fio USB"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 8.0,
+				"display": 7.5,
+				"healthFeatures": 7.0,
+				"battery": 8.0,
+				"fitness": 7.0
+			}
+		}
+	},
+	{
+		"id": "foxbox-bw0608-ouro-rosa",
+		"name": "BW0608",
+		"brand": "FoxBox",
+		"line": "Esportiva",
+		"model": "BW0608",
+		"detailedModel": "p24",
+		"color": "Ouro Rosa",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_664679-MLA103466466962_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2vUgTYS",
+		"specs": {
+			"display": {
+				"size": "1,39\"",
+				"resolution": null,
+				"type": "TFT LCD",
+				"alwaysOn": false
+			},
+			"processor": null,
+			"ram": "192 KB",
+			"storage": "128 MB",
+			"os": null,
+			"compatibility": "Android 5.1+, iOS 8.0+",
+			"batteryLife": "Até 5-7 dias (uso típico), 2-4 dias (uso normal), até 10-15 dias (standby)",
+			"waterResistance": "IP67",
+			"waterResistanceDepth": "30 metros",
+			"dimensions": null,
+			"weight": null,
+			"case": {
+				"size": "35,31 mm",
+				"material": "Liga de zinco",
+				"color": "Ouro Rosa"
+			},
+			"bezel": {
+				"material": "Liga de zinco",
+				"color": "Ouro Rosa"
+			},
+			"strap": {
+				"material": "Aço inoxidável",
+				"color": "Ouro Rosa",
+				"type": "Mesh"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": true,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0 ou superior",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": [
+				"Alemão",
+				"Chinês",
+				"Coreano",
+				"Espanhol",
+				"Francês",
+				"Grego",
+				"Inglês",
+				"Italiano",
+				"Japonês",
+				"Polonês",
+				"Português",
+				"Russo",
+				"Tailandês",
+				"Turco",
+				"Vietnamita"
+			],
+			"accessories": null,
+			"isKids": false,
+			"isSmartband": true,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 7.5,
+				"display": 7.0,
+				"healthFeatures": 6.5,
+				"battery": 7.0,
+				"fitness": 6.5
+			}
+		}
+	},
+	{
+		"id": "redmi-watch-5-lite-black",
+		"name": "Watch 5 Lite",
+		"brand": "Redmi",
+		"line": "Watch 5",
+		"model": "Watch 5 Lite",
+		"detailedModel": "BHR8789GL",
+		"color": "Black",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_688848-MLA99984653413_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-09",
+		"releaseMonth": "09",
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/158eNZe",
+		"specs": {
+			"display": {
+				"size": "1,96\"",
+				"resolution": "410x502",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": null,
+			"os": "Xiaomi HyperOS",
+			"compatibility": "Android 8.0+, iOS 12.0+",
+			"batteryLife": "Até 18 dias (uso típico), até 12 dias (uso intenso), até 7 dias (AOD ativado), até 21 horas (GPS contínuo)",
+			"waterResistance": "5 ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "48,1 x 39,2 x 10,6 mm",
+			"weight": "29,2 g (sem pulseira), ~50 g (com pulseira)",
+			"case": {
+				"size": "44 mm",
+				"material": "Plástico com revestimento NCVM",
+				"color": "Black"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Black"
+			},
+			"strap": {
+				"material": "TPU",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.3",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Espanhol", "Inglês", "Português"],
+			"accessories": ["Cabo de carregamento magnético"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Lite",
+			"ratings": {
+				"costBenefit": 9.0,
+				"display": 9.0,
+				"healthFeatures": 8.0,
+				"battery": 9.0,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "allphone-smartwatch-41mm-preto",
+		"name": "Smartwatch Digital",
+		"brand": "ALLPHONE",
+		"line": "Esporte",
+		"model": "2.0",
+		"detailedModel": "Relógio Smartwatch Digital",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_726730-MLA99599211160_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": "37242214637",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1MT1LX5",
+		"specs": {
+			"display": {
+				"size": "1,61\"",
+				"resolution": null,
+				"type": "LCD",
+				"alwaysOn": false
+			},
+			"processor": null,
+			"ram": "1 GB",
+			"storage": "128 MB",
+			"os": null,
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 3-5 dias (uso típico), 1 dia (uso intenso com notificações/chamadas), até 7-10 dias (standby)",
+			"waterResistance": "IP67",
+			"waterResistanceDepth": null,
+			"dimensions": null,
+			"weight": "60 g",
+			"case": {
+				"size": "41 mm",
+				"material": "ABS",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": false,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": true,
+				"calculator": false,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0 ou superior",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Português", "Francês", "Inglês", "Espanhol"],
+			"accessories": ["Conector USB"],
+			"isKids": false,
+			"isSmartband": true,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 6.5,
+				"display": 6.0,
+				"healthFeatures": 5.5,
+				"battery": 6.0,
+				"fitness": 5.5
+			}
+		}
+	},
+	{
+		"id": "xiaomi-smart-band-10-rosa",
+		"name": "Smart Band 10",
+		"brand": "Xiaomi",
+		"line": "Smart Band",
+		"model": "Band 10",
+		"detailedModel": "Band 10",
+		"color": "Rosa",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_718187-MLA99495693162_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025-06",
+		"releaseMonth": "06",
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ZyiNDk",
+		"specs": {
+			"display": {
+				"size": "1,72\"",
+				"resolution": "212x520",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": null,
+			"os": "HyperOS",
+			"compatibility": "Android 8.0+, iOS 14.0+",
+			"batteryLife": "Até 21 dias (uso típico), até 9 dias (AOD ativado), até 7 dias (uso intenso)",
+			"waterResistance": "5 ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "46.57 x 22.54 x 10.95 mm",
+			"weight": "15.95 g (sem pulseira)",
+			"case": {
+				"size": "44 mm",
+				"material": "Alumínio",
+				"color": "Rosa"
+			},
+			"bezel": {
+				"material": "Alumínio",
+				"color": "Rosa"
+			},
+			"strap": {
+				"material": "TPU",
+				"color": "Rosa",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": false,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.4",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Espanhol", "Inglês", "Português", "Múltiplos"],
+			"accessories": ["Cabo de carregamento magnético"],
+			"isKids": false,
+			"isSmartband": true,
+			"version": null,
+			"ratings": {
+				"costBenefit": 9.5,
+				"display": 9.0,
+				"healthFeatures": 8.5,
+				"battery": 9.5,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "axel-ecom-smartwatch-fone-rosa",
+		"name": "Smartwatch com Fone",
+		"brand": "AXEL ECOM",
+		"line": "Smartwatch Face Esporte",
+		"model": "Relógio e Fone",
+		"detailedModel": "Smartwatch Digital Inteligente",
+		"color": "Rosa Metálico",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_725836-MLA99580884322_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": "191782114497",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/32uSUmE",
+		"specs": {
+			"display": {
+				"size": "1,57\"",
+				"resolution": null,
+				"type": "LCD MIP",
+				"alwaysOn": false
+			},
+			"processor": null,
+			"ram": "128 MB",
+			"storage": "128 MB",
+			"os": null,
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 3-5 dias (uso típico), 1 dia (uso intenso com fone/chamadas), até 7-10 dias (standby)",
+			"waterResistance": null,
+			"waterResistanceDepth": null,
+			"dimensions": null,
+			"weight": "250 g",
+			"case": {
+				"size": "40 mm",
+				"material": "Plástico Resistente (ABS)",
+				"color": "Rosa Metálico"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Rosa",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": false,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0 ou superior",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Inglês"],
+			"accessories": ["Fone TWS integrado", "Manual"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Padrão",
+			"ratings": {
+				"costBenefit": 6.0,
+				"display": 5.5,
+				"healthFeatures": 5.0,
+				"battery": 5.5,
+				"fitness": 5.0
+			}
+		}
+	},
+	{
+		"id": "huawei-watch-d2-preto",
+		"name": "Watch D2",
+		"brand": "Huawei",
+		"line": "Watch D",
+		"model": "Watch D2",
+		"detailedModel": "55020DAD",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_899420-MLA99908791731_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-09",
+		"releaseMonth": "09",
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/17RjAUJ",
+		"specs": {
+			"display": {
+				"size": "1,82\"",
+				"resolution": "480x408",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": null,
+			"os": "HarmonyOS",
+			"compatibility": "Android 8.0+, iOS 13.0+",
+			"batteryLife": "Até 6 dias (uso típico com BP/ECG diários), até 1 dia (ABPM 24h ativado), até 7 dias (uso leve sem ABPM)",
+			"waterResistance": "IP68",
+			"waterResistanceDepth": "1,5 metros",
+			"dimensions": "48 × 38 × 13,3 mm",
+			"weight": "40 g",
+			"case": {
+				"size": "48 mm",
+				"material": "Liga de alumínio",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Liga de alumínio",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Fluoroelastômero",
+				"color": "Preto",
+				"type": "Esportiva (com airbag inflável para BP)"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": true,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": true,
+				"ecg": true,
+				"temperature": true,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.2",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Multi idioma"],
+			"accessories": [
+				"Pulseira com bolsa de ar tamanho M",
+				"Regra de circunferência do pulso",
+				"Base de carregamento (inclui cabo de carregamento)",
+				"Guia do usuário"
+			],
+			"isKids": false,
+			"isSmartband": false,
+			"version": null,
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 9.0,
+				"healthFeatures": 9.5,
+				"battery": 8.0,
+				"fitness": 8.5
+			}
+		}
+	},
+	{
+		"id": "xgar-smartwatch-fone-preto",
+		"name": "20 Smartwatch Inteligente",
+		"brand": "XGAR",
+		"line": "D COM PRO FIT SPORT COMPACT MM",
+		"model": "20",
+		"detailedModel": "Relógio Digital D",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_726197-MLA103876286671_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1jCbVKm",
+		"specs": {
+			"display": {
+				"size": "1,57\"",
+				"resolution": null,
+				"type": "LCD",
+				"alwaysOn": false
+			},
+			"processor": null,
+			"ram": "128 MB",
+			"storage": "128 MB",
+			"os": null,
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 3-5 dias (uso típico), 1 dia (uso intenso com fone/chamadas), até 7-10 dias (standby)",
+			"waterResistance": null,
+			"waterResistanceDepth": null,
+			"dimensions": null,
+			"weight": null,
+			"case": {
+				"size": "40 mm",
+				"material": "Plástico de alta qualidade",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Plástico",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": false,
+				"gps": false,
+				"altimeter": false,
+				"compass": false,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": false,
+				"sleepTracking": true,
+				"stressMonitoring": false,
+				"cameraControl": false,
+				"calculator": false,
+				"calendar": true,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0 ou superior",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Português"],
+			"accessories": ["Fone TWS integrado", "Manual"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Esportes Fitness Saúde",
+			"ratings": {
+				"costBenefit": 6.0,
+				"display": 5.5,
+				"healthFeatures": 5.0,
+				"battery": 5.5,
+				"fitness": 5.0
+			}
+		}
+	},
+	{
+		"id": "microwear-s11-47mm-prata",
+		"name": "S11",
+		"brand": "Microwear",
+		"line": "Série 11",
+		"model": "S11",
+		"detailedModel": "S11 2026",
+		"color": "Prateado",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_712771-MLA100395651441_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2G1mGto",
+		"specs": {
+			"display": {
+				"size": "2,08\"",
+				"resolution": "468x548",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": "2 GB",
+			"storage": "2 GB",
+			"os": "Proprietary (MActive Pro app)",
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 5-7 dias (uso típico), 2-3 dias (uso intenso com GPS/chamadas/NFC), até 10-15 dias (standby moderado)",
+			"waterResistance": "IP68",
+			"waterResistanceDepth": null,
+			"dimensions": null,
+			"weight": null,
+			"case": {
+				"size": "47 mm",
+				"material": "Metal",
+				"color": "Prateado"
+			},
+			"bezel": {
+				"material": "DLC",
+				"color": "Prateado"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Branco",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": true,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": true,
+				"dynamicIsland": true,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.2",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Espanhol", "Francês", "Inglês", "Português"],
+			"accessories": ["Pulseira de silicone", "Cabo de carregamento"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 8.5,
+				"display": 9.0,
+				"healthFeatures": 7.5,
+				"battery": 7.0,
+				"fitness": 8.0
+			}
+		}
+	},
+	{
+		"id": "bazik-prime-w93-pro-max-preto",
+		"name": "W93 Pro MAX",
+		"brand": "Bazik Prime",
+		"line": null,
+		"model": "Ba-W93PM",
+		"detailedModel": "W93 Pro MAX",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_954248-MLA99647229305_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2D769ed",
+		"specs": {
+			"display": {
+				"size": "1,39\"",
+				"resolution": "480x480",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": null,
+			"os": "Proprietary (Da Fit app)",
+			"compatibility": "Android, iOS",
+			"batteryLife": "Até 7 dias (uso típico), até 3-5 dias (uso intenso), até 15 dias (standby)",
+			"waterResistance": "IP68",
+			"waterResistanceDepth": null,
+			"dimensions": "46.5 x 46.5 x 12.7 mm",
+			"weight": null,
+			"case": {
+				"size": "46.5 mm",
+				"material": "Metal / Liga + PC + ABS",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Aço inoxidável (giratória 360°)",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": false,
+				"altimeter": false,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": true
+			},
+			"features": {
+				"calls": true,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": false,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.0 ou superior",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Múltiplos (incluindo Português)"],
+			"accessories": ["Cabo de carregamento por indução wireless"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Sport",
+			"ratings": {
+				"costBenefit": 8.0,
+				"display": 8.5,
+				"healthFeatures": 7.5,
+				"battery": 7.5,
+				"fitness": 7.5
+			}
+		}
+	},
+	{
+		"id": "amazfit-gts-4-mini-midnight-black",
+		"name": "GTS 4 Mini",
+		"brand": "Amazfit",
+		"line": "GTS",
+		"model": "GTS 4 Mini",
+		"detailedModel": "GTS 4 Mini New",
+		"color": "Midnight Black",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_938237-MLA99935867143_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2022-07",
+		"releaseMonth": "07",
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "smartwatches",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ZHJLzs",
+		"specs": {
+			"display": {
+				"size": "1,65\"",
+				"resolution": "336x384",
+				"type": "AMOLED",
+				"alwaysOn": true
+			},
+			"processor": null,
+			"ram": null,
+			"storage": null,
+			"os": "Zepp OS",
+			"compatibility": "Android 7.0+, iOS 12.0+",
+			"batteryLife": "Até 15 dias (uso típico), até 7-10 dias (uso intenso), até 45 dias (modo economia)",
+			"waterResistance": "5 ATM",
+			"waterResistanceDepth": "50 metros",
+			"dimensions": "41.8 x 37.0 x 9.1 mm",
+			"weight": "19 g (sem pulseira), ~32 g (com pulseira)",
+			"case": {
+				"size": "42 mm",
+				"material": "Liga de alumínio",
+				"color": "Preto"
+			},
+			"bezel": {
+				"material": "Liga de alumínio",
+				"color": "Preto"
+			},
+			"strap": {
+				"material": "Silicone",
+				"color": "Preto",
+				"type": "Esportiva"
+			},
+			"sensors": {
+				"heartRate": true,
+				"spo2": true,
+				"gps": true,
+				"altimeter": false,
+				"compass": true,
+				"accelerometer": true,
+				"gyroscope": false,
+				"ecg": false,
+				"temperature": false,
+				"bloodPressure": false
+			},
+			"features": {
+				"calls": false,
+				"music": true,
+				"nfc": false,
+				"voiceAssistant": true,
+				"sleepTracking": true,
+				"stressMonitoring": true,
+				"cameraControl": true,
+				"calculator": true,
+				"calendar": false,
+				"findDevice": true,
+				"chatGPT": false,
+				"dynamicIsland": false,
+				"sportsMode": true,
+				"calorieTracking": true,
+				"textReplies": true,
+				"audioReplies": false
+			},
+			"connectivity": {
+				"bluetooth": "5.1",
+				"wifi": false,
+				"cellular": false
+			},
+			"languages": ["Espanhol", "Francês", "Inglês", "Português"],
+			"accessories": ["Fio USB"],
+			"isKids": false,
+			"isSmartband": false,
+			"version": "Tactical",
+			"ratings": {
+				"costBenefit": 9.0,
+				"display": 8.5,
+				"healthFeatures": 8.0,
+				"battery": 9.0,
+				"fitness": 8.0
+			}
+		}
+	}
+]

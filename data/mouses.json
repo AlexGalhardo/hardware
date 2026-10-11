@@ -1,0 +1,1722 @@
+[
+	{
+		"id": "davely-rf-600b",
+		"name": "RF-600B",
+		"brand": "Davely",
+		"line": "Profissional",
+		"model": "RF-600B",
+		"detailedModel": "RF-600B",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_629898-MLA95373568293_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "mouses",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/26aNKR3",
+		"shopeeUrl": null,
+		"alphanumericModel": "RF-600B",
+		"version": null,
+		"manufacturer": "Davely",
+		"specs": {
+			"type": "Office",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": null,
+				"maxDPI": 1600,
+				"maxIPS": 1600,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 4,
+				"programmable": null,
+				"sideBbuttons": null
+			},
+			"connectivity": {
+				"type": "Sem fio",
+				"wireless": {
+					"bluetooth": false,
+					"rf24ghz": true,
+					"multiDevice": false,
+					"maxDevices": null
+				},
+				"cable": null
+			},
+			"lighting": {
+				"rgb": true,
+				"zones": null,
+				"effects": null,
+				"software": null
+			},
+			"features": {
+				"onboardMemory": null,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Padrão",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "Recarregável",
+				"capacity": null,
+				"life": null,
+				"rechargeable": true,
+				"quickCharge": null
+			},
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm", "Claw"],
+				"shape": "Convencional"
+			},
+			"build": {
+				"material": null,
+				"coating": null,
+				"feet": null
+			},
+			"software": {
+				"name": null,
+				"features": null,
+				"platforms": null
+			},
+			"dimensions": {
+				"length": "11,5 cm",
+				"width": "5,5 cm",
+				"height": "2,5 cm",
+				"weight": "70 g"
+			},
+			"compatibility": ["Windows 7", "Windows 10"],
+			"ratings": {
+				"costBenefit": 7.5,
+				"precision": 6.0,
+				"comfort": 7.0,
+				"buildQuality": 6.5,
+				"gaming": 5.0
+			}
+		}
+	},
+	{
+		"id": "maxnova-mmouse-02",
+		"name": "MMouse-02",
+		"brand": "Maxnova",
+		"line": "Mouse Sem Fio",
+		"model": "MMouse-02",
+		"detailedModel": "MMouse-02",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_897908-MLA99588739122_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "mouses",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ZnXJgw",
+		"shopeeUrl": null,
+		"alphanumericModel": "MN5.0",
+		"version": null,
+		"manufacturer": "Maxnova",
+		"specs": {
+			"type": "Gaming",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": null,
+				"maxDPI": 800,
+				"maxIPS": 1600,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 4,
+				"programmable": null,
+				"sideBbuttons": null
+			},
+			"connectivity": {
+				"type": "Sem fio",
+				"wireless": {
+					"bluetooth": false,
+					"rf24ghz": true,
+					"multiDevice": false,
+					"maxDevices": null
+				},
+				"cable": null
+			},
+			"lighting": {
+				"rgb": true,
+				"zones": null,
+				"effects": null,
+				"software": null
+			},
+			"features": {
+				"onboardMemory": null,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Padrão",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "Recarregável",
+				"capacity": null,
+				"life": null,
+				"rechargeable": true,
+				"quickCharge": null
+			},
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm", "Claw"],
+				"shape": "Convencional"
+			},
+			"build": {
+				"material": null,
+				"coating": null,
+				"feet": null
+			},
+			"software": {
+				"name": null,
+				"features": null,
+				"platforms": null
+			},
+			"dimensions": {
+				"length": "11 cm",
+				"width": "5,5 cm",
+				"height": "2,5 cm",
+				"weight": "70 g"
+			},
+			"compatibility": ["Windows 7", "Windows 10", "Linux"],
+			"ratings": {
+				"costBenefit": 7.0,
+				"precision": 5.5,
+				"comfort": 6.5,
+				"buildQuality": 6.0,
+				"gaming": 5.5
+			}
+		}
+	},
+	{
+		"id": "hp-150",
+		"name": "150",
+		"brand": "HP",
+		"line": "MOUSE",
+		"model": "150",
+		"detailedModel": "240J6AA#ABM",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_639791-MLA100067533849_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2021",
+		"releaseMonth": null,
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "mouses",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/115gu9G",
+		"shopeeUrl": null,
+		"alphanumericModel": "240J6AA#ABM",
+		"version": null,
+		"manufacturer": "HP",
+		"specs": {
+			"type": "Office",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": null,
+				"maxDPI": 1600,
+				"maxIPS": 1600,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 3,
+				"programmable": null,
+				"sideBbuttons": null
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "1,0 m",
+					"braided": false
+				}
+			},
+			"lighting": {
+				"rgb": false,
+				"zones": null,
+				"effects": null,
+				"software": null
+			},
+			"features": {
+				"onboardMemory": false,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Dual-function",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": null,
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm", "Claw"],
+				"shape": "Convencional"
+			},
+			"build": {
+				"material": null,
+				"coating": null,
+				"feet": null
+			},
+			"software": {
+				"name": null,
+				"features": null,
+				"platforms": null
+			},
+			"dimensions": {
+				"length": "10,34 cm",
+				"width": "6,11 cm",
+				"height": "3,42 cm",
+				"weight": "60 g"
+			},
+			"compatibility": ["Windows 7", "Windows 8", "Windows 10", "Windows 11"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"precision": 7.5,
+				"comfort": 8.0,
+				"buildQuality": 7.5,
+				"gaming": 5.0
+			}
+		}
+	},
+	{
+		"id": "exbom-ms-g270",
+		"name": "MS-G270",
+		"brand": "Exbom Mouse Gamer",
+		"line": null,
+		"model": "MS-G270",
+		"detailedModel": "MS-G270",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_761965-MLB99038892474_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "mouses",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2voejLU",
+		"shopeeUrl": null,
+		"alphanumericModel": "MS-G270",
+		"version": null,
+		"manufacturer": "Exbom",
+		"specs": {
+			"type": "Gaming",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": null,
+				"maxDPI": 3200,
+				"maxIPS": null,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 7,
+				"programmable": null,
+				"sideBbuttons": 2
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "1,5 m",
+					"braided": true
+				}
+			},
+			"lighting": {
+				"rgb": true,
+				"zones": null,
+				"effects": ["7 cores com transição"],
+				"software": null
+			},
+			"features": {
+				"onboardMemory": false,
+				"profiles": 4,
+				"weightTuning": true,
+				"adjustableWeight": true,
+				"scrollWheel": "Bidirecional",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": null,
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm", "Claw"],
+				"shape": "Ergonômico"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": null,
+				"feet": null
+			},
+			"software": {
+				"name": null,
+				"features": ["Plug & Play", "Troca de DPI on-the-fly"],
+				"platforms": ["Windows", "Linux", "Mac OS"]
+			},
+			"dimensions": {
+				"length": "12,5 cm",
+				"width": "8,5 cm",
+				"height": "4,0 cm",
+				"weight": "95 g"
+			},
+			"compatibility": [
+				"Windows 98",
+				"Windows 2000",
+				"Windows ME",
+				"Windows NT",
+				"Windows XP",
+				"Windows 7",
+				"Windows 8",
+				"Windows 10",
+				"Mac OS",
+				"Linux"
+			],
+			"ratings": {
+				"costBenefit": 8.0,
+				"precision": 7.0,
+				"comfort": 7.5,
+				"buildQuality": 7.0,
+				"gaming": 7.5
+			}
+		}
+	},
+	{
+		"id": "rhead-ms-26bk",
+		"name": "MS-26BK",
+		"brand": "RHEAD",
+		"line": null,
+		"model": "MS-26BK",
+		"detailedModel": "MS-26BK",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_882395-MLA104896814763_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2020",
+		"releaseMonth": null,
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "mouses",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1dv375a",
+		"shopeeUrl": null,
+		"alphanumericModel": "MS-26BK",
+		"version": null,
+		"manufacturer": "C3Tech",
+		"specs": {
+			"type": "Office",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": null,
+				"maxDPI": 1000,
+				"maxIPS": null,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 3,
+				"programmable": null,
+				"sideBbuttons": null
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB 1.1/2.0",
+					"length": "2,0 m",
+					"braided": false
+				}
+			},
+			"lighting": {
+				"rgb": false,
+				"zones": null,
+				"effects": null,
+				"software": null
+			},
+			"features": {
+				"onboardMemory": false,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "3D Wheel",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": null,
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm"],
+				"shape": "Convencional"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": null,
+				"feet": null
+			},
+			"software": {
+				"name": null,
+				"features": ["Plug & Play"],
+				"platforms": ["Windows", "Mac OS", "Linux", "Chrome OS"]
+			},
+			"dimensions": {
+				"length": "11,0 cm",
+				"width": "6,2 cm",
+				"height": "3,5 cm",
+				"weight": "80 g"
+			},
+			"compatibility": [
+				"Windows XP",
+				"Windows Vista",
+				"Windows 7",
+				"Windows 8",
+				"Windows 10",
+				"Mac OS X",
+				"Linux 2.6.x",
+				"Chrome OS"
+			],
+			"ratings": {
+				"costBenefit": 9.0,
+				"precision": 7.0,
+				"comfort": 7.5,
+				"buildQuality": 7.0,
+				"gaming": 4.5
+			}
+		}
+	},
+	{
+		"id": "casenn-ars00000184",
+		"name": "ARS00000184",
+		"brand": "Casenn",
+		"line": null,
+		"model": "ARS00000184",
+		"detailedModel": "ARS00000184",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_877607-MLA100088181885_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "mouses",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2SPV7c6",
+		"shopeeUrl": null,
+		"alphanumericModel": "ARS00000184",
+		"version": null,
+		"manufacturer": "Casenn",
+		"specs": {
+			"type": "Office",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": null,
+				"maxDPI": 1600,
+				"maxIPS": 1600,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 4,
+				"programmable": null,
+				"sideBbuttons": null
+			},
+			"connectivity": {
+				"type": "Híbrido",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": true,
+					"multiDevice": true,
+					"maxDevices": 3
+				},
+				"cable": null
+			},
+			"lighting": {
+				"rgb": true,
+				"zones": null,
+				"effects": null,
+				"software": null
+			},
+			"features": {
+				"onboardMemory": null,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Silencioso",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "Recarregável",
+				"capacity": null,
+				"life": null,
+				"rechargeable": true,
+				"quickCharge": null
+			},
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm", "Claw"],
+				"shape": "Convencional"
+			},
+			"build": {
+				"material": null,
+				"coating": null,
+				"feet": null
+			},
+			"software": {
+				"name": null,
+				"features": null,
+				"platforms": null
+			},
+			"dimensions": {
+				"length": "11,5 cm",
+				"width": "5,5 cm",
+				"height": "2,5 cm",
+				"weight": "70 g"
+			},
+			"compatibility": ["Windows 7", "Windows 10", "Android", "iOS"],
+			"ratings": {
+				"costBenefit": 7.5,
+				"precision": 6.5,
+				"comfort": 7.0,
+				"buildQuality": 6.5,
+				"gaming": 5.0
+			}
+		}
+	},
+	{
+		"id": "redragon-m916-pro-1k",
+		"name": "King Pro M916-PRO-1K",
+		"brand": "Redragon",
+		"line": "King Pro",
+		"model": "M916-PRO-1K",
+		"detailedModel": "M916-PRO-1K",
+		"alphanumericModel": "M916-PRO-1K",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_789229-MLA99454988196_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "mouses",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1oXQxah",
+		"specs": {
+			"type": "Gaming",
+			"sensor": {
+				"type": "Óptico",
+				"brand": "Pixart",
+				"model": "PAW3395",
+				"maxDPI": 26000,
+				"maxIPS": 400,
+				"maxAcceleration": "50G",
+				"pollingRate": 1000
+			},
+			"buttons": {
+				"count": 5,
+				"programmable": 5,
+				"sideBbuttons": 2
+			},
+			"connectivity": {
+				"type": "Híbrido",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": true,
+					"multiDevice": false,
+					"maxDevices": null
+				},
+				"cable": {
+					"type": "USB Type-C",
+					"length": null,
+					"braided": true
+				}
+			},
+			"lighting": {
+				"rgb": false,
+				"zones": null,
+				"effects": null,
+				"software": null
+			},
+			"features": {
+				"onboardMemory": true,
+				"profiles": 5,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Padrão",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "Lithium Polymer",
+				"capacity": "400mAh",
+				"life": "50-80 horas",
+				"rechargeable": true,
+				"quickCharge": false
+			},
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm Grip", "Claw Grip"],
+				"shape": "Ergonômico"
+			},
+			"build": {
+				"material": "ABS",
+				"coating": "Não revestido",
+				"feet": "Teflon"
+			},
+			"software": {
+				"name": "Redragon Software",
+				"features": ["Personalização de DPI", "Programação de botões", "Macros", "Ajuste de taxa de polling"],
+				"platforms": ["Windows", "Mac (funcionalidade limitada)"]
+			},
+			"dimensions": {
+				"length": "21.01 cm",
+				"width": "15.00 cm",
+				"height": "5.00 cm",
+				"weight": "49g"
+			},
+			"compatibility": ["Windows", "Mac", "Linux"],
+			"ratings": {
+				"costBenefit": 9.0,
+				"precision": 8.5,
+				"comfort": 7.0,
+				"buildQuality": 7.5,
+				"gaming": 8.5
+			}
+		}
+	},
+	{
+		"id": "multilaser-mo307",
+		"name": "MO307",
+		"brand": "Multilaser",
+		"line": "Sem Fio Slim Box",
+		"model": "MO307",
+		"detailedModel": "MO307",
+		"alphanumericModel": "MO307",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_683864-MLA100085830469_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2020",
+		"releaseMonth": null,
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "mouses",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1JA7N2k",
+		"specs": {
+			"type": "Office",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": null,
+				"maxDPI": 1200,
+				"maxIPS": 1200,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 3,
+				"programmable": null,
+				"sideBbuttons": null
+			},
+			"connectivity": {
+				"type": "Sem fio",
+				"wireless": {
+					"bluetooth": false,
+					"rf24ghz": true,
+					"multiDevice": false,
+					"maxDevices": null
+				},
+				"cable": null
+			},
+			"lighting": null,
+			"features": {
+				"onboardMemory": false,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Padrão",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "AA",
+				"capacity": null,
+				"life": "até 12 meses",
+				"rechargeable": false,
+				"quickCharge": false
+			},
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm Grip"],
+				"shape": "Slim"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": "Textura macia",
+				"feet": null
+			},
+			"software": null,
+			"dimensions": {
+				"length": "11.6 cm",
+				"width": "6.5 cm",
+				"height": "3.4 cm",
+				"weight": "47g"
+			},
+			"compatibility": ["Windows", "macOS", "Linux", "Android"],
+			"ratings": {
+				"costBenefit": 8.0,
+				"precision": 6.0,
+				"comfort": 5.5,
+				"buildQuality": 6.0,
+				"gaming": 4.0
+			}
+		}
+	},
+	{
+		"id": "hp-x6w31aa",
+		"name": "200",
+		"brand": "HP",
+		"line": "Oman",
+		"model": "200",
+		"detailedModel": "X6W31AA",
+		"alphanumericModel": "2HU84AA",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_853463-MLA99517621875_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2016",
+		"releaseMonth": null,
+		"releaseYear": 2016,
+		"origin": null,
+		"category": "mouses",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2B3h2mg",
+		"manufacturer": "Hewlett-Packard Company",
+		"specs": {
+			"type": "Office",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": "Red LED",
+				"maxDPI": 1000,
+				"maxIPS": 1000,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 3,
+				"programmable": null,
+				"sideBbuttons": null
+			},
+			"connectivity": {
+				"type": "Sem fio",
+				"wireless": {
+					"bluetooth": false,
+					"rf24ghz": true,
+					"multiDevice": false,
+					"maxDevices": null
+				},
+				"cable": null
+			},
+			"lighting": null,
+			"features": {
+				"onboardMemory": false,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Padrão",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "AAA",
+				"capacity": null,
+				"life": "até 12 meses",
+				"rechargeable": false,
+				"quickCharge": false
+			},
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm Grip"],
+				"shape": "Contornado"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": null,
+				"feet": null
+			},
+			"software": null,
+			"dimensions": {
+				"length": "9.5 cm",
+				"width": "5.85 cm",
+				"height": "3.4 cm",
+				"weight": "110g"
+			},
+			"compatibility": ["Windows 10", "Windows 11", "Windows 7", "macOS", "Linux"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"precision": 6.5,
+				"comfort": 7.0,
+				"buildQuality": 7.5,
+				"gaming": 4.5
+			}
+		}
+	},
+	{
+		"id": "attack-shark-x11",
+		"name": "X11",
+		"brand": "Attack Shark",
+		"line": null,
+		"model": "X11",
+		"detailedModel": "X11",
+		"alphanumericModel": "X11",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_606816-MLA99489775010_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "mouses",
+		"manufacturer": "Attack Shark",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1BagvfD",
+		"specs": {
+			"type": "Gaming",
+			"sensor": {
+				"type": "Óptico",
+				"brand": "PixArt",
+				"model": "PAW3311",
+				"maxDPI": 22000,
+				"maxIPS": 400,
+				"maxAcceleration": "40G",
+				"pollingRate": 1000
+			},
+			"buttons": {
+				"count": 6,
+				"programmable": 5,
+				"sideBbuttons": 2
+			},
+			"connectivity": {
+				"type": "Híbrido",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": true,
+					"multiDevice": false,
+					"maxDevices": null
+				},
+				"cable": {
+					"type": "USB-C",
+					"length": null,
+					"braided": false
+				}
+			},
+			"lighting": {
+				"rgb": true,
+				"zones": 1,
+				"effects": ["RGB personalizável via dock"],
+				"software": "Attack Shark Software"
+			},
+			"features": {
+				"onboardMemory": true,
+				"profiles": 5,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "TTC Encoder",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "Lithium Polymer",
+				"capacity": "300mAh",
+				"life": "até 65 horas",
+				"rechargeable": true,
+				"quickCharge": false
+			},
+			"ergonomics": {
+				"handedness": "Destro",
+				"grip": ["Palm Grip", "Claw Grip", "Fingertip Grip"],
+				"shape": "Ergonômico"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": "Texturizado",
+				"feet": "PTFE (Teflon)"
+			},
+			"software": {
+				"name": "Attack Shark Software",
+				"features": [
+					"Personalização de DPI",
+					"Programação de botões",
+					"Macros",
+					"Ajuste de taxa de polling",
+					"Configuração baseada na web"
+				],
+				"platforms": ["Windows", "Mac", "Linux"]
+			},
+			"dimensions": {
+				"length": "12.8 cm",
+				"width": "6.4 cm",
+				"height": "4.05 cm",
+				"weight": "59g"
+			},
+			"compatibility": [
+				"Windows 7",
+				"Windows 8",
+				"Windows 10",
+				"Windows 11",
+				"macOS",
+				"Linux",
+				"Android",
+				"iOS",
+				"Xbox"
+			],
+			"ratings": {
+				"costBenefit": 9.5,
+				"precision": 8.0,
+				"comfort": 8.0,
+				"buildQuality": 7.5,
+				"gaming": 8.5
+			}
+		}
+	},
+	{
+		"id": "logitech-g502-hero",
+		"name": "G502 HERO",
+		"brand": "Logitech G",
+		"line": "G Series",
+		"model": "G502 Hero",
+		"detailedModel": "Logitech G502 Hero Negro",
+		"alphanumericModel": "910-005550",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_817277-MLA99445321906_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2018",
+		"releaseMonth": null,
+		"releaseYear": 2018,
+		"origin": null,
+		"category": "mouses",
+		"manufacturer": "Logitech",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/27nKBcV",
+		"specs": {
+			"type": "Gaming",
+			"sensor": {
+				"type": "Óptico",
+				"brand": "Logitech",
+				"model": "HERO 25K",
+				"maxDPI": 25600,
+				"maxIPS": 400,
+				"maxAcceleration": "40G",
+				"pollingRate": 1000
+			},
+			"buttons": {
+				"count": 11,
+				"programmable": 11,
+				"sideBbuttons": 3
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "2.1m",
+					"braided": true
+				}
+			},
+			"lighting": {
+				"rgb": true,
+				"zones": 2,
+				"effects": [
+					"LIGHTSYNC RGB",
+					"Personalização de 16.8 milhões de cores",
+					"Sincronização com outros dispositivos Logitech G"
+				],
+				"software": "Logitech G HUB"
+			},
+			"features": {
+				"onboardMemory": true,
+				"profiles": 5,
+				"weightTuning": true,
+				"adjustableWeight": true,
+				"scrollWheel": "Dual-mode hyper-fast scroll wheel (livre e por clique)",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": true
+			},
+			"battery": null,
+			"ergonomics": {
+				"handedness": "Destro",
+				"grip": ["Palm Grip", "Claw Grip"],
+				"shape": "Ergonômico com apoio para o polegar"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": "Empunhaduras laterais emborrachadas",
+				"feet": "PTFE (Teflon)"
+			},
+			"software": {
+				"name": "Logitech G HUB",
+				"features": [
+					"Personalização de DPI",
+					"Programação de botões e macros",
+					"Ajuste de taxa de polling",
+					"Perfis customizáveis",
+					"Configuração de iluminação RGB LIGHTSYNC",
+					"Memória integrada"
+				],
+				"platforms": ["Windows 7 ou superior", "macOS 10.11 ou superior", "Chrome OS"]
+			},
+			"dimensions": {
+				"length": "13.2 cm",
+				"width": "7.5 cm",
+				"height": "4.0 cm",
+				"weight": "121g (sem pesos adicionais)"
+			},
+			"compatibility": ["Windows 7", "Windows 10", "Windows 11", "macOS 10.11+", "Chrome OS"],
+			"ratings": {
+				"costBenefit": 9.0,
+				"precision": 9.5,
+				"comfort": 8.0,
+				"buildQuality": 9.0,
+				"gaming": 9.5
+			}
+		}
+	},
+	{
+		"id": "dell-wm126",
+		"name": "WM126",
+		"brand": "Dell",
+		"line": null,
+		"model": "WM126",
+		"detailedModel": "WM126",
+		"alphanumericModel": "WM126",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_684561-MLA99934744653_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2016",
+		"releaseMonth": null,
+		"releaseYear": 2016,
+		"origin": null,
+		"category": "mouses",
+		"manufacturer": "Dell",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/178Hedt",
+		"specs": {
+			"type": "Office",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": "Red LED",
+				"maxDPI": 1000,
+				"maxIPS": null,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 3,
+				"programmable": null,
+				"sideBbuttons": null
+			},
+			"connectivity": {
+				"type": "Sem fio",
+				"wireless": {
+					"bluetooth": false,
+					"rf24ghz": true,
+					"multiDevice": true,
+					"maxDevices": 6
+				},
+				"cable": null
+			},
+			"lighting": null,
+			"features": {
+				"onboardMemory": false,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Padrão",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "AA",
+				"capacity": null,
+				"life": "até 12 meses",
+				"rechargeable": false,
+				"quickCharge": false
+			},
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm Grip"],
+				"shape": "Contornado"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": null,
+				"feet": null
+			},
+			"software": {
+				"name": "Dell Universal Pairing (opcional)",
+				"features": ["Conexão de até 6 dispositivos com um receptor"],
+				"platforms": [
+					"Windows 7",
+					"Windows 8",
+					"Windows 8.1",
+					"Windows 10",
+					"Windows 11",
+					"Linux",
+					"Chrome OS",
+					"Android"
+				]
+			},
+			"dimensions": {
+				"length": "9.48 cm",
+				"width": "5.73 cm",
+				"height": "3.56 cm",
+				"weight": "58g"
+			},
+			"compatibility": [
+				"Windows 7",
+				"Windows 8",
+				"Windows 8.1",
+				"Windows 10",
+				"Windows 11",
+				"Windows Server 2003",
+				"Windows Server 2008",
+				"Windows Server 2012",
+				"Linux",
+				"Chrome OS",
+				"Android"
+			],
+			"ratings": {
+				"costBenefit": 8.5,
+				"precision": 6.5,
+				"comfort": 7.5,
+				"buildQuality": 7.5,
+				"gaming": 4.0
+			}
+		}
+	},
+	{
+		"id": "logitech-g403-hero",
+		"name": "G403 HERO",
+		"brand": "Logitech G",
+		"line": "G Series",
+		"model": "G403 Hero",
+		"detailedModel": "G403 HERO",
+		"alphanumericModel": "G403",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_868248-MLA99454511918_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2018",
+		"releaseMonth": null,
+		"releaseYear": 2018,
+		"origin": null,
+		"category": "mouses",
+		"manufacturer": "Logitech",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2EJcGvo",
+		"specs": {
+			"type": "Gaming",
+			"sensor": {
+				"type": "Óptico",
+				"brand": "Logitech",
+				"model": "HERO 25K",
+				"maxDPI": 25600,
+				"maxIPS": 400,
+				"maxAcceleration": "40G",
+				"pollingRate": 1000
+			},
+			"buttons": {
+				"count": 6,
+				"programmable": 6,
+				"sideBbuttons": 2
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "2.1m",
+					"braided": true
+				}
+			},
+			"lighting": {
+				"rgb": true,
+				"zones": 1,
+				"effects": [
+					"LIGHTSYNC RGB",
+					"16.8 milhões de cores",
+					"Sincronização com outros dispositivos Logitech G"
+				],
+				"software": "Logitech G HUB"
+			},
+			"features": {
+				"onboardMemory": true,
+				"profiles": 5,
+				"weightTuning": true,
+				"adjustableWeight": true,
+				"scrollWheel": "Notched com feedback tátil",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": null,
+			"ergonomics": {
+				"handedness": "Destro",
+				"grip": ["Palm Grip", "Claw Grip"],
+				"shape": "Ergonômico com curvas suaves"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": "Plástico matte com laterais emborrachadas",
+				"feet": "PTFE (Teflon)"
+			},
+			"software": {
+				"name": "Logitech G HUB",
+				"features": [
+					"Personalização de DPI (100-25600)",
+					"Programação de 6 botões",
+					"Macros",
+					"Ajuste de taxa de polling",
+					"Perfis customizáveis",
+					"Configuração de iluminação LIGHTSYNC RGB",
+					"Memória integrada"
+				],
+				"platforms": ["Windows 7 ou superior", "macOS 10.11 ou superior"]
+			},
+			"dimensions": {
+				"length": "12.4 cm",
+				"width": "6.8 cm",
+				"height": "4.3 cm",
+				"weight": "87.3g (sem peso adicional)"
+			},
+			"compatibility": ["Windows 7", "Windows 10", "Windows 11", "macOS 10.11+"],
+			"ratings": {
+				"costBenefit": 9.5,
+				"precision": 9.0,
+				"comfort": 9.0,
+				"buildQuality": 8.5,
+				"gaming": 9.0
+			}
+		}
+	},
+	{
+		"id": "logitech-m240",
+		"name": "M240 Silent",
+		"brand": "Logitech",
+		"line": "Silent",
+		"model": "M240",
+		"detailedModel": "910-007113",
+		"alphanumericModel": "910-007113",
+		"color": "Grafite",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_778492-MLA99453781010_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseMonth": null,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "mouses",
+		"manufacturer": "Logitech Far East Ltd",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2N2vAnf",
+		"specs": {
+			"type": "Office",
+			"sensor": {
+				"type": "Óptico",
+				"brand": "Logitech",
+				"model": "Rastreamento óptico avançado",
+				"maxDPI": 1000,
+				"maxIPS": null,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 3,
+				"programmable": 3,
+				"sideBbuttons": null
+			},
+			"connectivity": {
+				"type": "Sem fio",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": false,
+					"multiDevice": false,
+					"maxDevices": null
+				},
+				"cable": null
+			},
+			"lighting": null,
+			"features": {
+				"onboardMemory": false,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Padrão",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "AA",
+				"capacity": null,
+				"life": "até 18 meses",
+				"rechargeable": false,
+				"quickCharge": false
+			},
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm Grip"],
+				"shape": "Contornado e compacto"
+			},
+			"build": {
+				"material": "Plástico ABS com 48% de plástico reciclado pós-consumo",
+				"coating": null,
+				"feet": "Pés de alto desempenho"
+			},
+			"software": {
+				"name": "Logi Options+",
+				"features": [
+					"Personalização de DPI (400-4000)",
+					"Configuração de botões",
+					"Ajuste de velocidade do cursor",
+					"Direção de rolagem",
+					"Smooth scrolling",
+					"Smart Actions"
+				],
+				"platforms": ["Windows", "macOS", "Linux", "Chrome OS"]
+			},
+			"dimensions": {
+				"length": "9.9 cm",
+				"width": "6.0 cm",
+				"height": "3.9 cm",
+				"weight": "73.8g"
+			},
+			"compatibility": ["Windows", "macOS", "Linux", "Chrome OS", "Android", "iOS"],
+			"ratings": {
+				"costBenefit": 9.5,
+				"precision": 7.0,
+				"comfort": 7.5,
+				"buildQuality": 8.0,
+				"gaming": 5.0
+			}
+		}
+	},
+	{
+		"id": "logitech-mx-vertical",
+		"name": "MX Vertical",
+		"brand": "Logitech",
+		"line": "MX",
+		"model": "MX Vertical",
+		"detailedModel": "MX Vertical Advanced Ergonomic Mouse",
+		"alphanumericModel": "910-005449",
+		"color": "Grafite",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_926785-MLA99858509739_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2018",
+		"releaseMonth": null,
+		"releaseYear": 2018,
+		"origin": null,
+		"category": "mouses",
+		"manufacturer": "Logitech",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2P9rVk1",
+		"specs": {
+			"type": "Ergonômico",
+			"sensor": {
+				"type": "Óptico",
+				"brand": "Logitech",
+				"model": "High-precision optical sensor",
+				"maxDPI": 4000,
+				"maxIPS": null,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 4,
+				"programmable": 4,
+				"sideBbuttons": 2
+			},
+			"connectivity": {
+				"type": "Híbrido",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": true,
+					"multiDevice": true,
+					"maxDevices": 3
+				},
+				"cable": {
+					"type": "USB-C",
+					"length": null,
+					"braided": false
+				}
+			},
+			"lighting": null,
+			"features": {
+				"onboardMemory": false,
+				"profiles": 3,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Precision scroll wheel com middle click",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "Lithium Polymer",
+				"capacity": "240mAh",
+				"life": "até 4 meses",
+				"rechargeable": true,
+				"quickCharge": true
+			},
+			"ergonomics": {
+				"handedness": "Destro",
+				"grip": ["Natural handshake position"],
+				"shape": "Vertical 57° de inclinação"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": "Superfície texturizada emborrachada",
+				"feet": null
+			},
+			"software": {
+				"name": "Logitech Options",
+				"features": [
+					"Personalização de DPI (400-4000 em incrementos de 50)",
+					"Customização de 4 botões",
+					"Ajuste de velocidade do cursor",
+					"Funções específicas por aplicativo",
+					"Logitech Flow (controle de múltiplos computadores)",
+					"Smart Actions"
+				],
+				"platforms": [
+					"Windows 7 ou superior",
+					"Windows 8",
+					"Windows 10 ou superior",
+					"macOS 10.13.6 ou superior"
+				]
+			},
+			"dimensions": {
+				"length": "12.0 cm",
+				"width": "7.9 cm",
+				"height": "7.85 cm",
+				"weight": "135g"
+			},
+			"compatibility": ["Windows 7", "Windows 8", "Windows 10", "Windows 11", "macOS 10.13.6+"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"precision": 8.5,
+				"comfort": 9.5,
+				"buildQuality": 9.0,
+				"gaming": 6.0
+			}
+		}
+	},
+	{
+		"id": "exbom-ms62",
+		"name": "MS-62",
+		"brand": "Exbom",
+		"line": null,
+		"model": "MS-62",
+		"detailedModel": "MS-62",
+		"alphanumericModel": "MS62",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_643584-MLB91919452516_092025-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseMonth": null,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "mouses",
+		"manufacturer": "Next trading comercial ltda",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1MfUnEz",
+		"specs": {
+			"type": "Gaming",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": null,
+				"maxDPI": 1200,
+				"maxIPS": null,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 4,
+				"programmable": null,
+				"sideBbuttons": null
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "1.5m",
+					"braided": false
+				}
+			},
+			"lighting": {
+				"rgb": true,
+				"zones": 1,
+				"effects": ["RGB com transição de 7 cores"],
+				"software": null
+			},
+			"features": {
+				"onboardMemory": false,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Padrão",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": null,
+			"ergonomics": {
+				"handedness": "Ambidestro",
+				"grip": ["Palm Grip", "Claw Grip"],
+				"shape": "Ergonômico"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": null,
+				"feet": null
+			},
+			"software": null,
+			"dimensions": {
+				"length": "12.5 cm",
+				"width": "8.0 cm",
+				"height": "4.0 cm",
+				"weight": "aproximadamente 95g"
+			},
+			"compatibility": ["Windows", "macOS", "Linux", "Android", "Smart TV", "TV Box", "DVR", "NVR"],
+			"ratings": {
+				"costBenefit": 8.0,
+				"precision": 5.5,
+				"comfort": 6.0,
+				"buildQuality": 5.5,
+				"gaming": 5.0
+			}
+		}
+	},
+	{
+		"id": "apfer-apm-v500",
+		"name": "Vertix",
+		"brand": "APFER",
+		"line": "ErgoLine",
+		"model": "Vertix",
+		"detailedModel": "APM-V500",
+		"alphanumericModel": "APM-V500",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_869466-MLA100026509347_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "mouses",
+		"manufacturer": "APFER",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2oyrcjn",
+		"specs": {
+			"type": "Vertical",
+			"sensor": {
+				"type": "Óptico",
+				"brand": null,
+				"model": "Alta precisão",
+				"maxDPI": 1600,
+				"maxIPS": 1600,
+				"maxAcceleration": null,
+				"pollingRate": null
+			},
+			"buttons": {
+				"count": 6,
+				"programmable": 6,
+				"sideBbuttons": 2
+			},
+			"connectivity": {
+				"type": "Híbrido",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": true,
+					"multiDevice": false,
+					"maxDevices": null
+				},
+				"cable": {
+					"type": "USB-C",
+					"length": null,
+					"braided": false
+				}
+			},
+			"lighting": {
+				"rgb": true,
+				"zones": 1,
+				"effects": ["RGB com transição de cores"],
+				"software": null
+			},
+			"features": {
+				"onboardMemory": false,
+				"profiles": null,
+				"weightTuning": false,
+				"adjustableWeight": false,
+				"scrollWheel": "Padrão",
+				"tiltScroll": false,
+				"horizontalScroll": false,
+				"hyperScroll": false
+			},
+			"battery": {
+				"type": "Lithium Polymer",
+				"capacity": "600mAh",
+				"life": "até 2 meses",
+				"rechargeable": true,
+				"quickCharge": true
+			},
+			"ergonomics": {
+				"handedness": "Destro",
+				"grip": ["Natural handshake position"],
+				"shape": "Vertical ergonômico"
+			},
+			"build": {
+				"material": "Plástico ABS",
+				"coating": "Texturizado anti-derrapante",
+				"feet": null
+			},
+			"software": null,
+			"dimensions": {
+				"length": "11.5 cm",
+				"width": "7.5 cm",
+				"height": "7.5 cm",
+				"weight": "aproximadamente 110g"
+			},
+			"compatibility": ["Windows 7", "Windows 10", "Windows 11", "macOS", "Linux"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"precision": 6.5,
+				"comfort": 8.5,
+				"buildQuality": 6.5,
+				"gaming": 5.5
+			}
+		}
+	}
+]

@@ -1,0 +1,4127 @@
+[
+	{
+		"id": "tres-coracoes-luna-preta",
+		"name": "Luna",
+		"brand": "3 Corações",
+		"line": "Espresso",
+		"model": "Luna",
+		"alphanumericModel": "20911391",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_703405-MLA99854893367_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Fwz8on",
+		"manufacturer": "3 Corações",
+		"specs": {
+			"manufacturer": "3 Corações",
+			"type": "Espresso",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "600 mL",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 1200,
+				"voltage": "Bivolt"
+			},
+			"pressure": {
+				"bar": 15,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": [
+					"Espresso",
+					"Cappuccino",
+					"Café Filtrado",
+					"Café com Leite",
+					"Chocolate Quente",
+					"Chás Naturais",
+					"Bebidas Cremosas"
+				],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["TRES"]
+			},
+			"brewing": {
+				"preparationTime": "30 segundos",
+				"temperature": null,
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": false,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": true,
+				"strengthLevels": 3,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Após breve período de inatividade",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico ABS", "Aço inoxidável"],
+				"color": "Preto",
+				"coffeeType": "Cápsulas monodose",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "12,8 cm",
+				"depth": "28,3 cm",
+				"height": "25,5 cm",
+				"weight": "3 kg"
+			},
+			"accessories": {
+				"included": [
+					"Painéis intercambiáveis",
+					"Bandeja coletora removível",
+					"Cápsula de retrolavagem",
+					"Certificado de garantia",
+					"Guia rápido",
+					"Manual"
+				],
+				"interchangeablePanels": true,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": false,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "Bivolt",
+				"frequency": "60 Hz",
+				"powerConsumption": "1200 W",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (bandeja e reservatório de cápsulas)",
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Bandeja coletora"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": ["Livre de BPA"]
+			},
+			"warranty": {
+				"general": "5 anos",
+				"parts": "5 anos",
+				"conditions": ["Incluindo 90 dias do prazo legal", "Válida a partir da data de emissão da nota fiscal"]
+			},
+			"compatibility": {
+				"capsuleBrands": ["TRES"],
+				"cupSizes": ["50 ml", "80 ml", "100 ml"],
+				"coffeeTypes": ["Cápsulas TRES exclusivamente"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"brewingQuality": 8,
+				"easeOfUse": 9,
+				"easeCleaning": 7.5,
+				"durability": 8,
+				"features": 7,
+				"design": 8.5
+			}
+		}
+	},
+	{
+		"id": "tres-coracoes-passione-preta",
+		"name": "Passione",
+		"brand": "3 Corações",
+		"line": "Espresso",
+		"model": "Passione",
+		"alphanumericModel": "20038999",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_702554-MLA99936325089_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseYear": 2023,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/247eYBB",
+		"manufacturer": "3 Corações",
+		"specs": {
+			"manufacturer": "3 Corações",
+			"type": "Espresso",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "650 mL",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 1260,
+				"voltage": "220V"
+			},
+			"pressure": {
+				"bar": 15,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": [
+					"Espresso",
+					"Cappuccino",
+					"Café Filtrado",
+					"Café com Leite",
+					"Chocolate Quente",
+					"Chás Naturais",
+					"Bebidas Cremosas"
+				],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["TRES"]
+			},
+			"brewing": {
+				"preparationTime": "30 segundos",
+				"temperature": null,
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": true,
+				"hasTemperatureControl": true,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": true,
+				"strengthLevels": 3,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Após breve período de inatividade",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico ABS", "Aço inoxidável"],
+				"color": "Preto brilhante",
+				"coffeeType": "Cápsulas monodose",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "12 cm",
+				"depth": "32 cm",
+				"height": "24,5 cm",
+				"weight": "2,8 kg"
+			},
+			"accessories": {
+				"included": [
+					"Cápsula de retrolavagem",
+					"Guia rápido",
+					"Manual",
+					"Certificado de garantia",
+					"Bandeja coletora removível"
+				],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": false,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "220V",
+				"frequency": "60 Hz",
+				"powerConsumption": "1260 W",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (bandeja e reservatório de cápsulas)",
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Bandeja coletora"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": ["Livre de BPA"]
+			},
+			"warranty": {
+				"general": "5 anos",
+				"parts": "5 anos",
+				"conditions": ["Incluindo 90 dias do prazo legal", "Válida a partir da data de emissão da nota fiscal"]
+			},
+			"compatibility": {
+				"capsuleBrands": ["TRES", "Gimoka", "TopBlend", "iCafilas"],
+				"cupSizes": ["50 ml", "80 ml", "100 ml"],
+				"coffeeTypes": ["Cápsulas TRES exclusivamente"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"brewingQuality": 8,
+				"easeOfUse": 9,
+				"easeCleaning": 7.5,
+				"durability": 8,
+				"features": 7.5,
+				"design": 8.5
+			}
+		}
+	},
+	{
+		"id": "nespresso-essenza-mini-branca",
+		"name": "Essenza Mini",
+		"brand": "Nespresso",
+		"line": "Essenza",
+		"model": "Essenza Mini",
+		"alphanumericModel": "C30",
+		"detailedModel": "C White",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_652965-MLA100059078099_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2017",
+		"releaseYear": 2017,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/344Y1oy",
+		"manufacturer": "Nespresso",
+		"specs": {
+			"manufacturer": "Nespresso",
+			"type": "Espresso",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "600 mL",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 1255,
+				"voltage": "Bivolt"
+			},
+			"pressure": {
+				"bar": 19,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Cápsula",
+				"washable": false,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Lungo"],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Nespresso Original Line"]
+			},
+			"brewing": {
+				"preparationTime": "8 s",
+				"temperature": {
+					"min": 76,
+					"max": 81
+				},
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": true,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": false,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "9 minutos",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico", "Metal"],
+				"color": "Branco",
+				"coffeeType": "Cápsulas monodose",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Traseira"
+			},
+			"dimensions": {
+				"width": "8,4 cm",
+				"depth": "33 cm",
+				"height": "20,4 cm",
+				"weight": "2,3 kg"
+			},
+			"accessories": {
+				"included": ["14 cápsulas Nespresso", "Manual de instruções", "Bandeja coletora removível"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": false,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "Bivolt",
+				"frequency": "60 Hz",
+				"powerConsumption": "1255 W",
+				"includesBatteries": false,
+				"cableLength": "80 cm"
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (bandeja e reservatório de cápsulas)",
+				"descalingFrequency": "A cada 300-1200 cafés (dependendo da dureza da água)",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Bandeja coletora", "Grade de apoio"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": []
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": ["Garantia do fabricante"]
+			},
+			"compatibility": {
+				"capsuleBrands": ["Nespresso Original Line"],
+				"cupSizes": ["40 ml (Espresso)", "110 ml (Lungo)"],
+				"coffeeTypes": ["Cápsulas Nespresso Original exclusivamente"]
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"brewingQuality": 7.5,
+				"easeOfUse": 9.5,
+				"easeCleaning": 9.0,
+				"durability": 7.0,
+				"features": 6.5,
+				"design": 9.0
+			}
+		}
+	},
+	{
+		"id": "nespresso-essenza-mini-vermelha",
+		"name": "Essenza Mini",
+		"brand": "Nespresso",
+		"line": "Essenza",
+		"model": "Essenza Mini",
+		"alphanumericModel": "D30",
+		"detailedModel": "D30-BR3-RE-NE2",
+		"color": "Vermelho",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_861961-MLA99899361577_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2017",
+		"releaseYear": 2017,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1P1yfzp",
+		"manufacturer": "Nespresso",
+		"specs": {
+			"manufacturer": "Nespresso",
+			"type": "Espresso",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "600 mL",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 1330,
+				"voltage": "Bivolt"
+			},
+			"pressure": {
+				"bar": 19,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Cápsula",
+				"washable": false,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Lungo"],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Nespresso Original Line"]
+			},
+			"brewing": {
+				"preparationTime": "25 s",
+				"temperature": {
+					"min": 76,
+					"max": 81
+				},
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": false,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "9 minutos",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico", "Metal"],
+				"color": "Vermelho",
+				"coffeeType": "Cápsulas monodose",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Traseira"
+			},
+			"dimensions": {
+				"width": "11 cm",
+				"depth": "32,5 cm",
+				"height": "20,5 cm",
+				"weight": "2,3 kg"
+			},
+			"accessories": {
+				"included": ["14 cápsulas Nespresso", "Manual de instruções", "Bandeja coletora removível"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": false,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "Bivolt",
+				"frequency": "60 Hz",
+				"powerConsumption": "1330 W",
+				"includesBatteries": false,
+				"cableLength": "80 cm"
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (bandeja e reservatório de cápsulas)",
+				"descalingFrequency": "A cada 300-1200 cafés (dependendo da dureza da água)",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Bandeja coletora", "Grade de apoio"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": []
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": ["Garantia do fabricante"]
+			},
+			"compatibility": {
+				"capsuleBrands": ["Nespresso Original Line"],
+				"cupSizes": ["40 ml (Espresso)", "110 ml (Lungo)"],
+				"coffeeTypes": ["Cápsulas Nespresso Original exclusivamente"]
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"brewingQuality": 7.5,
+				"easeOfUse": 9.5,
+				"easeCleaning": 9.0,
+				"durability": 7.0,
+				"features": 6.5,
+				"design": 9.0
+			}
+		}
+	},
+	{
+		"id": "nespresso-citiz-preta",
+		"name": "CitiZ",
+		"brand": "Nespresso",
+		"line": "CitiZ",
+		"model": "CitiZ",
+		"alphanumericModel": "D113",
+		"detailedModel": "D113-BR3-BK-NE2",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_879258-MLA99562179084_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2014",
+		"releaseYear": 2014,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2RE8Qzj",
+		"manufacturer": "Nespresso",
+		"specs": {
+			"manufacturer": "Nespresso",
+			"type": "Espresso",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1 L",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 1260,
+				"voltage": "220V"
+			},
+			"pressure": {
+				"bar": 19,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Cápsula",
+				"washable": false,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Lungo", "Chá (água quente)"],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Nespresso Original Line"]
+			},
+			"brewing": {
+				"preparationTime": "25 s",
+				"temperature": {
+					"min": 90,
+					"max": 92
+				},
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": true,
+				"strengthLevels": 2,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "9 minutos",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico", "Aço inoxidável"],
+				"color": "Preto",
+				"coffeeType": "Cápsulas monodose",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Traseira"
+			},
+			"dimensions": {
+				"width": "13 cm",
+				"depth": "37,2 cm",
+				"height": "27,8 cm",
+				"weight": "3,3 kg"
+			},
+			"accessories": {
+				"included": [
+					"14 cápsulas Nespresso para degustação",
+					"Manual de instruções",
+					"Bandeja coletora removível",
+					"Bandeja retrátil em aço inoxidável"
+				],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": false,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "220V",
+				"frequency": "60 Hz",
+				"powerConsumption": "1260 W",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (bandeja e reservatório de cápsulas)",
+				"descalingFrequency": "A cada 300-1200 cafés (dependendo da dureza da água)",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Bandeja coletora", "Grade de apoio"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": ["Red Dot Design Award"]
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": ["Garantia do fabricante"]
+			},
+			"compatibility": {
+				"capsuleBrands": ["Nespresso Original Line"],
+				"cupSizes": ["40 ml (Espresso)", "110 ml (Lungo)"],
+				"coffeeTypes": ["Cápsulas Nespresso Original exclusivamente"]
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"brewingQuality": 9.0,
+				"easeOfUse": 9.5,
+				"easeCleaning": 8.5,
+				"durability": 8.0,
+				"features": 7.0,
+				"design": 9.5
+			}
+		}
+	},
+	{
+		"id": "philips-walita-ep2330-cinza",
+		"name": "Série 2300 LatteGo",
+		"brand": "Philips",
+		"line": "Série 2300",
+		"model": "EP2330",
+		"alphanumericModel": "EP2330/33",
+		"detailedModel": "EP2330/33/CINZA",
+		"color": "Cinza",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_910256-MLA99930308533_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseYear": 2023,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1J4immb",
+		"manufacturer": "Philips",
+		"specs": {
+			"manufacturer": "Philips",
+			"type": "Expresso Automática",
+			"technology": "Superautomática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,8 L",
+				"cups": 1,
+				"grains": "275 g"
+			},
+			"power": {
+				"watts": 1500,
+				"voltage": "Bivolt"
+			},
+			"pressure": {
+				"bar": 15,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": "AquaClean (até 5.000 cafés)"
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Lungo", "Cappuccino", "Água quente"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": "30 segundos",
+				"temperature": {
+					"min": 90,
+					"max": 96
+				},
+				"cupCapacity": 1,
+				"hasDoubleFaucet": true
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": true,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": true,
+				"hasTemperatureControl": true,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": true,
+				"hasGrinder": true,
+				"grinderType": "Cônico",
+				"grinderLevels": 12,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": true,
+				"strengthLevels": 3,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Após período de inatividade",
+				"hasWaterFilter": true,
+				"hasDescalingAlert": true
+			},
+			"design": {
+				"materials": ["Plástico", "Aço inoxidável"],
+				"color": "Cinza",
+				"coffeeType": "Grãos",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Lateral"
+			},
+			"dimensions": {
+				"width": "24,6 cm",
+				"depth": "43,3 cm",
+				"height": "37,1 cm",
+				"weight": "8 kg"
+			},
+			"accessories": {
+				"included": [
+					"Sistema LatteGo (espumador de leite)",
+					"Filtro AquaClean",
+					"Colher dosadora",
+					"Manual de instruções",
+					"Cabo de alimentação"
+				],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": false,
+				"numberOfCups": null,
+				"hasMilkContainer": true
+			},
+			"electrical": {
+				"voltage": "Bivolt",
+				"frequency": "60 Hz",
+				"powerConsumption": "1500 W",
+				"includesBatteries": false,
+				"cableLength": "100 cm"
+			},
+			"maintenance": {
+				"cleaningFrequency": "Diária (bandeja e reservatório de borras)",
+				"descalingFrequency": "Até 5.000 cafés com filtro AquaClean",
+				"filterReplacement": "8 trocas de filtro AquaClean",
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Bandeja de pingos", "Sistema LatteGo completo"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": []
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": ["Garantia do fabricante"]
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": ["85 mm a 145 mm (altura ajustável do bico)"],
+				"coffeeTypes": ["Grãos de café", "Café moído"]
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"brewingQuality": 9.0,
+				"easeOfUse": 9.5,
+				"easeCleaning": 9.0,
+				"durability": 8.5,
+				"features": 9.0,
+				"design": 8.5
+			}
+		}
+	},
+	{
+		"id": "mondial-dolce-crema-c-20-ec",
+		"name": "Dolce Crema",
+		"brand": "Mondial",
+		"line": "Café Espresso",
+		"model": "Espresso Dolce Crema",
+		"alphanumericModel": "C-20-EC",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_935625-MLA99525311366_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseYear": 2023,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/12gm5Rq",
+		"manufacturer": "Mondial",
+		"specs": {
+			"manufacturer": "Mondial",
+			"type": "Expresso",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,2 L",
+				"cups": 2,
+				"grains": null
+			},
+			"power": {
+				"watts": 1200,
+				"voltage": "Bivolt"
+			},
+			"pressure": {
+				"bar": 20,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Latte", "Cappuccino", "Mocha", "Macchiato", "Frappuccino"],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Nespresso (com adaptador)", "Dolce Gusto (com adaptador)"]
+			},
+			"brewing": {
+				"preparationTime": "18 segundos",
+				"temperature": null,
+				"cupCapacity": 2,
+				"hasDoubleFaucet": true
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": true,
+				"hasAntiDrip": true,
+				"hasCupWarmer": true,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": true,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": false,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico", "Aço inoxidável"],
+				"color": "Preto com Inox",
+				"coffeeType": "Pó",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Traseira"
+			},
+			"dimensions": {
+				"width": "30,6 cm",
+				"depth": "15,7 cm",
+				"height": "30,8 cm",
+				"weight": "3,5 kg"
+			},
+			"accessories": {
+				"included": [
+					"Porta-filtro com duas saídas",
+					"Colher dosadora com socador",
+					"Filtro para pó",
+					"Manual de instruções"
+				],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "Bivolt",
+				"frequency": "60 Hz",
+				"powerConsumption": "1200 W",
+				"includesBatteries": false,
+				"cableLength": "1 m"
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (bandeja e porta-filtro)",
+				"descalingFrequency": "Conforme necessário",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Bandeja coletora"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": []
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": ["Garantia do fabricante contra defeitos de fabricação"]
+			},
+			"compatibility": {
+				"capsuleBrands": [
+					"Nespresso (adaptador vendido separadamente)",
+					"Dolce Gusto (adaptador vendido separadamente)"
+				],
+				"cupSizes": ["40 ml (espresso)"],
+				"coffeeTypes": ["Café moído", "Cápsulas (com adaptador)"]
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"brewingQuality": 8.5,
+				"easeOfUse": 9.0,
+				"easeCleaning": 8.0,
+				"durability": 7.5,
+				"features": 8.0,
+				"design": 8.5
+			}
+		}
+	},
+	{
+		"id": "neonway-coff001-portatil",
+		"name": "Insta Coffee Portátil",
+		"brand": "Neonway",
+		"line": "Cafeteira Elétrica",
+		"model": "Insta Coffee",
+		"alphanumericModel": "Coff001",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_890274-MLB101805056037_122025-F-cafeteira-portatil-eletrica-display-digital-capsulas-e-po.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1rcPWfE",
+		"manufacturer": "Neonway",
+		"specs": {
+			"manufacturer": "Neonway",
+			"type": "Espresso",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "120 mL",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 72,
+				"voltage": "Bivolt"
+			},
+			"pressure": {
+				"bar": 20,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Lungo"],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Nespresso", "Dolce Gusto"]
+			},
+			"brewing": {
+				"preparationTime": "4-5 minutos",
+				"temperature": {
+					"min": 85,
+					"max": 95
+				},
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": false,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": true,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Automático",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico ABS resistente", "Aço inoxidável 304"],
+				"color": "Preto",
+				"coffeeType": "Ambos",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": false,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Superior"
+			},
+			"dimensions": {
+				"width": "8,3 cm",
+				"depth": "8,3 cm",
+				"height": "22 cm",
+				"weight": "500 g"
+			},
+			"accessories": {
+				"included": [
+					"Cabo USB-C para carregamento",
+					"Colher medidora",
+					"Manual de instruções",
+					"Adaptadores para cápsulas"
+				],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": false,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "Bivolt",
+				"frequency": "60 Hz",
+				"powerConsumption": "72 W",
+				"includesBatteries": true,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso",
+				"descalingFrequency": "Conforme necessário",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": []
+			},
+			"certifications": {
+				"inmetro": false,
+				"anatel": false,
+				"other": ["CE"]
+			},
+			"warranty": {
+				"general": "90 dias",
+				"parts": null,
+				"conditions": ["Garantia do fornecedor"]
+			},
+			"compatibility": {
+				"capsuleBrands": ["Nespresso", "Dolce Gusto (com adaptador)"],
+				"cupSizes": ["40 ml", "80 ml", "120 ml"],
+				"coffeeTypes": ["Café moído", "Cápsulas Nespresso", "Cápsulas Dolce Gusto"]
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"brewingQuality": 7.0,
+				"easeOfUse": 8.5,
+				"easeCleaning": 8.0,
+				"durability": 6.5,
+				"features": 7.5,
+				"design": 8.0
+			}
+		}
+	},
+	{
+		"id": "gradiente-supreme-touch-pgca012",
+		"name": "Supreme Touch",
+		"brand": "Gradiente",
+		"line": "Profissional",
+		"model": "Supreme Touch",
+		"alphanumericModel": "PGCA012",
+		"detailedModel": "PGCA012",
+		"color": "Prata e Cobre",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_875228-MLA99957147193_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseYear": 2022,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1Z4nubR",
+		"manufacturer": "Gradiente",
+		"specs": {
+			"manufacturer": "Gradiente",
+			"type": "Filtro",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,5 L",
+				"cups": 38,
+				"grains": null
+			},
+			"power": {
+				"watts": 800,
+				"voltage": "Bivolt"
+			},
+			"pressure": {
+				"bar": 0,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Coado", "Café Filtrado"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": "5-7 minutos",
+				"temperature": {
+					"min": 80,
+					"max": 80
+				},
+				"cupCapacity": 38,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": true,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": true,
+				"keepWarmTime": "120 minutos",
+				"hasProgrammableStart": true,
+				"hasStrengthControl": true,
+				"strengthLevels": 2,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "120 minutos",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico", "Aço inoxidável"],
+				"color": "Prata e Cobre",
+				"coffeeType": "Pó",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Traseira"
+			},
+			"dimensions": {
+				"width": "32,5 cm",
+				"depth": "25 cm",
+				"height": "17 cm",
+				"weight": "2 kg"
+			},
+			"accessories": {
+				"included": [
+					"Filtro permanente removível",
+					"Colher dosadora",
+					"Manual de instruções",
+					"Jarra de vidro refratário"
+				],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "Bivolt",
+				"frequency": "60 Hz",
+				"powerConsumption": "800 W",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (filtro permanente)",
+				"descalingFrequency": "Mensal ou conforme necessário",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Filtro permanente", "Bandeja coletora"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": []
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": ["Garantia do fabricante"]
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Café moído"]
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"brewingQuality": 7.5,
+				"easeOfUse": 9.0,
+				"easeCleaning": 8.5,
+				"durability": 7.5,
+				"features": 8.5,
+				"design": 9.0
+			}
+		}
+	},
+	{
+		"id": "philco-pcf04a-expresso",
+		"name": "PCF04A",
+		"brand": "Philco",
+		"line": "Coffee Express",
+		"model": "PCF04A",
+		"alphanumericModel": "PCF04A",
+		"detailedModel": "PCF04A",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_815034-MLA99531483428_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseYear": 2023,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2kWGDby",
+		"manufacturer": "Philco",
+		"specs": {
+			"manufacturer": "Philco",
+			"type": "Expresso",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,2 L",
+				"cups": 2,
+				"grains": null
+			},
+			"power": {
+				"watts": 950,
+				"voltage": "Bivolt"
+			},
+			"pressure": {
+				"bar": 20,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Cappuccino", "Latte", "Macchiato"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": "30 segundos",
+				"temperature": null,
+				"cupCapacity": 2,
+				"hasDoubleFaucet": true
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": true,
+				"hasAntiDrip": true,
+				"hasCupWarmer": true,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": true,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": false,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico", "Aço inoxidável"],
+				"color": "Preto com Inox",
+				"coffeeType": "Pó",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Traseira"
+			},
+			"dimensions": {
+				"width": "22 cm",
+				"depth": "27,3 cm",
+				"height": "28,4 cm",
+				"weight": "1,8 kg"
+			},
+			"accessories": {
+				"included": [
+					"Porta-filtro removível",
+					"Colher dosadora",
+					"Filtro para 1 xícara",
+					"Filtro para 2 xícaras",
+					"Manual de instruções"
+				],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "Bivolt",
+				"frequency": "60 Hz",
+				"powerConsumption": "950 W",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (porta-filtro e bandeja)",
+				"descalingFrequency": "Conforme necessário",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Bandeja coletora"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": []
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": ["Garantia do fabricante"]
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": ["Espresso curto", "Espresso duplo"],
+				"coffeeTypes": ["Café moído"]
+			},
+			"ratings": {
+				"costBenefit": 9.5,
+				"brewingQuality": 8.5,
+				"easeOfUse": 9.0,
+				"easeCleaning": 8.5,
+				"durability": 8.0,
+				"features": 8.5,
+				"design": 9.0
+			}
+		}
+	},
+	{
+		"id": "midea-cmm15p-preta",
+		"name": "CMM15P",
+		"brand": "Midea",
+		"model": "CMM15P",
+		"detailedModel": "CMM15P",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_604516-MLA100072586257_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/16mh6Aq",
+		"manufacturer": "Midea",
+		"specs": {
+			"manufacturer": "Midea",
+			"type": "Filtro",
+			"technology": "Tradicional",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,5 L",
+				"cups": 37,
+				"grains": null
+			},
+			"power": {
+				"watts": 1000,
+				"voltage": "127V"
+			},
+			"pressure": {
+				"bar": null,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Coado"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": null,
+				"temperature": null,
+				"cupCapacity": null,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": true,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": false,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico"],
+				"color": "Preto",
+				"coffeeType": "Pó",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": false,
+				"hasRemovableWaterTank": false,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "18,6 cm",
+				"depth": "28 cm",
+				"height": "35 cm",
+				"weight": "1,84 kg"
+			},
+			"accessories": {
+				"included": ["Manual de usuário"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": false,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "127V",
+				"frequency": null,
+				"powerConsumption": null,
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": null,
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Café em pó"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"brewingQuality": 7.5,
+				"easeOfUse": 8.5,
+				"easeCleaning": 8,
+				"durability": 7.5,
+				"features": 6.5,
+				"design": 7
+			}
+		}
+	},
+	{
+		"id": "wap-wcm20-preto-cinza",
+		"name": "WCM20",
+		"brand": "Wap",
+		"line": "Aroma Prime Prosdócimo",
+		"model": "WCM20",
+		"alphanumericModel": "WCM20",
+		"color": "Preto e Cinza",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_910521-MLA100072886333_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1fSXWEc",
+		"manufacturer": "FRESNOMAQ",
+		"specs": {
+			"manufacturer": "Wap",
+			"type": "Espresso",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,2 L",
+				"cups": null,
+				"grains": null
+			},
+			"power": {
+				"watts": 950,
+				"voltage": "127V ou 220V"
+			},
+			"pressure": {
+				"bar": 20,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Cappuccino", "Latte", "Chá", "Café com leite"],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Nespresso"]
+			},
+			"brewing": {
+				"preparationTime": null,
+				"temperature": null,
+				"cupCapacity": 2,
+				"hasDoubleFaucet": true
+			},
+			"features": {
+				"hasTimer": true,
+				"hasSteamFunction": true,
+				"hasAntiDrip": false,
+				"hasCupWarmer": true,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": true,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": false,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Polímeros e Metais"],
+				"color": "Preto e Cinza",
+				"coffeeType": "Ambos",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": false,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "25 cm",
+				"depth": "19 cm",
+				"height": "27,5 cm",
+				"weight": "3 kg"
+			},
+			"accessories": {
+				"included": [
+					"Colher dosadora com tamper",
+					"Filtro para café simples/curto",
+					"Filtro para café duplo/longo",
+					"Adaptador para cápsulas Nespresso",
+					"Porta-filtro",
+					"Manual de instruções"
+				],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": false,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "127V ou 220V",
+				"frequency": "60 Hz",
+				"powerConsumption": null,
+				"includesBatteries": false,
+				"cableLength": "0,8 m"
+			},
+			"maintenance": {
+				"cleaningFrequency": null,
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "24 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": ["Nespresso"],
+				"cupSizes": null,
+				"coffeeTypes": ["Café moído", "Cápsulas Nespresso"]
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"brewingQuality": 8.5,
+				"easeOfUse": 9,
+				"easeCleaning": 8,
+				"durability": 8,
+				"features": 8.2,
+				"design": 8.5
+			}
+		}
+	},
+	{
+		"id": "philips-walita-ep1220-preta",
+		"name": "EP1220",
+		"brand": "Philips Walita",
+		"line": "Série 1200",
+		"model": "EP1220",
+		"detailedModel": "EP1220/02",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_968593-MLA99502704490_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1RPF141",
+		"manufacturer": "Philips Walita",
+		"specs": {
+			"manufacturer": "Philips Walita",
+			"type": "Expresso",
+			"technology": "Superautomática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,8 L",
+				"cups": null,
+				"grains": "275 g"
+			},
+			"power": {
+				"watts": 1400,
+				"voltage": "127V ou 220V"
+			},
+			"pressure": {
+				"bar": 15,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Cappuccino", "Latte Macchiato", "Lungo"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": null,
+				"temperature": {
+					"min": 90,
+					"max": 98
+				},
+				"cupCapacity": 2,
+				"hasDoubleFaucet": true
+			},
+			"features": {
+				"hasTimer": true,
+				"hasSteamFunction": true,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": true,
+				"hasTemperatureControl": true,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": true,
+				"hasGrinder": true,
+				"grinderType": "Cônico",
+				"grinderLevels": 12,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": true,
+				"strengthLevels": 3,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": true
+			},
+			"design": {
+				"materials": ["Aço esmaltado", "Plástico", "Cerâmica"],
+				"color": "Preto",
+				"coffeeType": "Grãos",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "24,6 cm",
+				"depth": "43,3 cm",
+				"height": "37,2 cm",
+				"weight": "7,38 kg"
+			},
+			"accessories": {
+				"included": ["Colher dosadora", "Faixa de dureza da água", "Tubo de graxa"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "127V ou 220V",
+				"frequency": "50-60 Hz",
+				"powerConsumption": "1,5 kW/h",
+				"includesBatteries": false,
+				"cableLength": "100 cm"
+			},
+			"maintenance": {
+				"cleaningFrequency": null,
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": ["Eficiência energética A"]
+			},
+			"warranty": {
+				"general": "24 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Grãos frescos", "Pó previamente moído"]
+			},
+			"ratings": {
+				"costBenefit": 8.7,
+				"brewingQuality": 9,
+				"easeOfUse": 9,
+				"easeCleaning": 8.5,
+				"durability": 8.8,
+				"features": 8.5,
+				"design": 8.5
+			}
+		}
+	},
+	{
+		"id": "cadence-caf230-preto-vermelho",
+		"name": "CAF230",
+		"brand": "Cadence",
+		"line": "Single Up",
+		"model": "CAF230",
+		"alphanumericModel": "CAF230",
+		"color": "Preto e Vermelho",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_995719-MLA99443401184_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2qmKsNB",
+		"manufacturer": "Cadence",
+		"specs": {
+			"manufacturer": "Cadence",
+			"type": "Filtro",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "300 mL",
+				"cups": 2,
+				"grains": null
+			},
+			"power": {
+				"watts": 600,
+				"voltage": "220V"
+			},
+			"pressure": {
+				"bar": null,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Coado", "Expresso (estilo filtro)"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": null,
+				"temperature": null,
+				"cupCapacity": 2,
+				"hasDoubleFaucet": true
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": false,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": false,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico"],
+				"color": "Preto e Vermelho",
+				"coffeeType": "Pó",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": false,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "14 cm",
+				"depth": "20 cm",
+				"height": "22 cm",
+				"weight": "1 kg"
+			},
+			"accessories": {
+				"included": ["Colher dosadora", "2 xícaras exclusivas"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": 2,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "220V",
+				"frequency": null,
+				"powerConsumption": "0,6 kWh",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": null,
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Café em pó"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"brewingQuality": 7.5,
+				"easeOfUse": 9,
+				"easeCleaning": 8.5,
+				"durability": 8,
+				"features": 7,
+				"design": 8.5
+			}
+		}
+	},
+	{
+		"id": "gradiente-pgca012-cobre",
+		"name": "PGCA012",
+		"brand": "Gradiente",
+		"line": "Supreme Touch",
+		"model": "PGCA012",
+		"alphanumericModel": "PGCA012",
+		"color": "Prata e Cobre",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_646340-MLA99443347984_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2gvVAXa",
+		"manufacturer": "Gradiente",
+		"specs": {
+			"manufacturer": "Gradiente",
+			"type": "Filtro",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,5 L",
+				"cups": 38,
+				"grains": null
+			},
+			"power": {
+				"watts": 800,
+				"voltage": "127V ou 220V"
+			},
+			"pressure": {
+				"bar": null,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Coado"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": null,
+				"temperature": {
+					"min": null,
+					"max": 80
+				},
+				"cupCapacity": null,
+				"hasDoubleFaucet": true
+			},
+			"features": {
+				"hasTimer": true,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": true,
+				"hasWaterIndicator": true,
+				"hasAutoClean": true,
+				"hasTemperatureControl": true,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": true,
+				"keepWarmTime": null,
+				"hasProgrammableStart": true,
+				"hasStrengthControl": true,
+				"strengthLevels": 2,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "120 minutos",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Aço inoxidável", "Plástico"],
+				"color": "Prata e Cobre",
+				"coffeeType": "Pó",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": false,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "32,5 cm",
+				"depth": "26,5 cm",
+				"height": "16,5 cm",
+				"weight": "2 kg"
+			},
+			"accessories": {
+				"included": ["Copo térmico", "Colher medidora", "Filtro permanente"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "127V ou 220V",
+				"frequency": null,
+				"powerConsumption": "0,8 kWh",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": null,
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": ["Eficiência energética A"]
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Café em pó"]
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"brewingQuality": 8,
+				"easeOfUse": 9,
+				"easeCleaning": 8.5,
+				"durability": 8,
+				"features": 8.5,
+				"design": 9
+			}
+		}
+	},
+	{
+		"id": "gradiente-latte-easy-touch-inox",
+		"name": "Latte Easy",
+		"brand": "Gradiente",
+		"line": "Café Espresso",
+		"model": "Latte Easy",
+		"detailedModel": "Easy Latte Touch",
+		"color": "Preto e Inox",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_898589-MLA81450489289_122024-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2PjeRsf",
+		"manufacturer": "Gradiente",
+		"specs": {
+			"manufacturer": "Gradiente",
+			"type": "Espresso",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,5 L",
+				"cups": 2,
+				"grains": null
+			},
+			"power": {
+				"watts": 1200,
+				"voltage": "127V ou 220V"
+			},
+			"pressure": {
+				"bar": 20,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Cappuccino", "Latte"],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Nespresso"]
+			},
+			"brewing": {
+				"preparationTime": null,
+				"temperature": null,
+				"cupCapacity": 2,
+				"hasDoubleFaucet": true
+			},
+			"features": {
+				"hasTimer": true,
+				"hasSteamFunction": true,
+				"hasAntiDrip": true,
+				"hasCupWarmer": true,
+				"hasWaterIndicator": true,
+				"hasAutoClean": true,
+				"hasTemperatureControl": true,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": true,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": false,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Aço inoxidável"],
+				"color": "Preto e Inox",
+				"coffeeType": "Ambos",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": null,
+				"depth": null,
+				"height": null,
+				"weight": null
+			},
+			"accessories": {
+				"included": ["Colher dosadora"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": true
+			},
+			"electrical": {
+				"voltage": "127V ou 220V",
+				"frequency": null,
+				"powerConsumption": null,
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": null,
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": ["Eficiência energética A+"]
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": ["Nespresso"],
+				"cupSizes": null,
+				"coffeeTypes": ["Café moído", "Sachê", "Cápsulas Nespresso"]
+			},
+			"ratings": {
+				"costBenefit": 8.7,
+				"brewingQuality": 8.5,
+				"easeOfUse": 9,
+				"easeCleaning": 8.8,
+				"durability": 8,
+				"features": 8.5,
+				"design": 9
+			}
+		}
+	},
+	{
+		"id": "sokany-3-em-1-preta",
+		"name": "Café Expresso 3 em 1",
+		"brand": "Sokany",
+		"line": "Nespresso / Dolce-Gusto",
+		"model": "Café Expresso 3 em 1",
+		"alphanumericModel": "Café Expresso 3 em 1",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_739373-MLA88408528483_072025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ZFi2hY",
+		"manufacturer": "Sokany",
+		"specs": {
+			"manufacturer": "Sokany",
+			"type": "Espresso",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "700 mL",
+				"cups": null,
+				"grains": null
+			},
+			"power": {
+				"watts": 1400,
+				"voltage": "127V ou 220V"
+			},
+			"pressure": {
+				"bar": 20,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Cappuccino", "Latte", "Café com leite", "Bebidas quentes"],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Nespresso", "Dolce Gusto"]
+			},
+			"brewing": {
+				"preparationTime": null,
+				"temperature": null,
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": true,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": true,
+				"hasTemperatureControl": true,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": true,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Aço inoxidável", "Plástico"],
+				"color": "Preto",
+				"coffeeType": "Ambos",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "30 cm",
+				"depth": "11.5 cm",
+				"height": "25.7 cm",
+				"weight": "2.8 kg"
+			},
+			"accessories": {
+				"included": ["Colher dosadora", "Adaptadores para cápsulas", "Filtro para pó"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "127V ou 220V",
+				"frequency": "60 Hz",
+				"powerConsumption": null,
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": null,
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": ["Nespresso", "Dolce Gusto"],
+				"cupSizes": null,
+				"coffeeTypes": ["Cápsulas Nespresso", "Cápsulas Dolce Gusto", "Café em pó", "Sachê"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"brewingQuality": 8,
+				"easeOfUse": 8.8,
+				"easeCleaning": 8.5,
+				"durability": 7.5,
+				"features": 8.2,
+				"design": 8
+			}
+		}
+	},
+	{
+		"id": "hamilton-beach-48465-preta-prateada",
+		"name": "BrewStation Elite",
+		"brand": "Hamilton Beach",
+		"line": "BrewStation",
+		"model": "48465",
+		"alphanumericModel": "48465",
+		"color": "Preto e Prateado",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_910347-MLA99525902094_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2EM4Bfs",
+		"manufacturer": "Hamilton Beach",
+		"specs": {
+			"manufacturer": "Hamilton Beach",
+			"type": "Filtro",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,7 L",
+				"cups": 12,
+				"grains": null
+			},
+			"power": {
+				"watts": 950,
+				"voltage": "220V"
+			},
+			"pressure": {
+				"bar": null,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Coado", "Café Forte", "Café Gelado"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": null,
+				"temperature": null,
+				"cupCapacity": null,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": true,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": true,
+				"keepWarmTime": "até 4 horas",
+				"hasProgrammableStart": true,
+				"hasStrengthControl": true,
+				"strengthLevels": 2,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Aço inoxidável", "Plástico"],
+				"color": "Preto e Prateado",
+				"coffeeType": "Pó",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "20,5 cm",
+				"depth": "28 cm",
+				"height": "38,5 cm",
+				"weight": "1,36 kg"
+			},
+			"accessories": {
+				"included": ["Jarra interna (tanque)"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "220V",
+				"frequency": "60 Hz",
+				"powerConsumption": null,
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": null,
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": ["Eficiência energética A"]
+			},
+			"warranty": {
+				"general": "36 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Café em pó"]
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"brewingQuality": 8.5,
+				"easeOfUse": 9.2,
+				"easeCleaning": 9,
+				"durability": 8.5,
+				"features": 8.8,
+				"design": 9
+			}
+		}
+	},
+	{
+		"id": "reaken-kf440-industrial",
+		"name": "KF440",
+		"brand": "Reaken",
+		"line": "Cafeteiras Elétricas",
+		"model": "KF440",
+		"alphanumericModel": "KF440",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_931225-MLB101035199844_122025-F-cafeteira-eeletrica-automatica-55litro-industrial-de-110v.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Tu6rET",
+		"manufacturer": "Reaken",
+		"specs": {
+			"manufacturer": "Reaken",
+			"type": "Filtro",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "5,5 L",
+				"cups": null,
+				"grains": null
+			},
+			"power": {
+				"watts": 1300,
+				"voltage": "110V"
+			},
+			"pressure": {
+				"bar": null,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Coado"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": null,
+				"temperature": null,
+				"cupCapacity": null,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": true,
+				"hasWaterIndicator": false,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": true,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": false,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Aço inoxidável", "Plástico"],
+				"color": null,
+				"coffeeType": "Pó",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": false,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": null,
+				"depth": null,
+				"height": null,
+				"weight": null
+			},
+			"accessories": {
+				"included": [],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "110V",
+				"frequency": "60 Hz",
+				"powerConsumption": null,
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": null,
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Café em pó"]
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"brewingQuality": 7,
+				"easeOfUse": 8,
+				"easeCleaning": 7.5,
+				"durability": 7.5,
+				"features": 6.5,
+				"design": 7
+			}
+		}
+	},
+	{
+		"id": "reaken-kf440-industrial",
+		"name": "KF440",
+		"brand": "Reaken",
+		"line": "Cafeteiras Elétricas",
+		"model": "KF440",
+		"alphanumericModel": "KF440",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_931225-MLB101035199844_122025-F-cafeteira-eeletrica-automatica-55litro-industrial-de-110v.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Tu6rET",
+		"manufacturer": "Reaken",
+		"specs": {
+			"manufacturer": "Reaken",
+			"type": "Filtro",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "5,5 L",
+				"cups": null,
+				"grains": null
+			},
+			"power": {
+				"watts": 1300,
+				"voltage": "110V"
+			},
+			"pressure": {
+				"bar": null,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Coado"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": null,
+				"temperature": null,
+				"cupCapacity": null,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": true,
+				"hasWaterIndicator": false,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": true,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": false,
+				"autoShutoffTime": null,
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Aço inoxidável", "Plástico"],
+				"color": null,
+				"coffeeType": "Pó",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": false,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": null,
+				"depth": null,
+				"height": null,
+				"weight": null
+			},
+			"accessories": {
+				"included": [],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "110V",
+				"frequency": "60 Hz",
+				"powerConsumption": null,
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": null,
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Café em pó"]
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"brewingQuality": 7,
+				"easeOfUse": 8,
+				"easeCleaning": 7.5,
+				"durability": 7.5,
+				"features": 6.5,
+				"design": 7
+			}
+		}
+	},
+	{
+		"id": "nespresso-vertuo-pop-azul-pacifico",
+		"name": "Vertuo Pop",
+		"brand": "Nespresso",
+		"line": "Vertuo",
+		"model": "Vertuo Pop",
+		"detailedModel": "GCV2 Azul Pacífico",
+		"color": "Azul Pacífico",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_745759-MLA99579135046_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseYear": 2022,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1AcFh6j",
+		"manufacturer": "Nespresso",
+		"specs": {
+			"manufacturer": "Nespresso",
+			"type": "Espresso",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "600 mL",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 1100,
+				"voltage": "110V"
+			},
+			"pressure": {
+				"bar": 19,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Cápsula",
+				"washable": false,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Ristretto", "Espresso", "Double Espresso", "Gran Lungo", "Mug", "Alto", "Café gelado"],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Nespresso Vertuo"]
+			},
+			"brewing": {
+				"preparationTime": "30 segundos",
+				"temperature": null,
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": true,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "2 minutos",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Reciclado"],
+				"color": "Azul Pacífico",
+				"coffeeType": "Cápsulas monodose",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Traseira"
+			},
+			"dimensions": {
+				"width": "13,6 cm",
+				"depth": "42,6 cm",
+				"height": "25 cm",
+				"weight": "3,5 kg"
+			},
+			"accessories": {
+				"included": [
+					"Bandeja coletora removível",
+					"Kit de boas-vindas (cápsulas variadas)",
+					"Manual de instruções"
+				],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": false,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "110V",
+				"frequency": "60 Hz",
+				"powerConsumption": "1100 W",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (ejetor de cápsulas) e descalcificação periódica",
+				"descalingFrequency": "A cada 3 meses ou conforme uso",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "1 ano",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": ["Nespresso Vertuo"],
+				"cupSizes": [
+					"Ristretto (25 ml)",
+					"Espresso (40 ml)",
+					"Double Espresso (80 ml)",
+					"Gran Lungo (150 ml)",
+					"Mug (230 ml)",
+					"Alto (535 ml)"
+				],
+				"coffeeTypes": ["Cápsulas Vertuo exclusivamente"]
+			},
+			"ratings": {
+				"costBenefit": 8.7,
+				"brewingQuality": 9,
+				"easeOfUse": 9.5,
+				"easeCleaning": 8.5,
+				"durability": 8.2,
+				"features": 7.8,
+				"design": 9
+			}
+		}
+	},
+	{
+		"id": "arno-genio-s-basic-dgs5",
+		"name": "Genio S Basic",
+		"brand": "Arno",
+		"line": "Genio S",
+		"model": "Genio S Basic",
+		"detailedModel": "DGS5",
+		"alphanumericModel": "DGS5 Basic",
+		"color": "Cinza",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_894567-MLA99958091989_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseYear": 2023,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1NwYdon",
+		"manufacturer": "Arno",
+		"specs": {
+			"manufacturer": "Arno",
+			"type": "Cápsulas",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "800 mL",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 1350,
+				"voltage": "110V ou 220V"
+			},
+			"pressure": {
+				"bar": 15,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Cápsula",
+				"washable": false,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": [
+					"Espresso",
+					"Cappuccino",
+					"Latte Macchiato",
+					"Chococino",
+					"Café com Leite",
+					"Chocolate Quente",
+					"Chás",
+					"Bebidas Frias"
+				],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Dolce Gusto"]
+			},
+			"brewing": {
+				"preparationTime": "Cerca de 30 segundos",
+				"temperature": null,
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": false,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Modo Eco após inatividade",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico", "Aço inoxidável"],
+				"color": "Cinza",
+				"coffeeType": "Cápsulas monodose",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Traseira"
+			},
+			"dimensions": {
+				"width": "11,2 cm",
+				"depth": "28,6 cm",
+				"height": "27 cm",
+				"weight": "2 kg"
+			},
+			"accessories": {
+				"included": ["Bandeja coletora removível"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": false,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "110V ou 220V",
+				"frequency": "60 Hz",
+				"powerConsumption": "43,5 kW/h/mês (aprox.)",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (bandeja e cápsula usada)",
+				"descalingFrequency": "Conforme uso e qualidade da água",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Bandeja coletora"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "1 ano",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": ["Dolce Gusto"],
+				"cupSizes": ["Padrão Dolce Gusto", "XL (até 300 mL)"],
+				"coffeeTypes": ["Cápsulas Dolce Gusto"]
+			},
+			"ratings": {
+				"costBenefit": 8.7,
+				"brewingQuality": 8.5,
+				"easeOfUse": 9.2,
+				"easeCleaning": 8.0,
+				"durability": 8.3,
+				"features": 7.8,
+				"design": 8.5
+			}
+		}
+	},
+	{
+		"id": "tres-coracoes-touch-vermelho",
+		"name": "Touch",
+		"brand": "3 Corações",
+		"line": null,
+		"model": "Touch",
+		"detailedModel": null,
+		"alphanumericModel": null,
+		"color": "Vermelho-brilhante",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_781367-MLA99502409904_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2020",
+		"releaseYear": 2020,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1GQ1g7g",
+		"manufacturer": "3 Corações",
+		"specs": {
+			"manufacturer": "3 Corações",
+			"type": "Cápsulas",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "560 mL",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 1250,
+				"voltage": "110V ou 220V"
+			},
+			"pressure": {
+				"bar": 15,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": [
+					"Espresso",
+					"Cappuccino",
+					"Chocolatto",
+					"Café Filtrado",
+					"Chás Naturais",
+					"Bebidas Cremosas"
+				],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["TRES"]
+			},
+			"brewing": {
+				"preparationTime": "Cerca de 30 segundos",
+				"temperature": null,
+				"cupCapacity": 1,
+				"hasDoubleFaucet": true
+			},
+			"features": {
+				"hasTimer": true,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": true,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Modo de inatividade automático",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico"],
+				"color": "Vermelho-brilhante",
+				"coffeeType": "Cápsulas monodose",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "13,8 cm",
+				"depth": "29,5 cm",
+				"height": "25,5 cm",
+				"weight": "3,3 kg"
+			},
+			"accessories": {
+				"included": ["Máquina", "Cápsula de retrolavagem", "Guia rápido", "Manual", "Certificado de garantia"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": false,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "110V ou 220V",
+				"frequency": "60 Hz",
+				"powerConsumption": "13 W/h em uso, 1,2 W/h em repouso",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (bandeja e cápsulas usadas)",
+				"descalingFrequency": "Conforme uso e qualidade da água",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "5 anos",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": ["TRES"],
+				"cupSizes": ["50 mL (Espresso)", "80-120 mL (Cremosas/Filtradas)"],
+				"coffeeTypes": ["Cápsulas TRES exclusivamente"]
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"brewingQuality": 8.7,
+				"easeOfUse": 9.3,
+				"easeCleaning": 8.2,
+				"durability": 8.5,
+				"features": 8.4,
+				"design": 9.0
+			}
+		}
+	},
+	{
+		"id": "black-decker-ce1100g",
+		"name": "CE1100G",
+		"brand": "Black+Decker",
+		"line": "Gourmand Gris",
+		"model": "CE1100G",
+		"detailedModel": "CE1100G-BR",
+		"alphanumericModel": "CE1100G-BR",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_804346-MLA100293778255_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2K6UtHu",
+		"manufacturer": "Black+Decker",
+		"specs": {
+			"manufacturer": "Black+Decker",
+			"type": "Espresso",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,5 L",
+				"cups": 2,
+				"grains": null
+			},
+			"power": {
+				"watts": 1100,
+				"voltage": "127V"
+			},
+			"pressure": {
+				"bar": 20,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Espresso", "Cappuccino", "Café em Pó Tradicional", "Bebidas com Leite"],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Nespresso", "Dolce Gusto"]
+			},
+			"brewing": {
+				"preparationTime": "Cerca de 30-60 segundos",
+				"temperature": null,
+				"cupCapacity": 2,
+				"hasDoubleFaucet": true
+			},
+			"features": {
+				"hasTimer": true,
+				"hasSteamFunction": true,
+				"hasAntiDrip": true,
+				"hasCupWarmer": true,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": true,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": true,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": true,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Após 25 minutos de inatividade",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Aço inoxidável", "Plástico"],
+				"color": "Preto",
+				"coffeeType": "Ambos",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "22,7 cm",
+				"depth": "27,4 cm",
+				"height": "30 cm",
+				"weight": "2,5 kg"
+			},
+			"accessories": {
+				"included": [
+					"Espumadora de leite",
+					"Colher medidora",
+					"Adaptador para cápsulas Nespresso",
+					"Adaptador para cápsulas Dolce Gusto",
+					"Filtros para pó (curto/longo/duplo)"
+				],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "127V",
+				"frequency": "60 Hz",
+				"powerConsumption": "0,007 kWh",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (bandeja, espumador e filtros)",
+				"descalingFrequency": "Conforme uso e qualidade da água",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "1 ano",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": ["Nespresso", "Dolce Gusto"],
+				"cupSizes": ["Padrão espresso", "Até 2 xícaras simultâneas"],
+				"coffeeTypes": ["Pó", "Cápsulas Nespresso", "Cápsulas Dolce Gusto"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"brewingQuality": 8.7,
+				"easeOfUse": 8.0,
+				"easeCleaning": 7.5,
+				"durability": 8.2,
+				"features": 8.8,
+				"design": 8.4
+			}
+		}
+	},
+	{
+		"id": "cadence-to-go-caf201-preto",
+		"name": "To Go",
+		"brand": "Cadence",
+		"line": "To Go",
+		"model": "CAF201",
+		"detailedModel": "CAF201-220",
+		"alphanumericModel": "CAF201",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_767246-MLA99938470317_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2021",
+		"releaseYear": 2021,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1fxE3h6",
+		"manufacturer": "Cadence",
+		"specs": {
+			"manufacturer": "Cadence",
+			"type": "Filtro",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "400 mL",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 700,
+				"voltage": "127V ou 220V"
+			},
+			"pressure": {
+				"bar": 0,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Filtrado"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": "2-5 minutos",
+				"temperature": null,
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": false,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": false,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Após preparo",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Aço inoxidável", "Plástico"],
+				"color": "Preto",
+				"coffeeType": "Pó",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": false,
+				"hasRemovableWaterTank": false,
+				"waterTankPosition": null
+			},
+			"dimensions": {
+				"width": "13 cm",
+				"depth": "18 cm",
+				"height": "24,5 cm",
+				"weight": "860 g"
+			},
+			"accessories": {
+				"included": ["Copo térmico"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": false,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": true,
+				"numberOfCups": 1,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "127V ou 220V",
+				"frequency": "60 Hz",
+				"powerConsumption": "0,70 kWh",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (filtro removível)",
+				"descalingFrequency": null,
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": null
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "12 meses",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": ["Até 14 cm de altura"],
+				"coffeeTypes": ["Pó"]
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"brewingQuality": 8.0,
+				"easeOfUse": 9.5,
+				"easeCleaning": 9.2,
+				"durability": 8.0,
+				"features": 7.5,
+				"design": 8.5
+			}
+		}
+	},
+	{
+		"id": "oster-ocaf400-preto-prateado",
+		"name": "OCAF400",
+		"brand": "Oster",
+		"line": null,
+		"model": "OCAF400",
+		"detailedModel": null,
+		"alphanumericModel": "OCAF400",
+		"color": "Preto/Prateado",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_837510-MLA99562217516_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseYear": 2022,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1XMXEp3",
+		"manufacturer": "Oster",
+		"specs": {
+			"manufacturer": "Oster",
+			"type": "Filtro",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "700 mL",
+				"cups": 5,
+				"grains": null
+			},
+			"power": {
+				"watts": 600,
+				"voltage": "127V ou 220V"
+			},
+			"pressure": {
+				"bar": 0,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Filtrado"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": "8-10 minutos",
+				"temperature": null,
+				"cupCapacity": 5,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": true,
+				"keepWarmTime": "Várias horas (jarra térmica)",
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Após preparo",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico", "Inox (jarra térmica)"],
+				"color": "Preto/Prateado",
+				"coffeeType": "Pó",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": false,
+				"hasRemovableWaterTank": false,
+				"waterTankPosition": "Superior"
+			},
+			"dimensions": {
+				"width": "16 cm",
+				"depth": "23,6 cm",
+				"height": "31,2 cm",
+				"weight": "1,5 kg"
+			},
+			"accessories": {
+				"included": ["Jarra térmica de inox"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": false,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "127V ou 220V",
+				"frequency": "60 Hz",
+				"powerConsumption": "600 W",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (filtro e jarra)",
+				"descalingFrequency": "Conforme uso e qualidade da água",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Jarra", "Filtro permanente"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "1 ano",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Pó de café"]
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"brewingQuality": 8.2,
+				"easeOfUse": 9.0,
+				"easeCleaning": 8.7,
+				"durability": 8.4,
+				"features": 7.8,
+				"design": 8.6
+			}
+		}
+	},
+	{
+		"id": "philco-pcf20a-preto",
+		"name": "PCF20A",
+		"brand": "Philco",
+		"line": "Cafeteiras",
+		"model": "PCF20A",
+		"detailedModel": null,
+		"alphanumericModel": "PCF20A",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_692756-MLA99469873782_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseYear": 2023,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/18LizDL",
+		"manufacturer": "Philco",
+		"specs": {
+			"manufacturer": "Philco",
+			"type": "Filtro",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "720 mL",
+				"cups": 5,
+				"grains": null
+			},
+			"power": {
+				"watts": 650,
+				"voltage": "127V ou 220V"
+			},
+			"pressure": {
+				"bar": 0,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Filtrado"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": "Cerca de 5-8 minutos",
+				"temperature": null,
+				"cupCapacity": 5,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": true,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": true,
+				"keepWarmTime": "Enquanto na base aquecedora",
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Após preparo/inatividade",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico", "Aço inoxidável", "Vidro (jarra)"],
+				"color": "Preto",
+				"coffeeType": "Pó",
+				"isPortable": false,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": false,
+				"hasRemovableWaterTank": false,
+				"waterTankPosition": "Superior"
+			},
+			"dimensions": {
+				"width": "16 cm",
+				"depth": "21,3 cm",
+				"height": "27,2 cm",
+				"weight": "1,31 kg"
+			},
+			"accessories": {
+				"included": ["Colher dosadora"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": false,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "127V ou 220V",
+				"frequency": "60 Hz",
+				"powerConsumption": "650 W",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (filtro e jarra)",
+				"descalingFrequency": "Conforme uso e qualidade da água",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Filtro permanente", "Jarra de vidro"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "1 ano",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Pó de café"]
+			},
+			"ratings": {
+				"costBenefit": 8.9,
+				"brewingQuality": 8.0,
+				"easeOfUse": 9.1,
+				"easeCleaning": 8.8,
+				"durability": 8.2,
+				"features": 7.9,
+				"design": 8.5
+			}
+		}
+	},
+	{
+		"id": "britania-cp30-inox-preto-prata",
+		"name": "CP30",
+		"brand": "Britânia",
+		"line": null,
+		"model": "CP30 Inox",
+		"detailedModel": null,
+		"alphanumericModel": "CP30",
+		"color": "Preto/Prata",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_934107-MLA99492672424_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2017",
+		"releaseYear": 2017,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1hjRAtw",
+		"manufacturer": "Britânia",
+		"specs": {
+			"manufacturer": "Britânia",
+			"type": "Filtro",
+			"technology": "Semi-automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "1,2 L",
+				"cups": 6,
+				"grains": null
+			},
+			"power": {
+				"watts": 800,
+				"voltage": "127V ou 220V"
+			},
+			"pressure": {
+				"bar": 0,
+				"hasPressure": false
+			},
+			"filters": {
+				"type": "Permanente",
+				"washable": true,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": ["Café Filtrado"],
+				"capsuleCompatible": false,
+				"compatibleCapsules": null
+			},
+			"brewing": {
+				"preparationTime": "Cerca de 8-10 minutos",
+				"temperature": null,
+				"cupCapacity": 6,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": false,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": true,
+				"hasWaterIndicator": true,
+				"hasAutoClean": false,
+				"hasTemperatureControl": true,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": true,
+				"keepWarmTime": "Enquanto na placa aquecedora",
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Após preparo/inatividade",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico", "Metal/Inox", "Vidro (jarra)"],
+				"color": "Preto/Prata",
+				"coffeeType": "Pó",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": false,
+				"hasRemovableWaterTank": false,
+				"waterTankPosition": "Superior"
+			},
+			"dimensions": {
+				"width": "25,7 cm",
+				"depth": "19,8 cm",
+				"height": "32 cm",
+				"weight": "1,64 kg"
+			},
+			"accessories": {
+				"included": ["Colher dosadora"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": false,
+				"hasMeasuringSpoon": true,
+				"hasReusableFilter": true,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "127V ou 220V",
+				"frequency": "60 Hz",
+				"powerConsumption": "0,80 kWh",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (filtro e jarra)",
+				"descalingFrequency": "Conforme uso e qualidade da água",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Filtro permanente", "Jarra de vidro"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "1 ano (360 dias)",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": null,
+				"cupSizes": null,
+				"coffeeTypes": ["Pó de café"]
+			},
+			"ratings": {
+				"costBenefit": 8.9,
+				"brewingQuality": 8.1,
+				"easeOfUse": 9.0,
+				"easeCleaning": 8.7,
+				"durability": 8.0,
+				"features": 7.8,
+				"design": 8.4
+			}
+		}
+	},
+	{
+		"id": "nescafe-dolce-gusto-mini-me-preta",
+		"name": "Mini Me",
+		"brand": "Nescafé Dolce Gusto",
+		"line": "Mini Me",
+		"model": "Mini Me",
+		"detailedModel": "Mini Me Preta 220v",
+		"alphanumericModel": "DMM0",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_626577-MLA99520084810_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2015",
+		"releaseYear": 2015,
+		"category": "cafeteiras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2wK7jmz",
+		"manufacturer": "Arno",
+		"specs": {
+			"manufacturer": "Arno",
+			"type": "Cápsulas",
+			"technology": "Automática",
+			"powerSource": "Corrente doméstica",
+			"capacity": {
+				"water": "800 mL",
+				"cups": 1,
+				"grains": null
+			},
+			"power": {
+				"watts": 1500,
+				"voltage": "220V"
+			},
+			"pressure": {
+				"bar": 15,
+				"hasPressure": true
+			},
+			"filters": {
+				"type": "Cápsula",
+				"washable": false,
+				"replacement": null
+			},
+			"beverages": {
+				"recommended": [
+					"Espresso",
+					"Lungo",
+					"Cappuccino",
+					"Latte Macchiato",
+					"Chococino",
+					"Espresso Intenso",
+					"Nestea Peach",
+					"Bebidas Frias",
+					"Chás",
+					"Chocolate Quente"
+				],
+				"capsuleCompatible": true,
+				"compatibleCapsules": ["Dolce Gusto"]
+			},
+			"brewing": {
+				"preparationTime": "Cerca de 30 segundos",
+				"temperature": null,
+				"cupCapacity": 1,
+				"hasDoubleFaucet": false
+			},
+			"features": {
+				"hasTimer": true,
+				"hasSteamFunction": false,
+				"hasAntiDrip": true,
+				"hasCupWarmer": false,
+				"hasWaterIndicator": false,
+				"hasAutoClean": false,
+				"hasTemperatureControl": false,
+				"hasDigitalDisplay": false,
+				"hasMilkFrother": false,
+				"hasGrinder": false,
+				"grinderType": null,
+				"grinderLevels": null,
+				"hasKeepWarm": false,
+				"keepWarmTime": null,
+				"hasProgrammableStart": false,
+				"hasStrengthControl": false,
+				"strengthLevels": null,
+				"hasAutoShutoff": true,
+				"autoShutoffTime": "Modo Eco após inatividade",
+				"hasWaterFilter": false,
+				"hasDescalingAlert": false
+			},
+			"design": {
+				"materials": ["Plástico"],
+				"color": "Preto",
+				"coffeeType": "Cápsulas monodose",
+				"isPortable": true,
+				"isBuiltIn": false,
+				"hasRemovableDripTray": true,
+				"hasRemovableWaterTank": true,
+				"waterTankPosition": "Traseira"
+			},
+			"dimensions": {
+				"width": "16 cm",
+				"depth": "24 cm",
+				"height": "30,5 cm",
+				"weight": "2,5 kg"
+			},
+			"accessories": {
+				"included": ["Bandeja coletora removível"],
+				"interchangeablePanels": false,
+				"hasRemovableDripTray": true,
+				"hasMeasuringSpoon": false,
+				"hasReusableFilter": false,
+				"numberOfCups": null,
+				"hasMilkContainer": false
+			},
+			"electrical": {
+				"voltage": "220V",
+				"frequency": "60 Hz",
+				"powerConsumption": "A (eficiência energética)",
+				"includesBatteries": false,
+				"cableLength": null
+			},
+			"maintenance": {
+				"cleaningFrequency": "Após cada uso (bandeja e cápsula usada)",
+				"descalingFrequency": "Conforme uso e qualidade da água",
+				"filterReplacement": null,
+				"hasRemovableParts": true,
+				"dishwasherSafeParts": ["Bandeja coletora"]
+			},
+			"certifications": {
+				"inmetro": true,
+				"anatel": false,
+				"other": null
+			},
+			"warranty": {
+				"general": "1 ano",
+				"parts": null,
+				"conditions": null
+			},
+			"compatibility": {
+				"capsuleBrands": ["Dolce Gusto"],
+				"cupSizes": ["Padrão Dolce Gusto", "Personalizável (manual)"],
+				"coffeeTypes": ["Cápsulas Dolce Gusto"]
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"brewingQuality": 8.6,
+				"easeOfUse": 9.2,
+				"easeCleaning": 8.5,
+				"durability": 8.3,
+				"features": 8.0,
+				"design": 8.7
+			}
+		}
+	}
+]

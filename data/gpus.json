@@ -1,0 +1,2394 @@
+[
+	{
+		"id": "arktek-gtx-1050-ti-4gb",
+		"name": "GTX 1050 Ti 4GB",
+		"brand": "Arktek",
+		"line": "GeForce 10 Series",
+		"model": "GTX 1050 Ti",
+		"detailedModel": "GTX 1050 Ti 4GB GDDR5",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_881331-MLA99924157499_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Outubro de 2016",
+		"releaseMonth": 10,
+		"releaseYear": 2016,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/26EkNgN",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GP107",
+			"series": "GeForce 10 Series",
+			"edition": null,
+			"memory": {
+				"size": "4 GB",
+				"type": "GDDR5",
+				"bus": "128-bit",
+				"bandwidth": "112 GB/s",
+				"speed": "7000 MHz"
+			},
+			"processor": {
+				"cudaCores": 768,
+				"streamProcessors": null,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1290 MHz",
+				"boostClock": "1392 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "DVI-D, HDMI, DisplayPort",
+				"outputCount": 3,
+				"hdmiVersion": "2.0b",
+				"displayPortVersion": "1.4"
+			},
+			"power": {
+				"tdp": "75 W",
+				"tgp": null,
+				"requirement": "300 W",
+				"connector": null
+			},
+			"interface": "PCI-Express 3.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "Dual-slot",
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": false,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": false,
+				"directX": "12",
+				"openGL": "4.5",
+				"vulkan": "1.3",
+				"cuda": "6.1",
+				"openCL": "1.2"
+			},
+			"dimensions": {
+				"height": "120 mm",
+				"width": null,
+				"length": "210 mm",
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 4.5,
+				"gamingPerformance": 4.0,
+				"powerEfficiency": 8.0,
+				"cooling": 6.5,
+				"features": 3.0
+			}
+		}
+	},
+	{
+		"id": "asus-dual-rtx-5060-8gb",
+		"name": "RTX 5060 8GB Dual",
+		"brand": "Asus",
+		"line": "Dual",
+		"model": "DUAL-RTX5060-O8G",
+		"detailedModel": "ASUS Dual GeForce RTX 5060 8GB",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_607744-MLA99993401063_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Maio de 2025",
+		"releaseMonth": 5,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1bnTaRu",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GB206",
+			"series": "GeForce 50 Series",
+			"edition": "OC",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR7",
+				"bus": "128-bit",
+				"bandwidth": "448 GB/s",
+				"speed": "28 Gbps"
+			},
+			"processor": {
+				"cudaCores": 3840,
+				"streamProcessors": null,
+				"rtCores": 30,
+				"tensorCores": 120,
+				"baseClock": "2280 MHz",
+				"boostClock": "2535 MHz",
+				"ocBoostClock": "2565 MHz"
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "HDMI, DisplayPort",
+				"outputCount": 4,
+				"hdmiVersion": "2.1b",
+				"displayPortVersion": "2.1b"
+			},
+			"power": {
+				"tdp": "145 W",
+				"tgp": "550 W",
+				"requirement": "550 W",
+				"connector": "1x 8-pin"
+			},
+			"interface": "PCIe 5.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2.5-slot",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": true,
+				"dlssVersion": "4",
+				"fsr": true,
+				"fsrVersion": null,
+				"nvidiaReflex": true,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": "9.0",
+				"openCL": "3.0"
+			},
+			"dimensions": {
+				"height": "50 mm",
+				"width": "120 mm",
+				"length": "220 mm",
+				"weight": "1000 g"
+			},
+			"ratings": {
+				"costBenefit": 6.5,
+				"gamingPerformance": 7.0,
+				"powerEfficiency": 7.5,
+				"cooling": 7.0,
+				"features": 8.5
+			}
+		}
+	},
+	{
+		"id": "asrock-challenger-rx-6600-8gb",
+		"name": "RX 6600 8GB",
+		"brand": "ASRock",
+		"line": "Challenger",
+		"model": "RX 6600",
+		"detailedModel": "Asrock Challenger D RX 6600 8GB",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_747052-MLA99593664434_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Outubro de 2021",
+		"releaseMonth": 10,
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1RsXrnL",
+		"specs": {
+			"manufacturer": "AMD",
+			"chipset": "Navi 23",
+			"series": "Radeon RX 6600 Series",
+			"edition": null,
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR6",
+				"bus": "128-bit",
+				"bandwidth": "224 GB/s",
+				"speed": "14 Gbps"
+			},
+			"processor": {
+				"cudaCores": null,
+				"streamProcessors": 1792,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1626 MHz",
+				"boostClock": "2491 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "3x DisplayPort 1.4, 1x HDMI 2.1",
+				"outputCount": 4,
+				"hdmiVersion": "2.1",
+				"displayPortVersion": "1.4"
+			},
+			"power": {
+				"tdp": "132 W",
+				"tgp": "500 W",
+				"requirement": "500 W",
+				"connector": "1x 8-pin"
+			},
+			"interface": "PCI-Express 4.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "Dual-slot",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": true,
+				"fsrVersion": "2.0",
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": false,
+				"gSync": false,
+				"freeSync": true,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": null,
+				"openCL": "2.1"
+			},
+			"dimensions": {
+				"height": "132 mm",
+				"width": "41 mm",
+				"length": "269 mm",
+				"weight": "499 g"
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"gamingPerformance": 6.5,
+				"powerEfficiency": 8.0,
+				"cooling": 7.0,
+				"features": 6.5
+			}
+		}
+	},
+	{
+		"id": "msi-ventus-rtx-3050-6gb",
+		"name": "GeForce RTX 3050 Ventus 2X 6G OC",
+		"brand": "MSI",
+		"line": "Ventus",
+		"model": "GeForce RTX 3050 Ventus 2X",
+		"detailedModel": "MSI GeForce RTX 3050 Ventus 2X 6G OC",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_984252-MLA99367775990_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Fevereiro de 2024",
+		"releaseMonth": 2,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ts8yzT",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GA107",
+			"series": "GeForce 30 Series",
+			"edition": "OC",
+			"memory": {
+				"size": "6 GB",
+				"type": "GDDR6",
+				"bus": "96-bit",
+				"bandwidth": "168 GB/s",
+				"speed": "14 Gbps"
+			},
+			"processor": {
+				"cudaCores": 2304,
+				"streamProcessors": null,
+				"rtCores": 18,
+				"tensorCores": 72,
+				"baseClock": "1042 MHz",
+				"boostClock": "1470 MHz",
+				"ocBoostClock": "1485 MHz"
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "DisplayPort, HDMI",
+				"outputCount": 3,
+				"hdmiVersion": "2.1",
+				"displayPortVersion": "1.4a"
+			},
+			"power": {
+				"tdp": "70 W",
+				"tgp": null,
+				"requirement": "250 W",
+				"connector": null
+			},
+			"interface": "PCI-Express 4.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "Dual-slot",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": true,
+				"dlssVersion": "2.0",
+				"fsr": true,
+				"fsrVersion": null,
+				"nvidiaReflex": true,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": "8.6",
+				"openCL": "3.0"
+			},
+			"dimensions": {
+				"height": "40 mm",
+				"width": "180 mm",
+				"length": null,
+				"weight": "1000 g"
+			},
+			"ratings": {
+				"costBenefit": 5.5,
+				"gamingPerformance": 5.0,
+				"powerEfficiency": 8.5,
+				"cooling": 7.0,
+				"features": 7.0
+			}
+		}
+	},
+	{
+		"id": "galax-rtx-5060-8gb-black-gf",
+		"name": "RTX5060 8GB Black GF 1-click OC",
+		"brand": "Galax",
+		"line": "RTX 5060",
+		"model": "56NSN8MDDCOC",
+		"detailedModel": "GPU NV RTX5060 56NSN8MDDCOC",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_612266-MLA99853797913_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Maio de 2025",
+		"releaseMonth": 5,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ZFQcVk",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GB206",
+			"series": "GeForce 50 Series",
+			"edition": "RTX 5060 BLACK GF",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR7",
+				"bus": "128-bit",
+				"bandwidth": "448 GB/s",
+				"speed": "28 Gbps"
+			},
+			"processor": {
+				"cudaCores": 3840,
+				"streamProcessors": null,
+				"rtCores": 30,
+				"tensorCores": 120,
+				"baseClock": "2280 MHz",
+				"boostClock": "2512 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "3x DisplayPort 2.1b, 1x HDMI 2.1b",
+				"outputCount": 4,
+				"hdmiVersion": "2.1b",
+				"displayPortVersion": "2.1b"
+			},
+			"power": {
+				"tdp": "145 W",
+				"tgp": null,
+				"requirement": "300 W",
+				"connector": "1x 8-pin"
+			},
+			"interface": "PCIe 5.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": null,
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": true,
+				"dlssVersion": "4",
+				"fsr": true,
+				"fsrVersion": null,
+				"nvidiaReflex": true,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": "9.0",
+				"openCL": "3.0"
+			},
+			"dimensions": {
+				"height": "115 mm",
+				"width": "39.6 mm",
+				"length": "225 mm",
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 6.5,
+				"gamingPerformance": 7.0,
+				"powerEfficiency": 7.5,
+				"cooling": 7.0,
+				"features": 8.5
+			}
+		}
+	},
+	{
+		"id": "msi-ventus-rtx-5060-8gb-oc",
+		"name": "RTX 5060 8G VENTUS 2X OC",
+		"brand": "MSI",
+		"line": "Ventus",
+		"model": "RTX 5060 8G VENTUS 2X OC",
+		"detailedModel": "VENTUS 2X OC",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_650282-MLA99983922195_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Maio de 2025",
+		"releaseMonth": 5,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2kpViap",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GB206",
+			"series": "GeForce 50 Series",
+			"edition": "OC Edition",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR7",
+				"bus": "128-bit",
+				"bandwidth": "448 GB/s",
+				"speed": "28 Gbps"
+			},
+			"processor": {
+				"cudaCores": 3840,
+				"streamProcessors": null,
+				"rtCores": 30,
+				"tensorCores": 120,
+				"baseClock": "2280 MHz",
+				"boostClock": "2527 MHz",
+				"ocBoostClock": "2535 MHz"
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "3x DisplayPort 2.1b, 1x HDMI 2.1b",
+				"outputCount": 4,
+				"hdmiVersion": "2.1b",
+				"displayPortVersion": "2.1b"
+			},
+			"power": {
+				"tdp": "145 W",
+				"tgp": null,
+				"requirement": "550 W",
+				"connector": "1x 8-pin"
+			},
+			"interface": "PCI-Express 5.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "Dual-slot",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": true,
+				"dlssVersion": "4",
+				"fsr": true,
+				"fsrVersion": null,
+				"nvidiaReflex": true,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": "9.0",
+				"openCL": "3.0"
+			},
+			"dimensions": {
+				"height": "120 mm",
+				"width": "41 mm",
+				"length": "197 mm",
+				"weight": "511 g"
+			},
+			"ratings": {
+				"costBenefit": 6.5,
+				"gamingPerformance": 7.0,
+				"powerEfficiency": 7.5,
+				"cooling": 7.0,
+				"features": 8.5
+			}
+		}
+	},
+	{
+		"id": "revenger-rx580-8g",
+		"name": "RX580/8G",
+		"brand": "Revenger",
+		"line": "Radeon 8GB",
+		"model": "RX580/8G",
+		"detailedModel": "RX580/8G",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_738847-MLA99935835563_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Abril 2017",
+		"releaseMonth": 4,
+		"releaseYear": 2017,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2fGuvBZ",
+		"specs": {
+			"manufacturer": "AMD",
+			"chipset": "Radeon RX 580",
+			"series": "Radeon RX 500 Series",
+			"edition": null,
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR5",
+				"bus": "256 bit",
+				"bandwidth": "256 GB/s",
+				"speed": "8000 MHz"
+			},
+			"processor": {
+				"cudaCores": null,
+				"streamProcessors": 2304,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1257 MHz",
+				"boostClock": "1340 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "4096x2160",
+				"outputs": "1 HDMI, 3 DisplayPort",
+				"outputCount": 4,
+				"hdmiVersion": "2.0b",
+				"displayPortVersion": "1.4"
+			},
+			"power": {
+				"tdp": "185 W",
+				"tgp": null,
+				"requirement": "500 W",
+				"connector": "8 pin"
+			},
+			"interface": "PCI-Express 3.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2 slots",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": true,
+				"fsrVersion": "2.0",
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": true,
+				"gSync": false,
+				"freeSync": true,
+				"resizableBar": false,
+				"directX": "12",
+				"openGL": "4.5",
+				"vulkan": "1.3",
+				"cuda": null,
+				"openCL": "2.0"
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"gamingPerformance": 6,
+				"powerEfficiency": 5,
+				"cooling": 7,
+				"features": 6
+			}
+		}
+	},
+	{
+		"id": "revenger-gt730-4gb",
+		"name": "GeForce GT 730",
+		"brand": "Revenger",
+		"line": null,
+		"model": "GeForce GT 730",
+		"detailedModel": "GeForce GT 730 4GB DDR3",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_969881-MLA99509684880_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Junho 2014",
+		"releaseMonth": 6,
+		"releaseYear": 2014,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/33ycH2Y",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GeForce GT 730",
+			"series": null,
+			"edition": null,
+			"memory": {
+				"size": "4 GB",
+				"type": "GDDR3",
+				"bus": "128 bit",
+				"bandwidth": "17.6 GB/s",
+				"speed": "1400 MHz"
+			},
+			"processor": {
+				"cudaCores": 96,
+				"streamProcessors": null,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "700 MHz",
+				"boostClock": null,
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "4096x2160",
+				"outputs": "HDMI, DVI, VGA",
+				"outputCount": 3,
+				"hdmiVersion": "1.4",
+				"displayPortVersion": null
+			},
+			"power": {
+				"tdp": "49 W",
+				"tgp": null,
+				"requirement": "300 W",
+				"connector": "Sem conector adicional"
+			},
+			"interface": "PCI-Express 2.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "1 slot",
+				"fanCount": 1
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": false,
+				"gSync": false,
+				"freeSync": false,
+				"resizableBar": false,
+				"directX": "12",
+				"openGL": "4.5",
+				"vulkan": null,
+				"cuda": "Sim",
+				"openCL": null
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"gamingPerformance": 3,
+				"powerEfficiency": 8,
+				"cooling": 7,
+				"features": 4
+			}
+		}
+	},
+	{
+		"id": "zotac-rtx3060-black-12gb",
+		"name": "RTX 3060 Black Edition",
+		"brand": "Zotac",
+		"line": "Gaming",
+		"model": "RTX 3060",
+		"detailedModel": "ZT-A30600E-10M 12GB",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_772818-MLA95686191972_102025-F.webp",
+		"price": 0,
+		"releaseDate": "Fevereiro 2021",
+		"releaseMonth": 2,
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2XDHAJu",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GeForce RTX 3060",
+			"series": "GeForce RTX 30 Series",
+			"edition": "Black Edition",
+			"memory": {
+				"size": "12 GB",
+				"type": "GDDR6",
+				"bus": "192 bit",
+				"bandwidth": "360 GB/s",
+				"speed": "15000 MHz"
+			},
+			"processor": {
+				"cudaCores": 3584,
+				"streamProcessors": null,
+				"rtCores": 28,
+				"tensorCores": 112,
+				"baseClock": "1320 MHz",
+				"boostClock": "1777 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "7680x4320",
+				"outputs": "3 DisplayPort 1.4a, HDMI 2.1",
+				"outputCount": 4,
+				"hdmiVersion": "2.1",
+				"displayPortVersion": "1.4a"
+			},
+			"power": {
+				"tdp": "170 W",
+				"tgp": null,
+				"requirement": "600 W",
+				"connector": "8 pin"
+			},
+			"interface": "PCI-Express 4.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2 slots",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": true,
+				"dlssVersion": "3.0",
+				"fsr": true,
+				"fsrVersion": "2.0",
+				"nvidiaReflex": true,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": "8.6",
+				"openCL": "3.0"
+			},
+			"dimensions": {
+				"height": "10 cm",
+				"width": "4 cm",
+				"length": "28 cm",
+				"weight": "800 g"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"gamingPerformance": 7.5,
+				"powerEfficiency": 7,
+				"cooling": 7,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "gigabyte-rtx5060-wf2oc-8gb",
+		"name": "RTX 5060 Windforce OC",
+		"brand": "Gigabyte",
+		"line": "RTX 5060",
+		"model": "Windforce OC",
+		"detailedModel": "GV-N5060WF2OC-8GB",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_844442-MLA99993573853_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Maio 2025",
+		"releaseMonth": 5,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/13CpgPw",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GeForce RTX 5060",
+			"series": "GeForce RTX 50 Series",
+			"edition": "OC Edition",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR7",
+				"bus": "128 bit",
+				"bandwidth": "448 GB/s",
+				"speed": "28000 MHz"
+			},
+			"processor": {
+				"cudaCores": 3840,
+				"streamProcessors": null,
+				"rtCores": 30,
+				"tensorCores": 120,
+				"baseClock": "2250 MHz",
+				"boostClock": "2512 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "7680x4320",
+				"outputs": "DisplayPort, HDMI",
+				"outputCount": 4,
+				"hdmiVersion": "2.1b",
+				"displayPortVersion": "2.1b"
+			},
+			"power": {
+				"tdp": "170 W",
+				"tgp": null,
+				"requirement": "450 W",
+				"connector": "8 pinos"
+			},
+			"interface": "PCI-Express 5.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2 slots",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": true,
+				"dlssVersion": "4.0",
+				"fsr": true,
+				"fsrVersion": "3.0",
+				"nvidiaReflex": true,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": "8.9",
+				"openCL": "3.0"
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": "19.9 cm",
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"gamingPerformance": 7,
+				"powerEfficiency": 8,
+				"cooling": 8,
+				"features": 9
+			}
+		}
+	},
+	{
+		"id": "msi-rtx5060ti-shadow2x-16gb",
+		"name": "RTX 5060 Ti Shadow 2X OC Plus",
+		"brand": "MSI",
+		"line": "RTX 5060 Ti",
+		"model": "Shadow 2X OC Plus",
+		"detailedModel": "GPU NV RTX5060TI 912-V535-029",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_688267-MLA99580504460_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Janeiro 2025",
+		"releaseMonth": 1,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1u4r3TN",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GeForce RTX 5060 Ti",
+			"series": "GeForce RTX 50 Series",
+			"edition": "OC Edition",
+			"memory": {
+				"size": "16 GB",
+				"type": "GDDR7",
+				"bus": "128 bit",
+				"bandwidth": "448 GB/s",
+				"speed": "28000 MHz"
+			},
+			"processor": {
+				"cudaCores": 4608,
+				"streamProcessors": null,
+				"rtCores": 36,
+				"tensorCores": 144,
+				"baseClock": null,
+				"boostClock": "2602 MHz",
+				"ocBoostClock": "2617 MHz"
+			},
+			"display": {
+				"maxResolution": "7680x4320",
+				"outputs": "3 DisplayPort 2.1b, 1 HDMI 2.1b",
+				"outputCount": 4,
+				"hdmiVersion": "2.1b",
+				"displayPortVersion": "2.1b"
+			},
+			"power": {
+				"tdp": "175 W",
+				"tgp": null,
+				"requirement": "600 W",
+				"connector": "8 pin"
+			},
+			"interface": "PCI-Express 5.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2 slots",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": true,
+				"dlssVersion": "4.0",
+				"fsr": true,
+				"fsrVersion": "3.0",
+				"nvidiaReflex": true,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": "8.9",
+				"openCL": "3.0"
+			},
+			"dimensions": {
+				"height": "12 cm",
+				"width": "4 cm",
+				"length": "24.5 cm",
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"gamingPerformance": 7.5,
+				"powerEfficiency": 8,
+				"cooling": 7.5,
+				"features": 9
+			}
+		}
+	},
+	{
+		"id": "gigabyte-rx7600-gaming-oc-8gb",
+		"name": "RX 7600 Gaming OC",
+		"brand": "Gigabyte",
+		"line": "Gaming OC",
+		"model": "RX 7600",
+		"detailedModel": "GV-R76GAMING OC-8GD",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_952013-MLA99504935766_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Maio 2023",
+		"releaseMonth": 5,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/25fhvhj",
+		"specs": {
+			"manufacturer": "AMD",
+			"chipset": "Radeon RX 7600",
+			"series": "Radeon RX 7000",
+			"edition": "OC Edition",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR6",
+				"bus": "128 bit",
+				"bandwidth": "288 GB/s",
+				"speed": "18000 MHz"
+			},
+			"processor": {
+				"cudaCores": null,
+				"streamProcessors": 2048,
+				"rtCores": 32,
+				"tensorCores": null,
+				"baseClock": "2250 MHz",
+				"boostClock": "2655 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "7680x4320",
+				"outputs": "2 DisplayPort 1.4a, 2 HDMI 2.1a",
+				"outputCount": 4,
+				"hdmiVersion": "2.1a",
+				"displayPortVersion": "1.4a"
+			},
+			"power": {
+				"tdp": "165 W",
+				"tgp": null,
+				"requirement": "550 W",
+				"connector": "8 pin"
+			},
+			"interface": "PCI-Express 4.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2 slots",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": true,
+				"fsrVersion": "3.0",
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": true,
+				"gSync": false,
+				"freeSync": true,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": null,
+				"openCL": "2.1"
+			},
+			"dimensions": {
+				"height": "5 cm",
+				"width": "11 cm",
+				"length": "19.9 cm",
+				"weight": "1 kg"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"gamingPerformance": 7,
+				"powerEfficiency": 7.5,
+				"cooling": 8,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "arktek-cyclops-rx-580-8gb",
+		"name": "RX 580 8GB",
+		"brand": "Arktek",
+		"line": "Cyclops",
+		"model": "RX 580",
+		"detailedModel": "Arktek Cyclops Radeon RX 580 8GB",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_723882-MLA99498281270_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Abril de 2017",
+		"releaseMonth": 4,
+		"releaseYear": 2017,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1eZo1Ne",
+		"specs": {
+			"manufacturer": "AMD",
+			"chipset": "Polaris 20",
+			"series": "Radeon RX 500 Series",
+			"edition": "Cyclops",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR5",
+				"bus": "256-bit",
+				"bandwidth": "224 GB/s",
+				"speed": "8000 MHz"
+			},
+			"processor": {
+				"cudaCores": null,
+				"streamProcessors": 2304,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1530 MHz",
+				"boostClock": "1785 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "DisplayPort, HDMI, DVI-D",
+				"outputCount": 3,
+				"hdmiVersion": null,
+				"displayPortVersion": null
+			},
+			"power": {
+				"tdp": "125 W",
+				"tgp": null,
+				"requirement": "450 W",
+				"connector": "6 pinos"
+			},
+			"interface": "PCI-Express 3.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2",
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": true,
+				"gSync": false,
+				"freeSync": true,
+				"resizableBar": false,
+				"directX": "12",
+				"openGL": "4.5",
+				"vulkan": "1.0",
+				"cuda": null,
+				"openCL": "2.0"
+			},
+			"dimensions": {
+				"height": "41 mm",
+				"width": "131 mm",
+				"length": "228 mm",
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"gamingPerformance": 5.5,
+				"powerEfficiency": 4.0,
+				"cooling": 6.0,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "pcwinmax-rx-560-4gb",
+		"name": "RX 560 4GB",
+		"brand": "Pcwinmax",
+		"line": "RX560-4GD5",
+		"model": "RX 560",
+		"detailedModel": "Pcwinmax Radeon RX 560 4GB GDDR5",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_978641-MLA100012312273_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Maio de 2017",
+		"releaseMonth": 5,
+		"releaseYear": 2017,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/27cjHgP",
+		"specs": {
+			"manufacturer": "AMD",
+			"chipset": "Polaris 21",
+			"series": "Radeon RX 500 Series",
+			"edition": null,
+			"memory": {
+				"size": "4 GB",
+				"type": "GDDR5",
+				"bus": "128-bit",
+				"bandwidth": "112 GB/s",
+				"speed": "7000 MHz"
+			},
+			"processor": {
+				"cudaCores": null,
+				"streamProcessors": 1024,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1175 MHz",
+				"boostClock": "1275 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "DVI, DisplayPort, HDMI",
+				"outputCount": 3,
+				"hdmiVersion": null,
+				"displayPortVersion": null
+			},
+			"power": {
+				"tdp": "75 W",
+				"tgp": null,
+				"requirement": "550 W",
+				"connector": null
+			},
+			"interface": "PCI-Express 3.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": null,
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": true,
+				"gSync": false,
+				"freeSync": true,
+				"resizableBar": false,
+				"directX": "12",
+				"openGL": "4.5",
+				"vulkan": "1.0",
+				"cuda": null,
+				"openCL": "2.0"
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 7.0,
+				"gamingPerformance": 3.5,
+				"powerEfficiency": 7.0,
+				"cooling": 6.0,
+				"features": 4.0
+			}
+		}
+	},
+	{
+		"id": "geforce-gtx-750-4gb",
+		"name": "GTX 750 4GB",
+		"brand": "GeForce",
+		"line": "GeForce",
+		"model": "GTX 750",
+		"detailedModel": "GeForce GTX 750 4GB GDDR5",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_920391-MLB96756918917_102025-F.webp",
+		"price": 0,
+		"releaseDate": "Fevereiro de 2014",
+		"releaseMonth": 2,
+		"releaseYear": 2014,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1GRfbAm",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GM107",
+			"series": "GeForce 700 Series",
+			"edition": null,
+			"memory": {
+				"size": "4 GB",
+				"type": "GDDR5",
+				"bus": "128-bit",
+				"bandwidth": "80 GB/s",
+				"speed": "5000 MHz"
+			},
+			"processor": {
+				"cudaCores": 512,
+				"streamProcessors": null,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1020 MHz",
+				"boostClock": "1085 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "4K",
+				"outputs": "DVI, HDMI, DisplayPort",
+				"outputCount": 3,
+				"hdmiVersion": null,
+				"displayPortVersion": null
+			},
+			"power": {
+				"tdp": "55 W",
+				"tgp": null,
+				"requirement": "300 W",
+				"connector": null
+			},
+			"interface": "PCI-Express 3.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "Single Slot",
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": false,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": false,
+				"directX": "11",
+				"openGL": "4.4",
+				"vulkan": null,
+				"cuda": "5.0",
+				"openCL": "1.2"
+			},
+			"dimensions": {
+				"height": "38 mm",
+				"width": "120 mm",
+				"length": "175 mm",
+				"weight": "300 g"
+			},
+			"ratings": {
+				"costBenefit": 6.0,
+				"gamingPerformance": 2.5,
+				"powerEfficiency": 9.0,
+				"cooling": 7.5,
+				"features": 3.0
+			}
+		}
+	},
+	{
+		"id": "gmog-gtx-750-4gb",
+		"name": "GTX 750 4GB",
+		"brand": "GMOG",
+		"line": "GeForce",
+		"model": "GTX 750",
+		"detailedModel": "GMOG GeForce GTX 750 4GB GDDR5",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_985878-MLA99510502007_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Fevereiro de 2014",
+		"releaseMonth": 2,
+		"releaseYear": 2014,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1eNasdH",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GM107",
+			"series": "GeForce 700 Series",
+			"edition": null,
+			"memory": {
+				"size": "4 GB",
+				"type": "GDDR5",
+				"bus": "128-bit",
+				"bandwidth": "80 GB/s",
+				"speed": "5000 MHz"
+			},
+			"processor": {
+				"cudaCores": 512,
+				"streamProcessors": null,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1020 MHz",
+				"boostClock": "1085 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "4K",
+				"outputs": "VGA, DVI, HDMI",
+				"outputCount": 3,
+				"hdmiVersion": null,
+				"displayPortVersion": null
+			},
+			"power": {
+				"tdp": "55 W",
+				"tgp": null,
+				"requirement": "300 W",
+				"connector": null
+			},
+			"interface": "PCI-Express 3.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": null,
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": false,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": false,
+				"directX": "11",
+				"openGL": "4.4",
+				"vulkan": null,
+				"cuda": "5.0",
+				"openCL": "1.2"
+			},
+			"dimensions": {
+				"height": "38 mm",
+				"width": "120 mm",
+				"length": "170 mm",
+				"weight": "300 g"
+			},
+			"ratings": {
+				"costBenefit": 6.0,
+				"gamingPerformance": 2.5,
+				"powerEfficiency": 9.0,
+				"cooling": 7.5,
+				"features": 3.0
+			}
+		}
+	},
+	{
+		"id": "asrock-radeon-rx-9070-xt-steel-legend-16gb-branco",
+		"name": "RX 9070 XT 16GB",
+		"brand": "ASRock",
+		"line": "Steel Legend",
+		"model": "Radeon RX 9070 XT",
+		"detailedModel": "ASRock AMD Radeon RX 9070 XT Steel Legend 16GB ARGB Branco",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_736903-MLA99484759520_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Março de 2025",
+		"releaseMonth": 3,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1kJps5E",
+		"specs": {
+			"manufacturer": "AMD",
+			"chipset": "Navi 48",
+			"series": "Radeon RX 9000 Series",
+			"edition": "Steel Legend",
+			"memory": {
+				"size": "16 GB",
+				"type": "GDDR6",
+				"bus": "256-bit",
+				"bandwidth": "640 GB/s",
+				"speed": "20000 MHz"
+			},
+			"processor": {
+				"cudaCores": null,
+				"streamProcessors": 4096,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "2400 MHz",
+				"boostClock": "2970 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "DisplayPort 2.1a, HDMI 2.1b",
+				"outputCount": 4,
+				"hdmiVersion": "2.1b",
+				"displayPortVersion": "2.1a"
+			},
+			"power": {
+				"tdp": "304 W",
+				"tgp": null,
+				"requirement": "800 W",
+				"connector": "2x 8-pinos"
+			},
+			"interface": "PCI-Express 5.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "3",
+				"fanCount": 3
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": true,
+				"fsrVersion": "4",
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": true,
+				"gSync": false,
+				"freeSync": true,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": null,
+				"openCL": "2.2"
+			},
+			"dimensions": {
+				"height": "58 mm",
+				"width": "131 mm",
+				"length": "298 mm",
+				"weight": "1155 g"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"gamingPerformance": 9.0,
+				"powerEfficiency": 7.5,
+				"cooling": 8.5,
+				"features": 9.0
+			}
+		}
+	},
+	{
+		"id": "pcyes-radeon-r5-230-2gb",
+		"name": "R5 230 2GB",
+		"brand": "Pcyes",
+		"line": "R5",
+		"model": "R5 230",
+		"detailedModel": "Pcyes Radeon R5 230 2GB DDR3 64 Bits",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_902434-MLA99491742764_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Abril de 2014",
+		"releaseMonth": 4,
+		"releaseYear": 2014,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2xAY6Hw",
+		"specs": {
+			"manufacturer": "AMD",
+			"chipset": "Caicos",
+			"series": "Radeon R5 Series",
+			"edition": null,
+			"memory": {
+				"size": "2 GB",
+				"type": "GDDR3",
+				"bus": "64-bit",
+				"bandwidth": "10.67 GB/s",
+				"speed": "1066 MHz"
+			},
+			"processor": {
+				"cudaCores": null,
+				"streamProcessors": 160,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "625 MHz",
+				"boostClock": null,
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "Full HD",
+				"outputs": "VGA, DVI, HDMI",
+				"outputCount": 2,
+				"hdmiVersion": null,
+				"displayPortVersion": null
+			},
+			"power": {
+				"tdp": "19 W",
+				"tgp": null,
+				"requirement": "300 W",
+				"connector": null
+			},
+			"interface": "PCI-Express 2.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "1",
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": false,
+				"gSync": false,
+				"freeSync": false,
+				"resizableBar": false,
+				"directX": "11",
+				"openGL": "4.1",
+				"vulkan": null,
+				"cuda": null,
+				"openCL": "1.2"
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 5.0,
+				"gamingPerformance": 1.5,
+				"powerEfficiency": 9.5,
+				"cooling": 8.0,
+				"features": 2.0
+			}
+		}
+	},
+	{
+		"id": "gigabyte-eagle-ice-oc-rtx-5060-8gb",
+		"name": "RTX 5060 8GB",
+		"brand": "Gigabyte",
+		"line": "EAGLE ICE",
+		"model": "RTX 5060",
+		"detailedModel": "Gigabyte GeForce RTX 5060 Eagle Ice OC 8GB GDDR7",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_693636-MLA91571504368_092025-F.webp",
+		"price": 0,
+		"releaseDate": "Maio de 2025",
+		"releaseMonth": 5,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2YGcqkY",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GB206",
+			"series": "GeForce RTX 50 Series",
+			"edition": "EAGLE ICE OC",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR7",
+				"bus": "128-bit",
+				"bandwidth": "448 GB/s",
+				"speed": "28000 MHz"
+			},
+			"processor": {
+				"cudaCores": 3840,
+				"streamProcessors": null,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "2280 MHz",
+				"boostClock": "2550 MHz",
+				"ocBoostClock": "2550 MHz"
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "2x HDMI, 2x DisplayPort",
+				"outputCount": 4,
+				"hdmiVersion": "2.1",
+				"displayPortVersion": "2.1"
+			},
+			"power": {
+				"tdp": "145 W",
+				"tgp": null,
+				"requirement": "550 W",
+				"connector": "8 pinos"
+			},
+			"interface": "PCI-Express 5.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": true,
+				"dlssVersion": "4",
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": true,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": "9.0",
+				"openCL": "3.0"
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"gamingPerformance": 8.0,
+				"powerEfficiency": 8.0,
+				"cooling": 8.0,
+				"features": 9.0
+			}
+		}
+	},
+	{
+		"id": "msi-rtx-5060-ti-ventus-2x-oc-plus-8gb",
+		"name": "RTX 5060 Ti 8GB",
+		"brand": "MSI",
+		"line": "Ventus 2X",
+		"model": "RTX 5060 Ti",
+		"detailedModel": "MSI GeForce RTX 5060 Ti Ventus 2X OC Plus 8GB GDDR7",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_654059-MLA99969943953_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Abril de 2025",
+		"releaseMonth": 4,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ptJcNA",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GB206",
+			"series": "GeForce RTX 50 Series",
+			"edition": "OC Plus",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR7",
+				"bus": "128-bit",
+				"bandwidth": "448 GB/s",
+				"speed": "28000 MHz"
+			},
+			"processor": {
+				"cudaCores": 4608,
+				"streamProcessors": null,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "2407 MHz",
+				"boostClock": "2572 MHz",
+				"ocBoostClock": "2602 MHz"
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "DisplayPort, HDMI",
+				"outputCount": 4,
+				"hdmiVersion": "2.1b",
+				"displayPortVersion": "2.1b"
+			},
+			"power": {
+				"tdp": "180 W",
+				"tgp": null,
+				"requirement": "600 W",
+				"connector": "8 pinos"
+			},
+			"interface": "PCI-Express 5.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": true,
+				"dlssVersion": "4",
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": true,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": "9.0",
+				"openCL": "3.0"
+			},
+			"dimensions": {
+				"height": "41 mm",
+				"width": "127 mm",
+				"length": "227 mm",
+				"weight": "1000 g"
+			},
+			"ratings": {
+				"costBenefit": 7.0,
+				"gamingPerformance": 8.5,
+				"powerEfficiency": 8.0,
+				"cooling": 8.0,
+				"features": 9.0
+			}
+		}
+	},
+	{
+		"id": "pny-quadro-t400-4gb",
+		"name": "Quadro T400 4GB",
+		"brand": "PNY",
+		"line": "Quadro Series",
+		"model": "T400",
+		"detailedModel": "PNY Quadro T400 4GB GDDR6",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_869840-MLA99870231069_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Maio de 2021",
+		"releaseMonth": 5,
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1UAK7xL",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "TU117",
+			"series": "Quadro Series",
+			"edition": null,
+			"memory": {
+				"size": "4 GB",
+				"type": "GDDR6",
+				"bus": "64-bit",
+				"bandwidth": "80 GB/s",
+				"speed": "10000 MHz"
+			},
+			"processor": {
+				"cudaCores": 384,
+				"streamProcessors": null,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "420 MHz",
+				"boostClock": "1425 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "3x Mini DisplayPort",
+				"outputCount": 3,
+				"hdmiVersion": null,
+				"displayPortVersion": "1.4"
+			},
+			"power": {
+				"tdp": "30 W",
+				"tgp": null,
+				"requirement": "300 W",
+				"connector": null
+			},
+			"interface": "PCI-Express 3.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "Single Slot",
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": false,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": false,
+				"directX": "12",
+				"openGL": "4.6",
+				"vulkan": "1.2",
+				"cuda": "7.5",
+				"openCL": "1.2"
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 6.5,
+				"gamingPerformance": 2.0,
+				"powerEfficiency": 9.5,
+				"cooling": 8.5,
+				"features": 4.5
+			}
+		}
+	},
+	{
+		"id": "pcyes-radeon-r5-230-2gb-gddr3",
+		"name": "R5 230 2GB",
+		"brand": "Pcyes",
+		"line": "Radeon R5 200 Series",
+		"model": "R5 230",
+		"detailedModel": "Pcyes Radeon R5 230 2GB GDDR3 160 Núcleos",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_760604-MLA99935514721_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Abril de 2014",
+		"releaseMonth": 4,
+		"releaseYear": 2014,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1FTWNp8",
+		"specs": {
+			"manufacturer": "AMD",
+			"chipset": "Caicos",
+			"series": "Radeon R5 200 Series",
+			"edition": null,
+			"memory": {
+				"size": "2 GB",
+				"type": "GDDR3",
+				"bus": "64-bit",
+				"bandwidth": "10.67 GB/s",
+				"speed": "1066 MHz"
+			},
+			"processor": {
+				"cudaCores": null,
+				"streamProcessors": 160,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "625 MHz",
+				"boostClock": null,
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "Full HD",
+				"outputs": "VGA, DVI, HDMI",
+				"outputCount": 2,
+				"hdmiVersion": null,
+				"displayPortVersion": null
+			},
+			"power": {
+				"tdp": "19 W",
+				"tgp": null,
+				"requirement": "300 W",
+				"connector": null
+			},
+			"interface": "PCI-Express 2.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": null,
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": false,
+				"gSync": false,
+				"freeSync": false,
+				"resizableBar": false,
+				"directX": "11",
+				"openGL": "4.1",
+				"vulkan": null,
+				"cuda": null,
+				"openCL": "1.2"
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 5.0,
+				"gamingPerformance": 1.5,
+				"powerEfficiency": 9.5,
+				"cooling": 8.0,
+				"features": 2.0
+			}
+		}
+	},
+	{
+		"id": "pny-rtx-4060-verto-oc-8gb",
+		"name": "RTX 4060 8GB",
+		"brand": "PNY",
+		"line": "VERTO",
+		"model": "RTX 4060",
+		"detailedModel": "PNY GeForce RTX 4060 Verto OC 8GB GDDR6",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_936882-MLA99999000589_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Junho de 2023",
+		"releaseMonth": 6,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2JVFq3L",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "AD107",
+			"series": "GeForce RTX 40 Series",
+			"edition": "OC",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR6",
+				"bus": "128-bit",
+				"bandwidth": "272 GB/s",
+				"speed": "17000 MHz"
+			},
+			"processor": {
+				"cudaCores": 3072,
+				"streamProcessors": null,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1830 MHz",
+				"boostClock": "2460 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "HDMI, DisplayPort",
+				"outputCount": 4,
+				"hdmiVersion": "2.1a",
+				"displayPortVersion": "1.4a"
+			},
+			"power": {
+				"tdp": "115 W",
+				"tgp": null,
+				"requirement": "550 W",
+				"connector": null
+			},
+			"interface": "PCI-Express 4.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2",
+				"fanCount": 2
+			},
+			"features": {
+				"rayTracing": true,
+				"dlss": true,
+				"dlssVersion": "3",
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": true,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": true,
+				"directX": "12 Ultimate",
+				"openGL": "4.6",
+				"vulkan": "1.3",
+				"cuda": "8.9",
+				"openCL": "3.0"
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"gamingPerformance": 7.5,
+				"powerEfficiency": 9.0,
+				"cooling": 8.5,
+				"features": 9.0
+			}
+		}
+	},
+	{
+		"id": "arktek-cyclops-rx-580-8gb",
+		"name": "RX 580 8GB",
+		"brand": "Arktek",
+		"line": "Cyclops",
+		"model": "RX 580",
+		"detailedModel": "Arktek Cyclops Radeon RX 580 8GB GDDR5",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_723882-MLA99498281270_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Abril de 2017",
+		"releaseMonth": 4,
+		"releaseYear": 2017,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1eZo1Ne",
+		"specs": {
+			"manufacturer": "AMD",
+			"chipset": "Polaris 20",
+			"series": "Radeon RX 500 Series",
+			"edition": "Cyclops",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR5",
+				"bus": "256-bit",
+				"bandwidth": "224 GB/s",
+				"speed": "8000 MHz"
+			},
+			"processor": {
+				"cudaCores": null,
+				"streamProcessors": 2048,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1530 MHz",
+				"boostClock": "1785 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "DisplayPort, HDMI, DVI-D",
+				"outputCount": 3,
+				"hdmiVersion": null,
+				"displayPortVersion": null
+			},
+			"power": {
+				"tdp": "125 W",
+				"tgp": null,
+				"requirement": "450 W",
+				"connector": "6 pinos"
+			},
+			"interface": "PCI-Express 3.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2",
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": true,
+				"gSync": false,
+				"freeSync": true,
+				"resizableBar": false,
+				"directX": "12",
+				"openGL": "4.5",
+				"vulkan": "1.0",
+				"cuda": null,
+				"openCL": "2.0"
+			},
+			"dimensions": {
+				"height": "41 mm",
+				"width": "131 mm",
+				"length": "228 mm",
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"gamingPerformance": 5.0,
+				"powerEfficiency": 4.5,
+				"cooling": 6.5,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "aitek-delta-rx-580-8gb",
+		"name": "RX 580 8GB",
+		"brand": "Aitek",
+		"line": null,
+		"model": "DELTA-RX580",
+		"detailedModel": "Aitek DELTA Radeon RX 580 8GB GDDR5 256bit",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_927405-MLB83207446994_042025-F-placa-de-video-gamer-amd-radeon-rx580-hdmi-8gb-gddr5-256bit.webp",
+		"price": 0,
+		"releaseDate": "Abril de 2017",
+		"releaseMonth": 4,
+		"releaseYear": 2017,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2t6He1f",
+		"specs": {
+			"manufacturer": "AMD",
+			"chipset": "Polaris 20",
+			"series": "Radeon RX 500 Series",
+			"edition": "DELTA",
+			"memory": {
+				"size": "8 GB",
+				"type": "GDDR5",
+				"bus": "256-bit",
+				"bandwidth": "224 GB/s",
+				"speed": "8000 MHz"
+			},
+			"processor": {
+				"cudaCores": null,
+				"streamProcessors": 2048,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1257 MHz",
+				"boostClock": "1340 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "DVI, DisplayPort, HDMI",
+				"outputCount": 3,
+				"hdmiVersion": null,
+				"displayPortVersion": null
+			},
+			"power": {
+				"tdp": "150 W",
+				"tgp": null,
+				"requirement": "500 W",
+				"connector": "6 pinos"
+			},
+			"interface": "PCI-Express 3.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "2",
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": false,
+				"nvdec": false,
+				"vr": true,
+				"gSync": false,
+				"freeSync": true,
+				"resizableBar": false,
+				"directX": "12",
+				"openGL": "4.5",
+				"vulkan": "1.0",
+				"cuda": null,
+				"openCL": "2.0"
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"gamingPerformance": 5.0,
+				"powerEfficiency": 4.5,
+				"cooling": 6.0,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "winnfox-gtx-1060-6gb",
+		"name": "GTX 1060 6GB",
+		"brand": "Winnfox",
+		"line": "GTX1060-6GB",
+		"model": "GTX 1060",
+		"detailedModel": "Winnfox GeForce GTX 1060 6GB GDDR5 192bits",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_778243-MLB91529114101_092025-F.webp",
+		"price": 0,
+		"releaseDate": "Julho de 2016",
+		"releaseMonth": 7,
+		"releaseYear": 2016,
+		"origin": null,
+		"category": "gpus",
+		"subcategory": "placa de video",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/19a8c48",
+		"specs": {
+			"manufacturer": "Nvidia",
+			"chipset": "GP106",
+			"series": "GeForce GTX 10 Series",
+			"edition": null,
+			"memory": {
+				"size": "6 GB",
+				"type": "GDDR5",
+				"bus": "192-bit",
+				"bandwidth": "192 GB/s",
+				"speed": "8000 MHz"
+			},
+			"processor": {
+				"cudaCores": 1280,
+				"streamProcessors": null,
+				"rtCores": null,
+				"tensorCores": null,
+				"baseClock": "1556 MHz",
+				"boostClock": "1771 MHz",
+				"ocBoostClock": null
+			},
+			"display": {
+				"maxResolution": "8K",
+				"outputs": "HDMI, DisplayPort, DVI",
+				"outputCount": 3,
+				"hdmiVersion": "2.0b",
+				"displayPortVersion": "1.4"
+			},
+			"power": {
+				"tdp": "120 W",
+				"tgp": null,
+				"requirement": "400 W",
+				"connector": "6 pinos"
+			},
+			"interface": "PCI-Express 3.0",
+			"cooling": {
+				"type": "Ar",
+				"slotSize": "Dual Slot",
+				"fanCount": null
+			},
+			"features": {
+				"rayTracing": false,
+				"dlss": false,
+				"dlssVersion": null,
+				"fsr": false,
+				"fsrVersion": null,
+				"nvidiaReflex": false,
+				"nvenc": true,
+				"nvdec": true,
+				"vr": true,
+				"gSync": true,
+				"freeSync": false,
+				"resizableBar": false,
+				"directX": "12",
+				"openGL": "4.5",
+				"vulkan": "1.1",
+				"cuda": "6.1",
+				"openCL": "1.2"
+			},
+			"dimensions": {
+				"height": null,
+				"width": null,
+				"length": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 7.0,
+				"gamingPerformance": 4.5,
+				"powerEfficiency": 7.0,
+				"cooling": 7.0,
+				"features": 4.0
+			}
+		}
+	}
+]

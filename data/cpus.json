@@ -1,0 +1,4468 @@
+[
+	{
+		"id": "intel-i3-6100",
+		"name": "Core i3-6100",
+		"brand": "Intel",
+		"line": "Core i3",
+		"model": "i3-6100",
+		"alphanumericModel": "CM8066201927202",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_708440-MLA99473310232_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q3 2015",
+		"releaseMonth": 9,
+		"releaseYear": 2015,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1yXhDrZ",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "6ª Geração Skylake",
+			"architecture": "Skylake",
+			"lithography": "14 nm",
+			"socket": "FCLGA1151",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 2,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3,7 GHz",
+				"boost": "3,7 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "64 KB (32 KB I-Cache + 32 KB D-Cache por núcleo)",
+				"l2": "512 KB (256 KB por núcleo)",
+				"l3": "3 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR4-1866/2133", "DDR3L-1333/1600 @ 1.35V"],
+				"maxSize": "64 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-2133 MHz",
+				"maxBandwidth": "34,1 GB/s"
+			},
+			"power": {
+				"tdp": "51 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Intel HD Graphics 530",
+				"brand": "Intel",
+				"baseFrequency": "350 MHz",
+				"maxFrequency": "1,05 GHz",
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": "12",
+				"openGL": "4.5",
+				"outputsSupport": "eDP/DP/HDMI/DVI",
+				"maxDisplays": 3,
+				"maxResolution": "4096x2304@60Hz"
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 16
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": false,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": [
+					"Intel Secure Key",
+					"Intel AES New Instructions",
+					"Intel Software Guard Extensions (SGX)",
+					"Intel OS Guard",
+					"Intel Boot Guard"
+				]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "E97379"
+			},
+			"temperature": {
+				"max": "65°C",
+				"tjMax": "65°C"
+			},
+			"other": {
+				"isGaming": false,
+				"isOEM": true,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 6.5,
+				"singleCorePerformance": 5.5,
+				"multiCorePerformance": 4.5,
+				"gaming": 4.0,
+				"powerEfficiency": 7.0
+			}
+		}
+	},
+	{
+		"id": "intel-i3-550",
+		"name": "Core i3-550",
+		"brand": "Intel",
+		"line": "Core i3",
+		"model": "i3-550",
+		"alphanumericModel": "BX80616I3550",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_767061-MLA99525926448_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Q2 2010",
+		"releaseMonth": 5,
+		"releaseYear": 2010,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1H5CAna",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "1ª Geração Clarkdale",
+			"architecture": "Clarkdale",
+			"lithography": "32 nm",
+			"socket": "FCLGA1156",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 2,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3,2 GHz",
+				"boost": "3,2 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "64 KB (32 KB I-Cache + 32 KB D-Cache por núcleo)",
+				"l2": "512 KB (256 KB por núcleo)",
+				"l3": "4 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR3-1066/1333"],
+				"maxSize": "16 GB",
+				"channels": 2,
+				"maxSpeed": "DDR3-1333 MHz",
+				"maxBandwidth": "21 GB/s"
+			},
+			"power": {
+				"tdp": "73 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Intel HD Graphics",
+				"brand": "Intel",
+				"baseFrequency": "733 MHz",
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": 2,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "2.0",
+				"lanes": null
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": false,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": ["Intel AES New Instructions"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": null
+			},
+			"other": {
+				"isGaming": false,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 5.0,
+				"singleCorePerformance": 3.0,
+				"multiCorePerformance": 2.5,
+				"gaming": 2.0,
+				"powerEfficiency": 4.5
+			}
+		}
+	},
+	{
+		"id": "intel-i5-12400f",
+		"name": "Core i5-12400F",
+		"brand": "Intel",
+		"line": "Core i5",
+		"model": "i5-12400F",
+		"alphanumericModel": "BX8071512400F",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_702511-MLA99969847587_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2022",
+		"releaseMonth": 1,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/26dQRSh",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "12ª Geração Alder Lake",
+			"architecture": "Alder Lake",
+			"lithography": "Intel 7 (10 nm Enhanced SuperFin)",
+			"socket": "FCLGA1700",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": 6,
+				"efficientCores": 0
+			},
+			"frequency": {
+				"base": "2,5 GHz",
+				"boost": "4,4 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "480 KB (80 KB por núcleo)",
+				"l2": "7,5 MB",
+				"l3": "18 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR5-4800", "DDR4-3200"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR5-4800 MT/s",
+				"maxBandwidth": "76,8 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": "117 W",
+				"baseWatts": 65
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0 e 4.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": [
+					"Intel Secure Key",
+					"Intel AES New Instructions",
+					"Intel Control-Flow Enforcement Technology",
+					"Intel OS Guard",
+					"Intel Boot Guard"
+				]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Intel Laminar RM1"
+			},
+			"temperature": {
+				"max": "100°C",
+				"tjMax": "100°C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"singleCorePerformance": 7.5,
+				"multiCorePerformance": 7.5,
+				"gaming": 8.0,
+				"powerEfficiency": 8.0
+			}
+		}
+	},
+	{
+		"id": "intel-i5-3570",
+		"name": "Core i5-3570",
+		"brand": "Intel",
+		"line": "Core i5",
+		"model": "i5-3570",
+		"alphanumericModel": "CM8063701093103",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_720487-MLA99516839598_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q2 2012",
+		"releaseMonth": 4,
+		"releaseYear": 2012,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1JjDo7K",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "3ª Geração Ivy Bridge",
+			"architecture": "Ivy Bridge",
+			"lithography": "22 nm",
+			"socket": "FCLGA1155",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 4,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3,4 GHz",
+				"boost": "3,8 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "128 KB (32 KB I-Cache + 32 KB D-Cache por núcleo)",
+				"l2": "1 MB (256 KB por núcleo)",
+				"l3": "6 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR3-1333/1600"],
+				"maxSize": "32 GB",
+				"channels": 2,
+				"maxSpeed": "DDR3-1600 MHz",
+				"maxBandwidth": "25,6 GB/s"
+			},
+			"power": {
+				"tdp": "77 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Intel HD Graphics 2500",
+				"brand": "Intel",
+				"baseFrequency": "650 MHz",
+				"maxFrequency": "1,15 GHz",
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": "11",
+				"openGL": "4.0",
+				"outputsSupport": null,
+				"maxDisplays": 3,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 16
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": false,
+				"turboBoost": true,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": ["Intel Secure Key", "Intel AES New Instructions", "Intel Trusted Execution Technology"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": "67,4°C",
+				"tjMax": "67,4°C"
+			},
+			"other": {
+				"isGaming": false,
+				"isOEM": true,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 6.0,
+				"singleCorePerformance": 5.0,
+				"multiCorePerformance": 4.5,
+				"gaming": 4.5,
+				"powerEfficiency": 5.5
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-5600gt",
+		"name": "Ryzen 5 5600GT",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "5600GT",
+		"alphanumericModel": "100-100001488BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_975621-MLA99589746250_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Janeiro 2024",
+		"releaseMonth": 1,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1RD1NSh",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 5000 Series",
+			"architecture": "Zen 3 (Cezanne)",
+			"lithography": "7 nm",
+			"socket": "AM4",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3,6 GHz",
+				"boost": "4,6 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB",
+				"l2": "3 MB",
+				"l3": "16 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR4-3200"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-3200 MHz",
+				"maxBandwidth": "51,2 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": 65
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "AMD Radeon Graphics",
+				"brand": "AMD",
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": 7,
+				"directX": "12",
+				"openGL": null,
+				"outputsSupport": "HDMI/DisplayPort",
+				"maxDisplays": 4,
+				"maxResolution": "4096x2160@60Hz"
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": ["AMD Secure Processor"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": "95°C",
+				"tjMax": "95°C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2"],
+				"boxContents": ["Processador AMD Ryzen 5 5600GT", "Cooler Wraith Stealth"]
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"singleCorePerformance": 7.5,
+				"multiCorePerformance": 7.0,
+				"gaming": 7.5,
+				"powerEfficiency": 8.5
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-5500",
+		"name": "Ryzen 5 5500",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "5500",
+		"alphanumericModel": "100-100000457BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_806163-MLA99416647702_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Abril 2022",
+		"releaseMonth": 4,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1MRHnvT",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 5000 Series",
+			"architecture": "Zen 3 (Cezanne)",
+			"lithography": "7 nm",
+			"socket": "AM4",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3,6 GHz",
+				"boost": "4,2 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB (64 KB por núcleo)",
+				"l2": "3 MB (512 KB por núcleo)",
+				"l3": "16 MB",
+				"total": "19 MB"
+			},
+			"memory": {
+				"types": ["DDR4-3200"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-3200 MHz",
+				"maxBandwidth": "51,2 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": 65
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": ["AMD Secure Processor"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": "90°C",
+				"tjMax": "90°C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2"],
+				"boxContents": ["Processador AMD Ryzen 5 5500", "Cooler Wraith Stealth"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"singleCorePerformance": 7.0,
+				"multiCorePerformance": 7.0,
+				"gaming": 7.5,
+				"powerEfficiency": 8.0
+			}
+		}
+	},
+	{
+		"id": "intel-i5-2400",
+		"name": "Core i5-2400",
+		"brand": "Intel",
+		"line": "Core i5",
+		"model": "i5-2400",
+		"alphanumericModel": "CM8062300834106",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_973234-MLA96061427502_102025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2011",
+		"releaseMonth": 1,
+		"releaseYear": 2011,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2DPggka",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "2ª Geração Sandy Bridge",
+			"architecture": "Sandy Bridge",
+			"lithography": "32 nm",
+			"socket": "LGA1155",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 4,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3,1 GHz",
+				"boost": "3,4 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "128 KB (32 KB I-Cache + 32 KB D-Cache por núcleo)",
+				"l2": "1 MB (256 KB por núcleo)",
+				"l3": "6 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR3-1066/1333"],
+				"maxSize": "32 GB",
+				"channels": 2,
+				"maxSpeed": "DDR3-1333 MHz",
+				"maxBandwidth": "21 GB/s"
+			},
+			"power": {
+				"tdp": "95 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Intel HD Graphics 2000",
+				"brand": "Intel",
+				"baseFrequency": "850 MHz",
+				"maxFrequency": "1,1 GHz",
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": "10.1",
+				"openGL": "3.1",
+				"outputsSupport": null,
+				"maxDisplays": 2,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "2.0",
+				"lanes": 16
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": false,
+				"turboBoost": true,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": ["Intel AES New Instructions", "Intel Trusted Execution Technology"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": "72°C",
+				"tjMax": "72,6°C"
+			},
+			"other": {
+				"isGaming": false,
+				"isOEM": true,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 5.5,
+				"singleCorePerformance": 4.0,
+				"multiCorePerformance": 3.5,
+				"gaming": 3.5,
+				"powerEfficiency": 4.5
+			}
+		}
+	},
+	{
+		"id": "amd-fx-4300",
+		"name": "FX-4300",
+		"brand": "AMD",
+		"line": "FX 4-Core Black",
+		"model": "4300",
+		"alphanumericModel": "FD4300WMW4MHK",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_841234-MLA99932608425_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Outubro 2012",
+		"releaseMonth": 10,
+		"releaseYear": 2012,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1nXcChd",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "FX Series Vishera",
+			"architecture": "Piledriver (Vishera)",
+			"lithography": "32 nm",
+			"socket": "AM3+",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 4,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3,8 GHz",
+				"boost": "4,0 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "192 KB (16 KB I-Cache + 64 KB D-Cache por módulo)",
+				"l2": "4 MB (2 MB por módulo)",
+				"l3": "8 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR3-1866"],
+				"maxSize": "32 GB",
+				"channels": 2,
+				"maxSpeed": "DDR3-1866 MHz",
+				"maxBandwidth": "29,8 GB/s"
+			},
+			"power": {
+				"tdp": "95 W",
+				"maxTurbo": null,
+				"baseWatts": 95
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "2.0",
+				"lanes": 16
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": false,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": []
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": "61°C",
+				"tjMax": "61°C"
+			},
+			"other": {
+				"isGaming": false,
+				"isOEM": true,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX", "FMA3"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 4.0,
+				"singleCorePerformance": 3.0,
+				"multiCorePerformance": 3.5,
+				"gaming": 3.0,
+				"powerEfficiency": 3.0
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-7-5700",
+		"name": "Ryzen 7 5700",
+		"brand": "AMD",
+		"line": "Ryzen 7",
+		"model": "5700",
+		"alphanumericModel": "100-100000743BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_796826-MLA99992353565_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Abril 2022",
+		"releaseMonth": 4,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2S1LcTB",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 5000 Series",
+			"architecture": "Zen 3 (Cezanne)",
+			"lithography": "7 nm",
+			"socket": "AM4",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 8,
+				"threads": 16,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3,7 GHz",
+				"boost": "4,6 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "512 KB",
+				"l2": "4 MB",
+				"l3": "16 MB",
+				"total": "20 MB"
+			},
+			"memory": {
+				"types": ["DDR4-3200"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-3200 MHz",
+				"maxBandwidth": "51,2 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": 65
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": ["AMD Secure Processor"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": "95°C",
+				"tjMax": "95°C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2"],
+				"boxContents": ["Processador AMD Ryzen 7 5700", "Cooler Wraith Stealth"]
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"singleCorePerformance": 7.5,
+				"multiCorePerformance": 8.0,
+				"gaming": 7.0,
+				"powerEfficiency": 8.5
+			}
+		}
+	},
+	{
+		"id": "intel-i3-8100",
+		"name": "Core i3-8100",
+		"brand": "Intel",
+		"line": "Core i3",
+		"model": "i3-8100",
+		"alphanumericModel": "BX80684I38100",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_613285-MLA99505520286_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q4 2017",
+		"releaseMonth": 10,
+		"releaseYear": 2017,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1UJ2NXC",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "8ª Geração Coffee Lake",
+			"architecture": "Coffee Lake",
+			"lithography": "14 nm",
+			"socket": "FCLGA1151",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 4,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3,6 GHz",
+				"boost": "3,6 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "128 KB (32 KB I-Cache + 32 KB D-Cache por núcleo)",
+				"l2": "1 MB (256 KB por núcleo)",
+				"l3": "6 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR4-2400"],
+				"maxSize": "64 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-2400 MHz",
+				"maxBandwidth": "37,5 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Intel UHD Graphics 630",
+				"brand": "Intel",
+				"baseFrequency": "350 MHz",
+				"maxFrequency": "1,1 GHz",
+				"executionUnits": 24,
+				"computeUnits": null,
+				"directX": "12",
+				"openGL": "4.5",
+				"outputsSupport": "HDMI/DisplayPort/DVI",
+				"maxDisplays": 3,
+				"maxResolution": "4096x2304@60Hz"
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 16
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": ["Intel Secure Key", "Intel AES New Instructions", "Intel OS Guard", "Intel Boot Guard"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": "72°C",
+				"tjMax": "72°C"
+			},
+			"other": {
+				"isGaming": false,
+				"isOEM": true,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 6.5,
+				"singleCorePerformance": 6.0,
+				"multiCorePerformance": 5.5,
+				"gaming": 5.0,
+				"powerEfficiency": 7.0
+			}
+		}
+	},
+	{
+		"id": "intel-core-i9-11900kf",
+		"name": "Core i9-11900KF",
+		"brand": "Intel",
+		"line": "Core i9",
+		"model": "i9-11900KF",
+		"alphanumericModel": "i9-11900KF",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_953420-MLA99464965208_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2021",
+		"releaseMonth": null,
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2oifZfm",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "11th Gen Rocket Lake",
+			"architecture": "Rocket Lake",
+			"lithography": "14 nm",
+			"socket": "FCLGA1200",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 8,
+				"threads": 16,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3,5 GHz",
+				"boost": "5,3 GHz",
+				"allCoreBoost": "4,8 GHz"
+			},
+			"cache": {
+				"l1": "640 KB",
+				"l2": "4 MB",
+				"l3": "16 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR4-3200"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "3200 MHz",
+				"maxBandwidth": "51,2 GB/s"
+			},
+			"power": {
+				"tdp": "125 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "4.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": false,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": null,
+				"ecc": false,
+				"secure": ["Intel VT-x", "Intel VT-x EPT", "Intel VT-d"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": "100°C",
+				"tjMax": "100°C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": true,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2", "AVX-512"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": null,
+				"singleCorePerformance": 8.0,
+				"multiCorePerformance": 7.5,
+				"gaming": 8.5,
+				"powerEfficiency": 5.5
+			}
+		}
+	},
+	{
+		"id": "intel-core-i7-14700f",
+		"name": "Core i7-14700F",
+		"brand": "Intel",
+		"line": "Core i7",
+		"model": "i7-14700F",
+		"alphanumericModel": "14700F",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_766312-MLA104778140766_012026-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2024",
+		"releaseMonth": null,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2keBpe8",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "14th Gen Raptor Lake Refresh",
+			"architecture": "Raptor Lake Refresh",
+			"lithography": "Intel 7",
+			"socket": "LGA1700",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 20,
+				"threads": 28,
+				"performanceCores": 8,
+				"efficientCores": 12
+			},
+			"frequency": {
+				"base": "2,1 GHz",
+				"boost": "5,4 GHz",
+				"allCoreBoost": "5,3 GHz"
+			},
+			"cache": {
+				"l1": "1,12 MB",
+				"l2": "28 MB",
+				"l3": "33 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR5-5600", "DDR4-3200"],
+				"maxSize": "192 GB",
+				"channels": 2,
+				"maxSpeed": "5600 MHz",
+				"maxBandwidth": "89,6 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": "219 W",
+				"baseWatts": 65
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": ["Intel VT-x", "Intel VT-d", "Intel Boot Guard"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Intel Laminar RM1"
+			},
+			"temperature": {
+				"max": "100°C",
+				"tjMax": "100°C"
+			},
+			"other": {
+				"isGaming": false,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2", "AVX-512"],
+				"boxContents": ["Processador", "Cooler Laminar RM1"]
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"singleCorePerformance": 9.0,
+				"multiCorePerformance": 8.5,
+				"gaming": 9.0,
+				"powerEfficiency": 7.0
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-9-7900x",
+		"name": "Ryzen 9 7900X",
+		"brand": "AMD",
+		"line": "Ryzen 9",
+		"model": "7900X",
+		"alphanumericModel": "100-100000589WOF",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_618579-MLA99472299804_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q3 2022",
+		"releaseMonth": 9,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2UepGQB",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 7000 Series",
+			"architecture": "Zen 4",
+			"lithography": "5 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 12,
+				"threads": 24,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "4.7 GHz",
+				"boost": "5.6 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": null,
+				"l2": "12 MB",
+				"l3": "64 MB",
+				"total": "76 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": null,
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "170 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon Graphics",
+				"brand": "AMD",
+				"baseFrequency": null,
+				"maxFrequency": "2200 MHz",
+				"executionUnits": null,
+				"computeUnits": 2,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 28
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": null,
+				"turboBoost": null,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": null,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": null,
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"singleCorePerformance": 9.5,
+				"multiCorePerformance": 9.0,
+				"gaming": 8.5,
+				"powerEfficiency": 7.5
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-8400f",
+		"name": "Ryzen 5 8400F",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "8400F",
+		"alphanumericModel": "100-100001591BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_784158-MLA101785131978_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Q2 2024",
+		"releaseMonth": 4,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/23PrLBu",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 8000 Series",
+			"architecture": "Zen 4",
+			"lithography": "4 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "4.2 GHz",
+				"boost": "4.7 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB (64 KB por núcleo)",
+				"l2": "6 MB",
+				"l3": "16 MB",
+				"total": "22 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "256 GB",
+				"channels": 2,
+				"maxSpeed": "5200 MT/s",
+				"maxBandwidth": "83.2 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "4.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": null,
+				"turboBoost": null,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512", "SSE4.2", "FMA3"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"singleCorePerformance": 8.0,
+				"multiCorePerformance": 7.5,
+				"gaming": 7.8,
+				"powerEfficiency": 9.0
+			}
+		}
+	},
+	{
+		"id": "intel-core-i9-11900f",
+		"name": "Core i9-11900F",
+		"brand": "Intel",
+		"line": "Core i9",
+		"model": "i9-11900F",
+		"alphanumericModel": "i9-11900F - OEM",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_922246-MLA48892332019_012022-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2021",
+		"releaseMonth": 3,
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1hTjCmP",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "11th Generation Rocket Lake",
+			"architecture": "Rocket Lake",
+			"lithography": "14 nm",
+			"socket": "FCLGA1200",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 8,
+				"threads": 16,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "2.5 GHz",
+				"boost": "5.2 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "512 KB (64 KB por núcleo)",
+				"l2": "4 MB",
+				"l3": "16 MB",
+				"total": "20.5 MB"
+			},
+			"memory": {
+				"types": ["DDR4"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-3200",
+				"maxBandwidth": "50 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": "125 W",
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "4.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": null,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": ["Intel AES-NI", "Intel SGX"]
+			},
+			"cooling": {
+				"type": null,
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "100 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": true,
+				"instructionSet": ["x86-64", "SSE4.2", "AVX-512", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 6.5,
+				"singleCorePerformance": 8.5,
+				"multiCorePerformance": 7.5,
+				"gaming": 7.0,
+				"powerEfficiency": 5.5
+			}
+		}
+	},
+	{
+		"id": "intel-core-i3-2100",
+		"name": "Core i3-2100",
+		"brand": "Intel",
+		"line": "Core i3",
+		"model": "i3-2100",
+		"alphanumericModel": "BX80623I32100",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_966205-MLA44208661425_112020-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2011",
+		"releaseMonth": 2,
+		"releaseYear": 2011,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/17FbSGb",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "2ª Geração Sandy Bridge",
+			"architecture": "Sandy Bridge",
+			"lithography": "32 nm",
+			"socket": "FCLGA1155",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 2,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.1 GHz",
+				"boost": "3.1 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "128 KB (64 KB por núcleo)",
+				"l2": "512 KB (256 KB por núcleo)",
+				"l3": "3 MB",
+				"total": "3.5 MB"
+			},
+			"memory": {
+				"types": ["DDR3-1066", "DDR3-1333"],
+				"maxSize": "32 GB",
+				"channels": 2,
+				"maxSpeed": "DDR3-1333 MHz",
+				"maxBandwidth": "21 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Intel HD Graphics 2000",
+				"brand": "Intel",
+				"baseFrequency": "850 MHz",
+				"maxFrequency": "1100 MHz",
+				"executionUnits": 6,
+				"computeUnits": null,
+				"directX": "10.1",
+				"openGL": "3.1",
+				"outputsSupport": null,
+				"maxDisplays": 2,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "2.0",
+				"lanes": 16
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": false,
+				"precisionBoost": null,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": ["Intel AES-NI"]
+			},
+			"cooling": {
+				"type": null,
+				"included": true,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "85 °C"
+			},
+			"other": {
+				"isGaming": false,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 4.0,
+				"singleCorePerformance": 4.0,
+				"multiCorePerformance": 3.0,
+				"gaming": 2.5,
+				"powerEfficiency": 6.0
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-8600g",
+		"name": "Ryzen 5 8600G",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "8600G",
+		"alphanumericModel": "100-100001237BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_707101-MLA99455205676_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2024",
+		"releaseMonth": 1,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2osvDNw",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 8000G Series",
+			"architecture": "Zen 4",
+			"lithography": "4 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "4.3 GHz",
+				"boost": "5.0 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB (64 KB por núcleo)",
+				"l2": "6 MB",
+				"l3": "16 MB",
+				"total": "22 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "5200 MT/s",
+				"maxBandwidth": "83.2 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon 760M",
+				"brand": "AMD",
+				"baseFrequency": "2800 MHz",
+				"maxFrequency": "2800 MHz",
+				"executionUnits": null,
+				"computeUnits": 8,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "4.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": null,
+				"turboBoost": null,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": "95 °C",
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512", "SSE4.2", "FMA3"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"singleCorePerformance": 8.5,
+				"multiCorePerformance": 7.8,
+				"gaming": 8.5,
+				"powerEfficiency": 9.2
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-7-7700x",
+		"name": "Ryzen 7 7700X",
+		"brand": "AMD",
+		"line": "Ryzen 7",
+		"model": "7700X",
+		"alphanumericModel": "100-100000591WOF",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_742266-MLA99578794952_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Q3 2022",
+		"releaseMonth": 9,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1qCf9i3",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 7000 Series",
+			"architecture": "Zen 4",
+			"lithography": "5 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 8,
+				"threads": 16,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "4.5 GHz",
+				"boost": "5.4 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "512 KB (64 KB por núcleo)",
+				"l2": "8 MB (1 MB por núcleo)",
+				"l3": "32 MB",
+				"total": "40 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "5200 MT/s",
+				"maxBandwidth": "83.2 GB/s"
+			},
+			"power": {
+				"tdp": "105 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon Graphics",
+				"brand": "AMD",
+				"baseFrequency": "400 MHz",
+				"maxFrequency": "2200 MHz",
+				"executionUnits": null,
+				"computeUnits": 2,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 28
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": null,
+				"turboBoost": null,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": null,
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512", "SSE4.2", "FMA3"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.2,
+				"singleCorePerformance": 9.2,
+				"multiCorePerformance": 8.8,
+				"gaming": 9.0,
+				"powerEfficiency": 8.0
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-9-9900x3d",
+		"name": "Ryzen 9 9900X3D",
+		"brand": "AMD",
+		"line": "Ryzen 9",
+		"model": "9900X3D",
+		"alphanumericModel": "100-100001368WOF",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_855799-MLA99507213716_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2025",
+		"releaseMonth": 3,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2MkyXo8",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 9000 Series",
+			"architecture": "Zen 5",
+			"lithography": "4 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 12,
+				"threads": 24,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "4.4 GHz",
+				"boost": "5.5 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "960 KB",
+				"l2": "12 MB",
+				"l3": "128 MB",
+				"total": "140 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "192 GB",
+				"channels": 2,
+				"maxSpeed": "5600 MT/s",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "120 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon Graphics",
+				"brand": "AMD",
+				"baseFrequency": null,
+				"maxFrequency": "2200 MHz",
+				"executionUnits": null,
+				"computeUnits": 2,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 28
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": null,
+				"turboBoost": null,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": null,
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512", "SSE4.2", "FMA3"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"singleCorePerformance": 9.3,
+				"multiCorePerformance": 9.0,
+				"gaming": 9.8,
+				"powerEfficiency": 8.5
+			}
+		}
+	},
+	{
+		"id": "intel-core-i5-3470",
+		"name": "Core i5-3470",
+		"brand": "Intel",
+		"line": "Core i5",
+		"model": "i5-3470",
+		"alphanumericModel": "I5-3470",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_895214-MLA99510191120_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q2 2012",
+		"releaseMonth": 6,
+		"releaseYear": 2012,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1NLUjcw",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "3ª Geração Ivy Bridge",
+			"architecture": "Ivy Bridge",
+			"lithography": "22 nm",
+			"socket": "FCLGA1155",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 4,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.2 GHz",
+				"boost": "3.6 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "256 KB (64 KB por núcleo)",
+				"l2": "1 MB (256 KB por núcleo)",
+				"l3": "6 MB",
+				"total": "7.25 MB"
+			},
+			"memory": {
+				"types": ["DDR3-1333", "DDR3-1600"],
+				"maxSize": "32 GB",
+				"channels": 2,
+				"maxSpeed": "1600 MT/s",
+				"maxBandwidth": "25.6 GB/s"
+			},
+			"power": {
+				"tdp": "77 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Intel HD Graphics 2500",
+				"brand": "Intel",
+				"baseFrequency": "650 MHz",
+				"maxFrequency": "1100 MHz",
+				"executionUnits": 6,
+				"computeUnits": null,
+				"directX": "11",
+				"openGL": "4.0",
+				"outputsSupport": null,
+				"maxDisplays": 3,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 16
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": false,
+				"turboBoost": true,
+				"precisionBoost": null,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": ["Intel AES-NI"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": "72 °C",
+				"tjMax": "105 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": true,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 5.0,
+				"singleCorePerformance": 5.5,
+				"multiCorePerformance": 5.0,
+				"gaming": 4.0,
+				"powerEfficiency": 6.5
+			}
+		}
+	},
+	{
+		"id": "intel-core-i5-14600kf",
+		"name": "Core i5-14600KF",
+		"brand": "Intel",
+		"line": "Core i5",
+		"model": "i5-14600KF",
+		"alphanumericModel": "BX8071514600KF",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_871068-MLA99469890224_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q4 2023",
+		"releaseMonth": 10,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2HqhZqW",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "14th Generation Raptor Lake Refresh",
+			"architecture": "Raptor Lake",
+			"lithography": "Intel 7 (10 nm)",
+			"socket": "FCLGA1700",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 14,
+				"threads": 20,
+				"performanceCores": 6,
+				"efficientCores": 8
+			},
+			"frequency": {
+				"base": "3.5 GHz",
+				"boost": "5.3 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": null,
+				"l2": "20 MB (P-cores 2 MB cada + E-cores menores)",
+				"l3": "24 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR5", "DDR4"],
+				"maxSize": "192 GB",
+				"channels": 2,
+				"maxSpeed": "5600 MT/s (DDR5) / 3200 MT/s (DDR4)",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "125 W",
+				"maxTurbo": "181 W",
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": null,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": ["Intel AES-NI"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "100 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.2", "AVX2", "AVX-512"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"singleCorePerformance": 9.0,
+				"multiCorePerformance": 8.8,
+				"gaming": 9.2,
+				"powerEfficiency": 7.5
+			}
+		}
+	},
+	{
+		"id": "intel-core-i5-14400",
+		"name": "Core i5-14400",
+		"brand": "Intel",
+		"line": "Core i5",
+		"model": "i5-14400",
+		"alphanumericModel": "BX8071514400",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_781930-MLA99998952937_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2024",
+		"releaseMonth": 1,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2pU8KAu",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "14th Generation Raptor Lake Refresh",
+			"architecture": "Raptor Lake",
+			"lithography": "Intel 7 (10 nm)",
+			"socket": "FCLGA1700",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 10,
+				"threads": 16,
+				"performanceCores": 6,
+				"efficientCores": 4
+			},
+			"frequency": {
+				"base": "2.5 GHz",
+				"boost": "4.7 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": null,
+				"l2": "9.5 MB",
+				"l3": "20 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR5", "DDR4"],
+				"maxSize": "192 GB",
+				"channels": 2,
+				"maxSpeed": "4800 MT/s (DDR5) / 3200 MT/s (DDR4)",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": "148 W",
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Intel UHD Graphics 730",
+				"brand": "Intel",
+				"baseFrequency": "300 MHz",
+				"maxFrequency": "1550 MHz",
+				"executionUnits": 24,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": null,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": ["Intel AES-NI"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": "100 °C",
+				"tjMax": "100 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.2", "AVX2", "AVX-512"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"singleCorePerformance": 8.5,
+				"multiCorePerformance": 8.2,
+				"gaming": 8.5,
+				"powerEfficiency": 8.0
+			}
+		}
+	},
+	{
+		"id": "intel-core-i5-3470",
+		"name": "Core i5-3470",
+		"brand": "Intel",
+		"line": "Core i5",
+		"model": "i5-3470",
+		"alphanumericModel": "BX80557E2160",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_668602-MLB98354862557_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q2 2012",
+		"releaseMonth": 6,
+		"releaseYear": 2012,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1xgzLnG",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "3ª Geração Ivy Bridge",
+			"architecture": "Ivy Bridge",
+			"lithography": "22 nm",
+			"socket": "FCLGA1155",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 4,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.2 GHz",
+				"boost": "3.6 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "256 KB (64 KB por núcleo)",
+				"l2": "1 MB (256 KB por núcleo)",
+				"l3": "6 MB",
+				"total": "7.25 MB"
+			},
+			"memory": {
+				"types": ["DDR3-1333", "DDR3-1600"],
+				"maxSize": "32 GB",
+				"channels": 2,
+				"maxSpeed": "1600 MT/s",
+				"maxBandwidth": "25.6 GB/s"
+			},
+			"power": {
+				"tdp": "77 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Intel HD Graphics 2500",
+				"brand": "Intel",
+				"baseFrequency": "650 MHz",
+				"maxFrequency": "1100 MHz",
+				"executionUnits": 6,
+				"computeUnits": null,
+				"directX": "11",
+				"openGL": "4.0",
+				"outputsSupport": null,
+				"maxDisplays": 3,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 16
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": false,
+				"turboBoost": true,
+				"precisionBoost": null,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": ["Intel AES-NI"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "105 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 5.0,
+				"singleCorePerformance": 5.5,
+				"multiCorePerformance": 5.0,
+				"gaming": 4.0,
+				"powerEfficiency": 6.5
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-7-7800x3d",
+		"name": "Ryzen 7 7800X3D",
+		"brand": "AMD",
+		"line": "Ryzen 7",
+		"model": "7800X3D",
+		"alphanumericModel": "100-100000910WOF",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_772047-MLA99415879120_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q2 2023",
+		"releaseMonth": 4,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2oXrJcN",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 7000 Series",
+			"architecture": "Zen 4",
+			"lithography": "5 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 8,
+				"threads": 16,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "4.2 GHz",
+				"boost": "5.0 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "512 KB",
+				"l2": "8 MB",
+				"l3": "96 MB",
+				"total": "104.5 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "5200 MT/s",
+				"maxBandwidth": "83.2 GB/s"
+			},
+			"power": {
+				"tdp": "120 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon Graphics",
+				"brand": "AMD",
+				"baseFrequency": "400 MHz",
+				"maxFrequency": "2200 MHz",
+				"executionUnits": null,
+				"computeUnits": 2,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 28
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": null,
+				"turboBoost": null,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": "89 °C",
+				"tjMax": "89 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512", "SSE4.2", "FMA3"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 9.5,
+				"singleCorePerformance": 8.8,
+				"multiCorePerformance": 8.5,
+				"gaming": 9.8,
+				"powerEfficiency": 8.7
+			}
+		}
+	},
+	{
+		"id": "intel-core-i5-10400",
+		"name": "Core i5-10400",
+		"brand": "Intel",
+		"line": "Core i5",
+		"model": "i5-10400",
+		"alphanumericModel": "BX8070110400",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_861698-MLA91648259910_092025-F.webp",
+		"price": 0,
+		"releaseDate": "Q2 2020",
+		"releaseMonth": 5,
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2W1T3tq",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "10ª Geração Comet Lake",
+			"architecture": "Comet Lake",
+			"lithography": "14 nm",
+			"socket": "FCLGA1200",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "2.9 GHz",
+				"boost": "4.3 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB (64 KB por núcleo)",
+				"l2": "1.5 MB (256 KB por núcleo)",
+				"l3": "12 MB",
+				"total": "13.875 MB"
+			},
+			"memory": {
+				"types": ["DDR4-2666"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "2666 MT/s",
+				"maxBandwidth": "41.6 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Intel UHD Graphics 630",
+				"brand": "Intel",
+				"baseFrequency": "350 MHz",
+				"maxFrequency": "1100 MHz",
+				"executionUnits": 24,
+				"computeUnits": null,
+				"directX": "12",
+				"openGL": "4.5",
+				"outputsSupport": null,
+				"maxDisplays": 3,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 16
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": null,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": ["Intel AES-NI"]
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": "100 °C",
+				"tjMax": "100 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.2", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 7.0,
+				"singleCorePerformance": 7.0,
+				"multiCorePerformance": 7.5,
+				"gaming": 7.0,
+				"powerEfficiency": 7.5
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-7-9800x3d",
+		"name": "Ryzen 7 9800X3D",
+		"brand": "AMD",
+		"line": "Ryzen 7",
+		"model": "9800X3D",
+		"alphanumericModel": "100-100001084WOF",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_731713-MLA99495051775_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q4 2024",
+		"releaseMonth": 11,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1sh9eWK",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 9000 Series",
+			"architecture": "Zen 5",
+			"lithography": "4 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 8,
+				"threads": 16,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "4.7 GHz",
+				"boost": "5.2 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "640 KB",
+				"l2": "8 MB",
+				"l3": "96 MB",
+				"total": "104.64 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "192 GB",
+				"channels": 2,
+				"maxSpeed": "5600 MT/s",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "120 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon Graphics",
+				"brand": "AMD",
+				"baseFrequency": "400 MHz",
+				"maxFrequency": "2200 MHz",
+				"executionUnits": null,
+				"computeUnits": 2,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 28
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": null,
+				"turboBoost": null,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": null,
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512", "SSE4.2", "FMA3"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 9.2,
+				"singleCorePerformance": 9.0,
+				"multiCorePerformance": 8.7,
+				"gaming": 9.9,
+				"powerEfficiency": 8.8
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-7600",
+		"name": "Ryzen 5 7600",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "7600",
+		"alphanumericModel": "100-100001015BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_987231-MLA100064086037_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2023",
+		"releaseMonth": 1,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2b6riMt",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 7000 Series",
+			"architecture": "Zen 4",
+			"lithography": "5 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.8 GHz",
+				"boost": "5.1 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": null,
+				"l2": "6 MB",
+				"l3": "32 MB",
+				"total": "38 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR5-5200",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon Graphics",
+				"brand": "AMD",
+				"baseFrequency": "800 MHz",
+				"maxFrequency": "2.2 GHz",
+				"executionUnits": null,
+				"computeUnits": 2,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 28
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"singleCorePerformance": 9.0,
+				"multiCorePerformance": 7.5,
+				"gaming": 8.5,
+				"powerEfficiency": 9.0
+			}
+		}
+	},
+	{
+		"id": "intel-core-i3-12100f",
+		"name": "Core i3-12100F",
+		"brand": "Intel",
+		"line": "Core i3",
+		"model": "i3-12100F",
+		"alphanumericModel": "BX8071512100F",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_813184-MLA100025376007_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2022",
+		"releaseMonth": 1,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2AUpebD",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "12th Generation Alder Lake",
+			"architecture": "Alder Lake",
+			"lithography": "7 nm",
+			"socket": "FCLGA1700",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 4,
+				"threads": 8,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.3 GHz",
+				"boost": "4.3 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": null,
+				"l2": "5 MB",
+				"l3": "12 MB",
+				"total": "17 MB"
+			},
+			"memory": {
+				"types": ["DDR4", "DDR5"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR5-4800 / DDR4-3200",
+				"maxBandwidth": "76.8 GB/s"
+			},
+			"power": {
+				"tdp": "58 W",
+				"maxTurbo": "89 W",
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Intel Laminar RM1"
+			},
+			"temperature": {
+				"max": "100 °C",
+				"tjMax": "100 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"singleCorePerformance": 8.5,
+				"multiCorePerformance": 6.5,
+				"gaming": 8.0,
+				"powerEfficiency": 8.5
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-7600x",
+		"name": "Ryzen 5 7600X",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "7600X",
+		"alphanumericModel": "100-100000593WOF",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_805082-MLA99484774608_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q3 2022",
+		"releaseMonth": 9,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/18m8Pdi",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 7000 Series",
+			"architecture": "Zen 4",
+			"lithography": "5 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "4.7 GHz",
+				"boost": "5.3 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB",
+				"l2": "6 MB",
+				"l3": "32 MB",
+				"total": "38 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR5-5200",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "105 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon Graphics",
+				"brand": "AMD",
+				"baseFrequency": null,
+				"maxFrequency": "2.2 GHz",
+				"executionUnits": null,
+				"computeUnits": 2,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 28
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"singleCorePerformance": 9.0,
+				"multiCorePerformance": 7.5,
+				"gaming": 8.5,
+				"powerEfficiency": 7.0
+			}
+		}
+	},
+	{
+		"id": "intel-core-i5-3330",
+		"name": "Core i5-3330",
+		"brand": "Intel",
+		"line": "Core i5",
+		"model": "i5-3330",
+		"alphanumericModel": "BX80637I53330",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_790207-MLA99465015710_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q3 2012",
+		"releaseMonth": 7,
+		"releaseYear": 2012,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2FMaeKJ",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "3rd Generation Ivy Bridge",
+			"architecture": "Ivy Bridge",
+			"lithography": "22 nm",
+			"socket": "FCLGA1155",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 4,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.0 GHz",
+				"boost": "3.2 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "256 KB (64 KB por núcleo: 32 KB I + 32 KB D)",
+				"l2": "1 MB (256 KB por núcleo)",
+				"l3": "6 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR3"],
+				"maxSize": "32 GB",
+				"channels": 2,
+				"maxSpeed": "DDR3-1600",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "77 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "HD Graphics 2500",
+				"brand": "Intel",
+				"baseFrequency": "650 MHz",
+				"maxFrequency": "1.05 GHz",
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 16
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": false,
+				"turboBoost": true,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": "67.4 °C",
+				"tjMax": "67.4 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 3.0,
+				"singleCorePerformance": 3.5,
+				"multiCorePerformance": 3.0,
+				"gaming": 2.5,
+				"powerEfficiency": 4.0
+			}
+		}
+	},
+	{
+		"id": "intel-core-i5-12400",
+		"name": "Core i5-12400",
+		"brand": "Intel",
+		"line": "Core i5",
+		"model": "i5-12400",
+		"alphanumericModel": "BX8071512400",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_897007-MLA99584240318_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2022",
+		"releaseMonth": 1,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/21SXM1R",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "12th Generation Alder Lake",
+			"architecture": "Alder Lake",
+			"lithography": "10 nm",
+			"socket": "FCLGA1700",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "2.5 GHz",
+				"boost": "4.4 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "480 KB",
+				"l2": "7 MB",
+				"l3": "18 MB",
+				"total": "25.5 MB"
+			},
+			"memory": {
+				"types": ["DDR4", "DDR5"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR5-4800 / DDR4-3200",
+				"maxBandwidth": "76.8 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": "117 W",
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "UHD Graphics 730",
+				"brand": "Intel",
+				"baseFrequency": "300 MHz",
+				"maxFrequency": "1.45 GHz",
+				"executionUnits": 24,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": "7680 x 4320 @ 60Hz (DP)"
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Intel Laminar RM1"
+			},
+			"temperature": {
+				"max": "100 °C",
+				"tjMax": "100 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"singleCorePerformance": 8.5,
+				"multiCorePerformance": 8.0,
+				"gaming": 8.5,
+				"powerEfficiency": 9.0
+			}
+		}
+	},
+	{
+		"id": "intel-core-i7-12700f",
+		"name": "Core i7-12700F",
+		"brand": "Intel",
+		"line": "Core i7",
+		"model": "i7-12700F",
+		"alphanumericModel": "BX8071512700F",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_635854-MLA99934709337_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2022",
+		"releaseMonth": 1,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1YCK3yX",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "12th Generation Alder Lake",
+			"architecture": "Alder Lake",
+			"lithography": "7 nm",
+			"socket": "FCLGA1700",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 12,
+				"threads": 20,
+				"performanceCores": 8,
+				"efficientCores": 4
+			},
+			"frequency": {
+				"base": "2.1 GHz",
+				"boost": "4.9 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": null,
+				"l2": "12 MB",
+				"l3": "25 MB",
+				"total": null
+			},
+			"memory": {
+				"types": ["DDR4", "DDR5"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR5-4800 / DDR4-3200",
+				"maxBandwidth": "76.8 GB/s"
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": "180 W",
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Intel Laminar RM1"
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "100 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"singleCorePerformance": 8.5,
+				"multiCorePerformance": 9.0,
+				"gaming": 9.0,
+				"powerEfficiency": 8.0
+			}
+		}
+	},
+	{
+		"id": "intel-core-i7-14700f",
+		"name": "Core i7-14700F",
+		"brand": "Intel",
+		"line": "Core i7",
+		"model": "i7-14700F",
+		"alphanumericModel": "BX8071514700F",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_766312-MLA104778140766_012026-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2024",
+		"releaseMonth": 1,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2keBpe8",
+		"specs": {
+			"manufacturer": "Intel",
+			"series": "14th Generation Raptor Lake Refresh",
+			"architecture": "Raptor Lake",
+			"lithography": "7 nm",
+			"socket": "FCLGA1700",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 20,
+				"threads": 28,
+				"performanceCores": 8,
+				"efficientCores": 12
+			},
+			"frequency": {
+				"base": "2.1 GHz",
+				"boost": "5.4 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": null,
+				"l2": "28 MB",
+				"l3": "33 MB",
+				"total": "61 MB"
+			},
+			"memory": {
+				"types": ["DDR4", "DDR5"],
+				"maxSize": "192 GB",
+				"channels": 2,
+				"maxSpeed": "DDR5-5600 / DDR4-3200",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": "219 W",
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": false,
+				"hyperThreading": true,
+				"turboBoost": true,
+				"precisionBoost": false,
+				"overclocking": false,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Intel Laminar RM1"
+			},
+			"temperature": {
+				"max": "100 °C",
+				"tjMax": "100 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "SSE4.1", "SSE4.2", "AVX2", "AVX-512"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"singleCorePerformance": 9.0,
+				"multiCorePerformance": 9.5,
+				"gaming": 9.0,
+				"powerEfficiency": 8.0
+			}
+		}
+	},
+	{
+		"id": "amd-athlon-3000g",
+		"name": "Athlon 3000G",
+		"brand": "AMD",
+		"line": "Athlon",
+		"model": "3000G",
+		"alphanumericModel": "YD3000C6FHSBX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_919236-MLA99479471016_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q4 2019",
+		"releaseMonth": 11,
+		"releaseYear": 2019,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2KiQPmT",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Athlon 3000 Series",
+			"architecture": "Zen",
+			"lithography": "14 nm",
+			"socket": "AM4",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 2,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.5 GHz",
+				"boost": "3.5 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "192 KB (96 KB por núcleo)",
+				"l2": "1 MB (512 KB por núcleo)",
+				"l3": "4 MB",
+				"total": "5.192 MB"
+			},
+			"memory": {
+				"types": ["DDR4"],
+				"maxSize": "64 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-2667",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "35 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon Vega 3",
+				"brand": "AMD",
+				"baseFrequency": "300 MHz",
+				"maxFrequency": "1100 MHz",
+				"executionUnits": null,
+				"computeUnits": 3,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 6
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 7.0,
+				"singleCorePerformance": 4.0,
+				"multiCorePerformance": 3.5,
+				"gaming": 4.0,
+				"powerEfficiency": 8.5
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-9600x",
+		"name": "Ryzen 5 9600X",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "9600X",
+		"alphanumericModel": "100-100001405WOF",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_663745-MLA99988664359_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q3 2024",
+		"releaseMonth": 8,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1PJc5VE",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 9000 Series",
+			"architecture": "Zen 5",
+			"lithography": "4 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.9 GHz",
+				"boost": "5.4 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "480 KB",
+				"l2": "6 MB",
+				"l3": "32 MB",
+				"total": "38 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "192 GB",
+				"channels": 2,
+				"maxSpeed": "DDR5-5600",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon Graphics",
+				"brand": "AMD",
+				"baseFrequency": null,
+				"maxFrequency": "2.2 GHz",
+				"executionUnits": null,
+				"computeUnits": 2,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 28
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"singleCorePerformance": 9.5,
+				"multiCorePerformance": 8.0,
+				"gaming": 9.0,
+				"powerEfficiency": 9.5
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-5600",
+		"name": "Ryzen 5 5600",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "5600",
+		"alphanumericModel": "100-100000927",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_694892-MLA99468203890_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q2 2022",
+		"releaseMonth": 4,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ak7BL2",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 5000 Series",
+			"architecture": "Zen 3",
+			"lithography": "7 nm",
+			"socket": "AM4",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.5 GHz",
+				"boost": "4.4 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB",
+				"l2": "3 MB",
+				"l3": "32 MB",
+				"total": "35.384 MB"
+			},
+			"memory": {
+				"types": ["DDR4"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-3200",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "4.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": false,
+				"coolerModel": null
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": true,
+				"instructionSet": ["x86-64", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"singleCorePerformance": 8.0,
+				"multiCorePerformance": 8.0,
+				"gaming": 8.5,
+				"powerEfficiency": 9.0
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-5600t",
+		"name": "Ryzen 5 5600T",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "5600T",
+		"alphanumericModel": "100-000001584BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_970975-MLA100049329519_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Q4 2024",
+		"releaseMonth": 10,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2PFMTUv",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 5000 Series",
+			"architecture": "Zen 3",
+			"lithography": "7 nm",
+			"socket": "AM4",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.5 GHz",
+				"boost": "4.5 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB",
+				"l2": "3 MB",
+				"l3": "32 MB",
+				"total": "35.384 MB"
+			},
+			"memory": {
+				"types": ["DDR4"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-3200",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "4.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"singleCorePerformance": 8.5,
+				"multiCorePerformance": 8.5,
+				"gaming": 8.5,
+				"powerEfficiency": 9.0
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-4500",
+		"name": "Ryzen 5 4500",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "4500",
+		"alphanumericModel": "100-100000644BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_967186-MLA99939114401_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q2 2022",
+		"releaseMonth": 4,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2biCNpc",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 4000 Series",
+			"architecture": "Zen 2",
+			"lithography": "7 nm",
+			"socket": "AM4",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.6 GHz",
+				"boost": "4.1 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB",
+				"l2": "3 MB",
+				"l3": "8 MB",
+				"total": "11.384 MB"
+			},
+			"memory": {
+				"types": ["DDR4"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-3200",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "4.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"singleCorePerformance": 6.5,
+				"multiCorePerformance": 7.0,
+				"gaming": 6.5,
+				"powerEfficiency": 8.0
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-8500g",
+		"name": "Ryzen 5 8500G",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "8500G",
+		"alphanumericModel": "100-100000931BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_844455-MLA99991964421_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q1 2024",
+		"releaseMonth": 1,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2tZqEB8",
+		"shopeeUrl": "https://s.shopee.com.br/3qHAWRviJJ",
+		"amazonUrl": "https://amzn.to/4rldYwF",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 8000G Series",
+			"architecture": "Zen 4",
+			"lithography": "4 nm",
+			"socket": "AM5",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": 2,
+				"efficientCores": 4
+			},
+			"frequency": {
+				"base": "3.5 GHz",
+				"boost": "5.0 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "480 KB",
+				"l2": "6 MB",
+				"l3": "16 MB",
+				"total": "22.48 MB"
+			},
+			"memory": {
+				"types": ["DDR5"],
+				"maxSize": "256 GB",
+				"channels": 2,
+				"maxSpeed": "DDR5-5200",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon 740M",
+				"brand": "AMD",
+				"baseFrequency": "800 MHz",
+				"maxFrequency": "2.8 GHz",
+				"executionUnits": null,
+				"computeUnits": 4,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": "7680 x 4320 @ 60Hz"
+			},
+			"pcie": {
+				"version": "5.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": true,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX-512"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"singleCorePerformance": 8.5,
+				"multiCorePerformance": 8.0,
+				"gaming": 7.5,
+				"powerEfficiency": 9.0
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-7-5700",
+		"name": "Ryzen 7 5700",
+		"brand": "AMD",
+		"line": "Ryzen 7",
+		"model": "5700",
+		"alphanumericModel": "100-100000743BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_796826-MLA99992353565_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q2 2022",
+		"releaseMonth": 4,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2S1LcTB",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 5000 Series",
+			"architecture": "Zen 3",
+			"lithography": "7 nm",
+			"socket": "AM4",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 8,
+				"threads": 16,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.7 GHz",
+				"boost": "4.6 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "512 KB",
+				"l2": "4 MB",
+				"l3": "16 MB",
+				"total": "20.512 MB"
+			},
+			"memory": {
+				"types": ["DDR4"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-3200",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "4.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"singleCorePerformance": 8.0,
+				"multiCorePerformance": 8.5,
+				"gaming": 8.0,
+				"powerEfficiency": 9.0
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-5-5600xt",
+		"name": "Ryzen 5 5600XT",
+		"brand": "AMD",
+		"line": "Ryzen 5",
+		"model": "5600XT",
+		"alphanumericModel": "100-100001585BOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_701674-MLA99957303433_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Q4 2024",
+		"releaseMonth": 10,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1aaNJ71",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 5000 Series",
+			"architecture": "Zen 3",
+			"lithography": "7 nm",
+			"socket": "AM4",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 6,
+				"threads": 12,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.7 GHz",
+				"boost": "4.7 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB",
+				"l2": "3 MB",
+				"l3": "32 MB",
+				"total": "35.384 MB"
+			},
+			"memory": {
+				"types": ["DDR4"],
+				"maxSize": "128 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-3200",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": false,
+				"model": null,
+				"brand": null,
+				"baseFrequency": null,
+				"maxFrequency": null,
+				"executionUnits": null,
+				"computeUnits": null,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "4.0",
+				"lanes": 20
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": true,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": null,
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"singleCorePerformance": 8.5,
+				"multiCorePerformance": 8.5,
+				"gaming": 8.5,
+				"powerEfficiency": 9.0
+			}
+		}
+	},
+	{
+		"id": "amd-ryzen-3-3200g",
+		"name": "Ryzen 3 3200G",
+		"brand": "AMD",
+		"line": "Ryzen 3",
+		"model": "3200G",
+		"alphanumericModel": "YD3200C5FHBOX",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_641806-MLA99527450778_122025-F.webp",
+		"price": 0,
+		"releaseDate": "Q3 2019",
+		"releaseMonth": 7,
+		"releaseYear": 2019,
+		"origin": null,
+		"category": "cpus",
+		"subcategory": "processador",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ZGgvCt",
+		"specs": {
+			"manufacturer": "AMD",
+			"series": "Ryzen 3000 Series",
+			"architecture": "Zen+",
+			"lithography": "14 nm",
+			"socket": "AM4",
+			"application": "Computadores de mesa",
+			"cores": {
+				"count": 4,
+				"threads": 4,
+				"performanceCores": null,
+				"efficientCores": null
+			},
+			"frequency": {
+				"base": "3.6 GHz",
+				"boost": "4 GHz",
+				"allCoreBoost": null
+			},
+			"cache": {
+				"l1": "384 KB",
+				"l2": "2 MB",
+				"l3": "4 MB",
+				"total": "6.384 MB"
+			},
+			"memory": {
+				"types": ["DDR4"],
+				"maxSize": "64 GB",
+				"channels": 2,
+				"maxSpeed": "DDR4-2933",
+				"maxBandwidth": null
+			},
+			"power": {
+				"tdp": "65 W",
+				"maxTurbo": null,
+				"baseWatts": null
+			},
+			"graphics": {
+				"hasIntegrated": true,
+				"model": "Radeon Vega 8",
+				"brand": "AMD",
+				"baseFrequency": "300 MHz",
+				"maxFrequency": "1.25 GHz",
+				"executionUnits": null,
+				"computeUnits": 8,
+				"directX": null,
+				"openGL": null,
+				"outputsSupport": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"pcie": {
+				"version": "3.0",
+				"lanes": 6
+			},
+			"features": {
+				"unlocked": true,
+				"hyperThreading": false,
+				"turboBoost": false,
+				"precisionBoost": true,
+				"overclocking": true,
+				"virtualization": true,
+				"k4Support": false,
+				"ecc": false,
+				"secure": null
+			},
+			"cooling": {
+				"type": "Ar",
+				"included": true,
+				"coolerModel": "Wraith Stealth"
+			},
+			"temperature": {
+				"max": "95 °C",
+				"tjMax": "95 °C"
+			},
+			"other": {
+				"isGaming": true,
+				"isOEM": false,
+				"instructionSet": ["x86-64", "AVX2"],
+				"boxContents": null
+			},
+			"ratings": {
+				"costBenefit": 6.0,
+				"singleCorePerformance": 4.5,
+				"multiCorePerformance": 4.0,
+				"gaming": 4.0,
+				"powerEfficiency": 7.5
+			}
+		}
+	}
+]

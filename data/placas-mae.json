@@ -1,0 +1,6773 @@
+[
+	{
+		"id": "asus-prime-a520m-k",
+		"name": "Prime A520M-K",
+		"brand": "ASUS",
+		"line": "Prime",
+		"model": "Prime A520M-K",
+		"detailedModel": "Prime A520M-K",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_725895-MLA99492459638_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2020",
+		"releaseMonth": null,
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1sGRe3h",
+		"shopeeUrl": null,
+		"alphanumericModel": "90MB1500-M0EAY0",
+		"version": "AM4",
+		"manufacturer": "ASUS",
+		"specs": {
+			"manufacturer": "ASUS",
+			"chipset": "AMD A520",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 5000 Series", "Ryzen 4000 G-Series", "Ryzen 3000 Series"],
+				"maxTdp": null
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "4600 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"DDR4-2133",
+					"DDR4-2400",
+					"DDR4-2666",
+					"DDR4-2800",
+					"DDR4-3000",
+					"DDR4-3200",
+					"DDR4-3333",
+					"DDR4-3466",
+					"DDR4-3600",
+					"DDR4-3733",
+					"DDR4-3866",
+					"DDR4-4000",
+					"DDR4-4400",
+					"DDR4-4600"
+				],
+				"xmp": false,
+				"expo": false,
+				"ecc": true
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 2,
+						"mode": null
+					}
+				],
+				"totalSlots": 3
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC887",
+				"channels": "7.1",
+				"features": [
+					"Audio Shielding",
+					"Dedicated audio PCB layers",
+					"Jack-detection",
+					"Multi-streaming",
+					"Front Panel Jack-retasking"
+				]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 4,
+				"usb20": 4,
+				"total": 8,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": null,
+				"designPower": null,
+				"features": ["Digi+ VRM", "EPU"]
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["PCH heatsink"],
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": [
+					"5X Protection III",
+					"SafeSlot Core",
+					"Overvoltage protection",
+					"Overcurrent protection"
+				]
+			},
+			"backPanel": {
+				"ps2": 1,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x D-Sub"],
+				"other": ["1 x PS/2"]
+			},
+			"dimensions": {
+				"length": "22 cm",
+				"width": "15 cm",
+				"height": null,
+				"weight": "1 kg"
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX", "ATX"],
+				"coolers": null,
+				"notes": ["Compatível com coolers AM4"]
+			},
+			"bundled": {
+				"cables": ["2 x SATA 6Gb/s"],
+				"software": ["AI Suite 3", "Fan Xpert", "ASUS CPU-Z"],
+				"accessories": ["Manual do usuário", "I/O Shield", "1 x M.2 SSD screw package"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 6.5,
+				"vrm": 5.5,
+				"connectivity": 5.0,
+				"overclocking": 4.0,
+				"features": 5.5
+			}
+		}
+	},
+	{
+		"id": "msi-a520m-a-pro",
+		"name": "A520M-A PRO",
+		"brand": "MSI",
+		"line": "PRO",
+		"model": "A520M-A PRO",
+		"detailedModel": "A520M-A PRO",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_644232-MLA99455670876_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2020",
+		"releaseMonth": null,
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1v7GKLD",
+		"shopeeUrl": null,
+		"alphanumericModel": "7C96-001R",
+		"version": "AM4",
+		"manufacturer": "MSI",
+		"specs": {
+			"manufacturer": "MSI",
+			"chipset": "AMD A520",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": [
+					"Ryzen 5000 Series",
+					"Ryzen 5000 G-Series",
+					"Ryzen 4000 G-Series",
+					"Ryzen 3000 Series",
+					"Ryzen 3000 G-Series"
+				],
+				"maxTdp": null
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "4600 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"DDR4-1866",
+					"DDR4-2133",
+					"DDR4-2400",
+					"DDR4-2667",
+					"DDR4-2800",
+					"DDR4-2933",
+					"DDR4-3000",
+					"DDR4-3066",
+					"DDR4-3200",
+					"DDR4-3466",
+					"DDR4-3600",
+					"DDR4-3733",
+					"DDR4-3866",
+					"DDR4-4000",
+					"DDR4-4133",
+					"DDR4-4266",
+					"DDR4-4400",
+					"DDR4-4600"
+				],
+				"xmp": false,
+				"expo": false,
+				"ecc": true
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4",
+						"formFactors": ["2242", "2260", "2280", "22110"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC892/ALC897",
+				"channels": "7.1",
+				"features": ["Audio Boost", "Isolated audio PCB design"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 6,
+				"usb20": 6,
+				"total": 12,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": null,
+				"dvi": 1,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": 5,
+				"designPower": null,
+				"features": ["Core Boost", "Digital VRM"]
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["VRM heatsink", "M.2 Shield Frozr"],
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": null,
+				"argbHeaders": 1,
+				"rgbHeaders": 1
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": "Dragon Center",
+				"compatibleWith": ["RGB LED strips", "ARGB LED strips"]
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": 2,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x DVI-D"],
+				"other": ["2 x PS/2"]
+			},
+			"dimensions": {
+				"length": "26 cm",
+				"width": "27 cm",
+				"height": null,
+				"weight": "1 kg"
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX", "ATX"],
+				"coolers": null,
+				"notes": ["Compatível com coolers AM4"]
+			},
+			"bundled": {
+				"cables": ["SATA 6Gb/s"],
+				"software": ["Dragon Center", "Click BIOS 5"],
+				"accessories": ["Manual do usuário", "I/O Shield", "M.2 screw package"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 6.0,
+				"vrm": 5.0,
+				"connectivity": 5.5,
+				"overclocking": 3.5,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "gigabyte-b550m-aorus-elite",
+		"name": "B550M AORUS ELITE",
+		"brand": "Gigabyte",
+		"line": "AORUS",
+		"model": "B550M AORUS ELITE",
+		"detailedModel": "B550M AORUS ELITE",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_846714-MLA99464080574_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2020",
+		"releaseMonth": null,
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2EUmrHL",
+		"shopeeUrl": null,
+		"alphanumericModel": "B550M AORUS ELITE",
+		"version": "rev. 1.0",
+		"manufacturer": "Gigabyte",
+		"specs": {
+			"manufacturer": "Gigabyte",
+			"chipset": "AMD B550",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": [
+					"Ryzen 5000 Series",
+					"Ryzen 5000 G-Series",
+					"Ryzen 4000 G-Series",
+					"Ryzen 3000 Series",
+					"Ryzen 3000 G-Series"
+				],
+				"maxTdp": null
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 4,
+				"maxCapacity": "128 GB",
+				"maxSpeed": "4733 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"DDR4-2133",
+					"DDR4-2400",
+					"DDR4-2667",
+					"DDR4-2933",
+					"DDR4-3200",
+					"DDR4-3333",
+					"DDR4-3400",
+					"DDR4-3466",
+					"DDR4-3600",
+					"DDR4-3733",
+					"DDR4-3866",
+					"DDR4-4000",
+					"DDR4-4133",
+					"DDR4-4266",
+					"DDR4-4400",
+					"DDR4-4600",
+					"DDR4-4733"
+				],
+				"xmp": true,
+				"expo": false,
+				"ecc": true
+			},
+			"storage": {
+				"m2Slots": 2,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2242", "2260", "2280", "22110"]
+					},
+					{
+						"slot": 2,
+						"interface": "PCIe 3.0 x2",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 4.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC887",
+				"channels": "7.1",
+				"features": ["Audio Noise Guard", "High Quality Audio Capacitors"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": 2,
+				"usb32Gen1": 4,
+				"usb20": 6,
+				"total": 12,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": null,
+				"dvi": 1,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4096x2160"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": 8,
+				"designPower": null,
+				"features": ["5+3 Phases Pure Digital VRM", "Low RDS(on) MOSFETs"]
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": true,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["VRM heatsink", "M.2 Shield Frozr"],
+				"fanHeaders": 4,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 2,
+				"pumpHeaders": 1,
+				"argbHeaders": 2,
+				"rgbHeaders": 2
+			},
+			"rgb": {
+				"hasRgb": true,
+				"zones": 2,
+				"software": "RGB Fusion 2.0",
+				"compatibleWith": ["Addressable LED strips", "RGB LED strips"]
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": true,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": ["Anti-Sulfur Resistors"]
+			},
+			"backPanel": {
+				"ps2": 1,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": 2,
+					"usb32Gen1": 2,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x DVI-D"],
+				"other": ["1 x PS/2"]
+			},
+			"dimensions": {
+				"length": "24,4 cm",
+				"width": "24,4 cm",
+				"height": null,
+				"weight": "1 kg"
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX", "ATX"],
+				"coolers": null,
+				"notes": ["Compatível com coolers AM4"]
+			},
+			"bundled": {
+				"cables": ["2 x SATA 6Gb/s"],
+				"software": ["@BIOS", "EasyTune", "RGB Fusion 2.0", "Smart Fan 5", "Q-Flash Plus"],
+				"accessories": ["Manual do usuário", "I/O Shield integrado"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"buildQuality": 7.5,
+				"vrm": 7.0,
+				"connectivity": 7.0,
+				"overclocking": 6.5,
+				"features": 7.5
+			}
+		}
+	},
+	{
+		"id": "gigabyte-a520m-k-v2",
+		"name": "A520M K V2",
+		"brand": "Gigabyte",
+		"line": "Ultra Durable",
+		"model": "A520M K V2",
+		"detailedModel": "A520M K V2",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_642824-MLA99375931234_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2020",
+		"releaseMonth": null,
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2h72znR",
+		"shopeeUrl": null,
+		"alphanumericModel": "A520M K V2",
+		"version": "K V2",
+		"manufacturer": "Gigabyte",
+		"specs": {
+			"manufacturer": "Gigabyte",
+			"chipset": "AMD A520",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": [
+					"Ryzen 5000 Series",
+					"Ryzen 5000 G-Series",
+					"Ryzen 4000 G-Series",
+					"Ryzen 3000 Series",
+					"Ryzen 3000 G-Series"
+				],
+				"maxTdp": null
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "5100 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"DDR4-2133",
+					"DDR4-2400",
+					"DDR4-2667",
+					"DDR4-2933",
+					"DDR4-3200",
+					"DDR4-3400",
+					"DDR4-3466",
+					"DDR4-3600",
+					"DDR4-3733",
+					"DDR4-3866",
+					"DDR4-4000",
+					"DDR4-4133",
+					"DDR4-4266",
+					"DDR4-4400",
+					"DDR4-4600",
+					"DDR4-4800",
+					"DDR4-5100"
+				],
+				"xmp": true,
+				"expo": false,
+				"ecc": true
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC892/ALC897",
+				"channels": "7.1",
+				"features": ["Audio Noise Guard", "High Quality Audio Capacitors"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 6,
+				"usb20": 6,
+				"total": 12,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": 5,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": "128 Mbit",
+				"flashback": true,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": null,
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": true,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": ["Anti-Sulfur Resistors"]
+			},
+			"backPanel": {
+				"ps2": 1,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x D-Sub"],
+				"other": ["1 x PS/2"]
+			},
+			"dimensions": {
+				"length": "33 cm",
+				"width": "5 cm",
+				"height": "5 cm",
+				"weight": "0,55 kg"
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX", "ATX"],
+				"coolers": null,
+				"notes": ["Compatível com coolers AM4"]
+			},
+			"bundled": {
+				"cables": ["SATA 6Gb/s"],
+				"software": ["@BIOS", "EasyTune", "Smart Fan 5", "Q-Flash Plus"],
+				"accessories": ["Manual do usuário", "I/O Shield"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"buildQuality": 5.5,
+				"vrm": 4.5,
+				"connectivity": 4.5,
+				"overclocking": 3.0,
+				"features": 4.5
+			}
+		}
+	},
+	{
+		"id": "revenger-g-h81-m",
+		"name": "G-H81/M",
+		"brand": "Revenger",
+		"line": null,
+		"model": "G-H81/M",
+		"detailedModel": "G-H81/M",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_799253-MLA99849372099_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2014",
+		"releaseMonth": null,
+		"releaseYear": 2014,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1cWhfni",
+		"shopeeUrl": null,
+		"alphanumericModel": "G-H81/M",
+		"version": "LGA 1150",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "Intel H81",
+			"socket": "LGA 1150",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": ["4ª Geração (Haswell)", "5ª Geração"],
+				"maxTdp": null
+			},
+			"memory": {
+				"type": "DDR3",
+				"slots": 2,
+				"maxCapacity": "16 GB",
+				"maxSpeed": "1866 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["DDR3-1066", "DDR3-1333", "DDR3-1600", "DDR3-1866"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4 NVMe",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s (2x), SATA II 3Gb/s (2x)",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek",
+					"speed": "1 GbE (10/100/1000 Mbps)",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "HD Audio Codec",
+				"channels": "6 canais",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 6,
+				"usb20": 6,
+				"total": 12,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": null
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "4-pin",
+				"phases": null,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": null,
+				"fanHeaders": 1,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				},
+				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x VGA"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "19 cm",
+				"width": "17 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX", "ATX"],
+				"coolers": null,
+				"notes": ["Compatível com coolers LGA 1150"]
+			},
+			"bundled": {
+				"cables": ["SATA"],
+				"software": null,
+				"accessories": ["Manual do usuário", "I/O Shield"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"buildQuality": 5.0,
+				"vrm": 4.0,
+				"connectivity": 5.0,
+				"overclocking": 2.0,
+				"features": 5.5
+			}
+		}
+	},
+	{
+		"id": "asus-tuf-b550m-plus",
+		"name": "TUF GAMING B550M-PLUS",
+		"brand": "ASUS",
+		"line": "TUF Gaming",
+		"model": "B550M-PLUS",
+		"detailedModel": "TUF GAMING B550M-PLUS",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_666926-MLA99989580013_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2020",
+		"releaseMonth": null,
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1TStnkE",
+		"shopeeUrl": null,
+		"alphanumericModel": "90MB1500-M0EAY0",
+		"version": null,
+		"manufacturer": "ASUS",
+		"specs": {
+			"manufacturer": "ASUS",
+			"chipset": "AMD B550",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": [
+					"Ryzen 5000 Series",
+					"Ryzen 5000 G-Series",
+					"Ryzen 4000 G-Series",
+					"Ryzen 3000 Series",
+					"Ryzen 3000 G-Series"
+				],
+				"maxTdp": null
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 4,
+				"maxCapacity": "128 GB",
+				"maxSpeed": "4600 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"DDR4-2133",
+					"DDR4-2400",
+					"DDR4-2666",
+					"DDR4-2800",
+					"DDR4-3000",
+					"DDR4-3200",
+					"DDR4-3333",
+					"DDR4-3400",
+					"DDR4-3466",
+					"DDR4-3600",
+					"DDR4-3733",
+					"DDR4-3866",
+					"DDR4-4000",
+					"DDR4-4133",
+					"DDR4-4266",
+					"DDR4-4400",
+					"DDR4-4466",
+					"DDR4-4600"
+				],
+				"xmp": true,
+				"expo": false,
+				"ecc": true
+			},
+			"storage": {
+				"m2Slots": 2,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2242", "2260", "2280", "22110"]
+					},
+					{
+						"slot": 2,
+						"interface": "PCIe 3.0 x4",
+						"formFactors": ["2242", "2260", "2280", "22110"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 4.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 2,
+						"mode": null
+					}
+				],
+				"totalSlots": 3
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8125B",
+					"speed": "2.5 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek S1200A",
+				"channels": "7.1",
+				"features": ["DTS Sound Unbound", "Sonic Studio III", "AI Noise-Canceling Microphone"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": 1,
+				"usb32Gen2TypeA": 1,
+				"usb32Gen1": 6,
+				"usb20": 6,
+				"total": 14,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 1,
+				"vga": null,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": 10,
+				"designPower": null,
+				"features": [
+					"8+2 DrMOS Power Stages",
+					"Digi+ VRM",
+					"ProCool Socket",
+					"TUF Components (Chokes + Capacitors)",
+					"Military-grade TUF Components"
+				]
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": true,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Large VRM heatsinks", "PCH heatsink", "M.2 heatsink"],
+				"fanHeaders": 4,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 2,
+				"pumpHeaders": 1,
+				"argbHeaders": 2,
+				"rgbHeaders": 2
+			},
+			"rgb": {
+				"hasRgb": true,
+				"zones": 1,
+				"software": "Aura Sync",
+				"compatibleWith": ["Addressable Gen 2 RGB", "Standard RGB LED strips"]
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": [
+					"TUF Protection",
+					"SafeSlot Core (PCIe Slot Reinforcement)",
+					"ESD Guards",
+					"TUF LANGuard",
+					"Overvoltage protection",
+					"DRAM overcurrent protection"
+				]
+			},
+			"backPanel": {
+				"ps2": 1,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": 1,
+					"usb32Gen2TypeA": 1,
+					"usb32Gen1": 2,
+					"usb20": 2
+				},
+				"audio": ["5 x Audio jacks (Optical S/PDIF out, Line in, Line out, Mic, Center/Subwoofer)"],
+				"network": ["1 x RJ45 LAN (2.5GbE)"],
+				"video": ["1 x HDMI", "1 x DisplayPort"],
+				"other": ["1 x PS/2"]
+			},
+			"dimensions": {
+				"length": "24,4 cm",
+				"width": "24,4 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX", "ATX"],
+				"coolers": null,
+				"notes": ["Compatível com coolers AM4", "TUF Gaming Alliance"]
+			},
+			"bundled": {
+				"cables": ["2 x SATA 6Gb/s"],
+				"software": [
+					"Armoury Crate",
+					"AI Suite 3",
+					"TurboV EVO",
+					"Fan Xpert 2+",
+					"DTS Custom for Gaming Headsets",
+					"Sonic Studio III",
+					"Aura Sync"
+				],
+				"accessories": [
+					"Manual do usuário",
+					"I/O Shield",
+					"M.2 SSD screw package",
+					"M.2 Rubber Package",
+					"TUF GAMING Sticker",
+					"TUF Certification card"
+				]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 8.0,
+				"vrm": 7.5,
+				"connectivity": 8.0,
+				"overclocking": 7.5,
+				"features": 8.5
+			}
+		}
+	},
+	{
+		"id": "bluecase-bmbb75-g3hgu-m2-rev2",
+		"name": "BMBB75-G3HGU-M2 REV 2.0",
+		"brand": "Bluecase",
+		"line": "B75",
+		"model": "BMBB75-G3HGU-M2 REV 2.0",
+		"detailedModel": "BMBB75-G3HGU-M2 REV 2.0",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_777364-MLA95948463718_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "placa-mae",
+		"alphanumericModel": "BMBB75-G3HGU-M2",
+		"version": "REV 2.0",
+		"manufacturer": "Bluecase",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2kaMMmZ",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "Intel B75 Express",
+			"socket": "LGA 1155",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": [
+					"Intel Core i7 2ª Geração (Sandy Bridge)",
+					"Intel Core i5 2ª Geração (Sandy Bridge)",
+					"Intel Core i3 2ª Geração (Sandy Bridge)",
+					"Intel Core i7 3ª Geração (Ivy Bridge)",
+					"Intel Core i5 3ª Geração (Ivy Bridge)",
+					"Intel Core i3 3ª Geração (Ivy Bridge)",
+					"Intel Pentium",
+					"Intel Celeron"
+				],
+				"maxTdp": "77W"
+			},
+			"memory": {
+				"type": "DDR3",
+				"slots": 2,
+				"maxCapacity": "16 GB",
+				"maxSpeed": "1600 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["DDR3-1066", "DDR3-1333", "DDR3-1600"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe Gen3 x4 NVMe",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 3,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 2.0 x16",
+						"count": 1,
+						"mode": "x8"
+					},
+					{
+						"type": "PCIe 2.0 x1",
+						"count": 1
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Gigabit Ethernet",
+					"speed": "10/100/1000 Mbps",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Codec Surround Sound",
+				"channels": "5.1",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": 0,
+				"usb32Gen2TypeC": 0,
+				"usb32Gen2TypeA": 0,
+				"usb32Gen1": 2,
+				"usb20": 4,
+				"total": 6,
+				"frontPanelConnectors": {
+					"usb32Gen1": 2,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 0,
+				"vga": 1,
+				"dvi": 0,
+				"thunderbolt": 0,
+				"maxDisplays": 2,
+				"maxResolution": "4K"
+			},
+			"power": {
+				"mainConnector": "24-pin ATX",
+				"cpuConnector": "4-pin ATX 12V",
+				"phases": 4,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": null,
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": 0,
+				"argbHeaders": 0,
+				"rgbHeaders": 0
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": true,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": 0,
+				"usb": {
+					"usb32Gen2x2TypeC": 0,
+					"usb32Gen2TypeC": 0,
+					"usb32Gen2TypeA": 0,
+					"usb32Gen1": 2,
+					"usb20": 4
+				},
+				"audio": ["Line-in", "Microphone", "Speaker"],
+				"network": ["RJ-45 Gigabit LAN"],
+				"video": ["HDMI", "VGA"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "19 cm",
+				"width": "17 cm",
+				"height": "3 cm",
+				"weight": "400 g"
+			},
+			"compatibility": {
+				"cases": null,
+				"coolers": null,
+				"notes": null
+			},
+			"bundled": {
+				"cables": ["1x cabo SATA"],
+				"software": ["QR Code para download de driver"],
+				"accessories": ["Manual de instruções", "Espelho painel traseiro"]
+			},
+			"warranty": {
+				"period": "90 dias",
+				"type": "Garantia Legal"
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"buildQuality": 6.0,
+				"vrm": 5.5,
+				"connectivity": 6.5,
+				"overclocking": 3.0,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "revenger-g-h310m",
+		"name": "G-H310M",
+		"brand": "Revenger",
+		"line": "H310",
+		"model": "G-H310M",
+		"detailedModel": "G-H310M",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_863351-MLA99371781378_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2018",
+		"releaseMonth": null,
+		"releaseYear": 2018,
+		"origin": null,
+		"category": "placa-mae",
+		"alphanumericModel": "G-H310M",
+		"version": "1.0",
+		"manufacturer": "Revenger",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2js1kYo",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "Intel H310 Express",
+			"socket": "LGA 1151",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": [
+					"Intel Core i7 8ª Geração (Coffee Lake)",
+					"Intel Core i5 8ª Geração (Coffee Lake)",
+					"Intel Core i3 8ª Geração (Coffee Lake)",
+					"Intel Core i7 9ª Geração (Coffee Lake Refresh)",
+					"Intel Core i5 9ª Geração (Coffee Lake Refresh)",
+					"Intel Core i3 9ª Geração (Coffee Lake Refresh)",
+					"Intel Pentium Gold",
+					"Intel Celeron"
+				],
+				"maxTdp": "95W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "32 GB",
+				"maxSpeed": "2666 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["DDR4-2133", "DDR4-2400", "DDR4-2666"],
+				"xmp": true,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 2.0 x4 / SATA III",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 2.0 x1",
+						"count": 1
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111",
+					"speed": "10/100/1000 Mbps",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek HD Audio 6 canais",
+				"channels": "5.1",
+				"features": ["Painel frontal de áudio", "Entrada de microfone estéreo frontal"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": 0,
+				"usb32Gen2TypeC": 0,
+				"usb32Gen2TypeA": 0,
+				"usb32Gen1": 2,
+				"usb20": 4,
+				"total": 6,
+				"frontPanelConnectors": {
+					"usb32Gen1": 2,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 0,
+				"vga": 1,
+				"dvi": 1,
+				"thunderbolt": 0,
+				"maxDisplays": 3,
+				"maxResolution": "1920x1200@60Hz (DVI-D)"
+			},
+			"power": {
+				"mainConnector": "24-pin ATX",
+				"cpuConnector": "8-pin ATX 12V",
+				"phases": 4,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Dissipador VRM"],
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": 0,
+				"argbHeaders": 0,
+				"rgbHeaders": 0
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": 2,
+				"usb": {
+					"usb32Gen2x2TypeC": 0,
+					"usb32Gen2TypeC": 0,
+					"usb32Gen2TypeA": 0,
+					"usb32Gen1": 2,
+					"usb20": 4
+				},
+				"audio": ["Line-in", "Line-out", "Mic-in"],
+				"network": ["RJ-45 Gigabit LAN"],
+				"video": ["VGA", "HDMI", "DVI-D"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "21 cm",
+				"width": "17 cm",
+				"height": "3 cm",
+				"weight": "400 g"
+			},
+			"compatibility": {
+				"cases": null,
+				"coolers": null,
+				"notes": null
+			},
+			"bundled": {
+				"cables": ["2x cabos SATA"],
+				"software": ["QR Code para download de driver"],
+				"accessories": ["Manual de instruções", "Espelho painel traseiro"]
+			},
+			"warranty": {
+				"period": "90 dias",
+				"type": "Garantia Legal"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 6.5,
+				"vrm": 5.0,
+				"connectivity": 6.0,
+				"overclocking": 2.0,
+				"features": 5.5
+			}
+		}
+	},
+	{
+		"id": "pcyes-pcyb75-3g16",
+		"name": "PCYB75-3G16",
+		"brand": "PCyes",
+		"line": "B75",
+		"model": "B75",
+		"detailedModel": "PCYB75-3G16",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_826431-MLA99923154549_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "placa-mae",
+		"alphanumericModel": "PCYB75-3G16",
+		"version": null,
+		"manufacturer": "PCyes",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/24LW32x",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "Intel B75 Express",
+			"socket": "LGA 1155",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": [
+					"Intel Core i7 2ª Geração (Sandy Bridge)",
+					"Intel Core i5 2ª Geração (Sandy Bridge)",
+					"Intel Core i3 2ª Geração (Sandy Bridge)",
+					"Intel Core i7 3ª Geração (Ivy Bridge)",
+					"Intel Core i5 3ª Geração (Ivy Bridge)",
+					"Intel Core i3 3ª Geração (Ivy Bridge)",
+					"Intel Pentium",
+					"Intel Celeron"
+				],
+				"maxTdp": "77W"
+			},
+			"memory": {
+				"type": "DDR3",
+				"slots": 2,
+				"maxCapacity": "16 GB",
+				"maxSpeed": "1666 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["DDR3-1333", "DDR3-1666"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe M key",
+						"formFactors": ["2242", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 2.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 2.0 x1",
+						"count": 1
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RT8111H",
+					"speed": "10/100/1000 Mbps",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC662 High Definition Audio",
+				"channels": "5.1",
+				"features": ["Painel frontal de áudio"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": 0,
+				"usb32Gen2TypeC": 0,
+				"usb32Gen2TypeA": 0,
+				"usb32Gen1": 2,
+				"usb20": 4,
+				"total": 6,
+				"frontPanelConnectors": {
+					"usb32Gen1": 1,
+					"usb20": 1
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 0,
+				"vga": 1,
+				"dvi": 0,
+				"thunderbolt": 0,
+				"maxDisplays": 2,
+				"maxResolution": "1920x1200@60Hz"
+			},
+			"power": {
+				"mainConnector": "24-pin ATX",
+				"cpuConnector": "8-pin ATX 12V",
+				"phases": 4,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Dissipador VRM"],
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": 0,
+				"argbHeaders": 0,
+				"rgbHeaders": 0
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": true,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": 0,
+				"usb": {
+					"usb32Gen2x2TypeC": 0,
+					"usb32Gen2TypeC": 0,
+					"usb32Gen2TypeA": 0,
+					"usb32Gen1": 2,
+					"usb20": 4
+				},
+				"audio": ["Entrada Mic", "Entrada Áudio", "Saída Áudio"],
+				"network": ["RJ-45 Gigabit LAN"],
+				"video": ["VGA", "HDMI"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "190 mm",
+				"width": "170 mm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": null,
+				"coolers": null,
+				"notes": null
+			},
+			"bundled": {
+				"cables": ["Cabos SATA"],
+				"software": null,
+				"accessories": ["Manual de instruções"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 7.0,
+				"vrm": 6.0,
+				"connectivity": 7.0,
+				"overclocking": 3.0,
+				"features": 6.5
+			}
+		}
+	},
+	{
+		"id": "asrock-a520m-hvs",
+		"name": "A520M-HVS",
+		"brand": "ASRock",
+		"line": "A520",
+		"model": "A520M-HVS",
+		"detailedModel": "A520M-HVS",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_600626-MLA100029063065_122025-F.webp",
+		"price": 0,
+		"releaseDate": "18/08/2020",
+		"releaseMonth": "Agosto",
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"alphanumericModel": "A520M-HVS",
+		"version": null,
+		"manufacturer": "ASRock",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2V2PcHu",
+		"specs": {
+			"manufacturer": "ASRock",
+			"chipset": "AMD A520",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": [
+					"AMD Ryzen 3000 (Matisse)",
+					"AMD Ryzen 3000 G-Series",
+					"AMD Ryzen 4000 G-Series",
+					"AMD Ryzen 5000 (Vermeer)",
+					"AMD Ryzen 5000 G-Series"
+				],
+				"maxTdp": "105W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "4733 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"DDR4-2133",
+					"DDR4-2400",
+					"DDR4-2667",
+					"DDR4-2933",
+					"DDR4-3200",
+					"DDR4-3466 (OC)",
+					"DDR4-3600 (OC)",
+					"DDR4-3733 (OC)",
+					"DDR4-3800 (OC)",
+					"DDR4-3866 (OC)",
+					"DDR4-4000 (OC)",
+					"DDR4-4133 (OC)",
+					"DDR4-4200 (OC)",
+					"DDR4-4266 (OC)",
+					"DDR4-4333 (OC)",
+					"DDR4-4400 (OC)",
+					"DDR4-4466 (OC)",
+					"DDR4-4533 (OC)",
+					"DDR4-4600 (OC)",
+					"DDR4-4666 (OC)",
+					"DDR4-4733+ (OC)"
+				],
+				"xmp": true,
+				"expo": false,
+				"ecc": true
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4 / SATA III",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 1
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "10/100/1000 Mbps",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC887",
+				"channels": "7.1",
+				"features": ["High Definition Audio"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": 0,
+				"usb32Gen2TypeC": 0,
+				"usb32Gen2TypeA": 0,
+				"usb32Gen1": 6,
+				"usb20": 6,
+				"total": 12,
+				"frontPanelConnectors": {
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 0,
+				"vga": 1,
+				"dvi": 0,
+				"thunderbolt": 0,
+				"maxDisplays": 2,
+				"maxResolution": "4096x2160@60Hz"
+			},
+			"power": {
+				"mainConnector": "24-pin ATX",
+				"cpuConnector": "8-pin ATX 12V",
+				"phases": 6,
+				"designPower": null,
+				"features": ["Digital PWM", "Premium 50A Power Choke"]
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": "128 Mb",
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": null,
+				"fanHeaders": 3,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 2,
+				"pumpHeaders": 0,
+				"argbHeaders": 0,
+				"rgbHeaders": 0
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": ["Full Spike Protection"]
+			},
+			"backPanel": {
+				"ps2": 0,
+				"usb": {
+					"usb32Gen2x2TypeC": 0,
+					"usb32Gen2TypeC": 0,
+					"usb32Gen2TypeA": 0,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["Line-out", "Mic-in", "Line-in"],
+				"network": ["RJ-45 Gigabit LAN"],
+				"video": ["VGA (D-Sub)", "HDMI"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "24.4 cm",
+				"width": "21.1 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": null,
+				"coolers": null,
+				"notes": [
+					"Não compatível com Ryzen 5 3400G e Ryzen 3 3200G",
+					"Requer atualização de BIOS para suporte a Ryzen 5000"
+				]
+			},
+			"bundled": {
+				"cables": ["Cabos SATA"],
+				"software": ["ASRock Live Update", "ASRock APP Shop"],
+				"accessories": ["Manual de instruções", "Espelho painel traseiro"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"buildQuality": 7.0,
+				"vrm": 6.5,
+				"connectivity": 6.5,
+				"overclocking": 2.0,
+				"features": 6.0
+			}
+		}
+	},
+	{
+		"id": "asus-prime-h610m-cs-d4",
+		"name": "PRIME H610M-CS D4",
+		"brand": "ASUS",
+		"line": "Prime",
+		"model": "PRIME H610M-CS D4",
+		"detailedModel": "PRIME H610M-CS D4",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_980365-MLA99979674343_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2021",
+		"releaseMonth": null,
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "placa-mae",
+		"alphanumericModel": "90MB1B60-C1BAY0",
+		"version": null,
+		"manufacturer": "ASUS",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/18jRdX3",
+		"specs": {
+			"manufacturer": "ASUS",
+			"chipset": "Intel H610",
+			"socket": "LGA 1700",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": [
+					"Intel Core i9 12ª Geração (Alder Lake)",
+					"Intel Core i7 12ª Geração (Alder Lake)",
+					"Intel Core i5 12ª Geração (Alder Lake)",
+					"Intel Core i3 12ª Geração (Alder Lake)",
+					"Intel Core i9 13ª Geração (Raptor Lake)",
+					"Intel Core i7 13ª Geração (Raptor Lake)",
+					"Intel Core i5 13ª Geração (Raptor Lake)",
+					"Intel Core i3 13ª Geração (Raptor Lake)",
+					"Intel Core i9 14ª Geração (Raptor Lake Refresh)",
+					"Intel Core i7 14ª Geração (Raptor Lake Refresh)",
+					"Intel Core i5 14ª Geração (Raptor Lake Refresh)",
+					"Intel Core i3 14ª Geração (Raptor Lake Refresh)",
+					"Intel Pentium Gold",
+					"Intel Celeron"
+				],
+				"maxTdp": "65W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "3200 MHz",
+				"channels": 2,
+				"supportedSpeeds": [
+					"DDR4-2133",
+					"DDR4-2400",
+					"DDR4-2666",
+					"DDR4-2800",
+					"DDR4-2933",
+					"DDR4-3000",
+					"DDR4-3200"
+				],
+				"xmp": true,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 4.0 x16",
+						"count": 1,
+						"mode": "x16"
+					}
+				],
+				"totalSlots": 1
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "10/100/1000 Mbps",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC887",
+				"channels": "7.1",
+				"features": ["Audio Noise Guard", "Camadas de PCB dedicadas ao áudio"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": 0,
+				"usb32Gen2TypeC": 0,
+				"usb32Gen2TypeA": 0,
+				"usb32Gen1": 4,
+				"usb20": 6,
+				"total": 10,
+				"frontPanelConnectors": {
+					"usb32Gen1": 2,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 0,
+				"vga": 1,
+				"dvi": 0,
+				"thunderbolt": 0,
+				"maxDisplays": 2,
+				"maxResolution": "4096x2160@60Hz"
+			},
+			"power": {
+				"mainConnector": "24-pin ATX",
+				"cpuConnector": "8-pin ATX 12V",
+				"phases": 6,
+				"designPower": null,
+				"features": ["Digital VRM"]
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": "128 Mb",
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Dissipador PCH"],
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": 0,
+				"argbHeaders": 0,
+				"rgbHeaders": 0
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": ["ASUS 5X Protection III", "Q-DIMM", "USBGuard"]
+			},
+			"backPanel": {
+				"ps2": 0,
+				"usb": {
+					"usb32Gen2x2TypeC": 0,
+					"usb32Gen2TypeC": 0,
+					"usb32Gen2TypeA": 0,
+					"usb32Gen1": 2,
+					"usb20": 4
+				},
+				"audio": ["Line-out", "Mic-in", "Line-in"],
+				"network": ["RJ-45 Gigabit LAN"],
+				"video": ["VGA (D-Sub)", "HDMI"],
+				"other": ["COM Header", "LPT Header"]
+			},
+			"dimensions": {
+				"length": "24.4 cm",
+				"width": "21.1 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": null,
+				"coolers": null,
+				"notes": ["Requer atualização de BIOS para processadores 13ª e 14ª geração"]
+			},
+			"bundled": {
+				"cables": ["Cabos SATA"],
+				"software": ["ASUS EZ Flash 3", "ASUS AI Suite 3"],
+				"accessories": ["Manual de instruções", "Espelho painel traseiro"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 7.0,
+				"vrm": 5.5,
+				"connectivity": 6.0,
+				"overclocking": 1.0,
+				"features": 6.0
+			}
+		}
+	},
+	{
+		"id": "msi-b840m-gaming-wifi6e",
+		"name": "B840M GAMING WIFI6E",
+		"brand": "MSI",
+		"line": "B840M GAMING",
+		"model": "B840M GAMING WIFI6E AM5",
+		"detailedModel": "B840M GAMING WIFI6E",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_662912-MLA99945608233_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "placa-mae",
+		"alphanumericModel": "B840M-GAMING-WIFI6E",
+		"version": null,
+		"manufacturer": "MSI",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ghw9ot",
+		"specs": {
+			"manufacturer": "MSI",
+			"chipset": "AMD B840",
+			"socket": "AM5",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": [
+					"AMD Ryzen 9000 (Granite Ridge)",
+					"AMD Ryzen 8000 (Phoenix)",
+					"AMD Ryzen 7000 (Raphael)"
+				],
+				"maxTdp": "120W"
+			},
+			"memory": {
+				"type": "DDR5",
+				"slots": 2,
+				"maxCapacity": "128 GB",
+				"maxSpeed": "6400 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"DDR5-4800",
+					"DDR5-5200",
+					"DDR5-5600",
+					"DDR5-6000 (OC)",
+					"DDR5-6200 (OC)",
+					"DDR5-6400+ (OC)"
+				],
+				"xmp": true,
+				"expo": true,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 2,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2280", "2260"]
+					},
+					{
+						"slot": 2,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2280", "2260"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 4.0 x16",
+						"count": 1,
+						"mode": "x16"
+					}
+				],
+				"totalSlots": 1
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8125BG",
+					"speed": "2.5 GbE",
+					"ports": 1
+				},
+				"wifi": {
+					"standard": "Wi-Fi 6E",
+					"version": "802.11ax",
+					"bluetooth": "5.3",
+					"antenna": true
+				}
+			},
+			"audio": {
+				"codec": "Realtek ALC897",
+				"channels": "7.1",
+				"features": ["Audio Boost", "High Definition Audio"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": 0,
+				"usb32Gen2TypeC": 0,
+				"usb32Gen2TypeA": 0,
+				"usb32Gen1": 7,
+				"usb20": 6,
+				"total": 13,
+				"frontPanelConnectors": {
+					"usb32Gen1": 3,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 1,
+				"vga": 0,
+				"dvi": 0,
+				"thunderbolt": 0,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz"
+			},
+			"power": {
+				"mainConnector": "24-pin ATX",
+				"cpuConnector": "8-pin ATX 12V",
+				"phases": 18,
+				"designPower": null,
+				"features": ["16+1+1 Digital VRM", "Core Boost", "80A Power Chokes"]
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": "256 Mb",
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Dissipador VRM estendido", "M.2 Shield Frozr"],
+				"fanHeaders": 5,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 3,
+				"pumpHeaders": 1,
+				"argbHeaders": 2,
+				"rgbHeaders": 0
+			},
+			"rgb": {
+				"hasRgb": true,
+				"zones": 2,
+				"software": "MSI Mystic Light",
+				"compatibleWith": ["Corsair iCUE", "Razer Chroma RGB"]
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": true,
+				"postCode": false,
+				"qFlash": true,
+				"wifi": true,
+				"bluetooth": true,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": ["TVS Protection"]
+			},
+			"backPanel": {
+				"ps2": 0,
+				"usb": {
+					"usb32Gen2x2TypeC": 0,
+					"usb32Gen2TypeC": 0,
+					"usb32Gen2TypeA": 0,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["Line-out", "Mic-in", "Line-in", "C/Sub", "Rear", "Side"],
+				"network": ["RJ-45 2.5GbE LAN"],
+				"video": ["HDMI", "DisplayPort"],
+				"other": ["Antenas Wi-Fi 6E"]
+			},
+			"dimensions": {
+				"length": "24.4 cm",
+				"width": "24.4 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": null,
+				"coolers": null,
+				"notes": ["Não suporta overclock de CPU", "Suporta apenas PCIe 4.0 (sem suporte PCIe 5.0)"]
+			},
+			"bundled": {
+				"cables": ["Cabos SATA"],
+				"software": ["MSI Center", "MSI AI Engine", "Norton 360 (trial 60 dias)"],
+				"accessories": ["Manual de instruções", "Antenas Wi-Fi 6E", "EZ M.2 CLIP II Remover"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"buildQuality": 7.5,
+				"vrm": 7.0,
+				"connectivity": 8.5,
+				"overclocking": 4.0,
+				"features": 8.0
+			}
+		}
+	},
+	{
+		"id": "revenger-g-h81-m",
+		"name": "G-H81/M",
+		"brand": "Revenger",
+		"line": null,
+		"model": "G-H81/M",
+		"detailedModel": "G-H81/M",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_799253-MLA99849372099_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseMonth": null,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1cWhfni",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": "LGA 1150",
+		"manufacturer": "Revenger",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "Intel H81",
+			"socket": "LGA 1150",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": ["4ª Geração (Haswell)", "5ª Geração (Broadwell)"],
+				"maxTdp": null
+			},
+			"memory": {
+				"type": "DDR3",
+				"slots": 2,
+				"maxCapacity": "16 GB",
+				"maxSpeed": "1866 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["1066", "1333", "1600", "1866"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe NVMe (M.2)",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "HD Audio (6 canais)",
+				"channels": "5.1",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": null,
+				"usb20": 6,
+				"total": 8,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": null
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "4-pin",
+				"phases": null,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": null,
+				"fanHeaders": null,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": null,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": null,
+					"usb20": 4
+				},
+				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x VGA"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "19 cm",
+				"width": "17 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": null,
+			"bundled": null,
+			"warranty": {
+				"period": "1 ano",
+				"type": null
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"buildQuality": 6.0,
+				"vrm": 5.0,
+				"connectivity": 6.5,
+				"overclocking": 3.0,
+				"features": 5.5
+			}
+		}
+	},
+	{
+		"id": "asrock-b450m-hdv-r4.0",
+		"name": "B450M-HDV R4.0",
+		"brand": "ASRock",
+		"line": "HDV",
+		"model": "B450M-HDV R4.0",
+		"detailedModel": "B450M-HDV R4.0",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_807217-MLA99527550222_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2019-02",
+		"releaseMonth": "02",
+		"releaseYear": 2019,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/13vBaPW",
+		"shopeeUrl": null,
+		"alphanumericModel": "90-MXB9N0-A0UAYZ",
+		"version": "R4.0",
+		"manufacturer": "ASRock",
+		"specs": {
+			"manufacturer": "ASRock",
+			"chipset": "AMD B450",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 2000", "Ryzen 3000", "Ryzen 4000 G-Series", "Ryzen 5000", "Ryzen 5000 G-Series"],
+				"maxTdp": "105W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "3200 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": ["2133", "2400", "2666", "2933", "3200"],
+				"xmp": true,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe Gen3 x4 & SATA3",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 2.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC887/897",
+				"channels": "7.1",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 6,
+				"usb20": null,
+				"total": 6,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": 1,
+				"thunderbolt": null,
+				"maxDisplays": 3,
+				"maxResolution": "4096 x 2160"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": 6,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": true,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["PCH heatsink"],
+				"fanHeaders": null,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": 1,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 4,
+					"usb20": null
+				},
+				"audio": ["3 x Audio jacks"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x DVI-D", "1 x D-Sub"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "24.4 cm",
+				"width": "8 cm",
+				"height": "0.3 cm",
+				"weight": "1 lb"
+			},
+			"compatibility": null,
+			"bundled": {
+				"cables": ["Cabo SATA"],
+				"software": null,
+				"accessories": ["Guia do usuário"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": null
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 6.0,
+				"vrm": 5.0,
+				"connectivity": 6.0,
+				"overclocking": 5.5,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "asus-prime-a520m-k",
+		"name": "Prime A520M-K",
+		"brand": "ASUS",
+		"line": "Prime",
+		"model": "Prime A520M-K",
+		"detailedModel": "Prime A520M-K",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_725895-MLA99492459638_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2020-08",
+		"releaseMonth": "08",
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1sGRe3h",
+		"shopeeUrl": null,
+		"alphanumericModel": "90MB1500-M0EAY0",
+		"version": "AM4",
+		"manufacturer": "ASUS",
+		"specs": {
+			"manufacturer": "ASUS",
+			"chipset": "AMD A520",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 3000 Series", "Ryzen 4000 G-Series", "Ryzen 5000 Series", "Ryzen 5000 G-Series"],
+				"maxTdp": "105W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "4600 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"2133",
+					"2400",
+					"2666",
+					"2800",
+					"3000",
+					"3200",
+					"3333",
+					"3466",
+					"3600",
+					"3733",
+					"3866",
+					"4000",
+					"4400",
+					"4600"
+				],
+				"xmp": true,
+				"expo": false,
+				"ecc": true
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4 & SATA",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 2,
+						"mode": null
+					}
+				],
+				"totalSlots": 3
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC887",
+				"channels": "7.1",
+				"features": [
+					"Audio Shielding",
+					"Dedicated audio PCB layers",
+					"Jack-detection",
+					"Multi-streaming",
+					"Front Panel Jack-retasking"
+				]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 4,
+				"usb20": 2,
+				"total": 6,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": null,
+				"designPower": null,
+				"features": ["Digi+ VRM", "EPU"]
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["PCH heatsink"],
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": [
+					"5X Protection III",
+					"SafeSlot Core",
+					"Overvoltage protection",
+					"Overcurrent protection"
+				]
+			},
+			"backPanel": {
+				"ps2": 1,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x D-Sub"],
+				"other": ["1 x PS/2"]
+			},
+			"dimensions": {
+				"length": "22 cm",
+				"width": "15 cm",
+				"height": null,
+				"weight": "1 kg"
+			},
+			"compatibility": null,
+			"bundled": {
+				"cables": ["2 x SATA 6Gb/s"],
+				"software": ["AI Suite 3", "Fan Xpert", "ASUS CPU-Z"],
+				"accessories": ["Manual do usuário", "I/O Shield"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 6.5,
+				"vrm": 5.5,
+				"connectivity": 5.0,
+				"overclocking": 4.0,
+				"features": 5.5
+			}
+		}
+	},
+	{
+		"id": "dell-inspiron-3511-la-l241p-05pd08",
+		"name": "Inspiron 3511 LA-L241P 05PD08",
+		"brand": "Dell",
+		"line": "Inspiron",
+		"model": "LA-L241P 05PD08",
+		"detailedModel": "LA-L241P (GDM50) com Core i3-1115G4",
+		"color": "Azul-marinho",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_720573-MLB101916614601_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2021",
+		"releaseMonth": null,
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2uCgRYd",
+		"shopeeUrl": null,
+		"alphanumericModel": "CN-05PD08",
+		"version": null,
+		"manufacturer": "Dell",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "Intel Tiger Lake (integrado)",
+			"socket": "FCBGA1449",
+			"formFactor": "Notebook",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": ["11ª Geração (Tiger Lake)"],
+				"maxTdp": "28W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "16 GB",
+				"maxSpeed": "3200 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["2666", "3200"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe NVMe",
+						"formFactors": ["2230", "2280"]
+					}
+				],
+				"sataConnectors": null,
+				"sataVersion": null,
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [],
+				"totalSlots": 0
+			},
+			"networking": {
+				"ethernet": null,
+				"wifi": {
+					"standard": "Wi-Fi 5/6 (depende da variante)",
+					"version": null,
+					"bluetooth": "Bluetooth 5.0/5.1",
+					"antenna": true
+				}
+			},
+			"audio": {
+				"codec": "Realtek ALC ou similar",
+				"channels": "2.0",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": null,
+				"usb20": null,
+				"total": null,
+				"frontPanelConnectors": null
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": null,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz (via HDMI)"
+			},
+			"power": {
+				"mainConnector": "Proprietário DC-in",
+				"cpuConnector": null,
+				"phases": null,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Dissipador CPU/GPU integrado"],
+				"fanHeaders": null,
+				"cpuFanHeaders": null,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": false,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": true,
+				"bluetooth": true,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": null,
+				"audio": null,
+				"network": null,
+				"video": ["1 x HDMI"],
+				"other": null
+			},
+			"dimensions": {
+				"length": null,
+				"width": null,
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": null,
+				"coolers": null,
+				"notes": ["Motherboard proprietária para Dell Inspiron 3511/Vostro 3510"]
+			},
+			"bundled": null,
+			"warranty": {
+				"period": "1 ano",
+				"type": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"buildQuality": 6.5,
+				"vrm": 5.5,
+				"connectivity": 6.0,
+				"overclocking": 2.0,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "delta-h61-m2k",
+		"name": "H61 M2K",
+		"brand": "Delta",
+		"line": "M2 Gamer",
+		"model": "H61 M2K",
+		"detailedModel": "H61 M2K Preto",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_607154-MLA104217268306_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2REDF8H",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": "M.2 NVMe",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "Intel H61",
+			"socket": "LGA 1155",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": ["2ª Geração (Sandy Bridge)", "3ª Geração (Ivy Bridge)"],
+				"maxTdp": "77W"
+			},
+			"memory": {
+				"type": "DDR3",
+				"slots": 2,
+				"maxCapacity": "16 GB",
+				"maxSpeed": "1600 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["1066", "1333", "1600"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe (NVMe) / SATA",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA II 3Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					}
+				],
+				"totalSlots": 1
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8106E",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC (HD Audio)",
+				"channels": "5.1",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": null,
+				"usb20": 6,
+				"total": 6,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": null,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "1920x1200"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "4-pin",
+				"phases": null,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "AMI UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Dissipador chipset"],
+				"fanHeaders": null,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": false,
+				"clearCmos": null,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": null,
+					"usb20": 6
+				},
+				"audio": ["3 x Audio jacks"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x VGA"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "19 cm",
+				"width": "19 cm",
+				"height": "5 cm",
+				"weight": "0.5 kg"
+			},
+			"compatibility": null,
+			"bundled": {
+				"cables": ["Cabos SATA"],
+				"software": null,
+				"accessories": ["Placa de expansão"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": null
+			},
+			"ratings": {
+				"costBenefit": 7.0,
+				"buildQuality": 5.5,
+				"vrm": 4.5,
+				"connectivity": 5.5,
+				"overclocking": 2.0,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "asrock-a520m-hvs",
+		"name": "A520M-HVS",
+		"brand": "ASRock",
+		"line": null,
+		"model": "A520M-HVS",
+		"detailedModel": "A520M-HVS",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_600626-MLA100029063065_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2020",
+		"releaseMonth": null,
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2V2PcHu",
+		"shopeeUrl": null,
+		"alphanumericModel": "90-MXBE60-A0UAYZ",
+		"version": null,
+		"manufacturer": "ASRock",
+		"specs": {
+			"manufacturer": "ASRock",
+			"chipset": "AMD A520",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": [
+					"Ryzen 3000 Series",
+					"Ryzen 3000 G-Series",
+					"Ryzen 4000 G-Series",
+					"Ryzen 5000 Series",
+					"Ryzen 5000 G-Series"
+				],
+				"maxTdp": "105W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "4733 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"2133",
+					"2400",
+					"2666",
+					"2933",
+					"3200",
+					"3466",
+					"3600",
+					"3733",
+					"3800",
+					"3866",
+					"4000",
+					"4133",
+					"4200",
+					"4266",
+					"4333",
+					"4400",
+					"4466",
+					"4500",
+					"4533",
+					"4600",
+					"4666",
+					"4733"
+				],
+				"xmp": true,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4 & SATA3",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC887",
+				"channels": "7.1",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 6,
+				"usb20": 6,
+				"total": 12,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz (HDMI)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": 6,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["PCH heatsink"],
+				"fanHeaders": null,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x D-Sub"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "24.4 cm",
+				"width": "20.4 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": null,
+			"bundled": {
+				"cables": ["SATA cables"],
+				"software": null,
+				"accessories": ["Manual", "I/O Shield"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"buildQuality": 6.5,
+				"vrm": 5.5,
+				"connectivity": 6.0,
+				"overclocking": 5.0,
+				"features": 5.5
+			}
+		}
+	},
+	{
+		"id": "revenger-g-a320",
+		"name": "G-A320",
+		"brand": "Revenger",
+		"line": "AM4",
+		"model": "G-A320",
+		"detailedModel": "G-A320",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_797275-MLA99586891118_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseMonth": null,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2sLKY8G",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": "G-A320",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "AMD A320",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": [
+					"Ryzen 1000 Series (Zen)",
+					"Ryzen 2000 Series (Zen+)",
+					"Ryzen 3000 Series (Zen2)",
+					"Ryzen 3000 G-Series",
+					"Ryzen 5000 Series (com BIOS update)"
+				],
+				"maxTdp": "105W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "32 GB",
+				"maxSpeed": "3200 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": ["2133", "2400", "2666", "2933", "3200"],
+				"xmp": true,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe NVMe / SATA",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 2.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek Gigabit",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC (HD Audio)",
+				"channels": "5.1 / 6 canais",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 2,
+				"usb20": 6,
+				"total": 8,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz (HDMI)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "4-pin",
+				"phases": null,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Dissipador chipset"],
+				"fanHeaders": null,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				},
+				"audio": ["3 x Audio jacks"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x VGA"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "22 cm",
+				"width": "17 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": null,
+			"bundled": null,
+			"warranty": {
+				"period": "1 ano",
+				"type": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"buildQuality": 5.5,
+				"vrm": 5.0,
+				"connectivity": 6.0,
+				"overclocking": 3.0,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "asus-prime-a520m-k",
+		"name": "Prime A520M-K",
+		"brand": "ASUS",
+		"line": "Prime",
+		"model": "Prime A520M-K",
+		"detailedModel": "Prime A520M-K",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_725895-MLA99492459638_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2020-08",
+		"releaseMonth": "08",
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1sGRe3h",
+		"shopeeUrl": null,
+		"alphanumericModel": "90MB1500-M0EAY0",
+		"version": "AM4",
+		"manufacturer": "ASUS",
+		"specs": {
+			"manufacturer": "ASUS",
+			"chipset": "AMD A520",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 3000 Series", "Ryzen 4000 G-Series", "Ryzen 5000 Series", "Ryzen 5000 G-Series"],
+				"maxTdp": "105W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "4600 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"2133",
+					"2400",
+					"2666",
+					"2800",
+					"3000",
+					"3200",
+					"3333",
+					"3466",
+					"3600",
+					"3733",
+					"3866",
+					"4000",
+					"4400",
+					"4600"
+				],
+				"xmp": true,
+				"expo": false,
+				"ecc": true
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4 & SATA",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 2,
+						"mode": null
+					}
+				],
+				"totalSlots": 3
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC887",
+				"channels": "7.1",
+				"features": [
+					"Audio Shielding",
+					"Dedicated audio PCB layers",
+					"Jack-detection",
+					"Multi-streaming",
+					"Front Panel Jack-retasking"
+				]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 4,
+				"usb20": 2,
+				"total": 6,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": 6,
+				"designPower": null,
+				"features": ["Digi+ VRM", "EPU"]
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["PCH heatsink"],
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": [
+					"5X Protection III",
+					"SafeSlot Core",
+					"Overvoltage protection",
+					"Overcurrent protection"
+				]
+			},
+			"backPanel": {
+				"ps2": 1,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x D-Sub"],
+				"other": ["1 x PS/2"]
+			},
+			"dimensions": {
+				"length": "22 cm",
+				"width": "15 cm",
+				"height": null,
+				"weight": "1 kg"
+			},
+			"compatibility": null,
+			"bundled": {
+				"cables": ["2 x SATA 6Gb/s"],
+				"software": ["AI Suite 3", "Fan Xpert", "ASUS CPU-Z"],
+				"accessories": ["Manual do usuário", "I/O Shield"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 6.5,
+				"vrm": 5.5,
+				"connectivity": 5.0,
+				"overclocking": 4.0,
+				"features": 5.5
+			}
+		}
+	},
+	{
+		"id": "creality-ender-3-v3-plus-4002020071",
+		"name": "Ender-3 V3 Plus Motherboard",
+		"brand": "Creality",
+		"line": null,
+		"model": "4002020071",
+		"detailedModel": "Ender-3 V3 Plus Motherboard Kit",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_991610-MLB89673208513_082025-F-placa-me-impressora-3d-creality-k1-ender-3-v3-plus-original.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2uw8cbk",
+		"shopeeUrl": null,
+		"alphanumericModel": "4002020071",
+		"version": null,
+		"manufacturer": "Creality",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "Proprietário Creality (baseado em ARM)",
+			"socket": null,
+			"formFactor": "Proprietário 3D Printer",
+			"cpuSupport": {
+				"brands": null,
+				"generations": null,
+				"maxTdp": null
+			},
+			"memory": {
+				"type": null,
+				"slots": null,
+				"maxCapacity": null,
+				"maxSpeed": null,
+				"channels": null,
+				"supportedSpeeds": null,
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": null,
+				"m2Specs": null,
+				"sataConnectors": null,
+				"sataVersion": null,
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [],
+				"totalSlots": 0
+			},
+			"networking": {
+				"ethernet": null,
+				"wifi": {
+					"standard": "Wi-Fi integrado (para Klipper/Orca Slicer)",
+					"version": null,
+					"bluetooth": null,
+					"antenna": true
+				}
+			},
+			"audio": null,
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": null,
+				"usb20": null,
+				"total": null,
+				"frontPanelConnectors": null
+			},
+			"videoOutputs": {
+				"hdmi": null,
+				"displayPort": null,
+				"vga": null,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": null,
+				"maxResolution": null
+			},
+			"power": {
+				"mainConnector": "Proprietário DC-in (24V)",
+				"cpuConnector": null,
+				"phases": null,
+				"designPower": null,
+				"features": ["Thermal runaway protection", "Stable voltage regulation"]
+			},
+			"bios": {
+				"type": "Firmware custom (Klipper-based ou Marlin)",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Heatsinks para MCU e drivers"],
+				"fanHeaders": null,
+				"cpuFanHeaders": null,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": false,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": true,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": null,
+				"audio": null,
+				"network": null,
+				"video": null,
+				"other": ["Connectors para steppers, hotend, bed, fans, screen, SD/USB"]
+			},
+			"dimensions": {
+				"length": null,
+				"width": null,
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": null,
+				"coolers": null,
+				"notes": ["Compatível com Creality Ender-3 V3 Plus (e possivelmente K1 variants)"]
+			},
+			"bundled": null,
+			"warranty": {
+				"period": "1 ano",
+				"type": null
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"buildQuality": 7.5,
+				"vrm": 7.0,
+				"connectivity": 7.5,
+				"overclocking": 3.0,
+				"features": 8.0
+			}
+		}
+	},
+	{
+		"id": "knup-kp-h61",
+		"name": "KP-H61",
+		"brand": "Knup",
+		"line": "Informática",
+		"model": "KP-H61",
+		"detailedModel": "KP-H61",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_904324-MLA99480162034_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseMonth": null,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2bLxwRe",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": "LGA1155",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "Intel H61",
+			"socket": "LGA 1155",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": ["2ª Geração (Sandy Bridge)", "3ª Geração (Ivy Bridge)"],
+				"maxTdp": "77W"
+			},
+			"memory": {
+				"type": "DDR3",
+				"slots": 2,
+				"maxCapacity": "16 GB",
+				"maxSpeed": "1600 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["800", "1066", "1333", "1600"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe (NVMe/NGFF) / SATA",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA II 3Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8105/8111",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC (HD Audio)",
+				"channels": "5.1",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": null,
+				"usb20": 6,
+				"total": 6,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": null,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "1920x1200 (VGA) / 4K@30Hz (HDMI limitado)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "4-pin",
+				"phases": null,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI/AMI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Dissipador chipset"],
+				"fanHeaders": null,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": null,
+					"usb20": 6
+				},
+				"audio": ["3 x Audio jacks"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x VGA"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "19 cm",
+				"width": "17 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": null,
+			"bundled": null,
+			"warranty": {
+				"period": "1 ano",
+				"type": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"buildQuality": 5.0,
+				"vrm": 4.5,
+				"connectivity": 6.0,
+				"overclocking": 2.0,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "msi-mpg-b550-gaming-plus",
+		"name": "MPG B550 GAMING PLUS",
+		"brand": "MSI",
+		"line": "MPG GAMING PLUS",
+		"model": "MPG B550 GAMING PLUS",
+		"detailedModel": "MPG B550 GAMING PLUS",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_896276-MLA99986168285_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2020-07",
+		"releaseMonth": "07",
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1gffQZS",
+		"shopeeUrl": null,
+		"alphanumericModel": "7C56-003R",
+		"version": null,
+		"manufacturer": "MSI",
+		"specs": {
+			"manufacturer": "MSI",
+			"chipset": "AMD B550",
+			"socket": "AM4",
+			"formFactor": "ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 3000 Series", "Ryzen 4000 G-Series", "Ryzen 5000 Series", "Ryzen 5000 G-Series"],
+				"maxTdp": "105W+ (com bom cooling)"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 4,
+				"maxCapacity": "128 GB",
+				"maxSpeed": "5100 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"1866",
+					"2133",
+					"2400",
+					"2666",
+					"2800",
+					"2933",
+					"3000",
+					"3066",
+					"3200",
+					"3466",
+					"3600",
+					"3733",
+					"3866",
+					"4000",
+					"4266",
+					"4400",
+					"4600",
+					"4800",
+					"5000",
+					"5100"
+				],
+				"xmp": true,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 2,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2242", "2260", "2280", "22110"]
+					},
+					{
+						"slot": 2,
+						"interface": "PCIe 3.0 x4",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 6,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 4.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 2,
+						"mode": null
+					}
+				],
+				"totalSlots": 3
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC1200",
+				"channels": "7.1",
+				"features": ["Audio Boost", "Isolated audio PCB", "High quality capacitors"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": 1,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": 1,
+				"usb32Gen1": 2,
+				"usb20": 4,
+				"total": 8,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": 1,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 1,
+				"vga": null,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": 10,
+				"designPower": null,
+				"features": ["Core Boost", "Extended Heatsink Design"]
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": null,
+				"flashback": true,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Extended VRM heatsink", "M.2 Shield FROZR"],
+				"fanHeaders": 6,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 5,
+				"pumpHeaders": null,
+				"argbHeaders": 2,
+				"rgbHeaders": 2
+			},
+			"rgb": {
+				"hasRgb": true,
+				"zones": null,
+				"software": "Mystic Light",
+				"compatibleWith": ["RGB", "ARGB", "Addressable RGB"]
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": true,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": ["Double ESD Protection", "2oz Copper PCB"]
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": 1,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": 1,
+					"usb32Gen1": 2,
+					"usb20": 4
+				},
+				"audio": ["5 x Audio jacks + Optical S/PDIF Out"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x DisplayPort"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "30.5 cm",
+				"width": "24 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": null,
+			"bundled": {
+				"cables": ["Cabos SATA"],
+				"software": ["MSI Dragon Center", "Mystic Light"],
+				"accessories": ["I/O Shield", "Manual"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 8.0,
+				"vrm": 7.5,
+				"connectivity": 8.0,
+				"overclocking": 7.0,
+				"features": 8.0
+			}
+		}
+	},
+	{
+		"id": "gigabyte-b550m-k",
+		"name": "B550M K",
+		"brand": "Gigabyte",
+		"line": "B550",
+		"model": "B550M K",
+		"detailedModel": "B550M K",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_768362-MLA99985597141_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseMonth": null,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2vek3Jt",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": "B550M K",
+		"manufacturer": "Gigabyte",
+		"specs": {
+			"manufacturer": "Gigabyte",
+			"chipset": "AMD B550",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 3000 Series", "Ryzen 4000 G-Series", "Ryzen 5000 Series", "Ryzen 5000 G-Series"],
+				"maxTdp": "105W+ (com bom cooling)"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 4,
+				"maxCapacity": "128 GB",
+				"maxSpeed": "4733 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": [
+					"2133",
+					"2400",
+					"2666",
+					"2933",
+					"3200",
+					"3466",
+					"3600",
+					"3733",
+					"3800",
+					"3866",
+					"4000",
+					"4133",
+					"4266",
+					"4400",
+					"4600",
+					"4733"
+				],
+				"xmp": true,
+				"expo": false,
+				"ecc": true
+			},
+			"storage": {
+				"m2Slots": 2,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2242", "2260", "2280", "22110"]
+					},
+					{
+						"slot": 2,
+						"interface": "PCIe 3.0 x4",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 4.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC887",
+				"channels": "7.1",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 4,
+				"usb20": 4,
+				"total": 8,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 1,
+				"vga": null,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4096 x 2160"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": 5,
+				"designPower": null,
+				"features": ["Digital VRM", "Solid Pin Power Connector"]
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["PCH heatsink"],
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI 2.1", "1 x DisplayPort 1.4"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "24.4 cm",
+				"width": "24.4 cm",
+				"height": null,
+				"weight": "1 kg"
+			},
+			"compatibility": null,
+			"bundled": {
+				"cables": null,
+				"software": null,
+				"accessories": ["Proteção I/O"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 7.0,
+				"vrm": 6.0,
+				"connectivity": 7.5,
+				"overclocking": 6.5,
+				"features": 7.0
+			}
+		}
+	},
+	{
+		"id": "coretech-b75-gamer-black",
+		"name": "B75 Gamer Black",
+		"brand": "Coretech",
+		"line": "Gamer Black",
+		"model": "B75",
+		"detailedModel": "B75 Gamer Black LGA1155",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_656719-MLB97528164116_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseMonth": null,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1iKwksy",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": "LGA1155",
+		"manufacturer": "Outros",
+		"specs": {
+			"manufacturer": "Outros",
+			"chipset": "Intel B75",
+			"socket": "LGA 1155",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": ["2ª Geração (Sandy Bridge)", "3ª Geração (Ivy Bridge)"],
+				"maxTdp": "77W"
+			},
+			"memory": {
+				"type": "DDR3",
+				"slots": 2,
+				"maxCapacity": "16 GB",
+				"maxSpeed": "1600 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["1066", "1333", "1600"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe (NVMe) / SATA",
+						"formFactors": ["2242", "2260", "2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 2.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC (HD Audio)",
+				"channels": "5.1 / 6 canais",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 2,
+				"usb20": 6,
+				"total": 8,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": 1,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "1920x1200 (VGA) / 4K@30Hz (HDMI limitado)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "4-pin ou 8-pin",
+				"phases": null,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI/AMI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Dissipador chipset"],
+				"fanHeaders": null,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				},
+				"audio": ["3 x Audio jacks"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x VGA", "1 x DVI"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "26 cm",
+				"width": "19.5 cm",
+				"height": "5 cm",
+				"weight": "1 kg"
+			},
+			"compatibility": null,
+			"bundled": {
+				"cables": ["Cabos SATA"],
+				"software": null,
+				"accessories": ["Espelho (I/O Shield)"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": null
+			},
+			"ratings": {
+				"costBenefit": 7.5,
+				"buildQuality": 5.5,
+				"vrm": 5.0,
+				"connectivity": 6.0,
+				"overclocking": 2.5,
+				"features": 5.5
+			}
+		}
+	},
+	{
+		"id": "revenger-g-h61-lan-1000-m2",
+		"name": "G-H61 Lan 100/1000 SlotM2",
+		"brand": "Revenger",
+		"line": "1155",
+		"model": "G-H61 Lan 100/1000 SlotM2",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_922414-MLA99513157768_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1NBUYk1",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": "1",
+		"manufacturer": "Revenger",
+		"specs": {
+			"manufacturer": "Revenger",
+			"chipset": "Intel H61",
+			"socket": "LGA 1155",
+			"formFactor": "ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": ["2ª Geração (Sandy Bridge)", "3ª Geração (Ivy Bridge)"],
+				"maxTdp": "77W"
+			},
+			"memory": {
+				"type": "DDR3",
+				"slots": 2,
+				"maxCapacity": "16 GB",
+				"maxSpeed": "1600 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["1066", "1333", "1600"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe (NVMe adaptado)",
+						"formFactors": ["NGFF", "M.2"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA II 3Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 2.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": null
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek (Gigabit)",
+					"speed": "1 GbE (100/1000)",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC (HD Audio)",
+				"channels": "5.1 ou 6 canais",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": null,
+				"usb20": 6,
+				"total": 6,
+				"frontPanelConnectors": null
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": null
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "4-pin",
+				"phases": null,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": null,
+				"fanHeaders": null,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": null,
+					"usb20": 6
+				},
+				"audio": ["Jacks HD Audio"],
+				"network": ["1 x RJ45 Gigabit LAN"],
+				"video": ["1 x HDMI", "1 x VGA"],
+				"other": null
+			},
+			"dimensions": null,
+			"compatibility": null,
+			"bundled": null,
+			"warranty": null,
+			"ratings": {
+				"costBenefit": 7.0,
+				"buildQuality": 5.0,
+				"vrm": 4.5,
+				"connectivity": 6.0,
+				"overclocking": 2.0,
+				"features": 4.0
+			}
+		}
+	},
+	{
+		"id": "knup-kp-h61-k",
+		"name": "KP-H61/K",
+		"brand": "Knup",
+		"line": "Chipset Intel H61/K",
+		"model": "KP-H61/K",
+		"detailedModel": "KP-H61/K LGA1155",
+		"color": "Verde-escuro",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_840015-MLA99501194892_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1MPLyAy",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": "Lga1155 I3-i5-i7",
+		"manufacturer": "Knup",
+		"specs": {
+			"manufacturer": "Knup",
+			"chipset": "Intel H61",
+			"socket": "LGA 1155",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": ["2ª Geração (Sandy Bridge)", "3ª Geração (Ivy Bridge)"],
+				"maxTdp": "77W"
+			},
+			"memory": {
+				"type": "DDR3",
+				"slots": 2,
+				"maxCapacity": "16 GB",
+				"maxSpeed": "1600 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["1066", "1333", "1600"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe (NVMe adaptado/NGFF)",
+						"formFactors": ["M.2", "NGFF"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA II 3Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 2.0 x16",
+						"count": 1,
+						"mode": "x16"
+					}
+				],
+				"totalSlots": null
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek (Gigabit)",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC (HD Audio)",
+				"channels": "5.1",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": null,
+				"usb20": 6,
+				"total": 6,
+				"frontPanelConnectors": null
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": null
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "4-pin",
+				"phases": null,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": null,
+				"fanHeaders": null,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": null,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": null,
+					"usb20": 6
+				},
+				"audio": ["Jacks HD Audio"],
+				"network": ["1 x RJ45 LAN"],
+				"video": ["1 x HDMI", "1 x VGA"],
+				"other": null
+			},
+			"dimensions": null,
+			"compatibility": null,
+			"bundled": null,
+			"warranty": null,
+			"ratings": {
+				"costBenefit": 7.2,
+				"buildQuality": 5.0,
+				"vrm": 4.8,
+				"connectivity": 6.5,
+				"overclocking": 2.0,
+				"features": 4.5
+			}
+		}
+	},
+	{
+		"id": "revenger-knup-g-h110pro",
+		"name": "G-H110PRO",
+		"brand": "Revenger",
+		"line": null,
+		"model": "G-H110PRO",
+		"detailedModel": "G-H110PRO",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_862829-MLA100007096123_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ip6wg7",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "Revenger / KNUP",
+		"specs": {
+			"manufacturer": "Revenger",
+			"chipset": "Intel H110",
+			"socket": "LGA 1151",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["Intel"],
+				"generations": ["6ª Geração (Skylake)", "7ª Geração (Kaby Lake)"],
+				"maxTdp": "91W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "32 GB",
+				"maxSpeed": "2133 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["2133"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe (NVMe adaptado/SATA)",
+						"formFactors": ["M.2"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111 (Gigabit)",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC (HD Audio)",
+				"channels": "5.1 ou 6 canais",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 2,
+				"usb20": 6,
+				"total": 8,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 1,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@30Hz (HDMI)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "4-pin ou 8-pin",
+				"phases": null,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": null,
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				},
+				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
+				"network": ["1 x RJ45 Gigabit LAN"],
+				"video": ["1 x HDMI", "1 x VGA"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "21 cm",
+				"width": "17 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": null,
+			"bundled": {
+				"cables": ["1 x SATA"],
+				"software": null,
+				"accessories": ["I/O Shield", "Manual"]
+			},
+			"warranty": null,
+			"ratings": {
+				"costBenefit": 7.5,
+				"buildQuality": 5.5,
+				"vrm": 5.0,
+				"connectivity": 6.8,
+				"overclocking": 2.0,
+				"features": 5.0
+			}
+		}
+	},
+	{
+		"id": "msi-b550m-pro-vdh-wifi",
+		"name": "B550M PRO-VDH WiFi",
+		"brand": "MSI",
+		"line": "PRO-VDH",
+		"model": "B550M PRO-VDH WiFi",
+		"detailedModel": "B550M PRO-VDH WiFi",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_786875-MLA99496907982_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2020-07",
+		"releaseMonth": "07",
+		"releaseYear": 2020,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2dCHvhA",
+		"shopeeUrl": null,
+		"alphanumericModel": "7C95-001R",
+		"version": null,
+		"manufacturer": "MSI",
+		"specs": {
+			"manufacturer": "MSI",
+			"chipset": "AMD B550",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 3000 Series", "Ryzen 4000 G-Series", "Ryzen 5000 Series", "Ryzen 5000 G-Series"],
+				"maxTdp": "105W+ (com bom VRM cooling)"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 4,
+				"maxCapacity": "128 GB",
+				"maxSpeed": "4400 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": ["2133", "2400", "2666", "2800", "3000", "3200", "3600", "4000", "4400 (OC)"],
+				"xmp": true,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 2,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2280"]
+					},
+					{
+						"slot": 2,
+						"interface": "PCIe 3.0 x4 / SATA",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 4.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 3.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": {
+					"standard": "Wi-Fi 5 (802.11ac)",
+					"version": "Dual Band (2.4/5 GHz)",
+					"bluetooth": "Bluetooth 4.2",
+					"antenna": true
+				}
+			},
+			"audio": {
+				"codec": "Realtek ALC892",
+				"channels": "7.1",
+				"features": ["High Definition Audio", "Audio Boost"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 4,
+				"usb20": 6,
+				"total": 10,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 1,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 3,
+				"maxResolution": "4K@60Hz (DP/HDMI)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": "4+2 (duplicated phases)",
+				"designPower": null,
+				"features": ["Core Boost", "DIGITAL PWM"]
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["M.2 Shield Frozr", "VRM heatsink"],
+				"fanHeaders": 4,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 3,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": 2
+			},
+			"rgb": {
+				"hasRgb": true,
+				"zones": null,
+				"software": "Mystic Light",
+				"compatibleWith": ["ARGB", "RGB"]
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": true,
+				"wifi": true,
+				"bluetooth": true,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks (7.1 HD)"],
+				"network": ["1 x RJ45 Gigabit LAN", "Wi-Fi Antenna ports"],
+				"video": ["1 x HDMI", "1 x DisplayPort", "1 x VGA"],
+				"other": ["BIOS Flashback button? No"]
+			},
+			"dimensions": {
+				"length": "24 cm",
+				"width": "24 cm",
+				"height": "4 cm",
+				"weight": "1 kg"
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX", "Mini-ITX compatível em alguns"],
+				"coolers": null,
+				"notes": ["Suporte Ryzen 5000+ com BIOS update"]
+			},
+			"bundled": {
+				"cables": ["SATA cables"],
+				"software": ["MSI Dragon Center", "Mystic Light"],
+				"accessories": ["I/O Shield", "Wi-Fi antennas", "Manual"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"buildQuality": 7.5,
+				"vrm": 7.0,
+				"connectivity": 8.5,
+				"overclocking": 6.5,
+				"features": 8.0
+			}
+		}
+	},
+	{
+		"id": "msi-mag-x870e-tomahawk-wifi",
+		"name": "MAG X870E TOMAHAWK WIFI",
+		"brand": "MSI",
+		"line": "MAG",
+		"model": "MAG X870E TOMAHAWK WIFI",
+		"detailedModel": "MAG X870E TOMAHAWK WIFI",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_699140-MLA99498253338_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024-09-30",
+		"releaseMonth": "09",
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2HcWjsW",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "MSI",
+		"specs": {
+			"manufacturer": "MSI",
+			"chipset": "AMD X870E",
+			"socket": "AM5",
+			"formFactor": "ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 7000 Series", "Ryzen 8000 Series", "Ryzen 9000 Series"],
+				"maxTdp": "170W+ (com excelente cooling VRM)"
+			},
+			"memory": {
+				"type": "DDR5",
+				"slots": 4,
+				"maxCapacity": "256 GB",
+				"maxSpeed": "8400 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": ["4800", "5200", "6000", "6400", "7200", "8000", "8400 (OC)"],
+				"xmp": true,
+				"expo": true,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 4,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 5.0 x4",
+						"formFactors": ["2280"]
+					},
+					{
+						"slot": 2,
+						"interface": "PCIe 5.0 x4",
+						"formFactors": ["2280"]
+					},
+					{
+						"slot": 3,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2280"]
+					},
+					{
+						"slot": 4,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 5.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 5.0 x16",
+						"count": 1,
+						"mode": "x8/x8 (dual)"
+					},
+					{
+						"type": "PCIe 4.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 3
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek 5G LAN",
+					"speed": "5 GbE",
+					"ports": 1
+				},
+				"wifi": {
+					"standard": "Wi-Fi 7",
+					"version": "BE (320MHz channel)",
+					"bluetooth": "Bluetooth 5.4",
+					"antenna": true
+				}
+			},
+			"audio": {
+				"codec": "Realtek ALC4082",
+				"channels": "7.1",
+				"features": ["High Definition Audio", "Audio Boost"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": 1,
+				"usb32Gen2TypeC": 1,
+				"usb32Gen2TypeA": 4,
+				"usb32Gen1": 4,
+				"usb20": 4,
+				"total": 14,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": 1,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": null,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 1,
+				"maxResolution": "8K@60Hz (HDMI)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8+8-pin",
+				"phases": 17,
+				"designPower": "14 Duet Rail Power System",
+				"features": ["Core Boost", "DIGITAL PWM", "strong VRM cooling"]
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": null,
+				"flashback": true,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["Extended VRM heatsink", "M.2 Shield Frozr"],
+				"fanHeaders": 6,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 4,
+				"pumpHeaders": 1,
+				"argbHeaders": 3,
+				"rgbHeaders": 3
+			},
+			"rgb": {
+				"hasRgb": true,
+				"zones": null,
+				"software": "Mystic Light",
+				"compatibleWith": ["ARGB", "RGB"]
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": true,
+				"postCode": false,
+				"qFlash": true,
+				"wifi": true,
+				"bluetooth": true,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": 1,
+					"usb32Gen2TypeC": 1,
+					"usb32Gen2TypeA": 4,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["5 x Audio jacks (7.1 HD)"],
+				"network": ["1 x 5G RJ45 LAN", "Wi-Fi 7 Antenna ports"],
+				"video": ["1 x HDMI"],
+				"other": ["BIOS Flashback button", "USB4 support via rear"]
+			},
+			"dimensions": {
+				"length": "30.5 cm",
+				"width": "24.4 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": ["ATX"],
+				"coolers": null,
+				"notes": ["BIOS update para Ryzen 9000 otimizado"]
+			},
+			"bundled": {
+				"cables": ["Cabos SATA"],
+				"software": ["MSI Center", "Mystic Light"],
+				"accessories": ["I/O Shield", "Wi-Fi antennas", "Manual"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"buildQuality": 8.8,
+				"vrm": 9.2,
+				"connectivity": 9.5,
+				"overclocking": 8.5,
+				"features": 9.0
+			}
+		}
+	},
+	{
+		"id": "msi-pro-b840m-b",
+		"name": "PRO B840M-B",
+		"brand": "MSI",
+		"line": "PRO",
+		"model": "B840M-B",
+		"detailedModel": "PRO B840M-B",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_919859-MLA99989654139_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025-01",
+		"releaseMonth": "01",
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/169btDS",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "MSI",
+		"specs": {
+			"manufacturer": "MSI",
+			"chipset": "AMD B840",
+			"socket": "AM5",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 7000 Series", "Ryzen 8000 Series", "Ryzen 9000 Series"],
+				"maxTdp": "120W"
+			},
+			"memory": {
+				"type": "DDR5",
+				"slots": 2,
+				"maxCapacity": "128 GB",
+				"maxSpeed": "7200 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": ["4800", "5200", "6000", "6400", "7200 (OC)"],
+				"xmp": true,
+				"expo": true,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 2,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2280"]
+					},
+					{
+						"slot": 2,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 4.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 4.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC897",
+				"channels": "7.1",
+				"features": ["High Definition Audio"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 2,
+				"usb20": 6,
+				"total": 8,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 1,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": null,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 1,
+				"maxResolution": "8K@60Hz (HDMI)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": "6+2+1",
+				"designPower": null,
+				"features": ["Core Boost"]
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["VRM heatsink", "PCH heatsink"],
+				"fanHeaders": 3,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 2,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": true,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 2,
+					"usb20": 4
+				},
+				"audio": ["3 x Audio jacks (7.1 HD)"],
+				"network": ["1 x RJ45 Gigabit LAN"],
+				"video": ["1 x HDMI"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "24.4 cm",
+				"width": "22.6 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX"],
+				"coolers": null,
+				"notes": ["Suporte nativo a Ryzen 9000 / 8000 / 7000 series"]
+			},
+			"bundled": {
+				"cables": null,
+				"software": ["MSI Center"],
+				"accessories": ["I/O Shield", "Manual"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.2,
+				"buildQuality": 7.5,
+				"vrm": 6.8,
+				"connectivity": 7.0,
+				"overclocking": 4.5,
+				"features": 6.5
+			}
+		}
+	},
+	{
+		"id": "asrock-b450m-steel-legend",
+		"name": "B450M Steel Legend",
+		"brand": "ASRock",
+		"line": "Steel Legend",
+		"model": "B450M Steel Legend",
+		"detailedModel": "B450M Steel Legend",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_670564-MLA99492372486_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2019-02",
+		"releaseMonth": "02",
+		"releaseYear": 2019,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1Whx7Yq",
+		"shopeeUrl": null,
+		"alphanumericModel": "90-MXB9Y0-A0UAYZ",
+		"version": null,
+		"manufacturer": "ASRock",
+		"specs": {
+			"manufacturer": "ASRock",
+			"chipset": "AMD B450",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": [
+					"Ryzen 2000 Series",
+					"Ryzen 3000 Series",
+					"Ryzen 4000 G-Series",
+					"Ryzen 5000 Series",
+					"Ryzen 5000 G-Series"
+				],
+				"maxTdp": "105W+ (com bom cooling)"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 4,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "3533 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": ["2133", "2400", "2666", "2933", "3200", "3533 (OC)"],
+				"xmp": true,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 2,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4",
+						"formFactors": ["2280"]
+					},
+					{
+						"slot": 2,
+						"interface": "SATA3",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 3.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 2.0 x16",
+						"count": 1,
+						"mode": "x4"
+					},
+					{
+						"type": "PCIe 2.0 x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 3
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek RTL8111H",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC892/897",
+				"channels": "7.1",
+				"features": ["HD Audio"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": 1,
+				"usb32Gen2TypeA": 1,
+				"usb32Gen1": 6,
+				"usb20": 4,
+				"total": 12,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 1,
+				"vga": null,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz (DP/HDMI)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": "6 (4+2)",
+				"designPower": null,
+				"features": ["Premium Choke", "Nichicon 12K Black Caps"]
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["VRM heatsink", "PCH heatsink"],
+				"fanHeaders": 5,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 4,
+				"pumpHeaders": null,
+				"argbHeaders": 1,
+				"rgbHeaders": 1
+			},
+			"rgb": {
+				"hasRgb": true,
+				"zones": null,
+				"software": "Polychrome RGB",
+				"compatibleWith": ["ARGB", "RGB"]
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": 1,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": 1,
+					"usb32Gen2TypeA": 1,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks (7.1 HD)"],
+				"network": ["1 x RJ45 Gigabit LAN"],
+				"video": ["1 x HDMI", "1 x DisplayPort"],
+				"other": ["1 x PS/2"]
+			},
+			"dimensions": {
+				"length": "24.4 cm",
+				"width": "24.4 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX"],
+				"coolers": null,
+				"notes": ["BIOS update para Ryzen 5000 otimizado"]
+			},
+			"bundled": {
+				"cables": ["SATA cables"],
+				"software": ["ASRock Polychrome RGB"],
+				"accessories": ["I/O Shield", "Manual"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"buildQuality": 8.0,
+				"vrm": 7.0,
+				"connectivity": 8.0,
+				"overclocking": 7.5,
+				"features": 8.5
+			}
+		}
+	},
+	{
+		"id": "aitek-delta-a520m2k",
+		"name": "DELTA-A520M2K",
+		"brand": "Aitek",
+		"line": "Delta",
+		"model": "DELTA-A520M2K",
+		"detailedModel": "DELTA-A520M2K",
+		"color": null,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_847494-MLB101061898347_122025-F-placa-me-a520m-amd-matx-am4-ddr4-gamer-hdmi-usb30-vga.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ZkmxTR",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "Aitek",
+		"specs": {
+			"manufacturer": "Aitek",
+			"chipset": "AMD A520",
+			"socket": "AM4",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 3000 Series", "Ryzen 4000 G-Series", "Ryzen 5000 Series", "Ryzen 5000 G-Series"],
+				"maxTdp": "105W"
+			},
+			"memory": {
+				"type": "DDR4",
+				"slots": 2,
+				"maxCapacity": "64 GB",
+				"maxSpeed": "3200 MHz",
+				"channels": 2,
+				"supportedSpeeds": ["2133", "2400", "2666", "3200"],
+				"xmp": false,
+				"expo": false,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 1,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 3.0 x4 / SATA",
+						"formFactors": ["2280", "NGFF"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": null
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 4.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe x1",
+						"count": 1,
+						"mode": null
+					}
+				],
+				"totalSlots": 2
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek (Gigabit)",
+					"speed": "1 GbE",
+					"ports": 1
+				},
+				"wifi": null
+			},
+			"audio": {
+				"codec": "Realtek ALC (HD Audio)",
+				"channels": "5.1 ou 6 canais",
+				"features": null
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": null,
+				"usb32Gen2TypeA": null,
+				"usb32Gen1": 6,
+				"usb20": 2,
+				"total": 8,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 2,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": null,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 2,
+				"maxResolution": "4K@60Hz (HDMI)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": 5,
+				"designPower": null,
+				"features": null
+			},
+			"bios": {
+				"type": "UEFI",
+				"size": null,
+				"flashback": false,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["PCH heatsink"],
+				"fanHeaders": 2,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 1,
+				"pumpHeaders": null,
+				"argbHeaders": null,
+				"rgbHeaders": null
+			},
+			"rgb": {
+				"hasRgb": false,
+				"zones": null,
+				"software": null,
+				"compatibleWith": null
+			},
+			"features": {
+				"gaming": false,
+				"overclocking": false,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": false,
+				"bluetooth": false,
+				"thunderbolt": false,
+				"tpm": null,
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": 1,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen2TypeA": null,
+					"usb32Gen1": 6,
+					"usb20": 2
+				},
+				"audio": ["Jacks HD Audio"],
+				"network": ["1 x RJ45 Gigabit LAN"],
+				"video": ["1 x HDMI", "1 x VGA"],
+				"other": null
+			},
+			"dimensions": {
+				"length": "21.6 cm",
+				"width": "18 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX"],
+				"coolers": null,
+				"notes": ["BIOS update recomendado para Ryzen 5000"]
+			},
+			"bundled": {
+				"cables": ["Cabos SATA"],
+				"software": null,
+				"accessories": ["I/O Shield", "Manual", "Kit de montagem"]
+			},
+			"warranty": null,
+			"ratings": {
+				"costBenefit": 7.8,
+				"buildQuality": 6.0,
+				"vrm": 5.5,
+				"connectivity": 7.0,
+				"overclocking": 3.0,
+				"features": 5.5
+			}
+		}
+	},
+	{
+		"id": "asus-prime-b650m-a-wifi",
+		"name": "PRIME B650M-A WIFI",
+		"brand": "ASUS",
+		"line": "Prime",
+		"model": "PRIME B650M-A WIFI",
+		"detailedModel": "PRIME B650M-A WIFI",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_669727-MLA99471258824_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2022-10",
+		"releaseMonth": "10",
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "placa-mae",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1egxhSS",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "ASUS",
+		"specs": {
+			"manufacturer": "ASUS",
+			"chipset": "AMD B650",
+			"socket": "AM5",
+			"formFactor": "Micro-ATX",
+			"cpuSupport": {
+				"brands": ["AMD"],
+				"generations": ["Ryzen 7000 Series", "Ryzen 8000 Series", "Ryzen 9000 Series"],
+				"maxTdp": "170W+ (com bom cooling)"
+			},
+			"memory": {
+				"type": "DDR5",
+				"slots": 4,
+				"maxCapacity": "256 GB",
+				"maxSpeed": "8000 MHz (OC)",
+				"channels": 2,
+				"supportedSpeeds": ["4800", "5200", "6000", "6400", "7200", "7600", "8000 (OC)"],
+				"xmp": true,
+				"expo": true,
+				"ecc": false
+			},
+			"storage": {
+				"m2Slots": 2,
+				"m2Specs": [
+					{
+						"slot": 1,
+						"interface": "PCIe 5.0 x4",
+						"formFactors": ["2280"]
+					},
+					{
+						"slot": 2,
+						"interface": "PCIe 4.0 x4",
+						"formFactors": ["2280"]
+					}
+				],
+				"sataConnectors": 4,
+				"sataVersion": "SATA III 6Gb/s",
+				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
+			},
+			"expansion": {
+				"pciSlots": [
+					{
+						"type": "PCIe 5.0 x16",
+						"count": 1,
+						"mode": "x16"
+					},
+					{
+						"type": "PCIe 4.0 x1",
+						"count": 2,
+						"mode": null
+					}
+				],
+				"totalSlots": 3
+			},
+			"networking": {
+				"ethernet": {
+					"controller": "Realtek 2.5Gb",
+					"speed": "2.5 GbE",
+					"ports": 1
+				},
+				"wifi": {
+					"standard": "Wi-Fi 6",
+					"version": "802.11ax",
+					"bluetooth": "Bluetooth 5.2",
+					"antenna": true
+				}
+			},
+			"audio": {
+				"codec": "Realtek ALC897",
+				"channels": "7.1",
+				"features": ["High Definition Audio"]
+			},
+			"usb": {
+				"usb32Gen2x2TypeC": null,
+				"usb32Gen2TypeC": 1,
+				"usb32Gen2TypeA": 1,
+				"usb32Gen1": 4,
+				"usb20": 4,
+				"total": 10,
+				"frontPanelConnectors": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": null,
+					"usb32Gen1": 1,
+					"usb20": 2
+				}
+			},
+			"videoOutputs": {
+				"hdmi": 1,
+				"displayPort": 1,
+				"vga": 1,
+				"dvi": null,
+				"thunderbolt": null,
+				"maxDisplays": 3,
+				"maxResolution": "8K@60Hz (DP/HDMI)"
+			},
+			"power": {
+				"mainConnector": "24-pin",
+				"cpuConnector": "8-pin",
+				"phases": "8+2+1",
+				"designPower": null,
+				"features": ["Digi+ VRM", "VRM heatsink"]
+			},
+			"bios": {
+				"type": "UEFI AMI",
+				"size": null,
+				"flashback": true,
+				"dualBios": false
+			},
+			"cooling": {
+				"heatsinks": ["VRM heatsink", "M.2 heatsink"],
+				"fanHeaders": 4,
+				"cpuFanHeaders": 1,
+				"systemFanHeaders": 3,
+				"pumpHeaders": null,
+				"argbHeaders": 2,
+				"rgbHeaders": 1
+			},
+			"rgb": {
+				"hasRgb": true,
+				"zones": null,
+				"software": "Aura Sync",
+				"compatibleWith": ["ARGB", "RGB"]
+			},
+			"features": {
+				"gaming": true,
+				"overclocking": true,
+				"clearCmos": true,
+				"debugLed": false,
+				"postCode": false,
+				"qFlash": false,
+				"wifi": true,
+				"bluetooth": true,
+				"thunderbolt": false,
+				"tpm": "2.0",
+				"securityFeatures": null
+			},
+			"backPanel": {
+				"ps2": null,
+				"usb": {
+					"usb32Gen2x2TypeC": null,
+					"usb32Gen2TypeC": 1,
+					"usb32Gen2TypeA": 1,
+					"usb32Gen1": 4,
+					"usb20": 2
+				},
+				"audio": ["3 x Audio jacks (7.1 HD)"],
+				"network": ["1 x 2.5Gb RJ45 LAN", "Wi-Fi Antenna ports"],
+				"video": ["1 x HDMI", "1 x DisplayPort", "1 x VGA"],
+				"other": ["BIOS FlashBack button"]
+			},
+			"dimensions": {
+				"length": "24.4 cm",
+				"width": "24.4 cm",
+				"height": null,
+				"weight": null
+			},
+			"compatibility": {
+				"cases": ["Micro-ATX"],
+				"coolers": null,
+				"notes": ["BIOS update para Ryzen 9000 otimizado"]
+			},
+			"bundled": {
+				"cables": ["Cabos SATA"],
+				"software": ["Armoury Crate", "Aura Creator"],
+				"accessories": ["I/O Shield", "Wi-Fi antennas", "Manual"]
+			},
+			"warranty": {
+				"period": "3 anos",
+				"type": "Garantia do fabricante"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"buildQuality": 8.0,
+				"vrm": 7.5,
+				"connectivity": 9.0,
+				"overclocking": 7.0,
+				"features": 8.5
+			}
+		}
+	}
+]
