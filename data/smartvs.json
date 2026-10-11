@@ -85,7 +85,6 @@
 			}
 		}
 	},
-
 	{
 		"id": "philco-p32vik-32",
 		"name": "P32VIK",
@@ -156,7 +155,7 @@
 				"widthCm": 72,
 				"heightCm": 46.5,
 				"depthCm": 18,
-				"weightKg": 5.0,
+				"weightKg": 5,
 				"cableManagement": false
 			},
 			"energy": {
@@ -165,7 +164,7 @@
 			},
 			"ratings": {
 				"costBenefit": 8.6,
-				"imageQuality": 8.0,
+				"imageQuality": 8,
 				"soundQuality": 7.6,
 				"systemSpeed": 8.4,
 				"connectivity": 8.2
@@ -252,13 +251,12 @@
 			"ratings": {
 				"costBenefit": 8.8,
 				"imageQuality": 8.4,
-				"soundQuality": 8.0,
+				"soundQuality": 8,
 				"systemSpeed": 9,
 				"connectivity": 8.6
 			}
 		}
 	},
-
 	{
 		"id": "weyon-32wdsnmx-32",
 		"name": "32WDSNMX",
@@ -584,7 +582,7 @@
 			},
 			"design": {
 				"vesa": true,
-				"widthCm": 127.0,
+				"widthCm": 127,
 				"heightCm": 78,
 				"depthCm": 23,
 				"weightKg": 18.2,
@@ -683,7 +681,7 @@
 			"ratings": {
 				"costBenefit": 8.8,
 				"imageQuality": 8.6,
-				"soundQuality": 7.0,
+				"soundQuality": 7,
 				"systemSpeed": 9,
 				"connectivity": 9.2
 			}
@@ -856,7 +854,7 @@
 				"costBenefit": 8.4,
 				"imageQuality": 8.2,
 				"soundQuality": 7.4,
-				"systemSpeed": 8.0,
+				"systemSpeed": 8,
 				"connectivity": 8.4
 			}
 		}
@@ -942,94 +940,8 @@
 				"costBenefit": 8.4,
 				"imageQuality": 8.2,
 				"soundQuality": 7.4,
-				"systemSpeed": 8.0,
+				"systemSpeed": 8,
 				"connectivity": 8.4
-			}
-		}
-	},
-	{
-		"id": "weyon-32wdsnmx-32",
-		"name": "32WDSNMX",
-		"brand": "Weyon",
-		"line": "Android TV",
-		"model": "32WDSNMX",
-		"detailedModel": null,
-		"color": "Preto",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_824259-MLA99939289013_112025-F.webp",
-		"price": null,
-		"releaseDate": "2025",
-		"releaseMonth": null,
-		"releaseYear": 2025,
-		"origin": null,
-		"category": "smart-tvs",
-		"subcategory": "tv",
-		"anatelNumber": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1tjHwY4",
-		"amazonUrl": null,
-		"shopeeUrl": null,
-		"alphanumericModel": "32WDSNMX",
-		"version": null,
-		"manufacturer": "Weyon",
-		"specs": {
-			"screen": {
-				"sizeInches": 32,
-				"resolution": "HD",
-				"panelType": "LED",
-				"hdr": false,
-				"refreshRateHz": 60,
-				"brightnessNits": 250,
-				"contrastRatio": 3000,
-				"responseTimeMs": 6.5,
-				"viewingAngleDegrees": 178,
-				"aspectRatio": "16:9"
-			},
-			"system": {
-				"os": "Android TV",
-				"apps": ["Netflix", "YouTube", "Hulu", "Vudu", "HBO Max", "Prime Video", "Disney+"],
-				"voiceAssistant": "Google Assistant",
-				"isSmart": true,
-				"storageGb": 8,
-				"processorCores": 2,
-				"screenShare": true
-			},
-			"audio": {
-				"speakers": 2,
-				"powerWatts": 10,
-				"dolbyAudio": true,
-				"surround": true
-			},
-			"connectivity": {
-				"wifi": true,
-				"bluetooth": false,
-				"ethernet": true
-			},
-			"ports": {
-				"hdmi": 2,
-				"usb": 2,
-				"spdif": true,
-				"component": true,
-				"composite": true,
-				"rfAntenna": true,
-				"vga": false
-			},
-			"design": {
-				"vesa": true,
-				"widthCm": 73.2,
-				"heightCm": 47.41,
-				"depthCm": 19.56,
-				"weightKg": 4.83,
-				"cableManagement": true
-			},
-			"energy": {
-				"energyEfficiencyClass": "A",
-				"inmetroCertification": "017658/2024"
-			},
-			"ratings": {
-				"costBenefit": 9.6,
-				"imageQuality": 7.0,
-				"soundQuality": 7.6,
-				"systemSpeed": 7.2,
-				"connectivity": 7.4
 			}
 		}
 	},
@@ -1457,7 +1369,7 @@
 			"ratings": {
 				"costBenefit": 9,
 				"imageQuality": 7.8,
-				"soundQuality": 8.0,
+				"soundQuality": 8,
 				"systemSpeed": 7.4,
 				"connectivity": 8.6
 			}
@@ -1629,7 +1541,7 @@
 			"ratings": {
 				"costBenefit": 9.4,
 				"imageQuality": 9,
-				"soundQuality": 7.0,
+				"soundQuality": 7,
 				"systemSpeed": 8.8,
 				"connectivity": 8.6
 			}
@@ -1716,7 +1628,7 @@
 				"costBenefit": 9,
 				"imageQuality": 8.4,
 				"soundQuality": 7.6,
-				"systemSpeed": 8.0,
+				"systemSpeed": 8,
 				"connectivity": 8.6
 			}
 		}
@@ -1801,7 +1713,7 @@
 			"ratings": {
 				"costBenefit": 9,
 				"imageQuality": 8.4,
-				"soundQuality": 8.0,
+				"soundQuality": 8,
 				"systemSpeed": 8.6,
 				"connectivity": 8.8
 			}
@@ -2135,7 +2047,7 @@
 				"widthCm": 110.5,
 				"heightCm": 69,
 				"depthCm": 8.5,
-				"weightKg": 9.0,
+				"weightKg": 9,
 				"cableManagement": null
 			},
 			"energy": {
@@ -2144,7 +2056,7 @@
 			},
 			"ratings": {
 				"costBenefit": 8.4,
-				"imageQuality": 8.0,
+				"imageQuality": 8,
 				"soundQuality": 7.6,
 				"systemSpeed": 8.2,
 				"connectivity": 7.8
@@ -2317,7 +2229,7 @@
 			"ratings": {
 				"costBenefit": 8.6,
 				"imageQuality": 8.8,
-				"soundQuality": 8.0,
+				"soundQuality": 8,
 				"systemSpeed": 9,
 				"connectivity": 9.2
 			}
@@ -2404,94 +2316,8 @@
 				"costBenefit": 8.8,
 				"imageQuality": 7.8,
 				"soundQuality": 7.4,
-				"systemSpeed": 8.0,
+				"systemSpeed": 8,
 				"connectivity": 8.2
-			}
-		}
-	},
-	{
-		"id": "lg-32lr600bpsa-32",
-		"name": "32LR600BPSA",
-		"brand": "LG",
-		"line": "LR60",
-		"model": "32LR600BPSA",
-		"detailedModel": "32LR600BPSA",
-		"color": "Preto",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_934018-MLA99576753908_122025-F.webp",
-		"price": null,
-		"releaseDate": "2024-01-01",
-		"releaseMonth": 1,
-		"releaseYear": 2024,
-		"origin": "BR",
-		"category": "smart-tvs",
-		"subcategory": "tv",
-		"anatelNumber": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/2gjejef",
-		"amazonUrl": null,
-		"shopeeUrl": null,
-		"alphanumericModel": "32LR600BPSA",
-		"version": null,
-		"manufacturer": "LG",
-		"specs": {
-			"screen": {
-				"sizeInches": 32,
-				"resolution": "HD",
-				"panelType": "LED",
-				"hdr": true,
-				"refreshRateHz": 60,
-				"brightnessNits": null,
-				"contrastRatio": null,
-				"responseTimeMs": null,
-				"viewingAngleDegrees": null,
-				"aspectRatio": "16:9"
-			},
-			"system": {
-				"os": "webOS 23",
-				"apps": ["Netflix", "Disney+", "Apple TV+", "LG Channels", "Prime Video", "YouTube"],
-				"voiceAssistant": "Google Assistant / Alexa / ThinQ AI",
-				"isSmart": true,
-				"storageGb": null,
-				"processorCores": null,
-				"screenShare": true
-			},
-			"audio": {
-				"speakers": 2,
-				"powerWatts": 10,
-				"dolbyAudio": true,
-				"surround": true
-			},
-			"connectivity": {
-				"wifi": true,
-				"bluetooth": true,
-				"ethernet": true
-			},
-			"ports": {
-				"hdmi": 2,
-				"usb": 1,
-				"spdif": true,
-				"component": null,
-				"composite": null,
-				"rfAntenna": true,
-				"vga": false
-			},
-			"design": {
-				"vesa": null,
-				"widthCm": 72,
-				"heightCm": 43,
-				"depthCm": 9,
-				"weightKg": 8.4,
-				"cableManagement": false
-			},
-			"energy": {
-				"energyEfficiencyClass": null,
-				"inmetroCertification": null
-			},
-			"ratings": {
-				"costBenefit": 9.4,
-				"imageQuality": 8.8,
-				"soundQuality": 8.6,
-				"systemSpeed": 9,
-				"connectivity": 8.8
 			}
 		}
 	},
@@ -2565,7 +2391,7 @@
 				"widthCm": 95.4,
 				"heightCm": 55.4,
 				"depthCm": 7.7,
-				"weightKg": 5.0,
+				"weightKg": 5,
 				"cableManagement": null
 			},
 			"energy": {
@@ -2748,7 +2574,7 @@
 				"costBenefit": 9,
 				"imageQuality": 8.4,
 				"soundQuality": 8.2,
-				"systemSpeed": 8.0,
+				"systemSpeed": 8,
 				"connectivity": 8.4
 			}
 		}

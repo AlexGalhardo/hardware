@@ -1,13 +1,13 @@
-import React from "react";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import React from "react";
 import { ThemeProvider } from "@/components/providers/theme-provider";
 import { Toaster } from "@/components/ui/toaster";
 import "./globals.css";
-import { orbitron } from "@/lib/fonts";
+import Script from "next/script";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import { NavbarWrapper } from "@/components/navbar-wrapper";
-import Script from "next/script";
+import { orbitron } from "@/lib/fonts";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
 		title: "TudoHardware.com - Comparações Técnicas",
 		description:
 			"Compare smartphones, tablets, notebooks, CPUs, GPUs, geladeiras, tvs, drones, smartwatches, máquinas de lavar roupa e muito mais.",
-		url: "https://tudohardware.com.br",
+		url: "https://tudohardware.com",
 		siteName: "TudoHardware.com",
 		images: [
 			{
@@ -81,9 +81,9 @@ export const metadata: Metadata = {
 		images: ["/new-logo.webp"],
 	},
 	alternates: {
-		canonical: "https://tudohardware.com.br",
+		canonical: "https://tudohardware.com",
 		languages: {
-			"pt-BR": "https://tudohardware.com.br",
+			"pt-BR": "https://tudohardware.com",
 		},
 	},
 };

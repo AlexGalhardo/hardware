@@ -1,14 +1,16 @@
 "use client";
 
+import { ChevronRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import { ChevronRight } from "lucide-react";
-import type { Product, ProductCategory, CategoryInfo } from "@/lib/types";
-import { getSpecConfig } from "@/lib/spec-configs";
-import { formatRating } from "@/lib/data";
-import { SiMercadopago, SiShopee } from "react-icons/si";
-import { cn } from "@/lib/utils";
 import { useEffect } from "react";
+import { SiMercadopago, SiShopee } from "react-icons/si";
+import { productAffiliateHref } from "@/lib/affiliate-catalogue";
+import { isAffiliateUrl } from "@/lib/affiliate-links";
+import { formatRating } from "@/lib/data";
+import { getSpecConfig } from "@/lib/spec-configs";
+import type { CategoryInfo, Product, ProductCategory } from "@/lib/types";
+import { cn } from "@/lib/utils";
 
 interface ProductDetailClientProps {
 	product: Product;
@@ -99,11 +101,11 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 
 							<div className="w-70 max-w-[320px] mx-auto space-y-2">
 								<div className="flex flex-col gap-3 mb-6 mt-6">
-									{product.amazonUrl && (
+									{isAffiliateUrl(product.amazonUrl) && (
 										<a
-											href={product.amazonUrl}
+											href={productAffiliateHref(category, product.id, "amazon")}
 											target="_blank"
-											rel="noopener noreferrer"
+											rel="noopener noreferrer sponsored"
 											className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-md bg-[#FF9900] hover:bg-[#e68a00] transition-all text-black font-semibold text-sm shadow-[0_5px_0_0_#cc7a00] hover:shadow-[0_2px_0_0_#cc7a00] hover:translate-y-[2px] active:shadow-[0_0px_0_0_#cc7a00] active:translate-y-[4px]"
 										>
 											{/* <SiAmazon className="h-5 w-5" /> */}
@@ -111,11 +113,11 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 										</a>
 									)}
 
-									{product.mercadolivreUrl && (
+									{isAffiliateUrl(product.mercadolivreUrl) && (
 										<a
-											href={product.mercadolivreUrl}
+											href={productAffiliateHref(category, product.id, "mercadolivre")}
 											target="_blank"
-											rel="noopener noreferrer"
+											rel="noopener noreferrer sponsored"
 											className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-md bg-[#FFE600] hover:bg-[#e6cf00] transition-all text-black font-semibold text-sm shadow-[0_5px_0_0_#ccb800] hover:shadow-[0_2px_0_0_#ccb800] hover:translate-y-[2px] active:shadow-[0_0px_0_0_#ccb800] active:translate-y-[4px]"
 										>
 											<SiMercadopago className="h-5 w-5" />
@@ -123,11 +125,11 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 										</a>
 									)}
 
-									{product.shopeeUrl && (
+									{isAffiliateUrl(product.shopeeUrl) && (
 										<a
-											href={product.shopeeUrl}
+											href={productAffiliateHref(category, product.id, "shopee")}
 											target="_blank"
-											rel="noopener noreferrer"
+											rel="noopener noreferrer sponsored"
 											className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-md bg-[#EE4D2D] hover:bg-[#d84326] transition-all text-white font-semibold text-sm shadow-[0_5px_0_0_#b83820] hover:shadow-[0_2px_0_0_#b83820] hover:translate-y-[2px] active:shadow-[0_0px_0_0_#b83820] active:translate-y-[4px]"
 										>
 											<SiShopee className="h-5 w-5" />

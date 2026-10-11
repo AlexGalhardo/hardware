@@ -1,42 +1,42 @@
 "use client";
 
+import {
+	AirVent,
+	Camera,
+	CircuitBoard,
+	Coffee,
+	Computer,
+	Cpu,
+	Flame,
+	Headphones,
+	Keyboard,
+	Lock,
+	Menu,
+	Monitor,
+	MonitorCog,
+	Mouse,
+	Plane,
+	Printer,
+	Refrigerator,
+	Smartphone,
+	Tablet,
+	Tv,
+	Volume2,
+	WashingMachine,
+	Watch,
+	Waves,
+	X,
+} from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { ThemeToggle } from "./theme-toggle";
-import Image from "next/image";
-import { categories } from "@/lib/data";
-import type { ProductCategory, Product } from "@/lib/types";
-import { cn } from "@/lib/utils";
-import {
-	Smartphone,
-	Cpu,
-	Monitor,
-	Tablet,
-	Headphones,
-	Plane,
-	Watch,
-	Computer,
-	Menu,
-	X,
-	WashingMachine,
-	Tv,
-	Refrigerator,
-	Flame,
-	Waves,
-	Keyboard,
-	Mouse,
-	Volume2,
-	CircuitBoard,
-	AirVent,
-	MonitorCog,
-	Camera,
-	Coffee,
-	Printer,
-	Lock,
-} from "lucide-react";
-import { PiSecurityCamera } from "react-icons/pi";
 import { useState } from "react";
+import { PiSecurityCamera } from "react-icons/pi";
+import { categories } from "@/lib/data";
+import type { Product, ProductCategory } from "@/lib/types";
+import { cn } from "@/lib/utils";
 import { SearchModal } from "../search-modal";
+import { ThemeToggle } from "./theme-toggle";
 
 const categoryIcons: Record<ProductCategory, React.ReactNode> = {
 	smartphones: <Smartphone className="h-5 w-5" />,
@@ -167,6 +167,7 @@ export function Navbar({ allProducts }: NavbarProps) {
 					<div className="flex xl:hidden items-center gap-2 flex-shrink-0">
 						<ThemeToggle />
 						<button
+							type="button"
 							className="flex items-center justify-center p-2 rounded-lg hover:bg-muted transition-colors"
 							onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
 							aria-label="Toggle menu"

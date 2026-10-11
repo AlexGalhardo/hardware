@@ -103,7 +103,7 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"heatingPerformance": 7.0,
+				"heatingPerformance": 7,
 				"easeOfUse": 8.5,
 				"capacity": 6.5,
 				"features": 7.5
@@ -203,11 +203,11 @@
 				"removableParts": ["Prato giratório", "Suporte giratório"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"heatingPerformance": 7.5,
-				"easeOfUse": 9.0,
+				"easeOfUse": 9,
 				"capacity": 8.5,
-				"features": 8.0
+				"features": 8
 			}
 		}
 	},
@@ -313,10 +313,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"heatingPerformance": 8.0,
+				"heatingPerformance": 8,
 				"easeOfUse": 8.5,
 				"capacity": 7.5,
-				"features": 8.0
+				"features": 8
 			}
 		}
 	},
@@ -422,122 +422,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"heatingPerformance": 8.0,
+				"heatingPerformance": 8,
 				"easeOfUse": 8.5,
 				"capacity": 7.5,
-				"features": 8.0
-			}
-		}
-	},
-	{
-		"id": "electrolux-mto30",
-		"name": "MTO30",
-		"brand": "Electrolux",
-		"line": "Micro-ondas",
-		"model": "MTO30",
-		"detailedModel": "10201PBA106",
-		"color": "Branco",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_787358-MLA100187065347_122025-F.webp",
-		"price": 0,
-		"releaseDate": "2024",
-		"releaseMonth": null,
-		"releaseYear": 2024,
-		"origin": "Nacional",
-		"category": "microondas",
-		"anatelNumber": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1PgpcfT",
-		"alphanumericModel": "MTO30",
-		"manufacturer": "Electrolux",
-		"specs": {
-			"type": "Solo",
-			"capacity": {
-				"liters": 20,
-				"familySize": "Individual ou casal"
-			},
-			"power": {
-				"microwave": 1300,
-				"grill": null,
-				"convection": null,
-				"voltage": "Bivolt",
-				"frequency": "60 Hz"
-			},
-			"turntable": {
-				"diameter": "24,5 cm",
-				"removable": true
-			},
-			"powerLevels": 10,
-			"programs": {
-				"preset": 9,
-				"autoDefrost": true,
-				"autoReheat": true,
-				"autoCook": true,
-				"programs": [
-					"Arroz",
-					"Macarrão",
-					"Batata",
-					"Frutas",
-					"Vegetais",
-					"Sopas",
-					"Bolo de Caneca",
-					"Pipoca",
-					"Brigadeiro"
-				]
-			},
-			"control": {
-				"type": "Digital",
-				"display": "LED Azul",
-				"childLock": true,
-				"clock": true
-			},
-			"features": {
-				"grill": false,
-				"convection": false,
-				"steamFunction": false,
-				"crisper": false,
-				"sensor": false,
-				"inverter": false,
-				"ecoMode": false,
-				"keepWarm": true,
-				"quickStart": true
-			},
-			"interior": {
-				"material": "Metal",
-				"coating": "Pintado Branco",
-				"light": true
-			},
-			"door": {
-				"type": "Drop-down",
-				"window": true
-			},
-			"dimensions": {
-				"external": {
-					"width": "45,5 cm",
-					"height": "26,25 cm",
-					"depth": "34,8 cm"
-				},
-				"internal": {
-					"width": null,
-					"height": null,
-					"depth": null
-				},
-				"weight": "11,1 kg"
-			},
-			"safety": {
-				"childLock": true,
-				"doorSafety": true,
-				"overheatProtection": false
-			},
-			"cleaning": {
-				"steamClean": false,
-				"easyClean": false,
-				"removableParts": ["Prato giratório"]
-			},
-			"ratings": {
-				"costBenefit": 9.0,
-				"heatingPerformance": 8.0,
-				"easeOfUse": 8.5,
-				"capacity": 7.5,
-				"features": 8.5
+				"features": 8
 			}
 		}
 	},
@@ -635,9 +523,9 @@
 				"removableParts": ["Prato giratório"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"heatingPerformance": 8.5,
-				"easeOfUse": 9.0,
+				"easeOfUse": 9,
 				"capacity": 8.5,
 				"features": 8.5
 			}
@@ -748,7 +636,7 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"heatingPerformance": 7.0,
+				"heatingPerformance": 7,
 				"easeOfUse": 8.5,
 				"capacity": 6.5,
 				"features": 7.5
@@ -868,10 +756,10 @@
 				"removableParts": ["Prato giratório"]
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"heatingPerformance": 8.5,
-				"easeOfUse": 9.0,
-				"capacity": 9.0,
+				"easeOfUse": 9,
+				"capacity": 9,
 				"features": 8.5
 			}
 		}
@@ -978,9 +866,9 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"heatingPerformance": 9.0,
-				"easeOfUse": 9.0,
-				"capacity": 9.0,
+				"heatingPerformance": 9,
+				"easeOfUse": 9,
+				"capacity": 9,
 				"features": 8.5
 			}
 		}
@@ -1079,11 +967,11 @@
 				"removableParts": ["Prato giratório"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"heatingPerformance": 7.0,
-				"easeOfUse": 9.0,
+				"costBenefit": 9,
+				"heatingPerformance": 7,
+				"easeOfUse": 9,
 				"capacity": 6.5,
-				"features": 7.0
+				"features": 7
 			}
 		}
 	},
@@ -1183,9 +1071,9 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"heatingPerformance": 7.5,
-				"easeOfUse": 9.0,
-				"capacity": 7.0,
-				"features": 8.0
+				"easeOfUse": 9,
+				"capacity": 7,
+				"features": 8
 			}
 		}
 	},
@@ -1286,11 +1174,11 @@
 				"removableParts": ["Prato giratório"]
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"heatingPerformance": 8.5,
-				"easeOfUse": 9.0,
+				"easeOfUse": 9,
 				"capacity": 8.5,
-				"features": 8.0
+				"features": 8
 			}
 		}
 	},
@@ -1398,9 +1286,9 @@
 				"removableParts": ["Prato giratório", "Rack removível"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"heatingPerformance": 8.5,
-				"easeOfUse": 9.0,
+				"easeOfUse": 9,
 				"capacity": 8.5,
 				"features": 8.5
 			}
@@ -1504,115 +1392,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.8,
-				"heatingPerformance": 9.0,
-				"easeOfUse": 9.0,
+				"heatingPerformance": 9,
+				"easeOfUse": 9,
 				"capacity": 8.7,
 				"features": 8.5
-			}
-		}
-	},
-	{
-		"id": "electrolux-me36b",
-		"name": "ME36B",
-		"brand": "Electrolux",
-		"line": "Efficient",
-		"model": "ME36B",
-		"detailedModel": "ME36B",
-		"color": "Branco",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_871719-MLA99476767400_112025-F.webp",
-		"price": 0,
-		"releaseDate": null,
-		"releaseMonth": null,
-		"releaseYear": null,
-		"origin": null,
-		"category": "microondas",
-		"anatelNumber": null,
-		"amazonUrl": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1i5aHze",
-		"shopeeUrl": null,
-		"alphanumericModel": null,
-		"version": null,
-		"manufacturer": null,
-		"specs": {
-			"type": "Solo",
-			"capacity": {
-				"liters": 36,
-				"familySize": "4-6 pessoas"
-			},
-			"power": {
-				"microwave": 1600,
-				"grill": null,
-				"convection": null,
-				"voltage": "Bivolt",
-				"frequency": "60 Hz"
-			},
-			"turntable": {
-				"diameter": "31,5 cm",
-				"removable": true
-			},
-			"powerLevels": 10,
-			"programs": {
-				"preset": 6,
-				"autoDefrost": true,
-				"autoReheat": true,
-				"autoCook": true,
-				"programs": null
-			},
-			"control": {
-				"type": "Digital",
-				"display": "LED",
-				"childLock": true,
-				"clock": true
-			},
-			"features": {
-				"grill": false,
-				"convection": false,
-				"steamFunction": false,
-				"crisper": false,
-				"sensor": false,
-				"inverter": false,
-				"ecoMode": true,
-				"keepWarm": true,
-				"quickStart": false
-			},
-			"interior": {
-				"material": "Aço esmaltado",
-				"coating": "Revestimento fácil limpeza",
-				"light": true
-			},
-			"door": {
-				"type": "Side-opening",
-				"window": true
-			},
-			"dimensions": {
-				"external": {
-					"width": "52 cm",
-					"height": "32,5 cm",
-					"depth": "41,9 cm"
-				},
-				"internal": {
-					"width": null,
-					"height": null,
-					"depth": null
-				},
-				"weight": "15,2 kg"
-			},
-			"safety": {
-				"childLock": true,
-				"doorSafety": true,
-				"overheatProtection": true
-			},
-			"cleaning": {
-				"steamClean": true,
-				"easyClean": true,
-				"removableParts": ["Prato giratório"]
-			},
-			"ratings": {
-				"costBenefit": 8.7,
-				"heatingPerformance": 9.0,
-				"easeOfUse": 8.8,
-				"capacity": 8.9,
-				"features": 8.3
 			}
 		}
 	},
@@ -1723,122 +1506,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.8,
-				"heatingPerformance": 8.0,
+				"heatingPerformance": 8,
 				"easeOfUse": 8.7,
 				"capacity": 7.5,
 				"features": 7.8
-			}
-		}
-	},
-	{
-		"id": "consul-cma20bb",
-		"name": "CMA20BB",
-		"brand": "Consul",
-		"line": "Consul Facilite",
-		"model": "CMA20BB",
-		"detailedModel": "CMA20BBA",
-		"color": "Branco",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_859210-MLA100038122509_122025-F.webp",
-		"price": 0,
-		"releaseDate": null,
-		"releaseMonth": null,
-		"releaseYear": null,
-		"origin": null,
-		"category": "microondas",
-		"anatelNumber": null,
-		"amazonUrl": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1qFVE5M",
-		"shopeeUrl": null,
-		"alphanumericModel": "CMA20BB",
-		"version": null,
-		"manufacturer": "Consul",
-		"specs": {
-			"type": "Solo",
-			"capacity": {
-				"liters": 20,
-				"familySize": "1-2 pessoas"
-			},
-			"power": {
-				"microwave": 620,
-				"grill": null,
-				"convection": null,
-				"voltage": "110V ou 220V (mono volt)",
-				"frequency": "60 Hz"
-			},
-			"turntable": {
-				"diameter": "24,5 cm",
-				"removable": true
-			},
-			"powerLevels": 10,
-			"programs": {
-				"preset": 6,
-				"autoDefrost": true,
-				"autoReheat": true,
-				"autoCook": true,
-				"programs": [
-					"Descongelar 250g",
-					"Descongelar 500g",
-					"Descongelar 1kg",
-					"Aquecer prato pronto",
-					"Pipoca",
-					"Bolo simples"
-				]
-			},
-			"control": {
-				"type": "Digital",
-				"display": "LED",
-				"childLock": true,
-				"clock": true
-			},
-			"features": {
-				"grill": false,
-				"convection": false,
-				"steamFunction": false,
-				"crisper": false,
-				"sensor": false,
-				"inverter": false,
-				"ecoMode": false,
-				"keepWarm": false,
-				"quickStart": false
-			},
-			"interior": {
-				"material": "Pintura esmaltada",
-				"coating": "Limpa fácil",
-				"light": true
-			},
-			"door": {
-				"type": "Side-opening",
-				"window": true
-			},
-			"dimensions": {
-				"external": {
-					"width": "45,5 cm",
-					"height": "26,4 cm",
-					"depth": "35,3 cm"
-				},
-				"internal": {
-					"width": null,
-					"height": null,
-					"depth": null
-				},
-				"weight": "10,5 kg"
-			},
-			"safety": {
-				"childLock": true,
-				"doorSafety": true,
-				"overheatProtection": true
-			},
-			"cleaning": {
-				"steamClean": false,
-				"easyClean": true,
-				"removableParts": ["Prato giratório"]
-			},
-			"ratings": {
-				"costBenefit": 8.2,
-				"heatingPerformance": 7.0,
-				"easeOfUse": 8.5,
-				"capacity": 7.0,
-				"features": 7.5
 			}
 		}
 	},
@@ -1939,7 +1610,7 @@
 				"removableParts": ["Prato giratório"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"heatingPerformance": 8.8,
 				"easeOfUse": 8.7,
 				"capacity": 9.2,
@@ -2045,115 +1716,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.6,
-				"heatingPerformance": 8.0,
+				"heatingPerformance": 8,
 				"easeOfUse": 8.5,
-				"capacity": 8.0,
+				"capacity": 8,
 				"features": 8.2
-			}
-		}
-	},
-	{
-		"id": "midea-mhp20b1",
-		"name": "MHP20B1",
-		"brand": "Midea",
-		"line": "MasterCook",
-		"model": "MHP20B1",
-		"detailedModel": "MHP20B1",
-		"color": "Branco",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_628160-MLA99466162342_112025-F.webp",
-		"price": 0,
-		"releaseDate": null,
-		"releaseMonth": null,
-		"releaseYear": null,
-		"origin": null,
-		"category": "microondas",
-		"anatelNumber": null,
-		"amazonUrl": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1MCBQT3",
-		"shopeeUrl": null,
-		"alphanumericModel": "MHP20B1",
-		"version": null,
-		"manufacturer": "Midea Carrier",
-		"specs": {
-			"type": "Solo",
-			"capacity": {
-				"liters": 20,
-				"familySize": "1-3 pessoas"
-			},
-			"power": {
-				"microwave": 1050,
-				"grill": null,
-				"convection": null,
-				"voltage": "127V ou 220V (mono volt)",
-				"frequency": "60 Hz"
-			},
-			"turntable": {
-				"diameter": "25,5 cm",
-				"removable": true
-			},
-			"powerLevels": 10,
-			"programs": {
-				"preset": 3,
-				"autoDefrost": true,
-				"autoReheat": true,
-				"autoCook": true,
-				"programs": ["Pipoca", "Arroz", "Brigadeiro"]
-			},
-			"control": {
-				"type": "Digital",
-				"display": "LED branco",
-				"childLock": false,
-				"clock": true
-			},
-			"features": {
-				"grill": false,
-				"convection": false,
-				"steamFunction": false,
-				"crisper": false,
-				"sensor": false,
-				"inverter": false,
-				"ecoMode": false,
-				"keepWarm": true,
-				"quickStart": false
-			},
-			"interior": {
-				"material": "Pintura limpa fácil",
-				"coating": "MasterClean / Antiaderente fácil limpeza",
-				"light": true
-			},
-			"door": {
-				"type": "Side-opening",
-				"window": true
-			},
-			"dimensions": {
-				"external": {
-					"width": "43,9 cm",
-					"height": "25,8 cm",
-					"depth": "33,8 cm"
-				},
-				"internal": {
-					"width": null,
-					"height": null,
-					"depth": null
-				},
-				"weight": "10,4 kg"
-			},
-			"safety": {
-				"childLock": false,
-				"doorSafety": true,
-				"overheatProtection": true
-			},
-			"cleaning": {
-				"steamClean": false,
-				"easyClean": true,
-				"removableParts": ["Prato de vidro"]
-			},
-			"ratings": {
-				"costBenefit": 8.5,
-				"heatingPerformance": 7.8,
-				"easeOfUse": 8.6,
-				"capacity": 7.5,
-				"features": 7.9
 			}
 		}
 	},
@@ -2261,116 +1827,11 @@
 				"removableParts": ["Prato giratório", "Rack removível"]
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"heatingPerformance": 8.5,
-				"easeOfUse": 9.0,
+				"easeOfUse": 9,
 				"capacity": 8.7,
 				"features": 8.8
-			}
-		}
-	},
-	{
-		"id": "consul-cms46ab",
-		"name": "CMS46AB",
-		"brand": "Consul",
-		"line": "Micro-ondas 32 L",
-		"model": "CMS46",
-		"detailedModel": "CMS46AB",
-		"color": "Branco",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_676017-MLA100033381819_122025-F.webp",
-		"price": 0,
-		"releaseDate": null,
-		"releaseMonth": null,
-		"releaseYear": null,
-		"origin": null,
-		"category": "microondas",
-		"anatelNumber": null,
-		"amazonUrl": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1x85x6E",
-		"shopeeUrl": null,
-		"alphanumericModel": "CMS46",
-		"version": null,
-		"manufacturer": "Consul",
-		"specs": {
-			"type": "Solo",
-			"capacity": {
-				"liters": 32,
-				"familySize": "3-5 pessoas"
-			},
-			"power": {
-				"microwave": 900,
-				"grill": null,
-				"convection": null,
-				"voltage": "127V ou 220V (mono volt)",
-				"frequency": "60 Hz"
-			},
-			"turntable": {
-				"diameter": "31,5 cm",
-				"removable": true
-			},
-			"powerLevels": 10,
-			"programs": {
-				"preset": 6,
-				"autoDefrost": true,
-				"autoReheat": true,
-				"autoCook": true,
-				"programs": null
-			},
-			"control": {
-				"type": "Digital",
-				"display": "LED",
-				"childLock": true,
-				"clock": true
-			},
-			"features": {
-				"grill": false,
-				"convection": false,
-				"steamFunction": false,
-				"crisper": false,
-				"sensor": false,
-				"inverter": false,
-				"ecoMode": false,
-				"keepWarm": false,
-				"quickStart": false
-			},
-			"interior": {
-				"material": "Pintura limpa fácil",
-				"coating": "Limpa fácil",
-				"light": true
-			},
-			"door": {
-				"type": "Side-opening",
-				"window": true
-			},
-			"dimensions": {
-				"external": {
-					"width": "53,8 cm",
-					"height": "30,1 cm",
-					"depth": "43,1 cm"
-				},
-				"internal": {
-					"width": null,
-					"height": null,
-					"depth": null
-				},
-				"weight": "16,4 kg"
-			},
-			"safety": {
-				"childLock": true,
-				"doorSafety": true,
-				"overheatProtection": true
-			},
-			"cleaning": {
-				"steamClean": false,
-				"easyClean": true,
-				"removableParts": ["Prato giratório", "Suporte giratório"]
-			},
-			"ratings": {
-				"costBenefit": 8.7,
-				"heatingPerformance": 8.0,
-				"easeOfUse": 8.8,
-				"capacity": 8.5,
-				"features": 8.2
 			}
 		}
 	},
@@ -2483,7 +1944,7 @@
 			"ratings": {
 				"costBenefit": 8.7,
 				"heatingPerformance": 8.8,
-				"easeOfUse": 9.0,
+				"easeOfUse": 9,
 				"capacity": 8.8,
 				"features": 8.9
 			}

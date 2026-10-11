@@ -211,8 +211,8 @@
 				"costBenefit": 8.5,
 				"buildQuality": 6.5,
 				"vrm": 5.5,
-				"connectivity": 5.0,
-				"overclocking": 4.0,
+				"connectivity": 5,
+				"overclocking": 4,
 				"features": 5.5
 			}
 		}
@@ -426,11 +426,11 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"buildQuality": 6.0,
-				"vrm": 5.0,
+				"buildQuality": 6,
+				"vrm": 5,
 				"connectivity": 5.5,
 				"overclocking": 3.5,
-				"features": 5.0
+				"features": 5
 			}
 		}
 	},
@@ -646,10 +646,10 @@
 				"type": "Garantia do fabricante"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"buildQuality": 7.5,
-				"vrm": 7.0,
-				"connectivity": 7.0,
+				"vrm": 7,
+				"connectivity": 7,
 				"overclocking": 6.5,
 				"features": 7.5
 			}
@@ -862,11 +862,11 @@
 				"type": "Garantia do fabricante"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"buildQuality": 5.5,
 				"vrm": 4.5,
 				"connectivity": 4.5,
-				"overclocking": 3.0,
+				"overclocking": 3,
 				"features": 4.5
 			}
 		}
@@ -1054,11 +1054,11 @@
 				"type": "Garantia do fabricante"
 			},
 			"ratings": {
-				"costBenefit": 8.0,
-				"buildQuality": 5.0,
-				"vrm": 4.0,
-				"connectivity": 5.0,
-				"overclocking": 2.0,
+				"costBenefit": 8,
+				"buildQuality": 5,
+				"vrm": 4,
+				"connectivity": 5,
+				"overclocking": 2,
 				"features": 5.5
 			}
 		}
@@ -1305,9 +1305,9 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"buildQuality": 8.0,
+				"buildQuality": 8,
 				"vrm": 7.5,
-				"connectivity": 8.0,
+				"connectivity": 8,
 				"overclocking": 7.5,
 				"features": 8.5
 			}
@@ -1499,12 +1499,12 @@
 				"type": "Garantia Legal"
 			},
 			"ratings": {
-				"costBenefit": 8.0,
-				"buildQuality": 6.0,
+				"costBenefit": 8,
+				"buildQuality": 6,
 				"vrm": 5.5,
 				"connectivity": 6.5,
-				"overclocking": 3.0,
-				"features": 5.0
+				"overclocking": 3,
+				"features": 5
 			}
 		}
 	},
@@ -1696,9 +1696,9 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"buildQuality": 6.5,
-				"vrm": 5.0,
-				"connectivity": 6.0,
-				"overclocking": 2.0,
+				"vrm": 5,
+				"connectivity": 6,
+				"overclocking": 2,
 				"features": 5.5
 			}
 		}
@@ -1890,10 +1890,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"buildQuality": 7.0,
-				"vrm": 6.0,
-				"connectivity": 7.0,
-				"overclocking": 3.0,
+				"buildQuality": 7,
+				"vrm": 6,
+				"connectivity": 7,
+				"overclocking": 3,
 				"features": 6.5
 			}
 		}
@@ -2106,12 +2106,12 @@
 				"type": "Garantia do fabricante"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"buildQuality": 7.0,
+				"costBenefit": 9,
+				"buildQuality": 7,
 				"vrm": 6.5,
 				"connectivity": 6.5,
-				"overclocking": 2.0,
-				"features": 6.0
+				"overclocking": 2,
+				"features": 6
 			}
 		}
 	},
@@ -2312,11 +2312,11 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"buildQuality": 7.0,
+				"buildQuality": 7,
 				"vrm": 5.5,
-				"connectivity": 6.0,
-				"overclocking": 1.0,
-				"features": 6.0
+				"connectivity": 6,
+				"overclocking": 1,
+				"features": 6
 			}
 		}
 	},
@@ -2516,194 +2516,10 @@
 			"ratings": {
 				"costBenefit": 7.5,
 				"buildQuality": 7.5,
-				"vrm": 7.0,
+				"vrm": 7,
 				"connectivity": 8.5,
-				"overclocking": 4.0,
-				"features": 8.0
-			}
-		}
-	},
-	{
-		"id": "revenger-g-h81-m",
-		"name": "G-H81/M",
-		"brand": "Revenger",
-		"line": null,
-		"model": "G-H81/M",
-		"detailedModel": "G-H81/M",
-		"color": "Preto",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_799253-MLA99849372099_112025-F.webp",
-		"price": 0,
-		"releaseDate": "2023",
-		"releaseMonth": null,
-		"releaseYear": 2023,
-		"origin": null,
-		"category": "placa-mae",
-		"anatelNumber": null,
-		"amazonUrl": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1cWhfni",
-		"shopeeUrl": null,
-		"alphanumericModel": null,
-		"version": "LGA 1150",
-		"manufacturer": "Revenger",
-		"specs": {
-			"manufacturer": "Outros",
-			"chipset": "Intel H81",
-			"socket": "LGA 1150",
-			"formFactor": "Micro-ATX",
-			"cpuSupport": {
-				"brands": ["Intel"],
-				"generations": ["4ª Geração (Haswell)", "5ª Geração (Broadwell)"],
-				"maxTdp": null
-			},
-			"memory": {
-				"type": "DDR3",
-				"slots": 2,
-				"maxCapacity": "16 GB",
-				"maxSpeed": "1866 MHz",
-				"channels": 2,
-				"supportedSpeeds": ["1066", "1333", "1600", "1866"],
-				"xmp": false,
-				"expo": false,
-				"ecc": false
-			},
-			"storage": {
-				"m2Slots": 1,
-				"m2Specs": [
-					{
-						"slot": 1,
-						"interface": "PCIe NVMe (M.2)",
-						"formFactors": ["2242", "2260", "2280"]
-					}
-				],
-				"sataConnectors": 4,
-				"sataVersion": "SATA III 6Gb/s",
-				"raidSupport": null
-			},
-			"expansion": {
-				"pciSlots": [
-					{
-						"type": "PCIe x16",
-						"count": 1,
-						"mode": "x16"
-					},
-					{
-						"type": "PCIe x1",
-						"count": 1,
-						"mode": null
-					}
-				],
-				"totalSlots": 2
-			},
-			"networking": {
-				"ethernet": {
-					"controller": "Realtek",
-					"speed": "1 GbE",
-					"ports": 1
-				},
-				"wifi": null
-			},
-			"audio": {
-				"codec": "HD Audio (6 canais)",
-				"channels": "5.1",
-				"features": null
-			},
-			"usb": {
-				"usb32Gen2x2TypeC": null,
-				"usb32Gen2TypeC": null,
-				"usb32Gen2TypeA": null,
-				"usb32Gen1": null,
-				"usb20": 6,
-				"total": 8,
-				"frontPanelConnectors": {
-					"usb32Gen2x2TypeC": null,
-					"usb32Gen2TypeC": null,
-					"usb32Gen1": 2,
-					"usb20": 4
-				}
-			},
-			"videoOutputs": {
-				"hdmi": 1,
-				"displayPort": null,
-				"vga": 1,
-				"dvi": null,
-				"thunderbolt": null,
-				"maxDisplays": 2,
-				"maxResolution": null
-			},
-			"power": {
-				"mainConnector": "24-pin",
-				"cpuConnector": "4-pin",
-				"phases": null,
-				"designPower": null,
-				"features": null
-			},
-			"bios": {
-				"type": "UEFI",
-				"size": null,
-				"flashback": false,
-				"dualBios": false
-			},
-			"cooling": {
-				"heatsinks": null,
-				"fanHeaders": null,
-				"cpuFanHeaders": 1,
-				"systemFanHeaders": null,
-				"pumpHeaders": null,
-				"argbHeaders": null,
-				"rgbHeaders": null
-			},
-			"rgb": {
-				"hasRgb": false,
-				"zones": null,
-				"software": null,
-				"compatibleWith": null
-			},
-			"features": {
-				"gaming": false,
-				"overclocking": false,
-				"clearCmos": null,
-				"debugLed": false,
-				"postCode": false,
-				"qFlash": false,
-				"wifi": false,
-				"bluetooth": false,
-				"thunderbolt": false,
-				"tpm": null,
-				"securityFeatures": null
-			},
-			"backPanel": {
-				"ps2": null,
-				"usb": {
-					"usb32Gen2x2TypeC": null,
-					"usb32Gen2TypeC": null,
-					"usb32Gen2TypeA": null,
-					"usb32Gen1": null,
-					"usb20": 4
-				},
-				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
-				"network": ["1 x RJ45 LAN"],
-				"video": ["1 x HDMI", "1 x VGA"],
-				"other": null
-			},
-			"dimensions": {
-				"length": "19 cm",
-				"width": "17 cm",
-				"height": null,
-				"weight": null
-			},
-			"compatibility": null,
-			"bundled": null,
-			"warranty": {
-				"period": "1 ano",
-				"type": null
-			},
-			"ratings": {
-				"costBenefit": 8.0,
-				"buildQuality": 6.0,
-				"vrm": 5.0,
-				"connectivity": 6.5,
-				"overclocking": 3.0,
-				"features": 5.5
+				"overclocking": 4,
+				"features": 8
 			}
 		}
 	},
@@ -2887,225 +2703,11 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"buildQuality": 6.0,
-				"vrm": 5.0,
-				"connectivity": 6.0,
+				"buildQuality": 6,
+				"vrm": 5,
+				"connectivity": 6,
 				"overclocking": 5.5,
-				"features": 5.0
-			}
-		}
-	},
-	{
-		"id": "asus-prime-a520m-k",
-		"name": "Prime A520M-K",
-		"brand": "ASUS",
-		"line": "Prime",
-		"model": "Prime A520M-K",
-		"detailedModel": "Prime A520M-K",
-		"color": "Preto",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_725895-MLA99492459638_112025-F.webp",
-		"price": 0,
-		"releaseDate": "2020-08",
-		"releaseMonth": "08",
-		"releaseYear": 2020,
-		"origin": null,
-		"category": "placa-mae",
-		"anatelNumber": null,
-		"amazonUrl": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1sGRe3h",
-		"shopeeUrl": null,
-		"alphanumericModel": "90MB1500-M0EAY0",
-		"version": "AM4",
-		"manufacturer": "ASUS",
-		"specs": {
-			"manufacturer": "ASUS",
-			"chipset": "AMD A520",
-			"socket": "AM4",
-			"formFactor": "Micro-ATX",
-			"cpuSupport": {
-				"brands": ["AMD"],
-				"generations": ["Ryzen 3000 Series", "Ryzen 4000 G-Series", "Ryzen 5000 Series", "Ryzen 5000 G-Series"],
-				"maxTdp": "105W"
-			},
-			"memory": {
-				"type": "DDR4",
-				"slots": 2,
-				"maxCapacity": "64 GB",
-				"maxSpeed": "4600 MHz (OC)",
-				"channels": 2,
-				"supportedSpeeds": [
-					"2133",
-					"2400",
-					"2666",
-					"2800",
-					"3000",
-					"3200",
-					"3333",
-					"3466",
-					"3600",
-					"3733",
-					"3866",
-					"4000",
-					"4400",
-					"4600"
-				],
-				"xmp": true,
-				"expo": false,
-				"ecc": true
-			},
-			"storage": {
-				"m2Slots": 1,
-				"m2Specs": [
-					{
-						"slot": 1,
-						"interface": "PCIe 3.0 x4 & SATA",
-						"formFactors": ["2242", "2260", "2280"]
-					}
-				],
-				"sataConnectors": 4,
-				"sataVersion": "SATA III 6Gb/s",
-				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
-			},
-			"expansion": {
-				"pciSlots": [
-					{
-						"type": "PCIe 3.0 x16",
-						"count": 1,
-						"mode": "x16"
-					},
-					{
-						"type": "PCIe 3.0 x1",
-						"count": 2,
-						"mode": null
-					}
-				],
-				"totalSlots": 3
-			},
-			"networking": {
-				"ethernet": {
-					"controller": "Realtek RTL8111H",
-					"speed": "1 GbE",
-					"ports": 1
-				},
-				"wifi": null
-			},
-			"audio": {
-				"codec": "Realtek ALC887",
-				"channels": "7.1",
-				"features": [
-					"Audio Shielding",
-					"Dedicated audio PCB layers",
-					"Jack-detection",
-					"Multi-streaming",
-					"Front Panel Jack-retasking"
-				]
-			},
-			"usb": {
-				"usb32Gen2x2TypeC": null,
-				"usb32Gen2TypeC": null,
-				"usb32Gen2TypeA": null,
-				"usb32Gen1": 4,
-				"usb20": 2,
-				"total": 6,
-				"frontPanelConnectors": {
-					"usb32Gen2x2TypeC": null,
-					"usb32Gen2TypeC": null,
-					"usb32Gen1": 2,
-					"usb20": 4
-				}
-			},
-			"videoOutputs": {
-				"hdmi": 1,
-				"displayPort": null,
-				"vga": 1,
-				"dvi": null,
-				"thunderbolt": null,
-				"maxDisplays": 2,
-				"maxResolution": "4K@60Hz"
-			},
-			"power": {
-				"mainConnector": "24-pin",
-				"cpuConnector": "8-pin",
-				"phases": null,
-				"designPower": null,
-				"features": ["Digi+ VRM", "EPU"]
-			},
-			"bios": {
-				"type": "UEFI",
-				"size": null,
-				"flashback": false,
-				"dualBios": false
-			},
-			"cooling": {
-				"heatsinks": ["PCH heatsink"],
-				"fanHeaders": 2,
-				"cpuFanHeaders": 1,
-				"systemFanHeaders": 1,
-				"pumpHeaders": null,
-				"argbHeaders": null,
-				"rgbHeaders": null
-			},
-			"rgb": {
-				"hasRgb": false,
-				"zones": null,
-				"software": null,
-				"compatibleWith": null
-			},
-			"features": {
-				"gaming": false,
-				"overclocking": false,
-				"clearCmos": true,
-				"debugLed": false,
-				"postCode": false,
-				"qFlash": false,
-				"wifi": false,
-				"bluetooth": false,
-				"thunderbolt": false,
-				"tpm": "2.0",
-				"securityFeatures": [
-					"5X Protection III",
-					"SafeSlot Core",
-					"Overvoltage protection",
-					"Overcurrent protection"
-				]
-			},
-			"backPanel": {
-				"ps2": 1,
-				"usb": {
-					"usb32Gen2x2TypeC": null,
-					"usb32Gen2TypeC": null,
-					"usb32Gen2TypeA": null,
-					"usb32Gen1": 4,
-					"usb20": 2
-				},
-				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
-				"network": ["1 x RJ45 LAN"],
-				"video": ["1 x HDMI", "1 x D-Sub"],
-				"other": ["1 x PS/2"]
-			},
-			"dimensions": {
-				"length": "22 cm",
-				"width": "15 cm",
-				"height": null,
-				"weight": "1 kg"
-			},
-			"compatibility": null,
-			"bundled": {
-				"cables": ["2 x SATA 6Gb/s"],
-				"software": ["AI Suite 3", "Fan Xpert", "ASUS CPU-Z"],
-				"accessories": ["Manual do usuário", "I/O Shield"]
-			},
-			"warranty": {
-				"period": "3 anos",
-				"type": "Garantia do fabricante"
-			},
-			"ratings": {
-				"costBenefit": 8.5,
-				"buildQuality": 6.5,
-				"vrm": 5.5,
-				"connectivity": 5.0,
-				"overclocking": 4.0,
-				"features": 5.5
+				"features": 5
 			}
 		}
 	},
@@ -3270,9 +2872,9 @@
 				"costBenefit": 7.5,
 				"buildQuality": 6.5,
 				"vrm": 5.5,
-				"connectivity": 6.0,
-				"overclocking": 2.0,
-				"features": 5.0
+				"connectivity": 6,
+				"overclocking": 2,
+				"features": 5
 			}
 		}
 	},
@@ -3450,229 +3052,12 @@
 				"type": null
 			},
 			"ratings": {
-				"costBenefit": 7.0,
+				"costBenefit": 7,
 				"buildQuality": 5.5,
 				"vrm": 4.5,
 				"connectivity": 5.5,
-				"overclocking": 2.0,
-				"features": 5.0
-			}
-		}
-	},
-	{
-		"id": "asrock-a520m-hvs",
-		"name": "A520M-HVS",
-		"brand": "ASRock",
-		"line": null,
-		"model": "A520M-HVS",
-		"detailedModel": "A520M-HVS",
-		"color": "Preto",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_600626-MLA100029063065_122025-F.webp",
-		"price": 0,
-		"releaseDate": "2020",
-		"releaseMonth": null,
-		"releaseYear": 2020,
-		"origin": null,
-		"category": "placa-mae",
-		"anatelNumber": null,
-		"amazonUrl": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/2V2PcHu",
-		"shopeeUrl": null,
-		"alphanumericModel": "90-MXBE60-A0UAYZ",
-		"version": null,
-		"manufacturer": "ASRock",
-		"specs": {
-			"manufacturer": "ASRock",
-			"chipset": "AMD A520",
-			"socket": "AM4",
-			"formFactor": "Micro-ATX",
-			"cpuSupport": {
-				"brands": ["AMD"],
-				"generations": [
-					"Ryzen 3000 Series",
-					"Ryzen 3000 G-Series",
-					"Ryzen 4000 G-Series",
-					"Ryzen 5000 Series",
-					"Ryzen 5000 G-Series"
-				],
-				"maxTdp": "105W"
-			},
-			"memory": {
-				"type": "DDR4",
-				"slots": 2,
-				"maxCapacity": "64 GB",
-				"maxSpeed": "4733 MHz (OC)",
-				"channels": 2,
-				"supportedSpeeds": [
-					"2133",
-					"2400",
-					"2666",
-					"2933",
-					"3200",
-					"3466",
-					"3600",
-					"3733",
-					"3800",
-					"3866",
-					"4000",
-					"4133",
-					"4200",
-					"4266",
-					"4333",
-					"4400",
-					"4466",
-					"4500",
-					"4533",
-					"4600",
-					"4666",
-					"4733"
-				],
-				"xmp": true,
-				"expo": false,
-				"ecc": false
-			},
-			"storage": {
-				"m2Slots": 1,
-				"m2Specs": [
-					{
-						"slot": 1,
-						"interface": "PCIe 3.0 x4 & SATA3",
-						"formFactors": ["2242", "2260", "2280"]
-					}
-				],
-				"sataConnectors": 4,
-				"sataVersion": "SATA III 6Gb/s",
-				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
-			},
-			"expansion": {
-				"pciSlots": [
-					{
-						"type": "PCIe 3.0 x16",
-						"count": 1,
-						"mode": "x16"
-					},
-					{
-						"type": "PCIe 3.0 x1",
-						"count": 1,
-						"mode": null
-					}
-				],
-				"totalSlots": 2
-			},
-			"networking": {
-				"ethernet": {
-					"controller": "Realtek RTL8111H",
-					"speed": "1 GbE",
-					"ports": 1
-				},
-				"wifi": null
-			},
-			"audio": {
-				"codec": "Realtek ALC887",
-				"channels": "7.1",
-				"features": null
-			},
-			"usb": {
-				"usb32Gen2x2TypeC": null,
-				"usb32Gen2TypeC": null,
-				"usb32Gen2TypeA": null,
-				"usb32Gen1": 6,
-				"usb20": 6,
-				"total": 12,
-				"frontPanelConnectors": {
-					"usb32Gen2x2TypeC": null,
-					"usb32Gen2TypeC": null,
-					"usb32Gen1": 2,
-					"usb20": 4
-				}
-			},
-			"videoOutputs": {
-				"hdmi": 1,
-				"displayPort": null,
-				"vga": 1,
-				"dvi": null,
-				"thunderbolt": null,
-				"maxDisplays": 2,
-				"maxResolution": "4K@60Hz (HDMI)"
-			},
-			"power": {
-				"mainConnector": "24-pin",
-				"cpuConnector": "8-pin",
-				"phases": 6,
-				"designPower": null,
-				"features": null
-			},
-			"bios": {
-				"type": "UEFI",
-				"size": null,
-				"flashback": false,
-				"dualBios": false
-			},
-			"cooling": {
-				"heatsinks": ["PCH heatsink"],
-				"fanHeaders": null,
-				"cpuFanHeaders": 1,
-				"systemFanHeaders": null,
-				"pumpHeaders": null,
-				"argbHeaders": null,
-				"rgbHeaders": null
-			},
-			"rgb": {
-				"hasRgb": false,
-				"zones": null,
-				"software": null,
-				"compatibleWith": null
-			},
-			"features": {
-				"gaming": false,
-				"overclocking": true,
-				"clearCmos": true,
-				"debugLed": false,
-				"postCode": false,
-				"qFlash": false,
-				"wifi": false,
-				"bluetooth": false,
-				"thunderbolt": false,
-				"tpm": "2.0",
-				"securityFeatures": null
-			},
-			"backPanel": {
-				"ps2": null,
-				"usb": {
-					"usb32Gen2x2TypeC": null,
-					"usb32Gen2TypeC": null,
-					"usb32Gen2TypeA": null,
-					"usb32Gen1": 4,
-					"usb20": 2
-				},
-				"audio": ["3 x Audio jacks"],
-				"network": ["1 x RJ45 LAN"],
-				"video": ["1 x HDMI", "1 x D-Sub"],
-				"other": null
-			},
-			"dimensions": {
-				"length": "24.4 cm",
-				"width": "20.4 cm",
-				"height": null,
-				"weight": null
-			},
-			"compatibility": null,
-			"bundled": {
-				"cables": ["SATA cables"],
-				"software": null,
-				"accessories": ["Manual", "I/O Shield"]
-			},
-			"warranty": {
-				"period": "3 anos",
-				"type": "Garantia do fabricante"
-			},
-			"ratings": {
-				"costBenefit": 8.0,
-				"buildQuality": 6.5,
-				"vrm": 5.5,
-				"connectivity": 6.0,
-				"overclocking": 5.0,
-				"features": 5.5
+				"overclocking": 2,
+				"features": 5
 			}
 		}
 	},
@@ -3859,224 +3244,10 @@
 			"ratings": {
 				"costBenefit": 7.5,
 				"buildQuality": 5.5,
-				"vrm": 5.0,
-				"connectivity": 6.0,
-				"overclocking": 3.0,
-				"features": 5.0
-			}
-		}
-	},
-	{
-		"id": "asus-prime-a520m-k",
-		"name": "Prime A520M-K",
-		"brand": "ASUS",
-		"line": "Prime",
-		"model": "Prime A520M-K",
-		"detailedModel": "Prime A520M-K",
-		"color": "Preto",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_725895-MLA99492459638_112025-F.webp",
-		"price": 0,
-		"releaseDate": "2020-08",
-		"releaseMonth": "08",
-		"releaseYear": 2020,
-		"origin": null,
-		"category": "placa-mae",
-		"anatelNumber": null,
-		"amazonUrl": null,
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1sGRe3h",
-		"shopeeUrl": null,
-		"alphanumericModel": "90MB1500-M0EAY0",
-		"version": "AM4",
-		"manufacturer": "ASUS",
-		"specs": {
-			"manufacturer": "ASUS",
-			"chipset": "AMD A520",
-			"socket": "AM4",
-			"formFactor": "Micro-ATX",
-			"cpuSupport": {
-				"brands": ["AMD"],
-				"generations": ["Ryzen 3000 Series", "Ryzen 4000 G-Series", "Ryzen 5000 Series", "Ryzen 5000 G-Series"],
-				"maxTdp": "105W"
-			},
-			"memory": {
-				"type": "DDR4",
-				"slots": 2,
-				"maxCapacity": "64 GB",
-				"maxSpeed": "4600 MHz (OC)",
-				"channels": 2,
-				"supportedSpeeds": [
-					"2133",
-					"2400",
-					"2666",
-					"2800",
-					"3000",
-					"3200",
-					"3333",
-					"3466",
-					"3600",
-					"3733",
-					"3866",
-					"4000",
-					"4400",
-					"4600"
-				],
-				"xmp": true,
-				"expo": false,
-				"ecc": true
-			},
-			"storage": {
-				"m2Slots": 1,
-				"m2Specs": [
-					{
-						"slot": 1,
-						"interface": "PCIe 3.0 x4 & SATA",
-						"formFactors": ["2242", "2260", "2280"]
-					}
-				],
-				"sataConnectors": 4,
-				"sataVersion": "SATA III 6Gb/s",
-				"raidSupport": ["RAID 0", "RAID 1", "RAID 10"]
-			},
-			"expansion": {
-				"pciSlots": [
-					{
-						"type": "PCIe 3.0 x16",
-						"count": 1,
-						"mode": "x16"
-					},
-					{
-						"type": "PCIe 3.0 x1",
-						"count": 2,
-						"mode": null
-					}
-				],
-				"totalSlots": 3
-			},
-			"networking": {
-				"ethernet": {
-					"controller": "Realtek RTL8111H",
-					"speed": "1 GbE",
-					"ports": 1
-				},
-				"wifi": null
-			},
-			"audio": {
-				"codec": "Realtek ALC887",
-				"channels": "7.1",
-				"features": [
-					"Audio Shielding",
-					"Dedicated audio PCB layers",
-					"Jack-detection",
-					"Multi-streaming",
-					"Front Panel Jack-retasking"
-				]
-			},
-			"usb": {
-				"usb32Gen2x2TypeC": null,
-				"usb32Gen2TypeC": null,
-				"usb32Gen2TypeA": null,
-				"usb32Gen1": 4,
-				"usb20": 2,
-				"total": 6,
-				"frontPanelConnectors": {
-					"usb32Gen2x2TypeC": null,
-					"usb32Gen2TypeC": null,
-					"usb32Gen1": 2,
-					"usb20": 4
-				}
-			},
-			"videoOutputs": {
-				"hdmi": 1,
-				"displayPort": null,
-				"vga": 1,
-				"dvi": null,
-				"thunderbolt": null,
-				"maxDisplays": 2,
-				"maxResolution": "4K@60Hz"
-			},
-			"power": {
-				"mainConnector": "24-pin",
-				"cpuConnector": "8-pin",
-				"phases": 6,
-				"designPower": null,
-				"features": ["Digi+ VRM", "EPU"]
-			},
-			"bios": {
-				"type": "UEFI",
-				"size": null,
-				"flashback": false,
-				"dualBios": false
-			},
-			"cooling": {
-				"heatsinks": ["PCH heatsink"],
-				"fanHeaders": 2,
-				"cpuFanHeaders": 1,
-				"systemFanHeaders": 1,
-				"pumpHeaders": null,
-				"argbHeaders": null,
-				"rgbHeaders": null
-			},
-			"rgb": {
-				"hasRgb": false,
-				"zones": null,
-				"software": null,
-				"compatibleWith": null
-			},
-			"features": {
-				"gaming": false,
-				"overclocking": false,
-				"clearCmos": true,
-				"debugLed": false,
-				"postCode": false,
-				"qFlash": false,
-				"wifi": false,
-				"bluetooth": false,
-				"thunderbolt": false,
-				"tpm": "2.0",
-				"securityFeatures": [
-					"5X Protection III",
-					"SafeSlot Core",
-					"Overvoltage protection",
-					"Overcurrent protection"
-				]
-			},
-			"backPanel": {
-				"ps2": 1,
-				"usb": {
-					"usb32Gen2x2TypeC": null,
-					"usb32Gen2TypeC": null,
-					"usb32Gen2TypeA": null,
-					"usb32Gen1": 4,
-					"usb20": 2
-				},
-				"audio": ["3 x Audio jacks (Line in, Line out, Mic)"],
-				"network": ["1 x RJ45 LAN"],
-				"video": ["1 x HDMI", "1 x D-Sub"],
-				"other": ["1 x PS/2"]
-			},
-			"dimensions": {
-				"length": "22 cm",
-				"width": "15 cm",
-				"height": null,
-				"weight": "1 kg"
-			},
-			"compatibility": null,
-			"bundled": {
-				"cables": ["2 x SATA 6Gb/s"],
-				"software": ["AI Suite 3", "Fan Xpert", "ASUS CPU-Z"],
-				"accessories": ["Manual do usuário", "I/O Shield"]
-			},
-			"warranty": {
-				"period": "3 anos",
-				"type": "Garantia do fabricante"
-			},
-			"ratings": {
-				"costBenefit": 8.5,
-				"buildQuality": 6.5,
-				"vrm": 5.5,
-				"connectivity": 5.0,
-				"overclocking": 4.0,
-				"features": 5.5
+				"vrm": 5,
+				"connectivity": 6,
+				"overclocking": 3,
+				"features": 5
 			}
 		}
 	},
@@ -4228,12 +3399,12 @@
 				"type": null
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"buildQuality": 7.5,
-				"vrm": 7.0,
+				"vrm": 7,
 				"connectivity": 7.5,
-				"overclocking": 3.0,
-				"features": 8.0
+				"overclocking": 3,
+				"features": 8
 			}
 		}
 	},
@@ -4413,11 +3584,11 @@
 			},
 			"ratings": {
 				"costBenefit": 7.5,
-				"buildQuality": 5.0,
+				"buildQuality": 5,
 				"vrm": 4.5,
-				"connectivity": 6.0,
-				"overclocking": 2.0,
-				"features": 5.0
+				"connectivity": 6,
+				"overclocking": 2,
+				"features": 5
 			}
 		}
 	},
@@ -4627,11 +3798,11 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"buildQuality": 8.0,
+				"buildQuality": 8,
 				"vrm": 7.5,
-				"connectivity": 8.0,
-				"overclocking": 7.0,
-				"features": 8.0
+				"connectivity": 8,
+				"overclocking": 7,
+				"features": 8
 			}
 		}
 	},
@@ -4837,11 +4008,11 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"buildQuality": 7.0,
-				"vrm": 6.0,
+				"buildQuality": 7,
+				"vrm": 6,
 				"connectivity": 7.5,
 				"overclocking": 6.5,
-				"features": 7.0
+				"features": 7
 			}
 		}
 	},
@@ -5026,8 +4197,8 @@
 			"ratings": {
 				"costBenefit": 7.5,
 				"buildQuality": 5.5,
-				"vrm": 5.0,
-				"connectivity": 6.0,
+				"vrm": 5,
+				"connectivity": 6,
 				"overclocking": 2.5,
 				"features": 5.5
 			}
@@ -5195,12 +4366,12 @@
 			"bundled": null,
 			"warranty": null,
 			"ratings": {
-				"costBenefit": 7.0,
-				"buildQuality": 5.0,
+				"costBenefit": 7,
+				"buildQuality": 5,
 				"vrm": 4.5,
-				"connectivity": 6.0,
-				"overclocking": 2.0,
-				"features": 4.0
+				"connectivity": 6,
+				"overclocking": 2,
+				"features": 4
 			}
 		}
 	},
@@ -5362,10 +4533,10 @@
 			"warranty": null,
 			"ratings": {
 				"costBenefit": 7.2,
-				"buildQuality": 5.0,
+				"buildQuality": 5,
 				"vrm": 4.8,
 				"connectivity": 6.5,
-				"overclocking": 2.0,
+				"overclocking": 2,
 				"features": 4.5
 			}
 		}
@@ -5548,10 +4719,10 @@
 			"ratings": {
 				"costBenefit": 7.5,
 				"buildQuality": 5.5,
-				"vrm": 5.0,
+				"vrm": 5,
 				"connectivity": 6.8,
-				"overclocking": 2.0,
-				"features": 5.0
+				"overclocking": 2,
+				"features": 5
 			}
 		}
 	},
@@ -5750,10 +4921,10 @@
 			"ratings": {
 				"costBenefit": 8.8,
 				"buildQuality": 7.5,
-				"vrm": 7.0,
+				"vrm": 7,
 				"connectivity": 8.5,
 				"overclocking": 6.5,
-				"features": 8.0
+				"features": 8
 			}
 		}
 	},
@@ -5965,12 +5136,12 @@
 				"type": "Garantia do fabricante"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"buildQuality": 8.8,
 				"vrm": 9.2,
 				"connectivity": 9.5,
 				"overclocking": 8.5,
-				"features": 9.0
+				"features": 9
 			}
 		}
 	},
@@ -6165,7 +5336,7 @@
 				"costBenefit": 8.2,
 				"buildQuality": 7.5,
 				"vrm": 6.8,
-				"connectivity": 7.0,
+				"connectivity": 7,
 				"overclocking": 4.5,
 				"features": 6.5
 			}
@@ -6370,10 +5541,10 @@
 				"type": "Garantia do fabricante"
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"buildQuality": 8.0,
-				"vrm": 7.0,
-				"connectivity": 8.0,
+				"costBenefit": 9,
+				"buildQuality": 8,
+				"vrm": 7,
+				"connectivity": 8,
 				"overclocking": 7.5,
 				"features": 8.5
 			}
@@ -6560,10 +5731,10 @@
 			"warranty": null,
 			"ratings": {
 				"costBenefit": 7.8,
-				"buildQuality": 6.0,
+				"buildQuality": 6,
 				"vrm": 5.5,
-				"connectivity": 7.0,
-				"overclocking": 3.0,
+				"connectivity": 7,
+				"overclocking": 3,
 				"features": 5.5
 			}
 		}
@@ -6762,10 +5933,10 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"buildQuality": 8.0,
+				"buildQuality": 8,
 				"vrm": 7.5,
-				"connectivity": 9.0,
-				"overclocking": 7.0,
+				"connectivity": 9,
+				"overclocking": 7,
 				"features": 8.5
 			}
 		}

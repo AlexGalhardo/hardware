@@ -189,6 +189,27 @@
   </url>
 
   <url>
+    <loc>https://tudohardware.com/cafeteiras</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
     <loc>https://tudohardware.com/cpus/intel-i3-6100</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -343,13 +364,6 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/cpus/intel-core-i5-3470</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/cpus/amd-ryzen-7-7800x3d</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -413,13 +427,6 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/cpus/intel-core-i7-14700f</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/cpus/amd-athlon-3000g</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -456,13 +463,6 @@
 
   <url>
     <loc>https://tudohardware.com/cpus/amd-ryzen-5-8500g</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://tudohardware.com/cpus/amd-ryzen-7-5700</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -791,13 +791,6 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/smartphones/motorola-moto-g86-5g-512gb</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/smartphones/multilaser-g-max-2-32gb</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -974,13 +967,6 @@
 
   <url>
     <loc>https://tudohardware.com/gpus/pny-rtx-4060-verto-oc-8gb</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://tudohardware.com/gpus/arktek-cyclops-rx-580-8gb</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1365,13 +1351,6 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/tablets/lenovo-idea-tab-zafr0856br</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/tablets/huawei-matepad-11-5-new-bartokr-w09</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1512,13 +1491,6 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/geladeiras/consul-crc04ab</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/geladeiras/chiq-qrd02b2w</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1526,21 +1498,7 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/geladeiras/consul-crc04ab</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/geladeiras/philco-pfg50b</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://tudohardware.com/geladeiras/consul-crc04ab</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1548,13 +1506,6 @@
 
   <url>
     <loc>https://tudohardware.com/geladeiras/philco-pfg85p</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://tudohardware.com/geladeiras/philco-pfg50b</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2373,13 +2324,6 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/maquinas-lavar-roupas/electrolux-lec15</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/maquinas-lavar-roupas/colormaq-lcs15</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -2562,13 +2506,6 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/smart-tvs/weyon-32wdsnmx-32</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/smart-tvs/tcl-40s5k-40</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -2681,13 +2618,6 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/smart-tvs/lg-32lr600bpsa-32</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/smart-tvs/tcl-43s5k-43</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -2793,21 +2723,7 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/placa-mae/revenger-g-h81-m</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/placa-mae/asrock-b450m-hdv-r4.0</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://tudohardware.com/placa-mae/asus-prime-a520m-k</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2828,21 +2744,7 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/placa-mae/asrock-a520m-hvs</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/placa-mae/revenger-g-a320</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://tudohardware.com/placa-mae/asus-prime-a520m-k</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3479,13 +3381,6 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/microondas/electrolux-mto30</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/microondas/consul-cms46ar</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3549,21 +3444,7 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/microondas/electrolux-me36b</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/microondas/britania-bmo23</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://tudohardware.com/microondas/consul-cma20bb</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3584,21 +3465,7 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/microondas/midea-mhp20b1</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/microondas/panasonic-nn-st67l</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://tudohardware.com/microondas/consul-cms46ab</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3697,13 +3564,6 @@
 
   <url>
     <loc>https://tudohardware.com/airfryers/airfryer-britania-baf45a</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://tudohardware.com/airfryers/airfryer-itatiaia-afita1035a</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4089,13 +3949,6 @@
 
   <url>
     <loc>https://tudohardware.com/ar-condicionado/lg-dual-inverter-voice-ai-24000-qf</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://tudohardware.com/ar-condicionado/elgin-eco-inverter-ii-wifi-12000</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4508,13 +4361,6 @@
   </url>
 
   <url>
-    <loc>https://tudohardware.com/cameras/sony-zv-e10-ii-ilce-zve10m2</loc>
-    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://tudohardware.com/cameras/eken-h9r-eis-wifi-4k</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -4544,6 +4390,391 @@
 
   <url>
     <loc>https://tudohardware.com/cameras/acrensly-080-5k-75mp</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/tres-coracoes-luna-preta</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/tres-coracoes-passione-preta</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/nespresso-essenza-mini-branca</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/nespresso-essenza-mini-vermelha</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/nespresso-citiz-preta</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/philips-walita-ep2330-cinza</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/mondial-dolce-crema-c-20-ec</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/neonway-coff001-portatil</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/gradiente-supreme-touch-pgca012</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/philco-pcf04a-expresso</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/midea-cmm15p-preta</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/wap-wcm20-preto-cinza</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/philips-walita-ep1220-preta</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/cadence-caf230-preto-vermelho</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/gradiente-pgca012-cobre</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/gradiente-latte-easy-touch-inox</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/sokany-3-em-1-preta</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/hamilton-beach-48465-preta-prateada</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/reaken-kf440-industrial</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/nespresso-vertuo-pop-azul-pacifico</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/arno-genio-s-basic-dgs5</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/tres-coracoes-touch-vermelho</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/black-decker-ce1100g</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/cadence-to-go-caf201-preto</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/oster-ocaf400-preto-prateado</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/philco-pcf20a-preto</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/britania-cp30-inox-preto-prata</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/cafeteiras/nescafe-dolce-gusto-mini-me-preta</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/epson-l6490</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/hp-deskjet-ink-advantage-2874</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/hp-smart-tank-584</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/epson-ecotank-l3250</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/zebra-zd220</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/bematech-mp4200-hs</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/epson-ecotank-l4260</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/canon-pixma-g3110</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/epson-ecotank-l8050</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/szr-impressora-portatil-tatuagem</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/brother-dcp-t530dw</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/impressoras/hp-laser-107w</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/intelbras-fr-201</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/intelbras-fr-101</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/positivo-smart-fechadura-sobrepor-wifi</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/stam-tetra-1800-21-inox</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/lazoro-ark-max-lam-525a</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/homefy-news-security-h-0204w</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/stam-823-35-banheiro-preto</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/kuanttum-delta-pro-gv0498</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/tensky-fechadura-digital-tuya-n016</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/papaiz-sl150-biometrica</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/entersec-a8-l6-wifi-tuya</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/primebras-athenas-digital-smart-vidro</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/silvana-sdd200-smart-lock</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/agl-ultra-ajustavel-chave-e-code</loc>
+    <lastmod>2025-08-09T12:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tudohardware.com/fechaduras/intelbras-fr-102-sobrepor</loc>
     <lastmod>2025-08-09T12:00:00.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

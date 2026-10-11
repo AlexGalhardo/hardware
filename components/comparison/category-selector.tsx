@@ -1,35 +1,35 @@
 "use client";
 
+import {
+	AirVent,
+	Camera,
+	CircuitBoard,
+	Coffee,
+	Computer,
+	Cpu,
+	Flame,
+	Headphones,
+	Keyboard,
+	Lock,
+	Monitor,
+	MonitorCog,
+	Mouse,
+	Plane,
+	Printer,
+	Refrigerator,
+	Smartphone,
+	Tablet,
+	Tv,
+	Volume2,
+	WashingMachine,
+	Watch,
+	Waves,
+} from "lucide-react";
 import React from "react";
+import { PiSecurityCamera } from "react-icons/pi";
 import { categories } from "@/lib/data";
 import type { ProductCategory } from "@/lib/types";
 import { cn } from "@/lib/utils";
-import {
-	Smartphone,
-	Cpu,
-	Monitor,
-	Tablet,
-	Headphones,
-	Plane,
-	Watch,
-	Computer,
-	WashingMachine,
-	Tv,
-	Refrigerator,
-	Camera,
-	Flame,
-	Waves,
-	Keyboard,
-	Mouse,
-	Volume2,
-	CircuitBoard,
-	AirVent,
-	MonitorCog,
-	Coffee,
-	Printer,
-	Lock,
-} from "lucide-react";
-import { PiSecurityCamera } from "react-icons/pi";
 
 const categoryIcons: Record<ProductCategory, React.ReactNode> = {
 	smartphones: <Smartphone className="h-5 w-5" />,
@@ -69,6 +69,7 @@ export function CategorySelector({ selectedCategory, onCategoryChange }: Categor
 			<div className="flex flex-wrap justify-center gap-2">
 				{categories.map((category) => (
 					<button
+						type="button"
 						key={category.id}
 						onClick={() => onCategoryChange(category.id)}
 						className={cn(

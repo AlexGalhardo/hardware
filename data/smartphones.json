@@ -127,7 +127,7 @@
 				"costBenefit": 8.5,
 				"hardware": 8.5,
 				"display": 9.2,
-				"camera": 8.0,
+				"camera": 8,
 				"performance": 8.3
 			},
 			"versions": ["SM-S926B", "SM-S926B/DS", "SM-S926W", "SM-S9260", "SM-S926E/DS"],
@@ -154,7 +154,6 @@
 		"amazonUrl": "https://amzn.to/4a2TQYZ",
 		"shopeeUrl": "https://s.shopee.com.br/8fMR7PFHjE",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.5\"",
@@ -271,11 +270,11 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"hardware": 7.2,
 				"display": 7.8,
-				"camera": 7.0,
-				"performance": 7.0
+				"camera": 7,
+				"performance": 7
 			},
 			"versions": null,
 			"manufacturer": null
@@ -396,7 +395,7 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"hardware": 8.5,
 				"display": 8.5,
 				"camera": 8.8,
@@ -422,7 +421,6 @@
 		"amazonUrl": "https://amzn.to/49XvP5D",
 		"shopeeUrl": "https://s.shopee.com.br/5VPPLm0UhP",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.7\"",
@@ -503,9 +501,9 @@
 			"ratings": {
 				"costBenefit": 9.2,
 				"hardware": 6.5,
-				"display": 7.0,
+				"display": 7,
 				"camera": 6.5,
-				"performance": 6.0
+				"performance": 6
 			},
 			"versions": ["XT2529-1"],
 			"manufacturer": "Motorola Mobility LLC"
@@ -531,7 +529,6 @@
 		"amazonUrl": "https://amzn.to/45yYgp5",
 		"shopeeUrl": "https://s.shopee.com.br/1VtGaL8nwt",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.9\"",
@@ -603,11 +600,11 @@
 				"speakerphone": true
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"hardware": 6.5,
 				"display": 7.5,
 				"camera": 6.5,
-				"performance": 6.0
+				"performance": 6
 			},
 			"versions": ["24044RAD4G"],
 			"manufacturer": "Xiaomi Communications Co Ltd"
@@ -725,7 +722,7 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"hardware": 9.0,
+				"hardware": 9,
 				"display": 8.8,
 				"camera": 8.7,
 				"performance": 9.2
@@ -752,7 +749,6 @@
 		"amazonUrl": "https://amzn.to/4t7a9wI",
 		"shopeeUrl": "https://s.shopee.com.br/6fbMk2F9fU",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.5\"",
@@ -841,7 +837,7 @@
 				"wifiHotspot": true
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"hardware": 8.5,
 				"display": 8.7,
 				"camera": 8.3,
@@ -870,7 +866,6 @@
 		"amazonUrl": null,
 		"shopeeUrl": "https://s.shopee.com.br/6VHwbO3QSA",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.4\"",
@@ -989,7 +984,7 @@
 			},
 			"ratings": {
 				"costBenefit": 8.2,
-				"hardware": 8.0,
+				"hardware": 8,
 				"display": 8.5,
 				"camera": 7.8,
 				"performance": 8.2
@@ -1018,7 +1013,6 @@
 		"amazonUrl": "https://amzn.to/49H0g14",
 		"shopeeUrl": "https://s.shopee.com.br/8V30w97GHB",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.7\"",
@@ -1136,9 +1130,9 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 8.0,
-				"hardware": 7.0,
-				"display": 8.0,
+				"costBenefit": 8,
+				"hardware": 7,
+				"display": 8,
 				"camera": 6.5,
 				"performance": 6.5
 			},
@@ -1166,7 +1160,6 @@
 		"amazonUrl": "https://amzn.to/3ZEA94M",
 		"shopeeUrl": "https://s.shopee.com.br/5AmYxbuiNr",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.7\"",
@@ -1284,10 +1277,10 @@
 				"includesPen": null
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"hardware": 7.5,
-				"display": 8.0,
-				"camera": 7.0,
+				"display": 8,
+				"camera": 7,
 				"performance": 7.5
 			},
 			"versions": null,
@@ -1314,7 +1307,6 @@
 		"amazonUrl": "https://amzn.to/3NDelnH",
 		"shopeeUrl": "https://s.shopee.com.br/2qOeBeqiOZ",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.7\"",
@@ -1429,7 +1421,7 @@
 				"hardware": 6.5,
 				"display": 8.5,
 				"camera": 6.8,
-				"performance": 6.0
+				"performance": 6
 			},
 			"versions": ["SM-A165M", "SM-A165M/DS", "SM-A165F/DS"],
 			"manufacturer": "Samsung Eletrônica da Amazônia Ltda"
@@ -1455,7 +1447,6 @@
 		"amazonUrl": "https://amzn.to/3M54PJs",
 		"shopeeUrl": "https://s.shopee.com.br/9zroj6nMa2",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.745\"",
@@ -1570,8 +1561,8 @@
 				"costBenefit": 7.5,
 				"hardware": 5.5,
 				"display": 6.5,
-				"camera": 6.0,
-				"performance": 5.0
+				"camera": 6,
+				"performance": 5
 			},
 			"versions": ["RMX3933"],
 			"manufacturer": null
@@ -1717,10 +1708,10 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"hardware": 9.5,
 				"display": 9.5,
-				"camera": 9.0,
+				"camera": 9,
 				"performance": 9.8
 			},
 			"versions": ["A3294", "A3295", "A3296"],
@@ -1747,7 +1738,6 @@
 		"amazonUrl": "https://amzn.to/4ahz09t",
 		"shopeeUrl": "https://s.shopee.com.br/14SonfYKR",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.67\"",
@@ -1865,7 +1855,7 @@
 			},
 			"ratings": {
 				"costBenefit": 8.2,
-				"hardware": 7.0,
+				"hardware": 7,
 				"display": 7.5,
 				"camera": 6.8,
 				"performance": 6.5
@@ -2010,7 +2000,7 @@
 				"costBenefit": 8.5,
 				"hardware": 7.9,
 				"display": 8.6,
-				"camera": 8.0,
+				"camera": 8,
 				"performance": 7.7
 			},
 			"versions": ["CPH2743G", "CPH2743"],
@@ -2037,7 +2027,6 @@
 		"amazonUrl": "https://amzn.to/4rho3dY",
 		"shopeeUrl": "https://s.shopee.com.br/4LDRy0Um25",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.9\"",
@@ -2162,10 +2151,10 @@
 			},
 			"ratings": {
 				"costBenefit": 7.5,
-				"hardware": 10.0,
+				"hardware": 10,
 				"display": 9.8,
 				"camera": 9.5,
-				"performance": 10.0
+				"performance": 10
 			},
 			"versions": ["A3294", "A3295", "A3296"],
 			"manufacturer": "Apple"
@@ -2191,7 +2180,6 @@
 		"amazonUrl": "https://amzn.to/4rfx9aU",
 		"shopeeUrl": "https://s.shopee.com.br/7VATjlG0GI",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.3\"",
@@ -2316,10 +2304,10 @@
 			},
 			"ratings": {
 				"costBenefit": 7.8,
-				"hardware": 10.0,
+				"hardware": 10,
 				"display": 9.8,
 				"camera": 9.3,
-				"performance": 10.0
+				"performance": 10
 			},
 			"versions": ["A3523", "A3256", "A3522", "A3524"],
 			"manufacturer": "Apple"
@@ -2467,9 +2455,9 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"hardware": 8.0,
-				"display": 8.0,
-				"camera": 8.0,
+				"hardware": 8,
+				"display": 8,
+				"camera": 8,
 				"performance": 8.5
 			},
 			"versions": ["A2649", "A2881", "A2884", "A2883"],
@@ -2763,7 +2751,7 @@
 			"ratings": {
 				"costBenefit": 8.8,
 				"hardware": 9.2,
-				"display": 9.0,
+				"display": 9,
 				"camera": 8.5,
 				"performance": 9.4
 			},
@@ -2904,10 +2892,10 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 7.0,
+				"costBenefit": 7,
 				"hardware": 5.5,
 				"display": 6.8,
-				"camera": 6.0,
+				"camera": 6,
 				"performance": 5.2
 			},
 			"versions": ["XT2053-5"],
@@ -2934,7 +2922,6 @@
 		"amazonUrl": null,
 		"shopeeUrl": "https://s.shopee.com.br/9zroiGZJ9q",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.6",
@@ -3051,11 +3038,11 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 8.0,
+				"costBenefit": 8,
 				"hardware": 7.2,
 				"display": 8.8,
 				"camera": 7.5,
-				"performance": 7.0
+				"performance": 7
 			},
 			"versions": ["XT2225-1"],
 			"manufacturer": "Motorola Mobility Comercio de Produtos Eletronicos Ltda"
@@ -3195,7 +3182,7 @@
 			},
 			"ratings": {
 				"costBenefit": 7.2,
-				"hardware": 6.0,
+				"hardware": 6,
 				"display": 6.5,
 				"camera": 6.8,
 				"performance": 5.8
@@ -3338,8 +3325,8 @@
 			},
 			"ratings": {
 				"costBenefit": 6.5,
-				"hardware": 5.0,
-				"display": 6.0,
+				"hardware": 5,
+				"display": 6,
 				"camera": 5.5,
 				"performance": 4.8
 			},
@@ -3483,9 +3470,9 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 9.0,
-				"hardware": 8.0,
-				"display": 8.0,
+				"costBenefit": 9,
+				"hardware": 8,
+				"display": 8,
 				"camera": 7.8,
 				"performance": 8.3
 			},
@@ -4050,9 +4037,9 @@
 			"ratings": {
 				"costBenefit": 6.5,
 				"hardware": 4.5,
-				"display": 7.0,
+				"display": 7,
 				"camera": 5.5,
-				"performance": 4.0
+				"performance": 4
 			},
 			"versions": ["XT2521-1", "XT2521-2"],
 			"manufacturer": "Motorola"
@@ -4201,8 +4188,8 @@
 			},
 			"ratings": {
 				"costBenefit": 8.5,
-				"hardware": 7.0,
-				"display": 9.0,
+				"hardware": 7,
+				"display": 9,
 				"camera": 7.8,
 				"performance": 6.8
 			},
@@ -4348,9 +4335,9 @@
 			},
 			"ratings": {
 				"costBenefit": 6.5,
-				"hardware": 4.0,
+				"hardware": 4,
 				"display": 6.5,
-				"camera": 5.0,
+				"camera": 5,
 				"performance": 3.5
 			},
 			"versions": ["XT2535-1", "XT2535-2"],
@@ -4491,11 +4478,11 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 7.0,
+				"costBenefit": 7,
 				"hardware": 4.5,
 				"display": 6.8,
 				"camera": 5.5,
-				"performance": 4.0
+				"performance": 4
 			},
 			"versions": ["XT2523-1", "XT2523-2"],
 			"manufacturer": "Motorola Mobility LLC"
@@ -4643,10 +4630,10 @@
 			},
 			"ratings": {
 				"costBenefit": 7.8,
-				"hardware": 7.0,
+				"hardware": 7,
 				"display": 9.5,
 				"camera": 7.5,
-				"performance": 7.0
+				"performance": 7
 			},
 			"versions": ["XT2527-1", "XT2527-2"],
 			"manufacturer": "Motorola Mobility LLC"
@@ -4789,7 +4776,7 @@
 				"costBenefit": 8.8,
 				"hardware": 8.2,
 				"display": 6.8,
-				"camera": 7.0,
+				"camera": 7,
 				"performance": 8.5
 			},
 			"versions": null,
@@ -4931,8 +4918,8 @@
 			},
 			"ratings": {
 				"costBenefit": 6.5,
-				"hardware": 4.0,
-				"display": 5.0,
+				"hardware": 4,
+				"display": 5,
 				"camera": 4.5,
 				"performance": 4.2
 			},
@@ -5075,7 +5062,7 @@
 			},
 			"ratings": {
 				"costBenefit": 8.2,
-				"hardware": 7.0,
+				"hardware": 7,
 				"display": 7.5,
 				"camera": 7.2,
 				"performance": 7.3
@@ -5218,7 +5205,7 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"hardware": 8.7,
 				"display": 9.3,
 				"camera": 8.5,
@@ -5248,7 +5235,6 @@
 		"amazonUrl": "https://amzn.to/3M54fvg",
 		"shopeeUrl": "https://s.shopee.com.br/70ED9SXQJw",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.7\"",
@@ -5512,9 +5498,9 @@
 			"ratings": {
 				"costBenefit": 8.8,
 				"hardware": 8.5,
-				"display": 9.0,
+				"display": 9,
 				"camera": 8.2,
-				"performance": 8.0
+				"performance": 8
 			},
 			"versions": null,
 			"manufacturer": "Oppo"
@@ -5540,7 +5526,6 @@
 		"amazonUrl": "https://amzn.to/3ZyQMij",
 		"shopeeUrl": "https://s.shopee.com.br/8fMR8rMrGv",
 		"subcategory": "celular",
-
 		"specs": {
 			"display": {
 				"size": "6.67\"",
@@ -5658,10 +5643,10 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 9.0,
+				"costBenefit": 9,
 				"hardware": 9.2,
 				"display": 9.5,
-				"camera": 9.0,
+				"camera": 9,
 				"performance": 9.1
 			},
 			"versions": null,
@@ -5805,7 +5790,7 @@
 				"costBenefit": 7.8,
 				"hardware": 5.5,
 				"display": 6.5,
-				"camera": 5.0,
+				"camera": 5,
 				"performance": 5.8
 			},
 			"versions": null,
@@ -5948,7 +5933,7 @@
 			"ratings": {
 				"costBenefit": 8.5,
 				"hardware": 7.5,
-				"display": 7.0,
+				"display": 7,
 				"camera": 6.8,
 				"performance": 7.2
 			},
@@ -6092,8 +6077,8 @@
 			"ratings": {
 				"costBenefit": 8.9,
 				"hardware": 8.6,
-				"display": 9.0,
-				"camera": 8.0,
+				"display": 9,
+				"camera": 8,
 				"performance": 8.7
 			},
 			"versions": null,
@@ -6237,155 +6222,11 @@
 				"costBenefit": 8.2,
 				"hardware": 6.8,
 				"display": 7.5,
-				"camera": 7.0,
+				"camera": 7,
 				"performance": 6.5
 			},
 			"versions": ["Global"],
 			"manufacturer": "Xiaomi Communications Co Ltd"
-		}
-	},
-	{
-		"id": "motorola-moto-g86-5g-512gb",
-		"name": "Moto G86 5G",
-		"brand": "Motorola",
-		"line": "Moto G",
-		"model": "Moto G86 5G",
-		"detailedModel": "XT2527-1",
-		"color": "Lilás",
-		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_610845-MLA100007418929_122025-F.webp",
-		"price": 0,
-		"releaseDate": "2025/5",
-		"releaseMonth": "Maio",
-		"releaseYear": 2025,
-		"origin": "Brasil",
-		"category": "smartphones",
-		"anatelNumber": "4892500330",
-		"mercadolivreUrl": "https://mercadolivre.com/sec/1bnkRe8",
-		"specs": {
-			"display": {
-				"size": "6.7\"",
-				"resolution": "1220 x 2712",
-				"resolutionType": "1.5K",
-				"type": "pOLED",
-				"screenType": "AMOLED",
-				"refreshRate": "120 Hz",
-				"ppi": 446,
-				"maxBrightness": "4500 cd/m²",
-				"touchscreen": true,
-				"foldable": false,
-				"secondaryTouchscreen": false,
-				"screenRatio": "90%"
-			},
-			"processor": "MediaTek Dimensity 7300",
-			"processorSpeed": "2.5 GHz",
-			"processorCores": 8,
-			"cpuModels": null,
-			"chipset": "MediaTek Dimensity 7300 (4 nm)",
-			"gpu": "Mali-G615 MC2",
-			"gpuSpeed": "1.05 GHz",
-			"ram": "8 GB",
-			"storage": "512 GB",
-			"memoryCardSlot": true,
-			"battery": {
-				"capacity": "5200 mAh",
-				"type": "Polímero de lítio",
-				"fastCharging": true,
-				"wirelessCharging": false,
-				"removable": false,
-				"batteryTalkTime": null
-			},
-			"camera": {
-				"main": "50 Mpx",
-				"mainCameras": ["50 Mpx", "8 Mpx"],
-				"mainAperture": null,
-				"mainTypes": ["wide", "ultrawide"],
-				"mainQuantity": 2,
-				"front": "32 Mpx",
-				"frontCameras": ["32 Mpx"],
-				"frontAperture": null,
-				"frontTypes": null,
-				"frontQuantity": 1,
-				"videoResolutionRear": "1220 x 2712",
-				"videoResolutionFront": null,
-				"opticalZoom": null,
-				"digitalZoom": "10x",
-				"features": null,
-				"frontFlash": false,
-				"wideAngleResolution": "8 Mpx"
-			},
-			"os": "Android 15",
-			"osVersion": "15",
-			"osLatestVersion": "15",
-			"osEdition": "Android 15",
-			"osCustomLayer": null,
-			"latestCustomLayer": null,
-			"dimensions": "161.21 x 74.74 x 7.87 mm",
-			"weight": "198 g",
-			"waterResistance": true,
-			"ipRating": "IP68 e IP69",
-			"splashResistant": true,
-			"dustResistant": true,
-			"dropResistant": true,
-			"waterproof": true,
-			"simCard": "Nano-SIM + eSIM",
-			"dualSim": true,
-			"simSlots": 1,
-			"esimSupport": true,
-			"esimQuantity": 1,
-			"simCardSizes": ["Nano-SIM"],
-			"network": {
-				"gsm": null,
-				"hspa": null,
-				"lte": true,
-				"fiveG": true
-			},
-			"connectivity": {
-				"usb": "USB-C",
-				"usbConnector": true,
-				"jackConnector": false,
-				"nfc": true,
-				"gps": "Sim",
-				"wifi": true,
-				"bluetooth": true,
-				"miniHdmi": false,
-				"radio": false,
-				"tvTuner": false
-			},
-			"sensors": {
-				"accelerometer": true,
-				"proximity": true,
-				"gyroscope": true,
-				"compass": true,
-				"barometer": null,
-				"fingerprint": true,
-				"facialRecognition": true,
-				"irisRecognition": false,
-				"heartRate": false,
-				"noiseCancellation": false
-			},
-			"features": {
-				"fmRadio": false,
-				"tv": false,
-				"vibration": true,
-				"speakerphone": true,
-				"wifiDirect": null,
-				"wifiHotspot": null,
-				"usbOtg": null,
-				"qwertyKeyboard": false,
-				"sosButton": false,
-				"gamingPhone": true,
-				"ruggedPhone": true,
-				"includesPen": false
-			},
-			"ratings": {
-				"costBenefit": 8.7,
-				"hardware": 8.0,
-				"display": 9.0,
-				"camera": 7.8,
-				"performance": 8.2
-			},
-			"versions": null,
-			"manufacturer": "Motorola Mobility LLC"
 		}
 	},
 	{
@@ -6523,8 +6364,8 @@
 			},
 			"ratings": {
 				"costBenefit": 6.5,
-				"hardware": 5.0,
-				"display": 6.0,
+				"hardware": 5,
+				"display": 6,
 				"camera": 5.5,
 				"performance": 4.8
 			},
@@ -6808,8 +6649,8 @@
 				"includesPen": false
 			},
 			"ratings": {
-				"costBenefit": 7.0,
-				"hardware": 6.0,
+				"costBenefit": 7,
+				"hardware": 6,
 				"display": 6.5,
 				"camera": 6.2,
 				"performance": 5.8

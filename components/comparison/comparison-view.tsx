@@ -1,15 +1,15 @@
 "use client";
 
-import { useState, useCallback, useRef, useMemo, useEffect } from "react";
 import { RotateCcw, Search, X } from "lucide-react";
+import Image from "next/image";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { FaFacebookF, FaLinkedinIn, FaPinterest, FaReddit, FaTelegram, FaWhatsapp, FaXTwitter } from "react-icons/fa6";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { ProductCard, EmptyProductSlot } from "./product-card";
+import type { CategoryInfo, Product, ProductCategory } from "@/lib/types";
 import { ComparisonTable } from "./comparison-table";
+import { EmptyProductSlot, ProductCard } from "./product-card";
 import { ProductSuggestions } from "./product-suggestions";
-import type { Product, ProductCategory, CategoryInfo } from "@/lib/types";
-import Image from "next/image";
-import { FaXTwitter, FaFacebookF, FaWhatsapp, FaTelegram, FaLinkedinIn, FaPinterest, FaReddit } from "react-icons/fa6";
 
 interface ComparisonViewProps {
 	category: ProductCategory;
@@ -253,6 +253,7 @@ export function ComparisonView({ category, categoryInfo, allProducts, initialPro
 												{filteredProducts.length > 0 ? (
 													filteredProducts.slice(0, 20).map((p) => (
 														<button
+															type="button"
 															key={p.id}
 															onClick={() => handleAddProduct(p, index)}
 															className="flex items-center gap-3 w-full p-2 rounded-lg hover:bg-muted transition-colors text-left"

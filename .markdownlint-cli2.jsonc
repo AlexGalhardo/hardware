@@ -1,0 +1,12 @@
+{
+	// Rules: https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+	"config": {
+		"default": true,
+		// Technical documentation with tables and long URLs: no line width limit.
+		"MD013": false,
+		// The changelog (Keep a Changelog) repeats "Added", "Fixed" etc. in every version.
+		"MD024": { "siblings_only": true }
+	},
+	"globs": ["*.md", ".claude/*.md"],
+	"ignores": ["node_modules", ".next", "docs", "telegram"]
+}
