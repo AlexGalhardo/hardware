@@ -77,7 +77,7 @@ bun run lint:md
 bun run build
 ```
 
-`bun run ci` roda os cinco. O hook `pre-commit` roda tipos e lint; o `pre-push` roda o build. Mudança visual é conferida no navegador.
+`bun run ci` roda os cinco. O hook `pre-commit` roda tipos, lint e markdownlint; o `pre-push` roda o build. Mudança visual é conferida no navegador.
 
 ## Commits e versões
 
