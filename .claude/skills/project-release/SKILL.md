@@ -10,7 +10,7 @@ Todo commit enviado é uma release: leva a própria versão no `package.json`, a
 ## 1. Escolha a versão
 
 | Mensagem do commit | Sobe |
-|---|---|
+| --- | --- |
 | `feat` | minor |
 | `fix`, `perf`, `docs`, `chore`, `test`, `build`, `refactor`, `style` | patch |
 | `!` depois do tipo ou `BREAKING CHANGE:` no corpo | major |
@@ -42,7 +42,7 @@ gh release create vX.Y.Z --repo AlexGalhardo/tudohardware.com --title vX.Y.Z --n
 
 `notas.md` é o texto da seção `## [X.Y.Z]` do `CHANGELOG.md`, sem o título.
 
-Os hooks rodam sozinhos: `pre-commit` (tipos e lint), `commit-msg` (commitlint) e `pre-push` (build). Se um falhar, corrija a causa.
+Os hooks rodam sozinhos: `pre-commit` (tipos, lint e markdownlint), `commit-msg` (commitlint) e `pre-push` (build). Se um falhar, corrija a causa.
 
 ## 4. Conferir
 

@@ -8,7 +8,7 @@ Passo a passo de versão e release: skill `project-release` e [`docs/workflows.m
 - Tipos: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`. O painel `/admin` grava commits com o prefixo `content:` pela API do GitHub, fora dos hooks.
 - Um commit por mudança lógica.
 - Nunca commite `.env`, chaves ou tokens.
-- Os hooks do git (tabela em [`docs/tooling.md`](../../docs/tooling.md)) rodam tipos e lint no commit e o build no push. Nunca use `--no-verify`: corrija a causa.
+- Os hooks do git (tabela em [`docs/tooling.md`](../../docs/tooling.md)) rodam tipos, lint e markdownlint no commit e o build no push. Nunca use `--no-verify`: corrija a causa.
 - Nunca faça push forçado em `main` sem o dono pedir.
 
 ## Todo commit enviado é uma release

@@ -32,7 +32,7 @@
 
 | Hook | Roda |
 | --- | --- |
-| `pre-commit` | `typecheck`, `lint`, `stats`, `format` |
+| `pre-commit` | `typecheck`, `lint`, `lint:md`, `stats`, `format` |
 | `commit-msg` | `commitlint` |
 | `pre-push` | `stats`, `format`, `build` |
 
