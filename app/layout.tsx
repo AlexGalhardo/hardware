@@ -106,6 +106,7 @@ export default function RootLayout({
 				<Script
 					id="ms-clarity"
 					strategy="afterInteractive"
+					// biome-ignore lint/security/noDangerouslySetInnerHtml: fixed analytics snippet, no user input reaches it
 					dangerouslySetInnerHTML={{
 						__html: `
 							(function(c,l,a,r,i,t,y){

@@ -1,5 +1,5 @@
-import { categories, getProductsByCategory } from "@/lib/data";
 import { HomePageClient } from "@/components/home-page-client";
+import { categories, getProductsByCategory } from "@/lib/data";
 
 export default async function HomePage() {
 	const initialCategory = "smartphones";

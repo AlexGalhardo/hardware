@@ -114,6 +114,7 @@ function SpecSectionComponent({ section, products }: SpecSectionComponentProps) 
 						<div className="flex items-center px-4 py-3 font-bold text-sm text-black">NOTA FINAL</div>
 
 						{averageRatings.map((average, index) => (
+							// biome-ignore lint/suspicious/noArrayIndexKey: one cell per comparison slot, positional
 							<div key={index} className="flex items-center justify-center px-4 py-3">
 								{average !== null ? (
 									<span className="font-bold text-black">
@@ -152,6 +153,7 @@ function SpecRow({ label, values, type, isLast = false }: SpecRowProps) {
 			</div>
 
 			{values.map((value, index) => (
+				// biome-ignore lint/suspicious/noArrayIndexKey: one cell per comparison slot, positional
 				<div key={index} className="flex items-center justify-center px-4 py-3">
 					{renderValue(value, type)}
 				</div>

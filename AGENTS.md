@@ -29,24 +29,26 @@ Next.js 16 (App Router) · React 19 · TypeScript 7 strict · Tailwind CSS 4 · 
 
 ## Regras
 
-- **Links de afiliado só pelo dashboard.** Nenhum componente aponta direto para a loja: use `productAffiliateHref`. Ver "Links de afiliado" no [`README.md`](README.md).
+- **Links de afiliado só pelo dashboard.** Use `productAffiliateHref`. O único caso em que o botão aponta direto para a loja é o desvio de `useDashboardDown()`, quando o dashboard não responde. Ver "Links de afiliado" no [`README.md`](README.md).
 - **`id` do produto é único na categoria e estável.** Id repetido falha o build; id trocado apaga os cliques do produto no dashboard.
 - **Categoria nova:** arquivo em `data/`, entrada em `categories` e no mapa de `lib/data.ts`, e entrada em `categoryFileMap` de `scripts/create-sitemap.ts` e nos mapas de `scripts/create-csv.ts`.
 - **Segredos:** nada de chave real no repositório. `.env` e `telegram/.env` são ignorados pelo git; `.env.example` só tem placeholders.
 - **Dependências:** última versão estável, com versão exata, sem `^` nem `~`. Dependência nova só com aprovação do dono.
-- **TypeScript:** sem `any` novo, sem `@ts-ignore`. O build falha com erro de tipo.
+- **TypeScript:** sem `any` (o Biome recusa), sem `@ts-ignore`. O build falha com erro de tipo.
+- **Lint:** `bun run lint` precisa passar sem erro. `biome-ignore` só com o motivo escrito na mesma linha.
 - **Idioma:** código, comentários e commits em inglês; textos de interface e documentação em português do Brasil.
 
 ## Antes de entregar
 
 ```bash
 bun run typecheck
+bun run lint
 bun run test
 bun run lint:md
 bun run build
 ```
 
-`bun run ci` roda os quatro. Mudança visual é conferida no navegador.
+`bun run ci` roda os cinco. O hook `pre-commit` roda tipos e lint; o `pre-push` roda o build. Mudança visual é conferida no navegador.
 
 ## Commits e versões
 
@@ -56,7 +58,6 @@ bun run build
 
 ## Dívida conhecida
 
-- `bun run lint` ainda aponta 14 erros antigos do Biome (dependências de `useEffect`, índice de array como `key`, acessibilidade em `product-suggestions.tsx`). Por isso o lint de código não está no `bun run ci`.
 - `scripts/create-csv.ts` não conhece as categorias `cafeteiras`, `impressoras` e `fechaduras`.
 - O bot do Telegram publica o link direto da loja, sem passar pelo dashboard.
 - O push para `main` não dispara deploy na Vercel; o deploy é feito com `vercel deploy --prod`.

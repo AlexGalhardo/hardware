@@ -7,6 +7,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-10-11
+
+### Added
+
+- Store buttons fall back to the store address when the links dashboard does not answer its health check.
+
+### Changed
+
+- The build identifies the site to the links dashboard by its address and uses the dashboard's shared key; `LINKS_DASHBOARD_TOKEN` is now that key.
+- `bun run lint` passes with no errors and is part of `bun run ci`; explicit `any` is refused by Biome. The `pre-commit` hook runs the type check and the lint.
+- The suggestion rows of the comparison page are real buttons, usable from the keyboard.
+
+### Fixed
+
+- The category-change effect of the comparison page read `updateUrl` before it was declared.
+- The toast hook registered its listener again on every state change.
+
+### Removed
+
+- Unused duplicate `components/theme-provider.tsx`.
+
 ## [1.1.0] - 2026-10-11
 
 ### Added
@@ -38,6 +59,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Site as it was before this changelog started.
 
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.1.0...HEAD
-[1.1.0]: https://github.com/AlexGalhardo/tudohardware.com/compare/42fadac...v1.1.0
-[1.0.0]: https://github.com/AlexGalhardo/tudohardware.com/commit/42fadac
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/AlexGalhardo/tudohardware.com/releases/tag/v1.0.0
