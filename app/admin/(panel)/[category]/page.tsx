@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { ProductThumb } from "@/components/admin/product-thumb";
 import { requireAdmin } from "@/lib/admin/auth";
 import { isCategory } from "@/lib/admin/category-files";
 import { tryListProducts } from "@/lib/admin/products";
@@ -49,9 +50,12 @@ export default async function AdminCategoryPage({ params }: { params: Promise<{ 
 								<td className="py-2 pr-4">
 									<Link
 										href={`/admin/${category}/${product.id}`}
-										className="font-medium hover:underline"
+										className="flex items-center gap-3 font-medium hover:underline"
 									>
-										{product.brand} {product.name}
+										<ProductThumb src={product.image} alt="" size={40} />
+										<span>
+											{product.brand} {product.name}
+										</span>
 									</Link>
 								</td>
 								<td className="py-2 pr-4 font-mono text-xs">{product.id}</td>
