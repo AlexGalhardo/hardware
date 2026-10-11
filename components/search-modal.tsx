@@ -82,6 +82,7 @@ export function SearchModal({ allProducts }: SearchModalProps) {
 		return Array.from(uniqueProducts.values()).slice(0, 8);
 	}, [searchTerm, allProducts]);
 
+	// biome-ignore lint/correctness/useExhaustiveDependencies: a new result list is the trigger to go back to the first item
 	useEffect(() => {
 		setSelectedIndex(0);
 	}, [filteredProducts]);
@@ -93,6 +94,7 @@ export function SearchModal({ allProducts }: SearchModalProps) {
 		}
 	}, [isOpen]);
 
+	// biome-ignore lint/correctness/useExhaustiveDependencies: selectedIndex is the trigger, the refs point to the item it selects
 	useEffect(() => {
 		if (selectedItemRef.current && resultsContainerRef.current) {
 			const container = resultsContainerRef.current;

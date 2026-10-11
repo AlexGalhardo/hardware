@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 
 function setCookie(name: string, value: string, days: number) {
 	const expires = new Date(Date.now() + days * 864e5).toUTCString();
+	// biome-ignore lint/suspicious/noDocumentCookie: the Cookie Store API is not available in every supported browser
 	document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
 }
 

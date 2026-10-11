@@ -25,7 +25,7 @@ bun run dev
 | `bun run lint` | Biome em `app`, `components`, `lib` e `scripts` |
 | `bun run lint:md` | markdownlint |
 | `bun run format` | Biome com correção, depois de regenerar CSV e estatísticas |
-| `bun run ci` | `typecheck`, `test`, `lint:md` e `build` |
+| `bun run ci` | `typecheck`, `lint`, `test`, `lint:md` e `build` |
 | `bun run sync-links` | Valida o catálogo de links; com `LINKS_DASHBOARD_TOKEN`, envia ao dashboard |
 
 ## Links de afiliado
@@ -33,6 +33,7 @@ bun run dev
 1. Cada produto guarda o endereço real da loja em `mercadolivreUrl`, `amazonUrl` e `shopeeUrl`.
 2. `scripts/sync-links.ts` roda antes de todo build e envia o catálogo inteiro ao dashboard (`PUT /api/v1/links`). Se o dashboard recusar ou estiver fora do ar, o build falha e o site continua na versão anterior.
 3. Os botões apontam para `https://links.lekzera.xyz/link?id=<id>&store=<loja>`. O id de um produto é `https://alexgalhardo.github.io/tudohardware/<categoria>/<id do produto>`.
+4. Ao abrir a página, o navegador consulta `https://links.lekzera.xyz/health`. Sem resposta, os botões passam a apontar direto para a loja: a venda não depende do dashboard, só a contagem do clique.
 
 Regras:
 
@@ -40,7 +41,7 @@ Regras:
 - Só endereço `https://` vira link. `null`, vazio e `#` não geram botão.
 - Trocar o `id` de um produto cria um registro novo no dashboard e apaga o antigo, com os cliques dele.
 
-O token do projeto (`LINKS_DASHBOARD_TOKEN`) fica só nas variáveis da Vercel. Sem ele, o build de produção falha; os outros builds só validam o catálogo.
+O site se identifica pelo próprio endereço e o dashboard cria o projeto dele sozinho. A chave do dashboard (`LINKS_DASHBOARD_TOKEN`, a mesma em todos os sites) fica só nas variáveis da Vercel. Sem ela, o build de produção falha; os outros builds só validam o catálogo.
 
 ## Variáveis de ambiente
 

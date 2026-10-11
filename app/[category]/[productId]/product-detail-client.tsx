@@ -5,10 +5,11 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect } from "react";
 import { SiMercadopago, SiShopee } from "react-icons/si";
+import { useDashboardDown } from "@/hooks/use-dashboard-down";
 import { productAffiliateHref } from "@/lib/affiliate-catalogue";
 import { isAffiliateUrl } from "@/lib/affiliate-links";
 import { formatRating } from "@/lib/data";
-import { getSpecConfig } from "@/lib/spec-configs";
+import { getSpecConfig, type SpecItem } from "@/lib/spec-configs";
 import type { CategoryInfo, Product, ProductCategory } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
@@ -21,6 +22,7 @@ interface ProductDetailClientProps {
 
 export function ProductDetailClient({ product, category, categoryInfo, relatedProducts }: ProductDetailClientProps) {
 	const specSections = getSpecConfig(category);
+	const dashboardDown = useDashboardDown();
 
 	useEffect(() => {
 		const contentElement = document.getElementById("product-detail-protected");
@@ -49,7 +51,7 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 		};
 	}, []);
 
-	const calculateAverage = (specs: any[]) => {
+	const calculateAverage = (specs: SpecItem[]) => {
 		const ratings = specs
 			.map((spec) => {
 				const value = spec.getValue(product);
@@ -63,7 +65,7 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 		return sum / ratings.length;
 	};
 
-	const hasRatings = (specs: any[]) => {
+	const hasRatings = (specs: SpecItem[]) => {
 		return specs.some((spec) => spec.type === "rating");
 	};
 
@@ -79,7 +81,7 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 						{categoryInfo.name}
 					</Link>
 					<ChevronRight className="h-3 w-3 md:h-4 md:w-4" />
-					<span className="text-foreground">{product.brand + " " + product.name}</span>
+					<span className="text-foreground">{`${product.brand} ${product.name}`}</span>
 				</div>
 
 				<div className="grid grid-cols-1 lg:grid-cols-[3fr_4fr_3fr] gap-6">
@@ -88,7 +90,7 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 							<div className="relative w-75 aspect-square mb-4  rounded-lg overflow-hidden mx-auto">
 								<Image
 									src={product.image || "/placeholder.svg"}
-									alt={product.brand + " " + product.name}
+									alt={`${product.brand} ${product.name}`}
 									fill
 									className="object-contain p-4"
 									priority
@@ -103,7 +105,11 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 								<div className="flex flex-col gap-3 mb-6 mt-6">
 									{isAffiliateUrl(product.amazonUrl) && (
 										<a
-											href={productAffiliateHref(category, product.id, "amazon")}
+											href={
+												dashboardDown
+													? product.amazonUrl
+													: productAffiliateHref(category, product.id, "amazon")
+											}
 											target="_blank"
 											rel="noopener noreferrer sponsored"
 											className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-md bg-[#FF9900] hover:bg-[#e68a00] transition-all text-black font-semibold text-sm shadow-[0_5px_0_0_#cc7a00] hover:shadow-[0_2px_0_0_#cc7a00] hover:translate-y-[2px] active:shadow-[0_0px_0_0_#cc7a00] active:translate-y-[4px]"
@@ -115,7 +121,11 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 
 									{isAffiliateUrl(product.mercadolivreUrl) && (
 										<a
-											href={productAffiliateHref(category, product.id, "mercadolivre")}
+											href={
+												dashboardDown
+													? product.mercadolivreUrl
+													: productAffiliateHref(category, product.id, "mercadolivre")
+											}
 											target="_blank"
 											rel="noopener noreferrer sponsored"
 											className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-md bg-[#FFE600] hover:bg-[#e6cf00] transition-all text-black font-semibold text-sm shadow-[0_5px_0_0_#ccb800] hover:shadow-[0_2px_0_0_#ccb800] hover:translate-y-[2px] active:shadow-[0_0px_0_0_#ccb800] active:translate-y-[4px]"
@@ -127,7 +137,11 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 
 									{isAffiliateUrl(product.shopeeUrl) && (
 										<a
-											href={productAffiliateHref(category, product.id, "shopee")}
+											href={
+												dashboardDown
+													? product.shopeeUrl
+													: productAffiliateHref(category, product.id, "shopee")
+											}
 											target="_blank"
 											rel="noopener noreferrer sponsored"
 											className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-md bg-[#EE4D2D] hover:bg-[#d84326] transition-all text-white font-semibold text-sm shadow-[0_5px_0_0_#b83820] hover:shadow-[0_2px_0_0_#b83820] hover:translate-y-[2px] active:shadow-[0_0px_0_0_#b83820] active:translate-y-[4px]"

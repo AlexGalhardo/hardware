@@ -1,3 +1,4 @@
+bun run typecheck
+bun run lint
 bun run stats
-
 bun run format

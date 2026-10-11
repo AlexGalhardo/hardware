@@ -1,9 +1,9 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useEffect, useState } from "react";
 import { ComparisonView } from "@/components/comparison/comparison-view";
 import { categories, getProductsByCategory } from "@/lib/data";
-import type { ProductCategory, Product, CategoryInfo } from "@/lib/types";
+import type { CategoryInfo, Product, ProductCategory } from "@/lib/types";
 import Footer from "./Footer";
 
 interface HomePageClientProps {

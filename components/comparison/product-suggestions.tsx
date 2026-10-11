@@ -1,8 +1,7 @@
 "use client";
 
-import Image from "next/image";
 import { Plus } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import Image from "next/image";
 import type { Product, ProductCategory } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
@@ -64,15 +63,18 @@ export function ProductSuggestions({
 			</p>
 			<div className="space-y-2">
 				{availableProducts.slice(0, 8).map((product) => (
-					<div
+					<button
+						type="button"
 						key={product.id}
+						disabled={disabled}
+						aria-label={`Adicionar ${product.name}`}
 						className={cn(
-							"flex items-center gap-3 p-2 rounded-lg border border-border transition-all w-full",
+							"flex items-center gap-3 p-2 rounded-lg border border-border transition-all w-full text-left",
 							disabled
 								? "opacity-50 cursor-not-allowed"
 								: "hover:border-primary/60 hover:bg-primary/5 group cursor-pointer",
 						)}
-						onClick={() => !disabled && onAdd(product)}
+						onClick={() => onAdd(product)}
 					>
 						<div className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-md bg-muted">
 							<Image
@@ -88,20 +90,11 @@ export function ProductSuggestions({
 							<small className="text-sm">{product.name}</small>
 						</div>
 						{!disabled && (
-							<Button
-								size="icon"
-								variant="ghost"
-								className="h-8 w-8 flex-shrink-0 opacity-0 group-hover:opacity-100 transition-opacity"
-								onClick={(e) => {
-									e.stopPropagation();
-									onAdd(product);
-								}}
-							>
-								<Plus className="h-4 w-4" />
-								<span className="sr-only">Adicionar {product.name}</span>
-							</Button>
+							<span className="flex h-8 w-8 flex-shrink-0 items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+								<Plus className="h-4 w-4" aria-hidden="true" />
+							</span>
 						)}
-					</div>
+					</button>
 				))}
 			</div>
 		</div>

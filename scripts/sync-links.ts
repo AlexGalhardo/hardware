@@ -1,6 +1,6 @@
 // Runs before every build: registers the whole catalogue in the links dashboard and fails the build when it
 // cannot, so no page goes live with an affiliate link the dashboard does not know.
-import { LINKS_DASHBOARD_URL } from "../lib/affiliate-catalogue";
+import { LINKS_DASHBOARD_URL, SITE_URL } from "../lib/affiliate-catalogue";
 import { catalogueProblems, SyncError, syncCatalogue } from "../lib/affiliate-links";
 import { buildCatalogue } from "./catalogue";
 
@@ -23,7 +23,7 @@ async function main(): Promise<number> {
 	}
 
 	try {
-		const summary = await syncCatalogue({ dashboardUrl: LINKS_DASHBOARD_URL, token, products });
+		const summary = await syncCatalogue({ dashboardUrl: LINKS_DASHBOARD_URL, siteUrl: SITE_URL, token, products });
 		console.log(
 			`Links sincronizados com ${LINKS_DASHBOARD_URL}: ${products.length} produtos ` +
 				`(${summary.productsCreated} novos, ${summary.productsUpdated} atualizados, ${summary.productsRemoved} removidos; ` +

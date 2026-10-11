@@ -1,27 +1,27 @@
 import { Airfryer } from "./specs/airfryer-specs";
+import { ArCondicionado } from "./specs/ar-condicionado-specs";
+import { Cafeteira } from "./specs/cafeteira-specs";
 import { CaixaDeSom } from "./specs/caixa-de-som-specs";
 import { CameraDeSeguranca } from "./specs/camera-de-seguranca-specs";
+import { Camera } from "./specs/camera-specs";
 import { CPU } from "./specs/cpu-specs";
 import { Drone } from "./specs/drone-specs";
+import { Fechadura } from "./specs/fechadura-specs";
+import { FoneDeOuvido } from "./specs/fones-de-ouvido-specs";
 import { Geladeira } from "./specs/geladeira-specs";
 import { GPU } from "./specs/gpu-specs";
+import { Impressora } from "./specs/impressora-specs";
 import { WashingMachine } from "./specs/maquina-lavar-roupa-specs";
 import { Microondas } from "./specs/microondas-specs";
+import { Monitor } from "./specs/monitor-specs";
 import { Mouse } from "./specs/mouse-specs";
 import { Notebook } from "./specs/notebook-specs";
-import { Smartphone } from "./specs/smartphone-specs";
+import { PlacaMae } from "./specs/placa-mae-specs";
 import { Smartv } from "./specs/smart-tvs-specs";
+import { Smartphone } from "./specs/smartphone-specs";
 import { Smartwatch } from "./specs/smartwatch-specs";
 import { Tablet } from "./specs/tablet-specs";
 import { TecladoPC } from "./specs/teclado-pc-specs";
-import { PlacaMae } from "./specs/placa-mae-specs";
-import { FoneDeOuvido } from "./specs/fones-de-ouvido-specs";
-import { ArCondicionado } from "./specs/ar-condicionado-specs";
-import { Monitor } from "./specs/monitor-specs";
-import { Camera } from "./specs/camera-specs";
-import { Cafeteira } from "./specs/cafeteira-specs";
-import { Impressora } from "./specs/impressora-specs";
-import { Fechadura } from "./specs/fechadura-specs";
 
 export type ProductCategory =
 	| "smartphones"

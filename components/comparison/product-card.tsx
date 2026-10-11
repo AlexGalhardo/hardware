@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { SiMercadopago, SiShopee } from "react-icons/si";
 import { Button } from "@/components/ui/button";
+import { useDashboardDown } from "@/hooks/use-dashboard-down";
 import { productAffiliateHref } from "@/lib/affiliate-catalogue";
 import { isAffiliateUrl } from "@/lib/affiliate-links";
 import type { Product, ProductCategory } from "@/lib/types";
@@ -18,6 +19,7 @@ interface ProductCardProps {
 }
 
 export function ProductCard({ product, onRemove, compact = false, category }: ProductCardProps) {
+	const dashboardDown = useDashboardDown();
 	return (
 		<div className={cn("bg-white dark:bg-white relative flex flex-col items-center", compact ? "p-2" : "p-4")}>
 			{onRemove && (
@@ -56,14 +58,16 @@ export function ProductCard({ product, onRemove, compact = false, category }: Pr
 					compact ? "text-xs" : "text-sm",
 				)}
 			>
-				{product.brand + " " + product.name}
+				{`${product.brand} ${product.name}`}
 			</Link>
 
 			{!compact && (
 				<div className="mt-4 flex flex-col gap-2 w-full max-w-[180px]">
 					{isAffiliateUrl(product.amazonUrl) && (
 						<a
-							href={productAffiliateHref(category, product.id, "amazon")}
+							href={
+								dashboardDown ? product.amazonUrl : productAffiliateHref(category, product.id, "amazon")
+							}
 							target="_blank"
 							rel="noopener noreferrer sponsored"
 							className="flex items-center justify-center gap-1 px-4 py-2 rounded-sm bg-[#FF9900] hover:bg-[#e68a00] transition-all text-black font-semibold text-sm shadow-[0_5px_0_0_#cc7a00] hover:shadow-[0_2px_0_0_#cc7a00] hover:translate-y-[2px] active:shadow-[0_0px_0_0_#cc7a00] active:translate-y-[4px]"
@@ -73,7 +77,11 @@ export function ProductCard({ product, onRemove, compact = false, category }: Pr
 					)}
 					{isAffiliateUrl(product.mercadolivreUrl) && (
 						<a
-							href={productAffiliateHref(category, product.id, "mercadolivre")}
+							href={
+								dashboardDown
+									? product.mercadolivreUrl
+									: productAffiliateHref(category, product.id, "mercadolivre")
+							}
 							target="_blank"
 							rel="noopener noreferrer sponsored"
 							className="flex items-center justify-center gap-1 px-4 py-2 rounded-sm bg-[#FFE600] hover:bg-[#e6cf00] transition-all text-black font-semibold text-sm shadow-[0_5px_0_0_#ccb800] hover:shadow-[0_2px_0_0_#ccb800] hover:translate-y-[2px] active:shadow-[0_0px_0_0_#ccb800] active:translate-y-[4px]"
@@ -84,7 +92,9 @@ export function ProductCard({ product, onRemove, compact = false, category }: Pr
 					)}
 					{isAffiliateUrl(product.shopeeUrl) && (
 						<a
-							href={productAffiliateHref(category, product.id, "shopee")}
+							href={
+								dashboardDown ? product.shopeeUrl : productAffiliateHref(category, product.id, "shopee")
+							}
 							target="_blank"
 							rel="noopener noreferrer sponsored"
 							className="flex items-center justify-center gap-1 px-4 py-2 rounded-sm bg-[#EE4D2D] hover:bg-[#d84326] transition-all text-white font-semibold text-sm shadow-[0_5px_0_0_#b83820] hover:shadow-[0_2px_0_0_#b83820] hover:translate-y-[2px] active:shadow-[0_0px_0_0_#b83820] active:translate-y-[4px]"
