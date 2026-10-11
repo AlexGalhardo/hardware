@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | Bun 1.4 | Gerenciador de pacotes, executor de scripts e de testes | `bun.lock` |
 | Next.js 16 (Turbopack) | Framework, build e servidor | `next.config.mjs` |
-| TypeScript 7, modo estrito | Tipos. Erro de tipo falha o build | `tsconfig.json` (`types: node, bun`; `telegram/` fora) |
+| TypeScript 7, modo estrito | Tipos. Erro de tipo falha o build | `tsconfig.json` (`types: node, bun`) |
 | Biome 2 | Formatador e linter únicos. `any` explícito é erro | `biome.json` |
 | markdownlint-cli2 | Lint dos arquivos Markdown da raiz e de `.claude/` | `.markdownlint-cli2.jsonc` |
 | commitlint | Conventional Commits no hook `commit-msg` | `commitlint.config.mjs` |
@@ -18,11 +18,11 @@
 | Comando | O que faz |
 | --- | --- |
 | `bun run dev` | Servidor de desenvolvimento |
-| `bun run build` | `sync-links`, `csv`, `sitemap`, `stats` e `next build` |
-| `bun run typecheck` | `tsc --noEmit` |
-| `bun run lint` | Biome em `app`, `components`, `lib`, `scripts`, `hooks`, `emails` |
+| `bun run build` | `sync-links`, `sitemap`, `stats` e `next build` |
+| `bun run typecheck` | `next typegen` (tipos das rotas) e `tsc --noEmit` |
+| `bun run lint` | Biome em `app`, `components`, `lib`, `scripts`, `hooks` |
 | `bun run lint:md` | markdownlint |
-| `bun run format` | Regenera CSV e estatísticas e aplica o Biome |
+| `bun run format` | Regenera as estatísticas e aplica o Biome |
 | `bun run test` | `bun test` |
 | `bun run ci` | `typecheck`, `lint`, `test`, `lint:md` e `build` |
 | `bun run sync-links` | Valida o catálogo; com `LINKS_DASHBOARD_TOKEN`, envia ao dashboard |

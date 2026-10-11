@@ -41,10 +41,6 @@ export default function TermosPage() {
 							<li>Comparar produtos de hardware e obter informações detalhadas</li>
 							<li>Obter informações sobre especificações tecnicas</li>
 							<li>Acessar links de afiliados quando interessado por um produto</li>
-							<li>
-								Entrar em contato conosco caso queira dar sugestões ou reportar erros como informações
-								desatualizadas
-							</li>
 						</ul>
 					</section>
 
@@ -64,17 +60,6 @@ export default function TermosPage() {
 							Todo o conteúdo do site foi retirado de fontes oficiais e revendedores autorizados. Não nos
 							responsabilizamos por qualquer violação de direitos autorais ou propriedade intelectual
 							decorrente do uso indevido das informações fornecidas.
-						</p>
-					</section>
-
-					<section>
-						<h2 className="text-xl font-semibold mb-3">5. Contato</h2>
-						<p className="text-black dark:text-white">
-							Se você tiver duvidas sobre estes Termos de Uso, entre em contato conosco através da nossa{" "}
-							<Link href="/contato" className="text-primary hover:underline">
-								pagina de contato
-							</Link>
-							.
 						</p>
 					</section>
 				</div>

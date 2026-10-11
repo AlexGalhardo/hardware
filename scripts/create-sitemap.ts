@@ -23,12 +23,6 @@ const staticUrls: SitemapUrl[] = [
 		priority: "1.0",
 	},
 	{
-		loc: "https://tudohardware.com/contato",
-		lastmod: "2025-08-09T12:00:00.000Z",
-		changefreq: "monthly",
-		priority: "1.0",
-	},
-	{
 		loc: "https://tudohardware.com/sobre",
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",

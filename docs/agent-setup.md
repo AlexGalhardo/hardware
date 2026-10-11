@@ -47,7 +47,6 @@ Todas descritas em [`.env.example`](../.env.example). Nenhuma é obrigatória pa
 
 | Variável | Para quê | Sem ela |
 | --- | --- | --- |
-| `RESEND_API_KEY` | Formulário de contato | A rota responde `503` |
 | `LINKS_DASHBOARD_TOKEN` | Registrar os links no dashboard no build | Build de produção falha; os outros só validam |
 | `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `ADMIN_EMAILS` | Login do painel | `/admin/login` lista as que faltam |
 | `GITHUB_TOKEN`, `GITHUB_REPO`, `GITHUB_BRANCH` | Painel grava por commit | Em desenvolvimento, grava em `data/` local |

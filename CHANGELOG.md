@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.4.0] - 2026-10-11
+
+### Removed
+
+- Contact page, the contact e-mail route and the Resend integration (`resend` and `@react-email/components` dependencies, `RESEND_API_KEY`).
+- Telegram offers bot (`telegram/`) and the build step that generated its CSV.
+
+### Fixed
+
+- `setups/_common.sh` appended a variable to `.env` without a line break when the file did not end with one, gluing it onto the last line. In this project that corrupted `GOOGLE_CLIENT_SECRET` and broke the Google sign-in with `invalid_code`. Covered by `setups/env.test.ts`.
+
 ## [1.3.0] - 2026-10-11
 
 ### Added
@@ -77,7 +88,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Site as it was before this changelog started.
 
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.3.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.4.0...HEAD
+[1.4.0]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.0.0...v1.1.0

@@ -52,6 +52,8 @@ set_if_empty() {
 		cat "$tmp" >"$file"
 		rm -f "$tmp"
 	else
+		# A file whose last line has no newline would get the new variable glued onto that line.
+		[ -z "$(tail -c1 "$file")" ] || printf '\n' >>"$file"
 		printf '%s=%s\n' "$name" "$value" >>"$file"
 	fi
 	echo "  $name preenchido em .env"

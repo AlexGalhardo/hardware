@@ -32,12 +32,12 @@ Há também `setup-*-with-docker.sh`, que sobe a imagem de `infra/`. O passo a p
 | Comando | O que faz |
 | --- | --- |
 | `bun run dev` | Servidor de desenvolvimento |
-| `bun run build` | Sincroniza os links, gera CSV, sitemap e estatísticas, e roda o `next build` |
+| `bun run build` | Sincroniza os links, gera sitemap e estatísticas, e roda o `next build` |
 | `bun run typecheck` | TypeScript sem emitir |
 | `bun run test` | Testes (`bun test`) |
 | `bun run lint` | Biome em `app`, `components`, `lib` e `scripts` |
 | `bun run lint:md` | markdownlint |
-| `bun run format` | Biome com correção, depois de regenerar CSV e estatísticas |
+| `bun run format` | Biome com correção, depois de regenerar as estatísticas |
 | `bun run ci` | `typecheck`, `lint`, `test`, `lint:md` e `build` |
 | `bun run sync-links` | Valida o catálogo de links; com `LINKS_DASHBOARD_TOKEN`, envia ao dashboard |
 
@@ -59,10 +59,6 @@ O site se identifica pelo próprio endereço e o dashboard cria o projeto dele s
 ## Variáveis de ambiente
 
 Descritas em [`.env.example`](.env.example). O `.env` não é versionado.
-
-## Bot do Telegram
-
-`telegram/` é um bot separado (Bun, deploy no Fly.io) que publica ofertas a partir de `telegram/produtos.csv`, gerado no build por `scripts/create-csv.ts`. As credenciais ficam nos secrets do Fly.io (`flyctl secrets set ...`) e em `telegram/.env` local, nunca no repositório.
 
 ## Convenções
 

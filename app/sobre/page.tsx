@@ -37,10 +37,6 @@ export default function SobrePage() {
 						<br />
 						Sempre estamos atualizando nosso banco de dados, adicionando novos produtos e garantindo que as
 						informações sempre estejam corretas.
-						<br />
-						<br />
-						Caso você encontre algum informação incorreta ou desatualizada, por favor, entre em contato
-						conosco para que possamos corrigir o mais rápido possível.
 					</p>
 
 					<div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
