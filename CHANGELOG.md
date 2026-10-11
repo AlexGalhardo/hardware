@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.5.1] - 2026-10-11
+
+### Changed
+
+- Admin panel: the product photo appears beside the name in the category list and on the product page.
+
 ## [1.5.0] - 2026-10-11
 
 ### Added
@@ -99,7 +105,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Site as it was before this changelog started.
 
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.1...HEAD
+[1.5.1]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.2.0...v1.3.0

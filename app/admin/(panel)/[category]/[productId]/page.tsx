@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ProductEditor } from "@/components/admin/product-editor";
+import { ProductThumb } from "@/components/admin/product-thumb";
 import { requireAdmin } from "@/lib/admin/auth";
 import { isCategory } from "@/lib/admin/category-files";
 import { tryListProducts } from "@/lib/admin/products";
@@ -33,7 +34,10 @@ export default async function AdminProductPage({ params }: PageProps) {
 			<Link href={`/admin/${category}`} className="text-sm text-muted-foreground hover:underline">
 				← {info?.name ?? category}
 			</Link>
-			<h1 className="mt-2 text-2xl font-bold">{product ? `${product.brand} ${product.name}` : "Novo produto"}</h1>
+			<div className="mt-2 flex items-center gap-4">
+				{product && <ProductThumb src={product.image} alt={`${product.brand} ${product.name}`} size={72} />}
+				<h1 className="text-2xl font-bold">{product ? `${product.brand} ${product.name}` : "Novo produto"}</h1>
+			</div>
 			<ProductEditor category={category} sha={sha} product={product} template={products[0]} />
 		</div>
 	);
