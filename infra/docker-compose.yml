@@ -1,0 +1,16 @@
+# Run from the repository root: docker compose -f infra/docker-compose.yml up --build
+name: tudohardware
+services:
+  web:
+    build:
+      context: ..
+      dockerfile: infra/Dockerfile
+    image: tudohardware:local
+    ports:
+      - "${PORT:-3000}:3000"
+    env_file:
+      - path: ../.env
+        required: false
+    environment:
+      BETTER_AUTH_URL: "http://localhost:${PORT:-3000}"
+    restart: unless-stopped

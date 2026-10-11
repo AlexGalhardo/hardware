@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.0] - 2026-10-11
+
+### Added
+
+- Admin panel at `/admin`: Google sign-in restricted to `ADMIN_EMAILS`, product list per category, create, edit and delete. Every change is a commit in the repository through the GitHub Contents API (local files in development).
+- "Exportar produtos" buttons in the panel: every published product with its store links as JSON or CSV, in the format the links dashboard imports.
+- `docs/` for AI agents (architecture, admin, tooling, testing, workflows, setup from zero), indexed in `.claude/agents.md`.
+- `setups/` with four scripts (local and Docker, Unix and Windows) and `infra/` with a multi-stage Dockerfile and a compose file.
+
+### Changed
+
+- `/admin` and `/api` are blocked in `robots.txt` and answer with `X-Robots-Tag: noindex`.
+- The generation prompts moved from `docs/` to `docs/prompts/`.
+
+### Fixed
+
+- The contact route created the e-mail client when the module loaded, so any build without `RESEND_API_KEY` failed. It now answers 503 when the key is missing.
+
 ## [1.2.0] - 2026-10-11
 
 ### Added
@@ -59,7 +77,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Site as it was before this changelog started.
 
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.3.0...HEAD
+[1.3.0]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/AlexGalhardo/tudohardware.com/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/AlexGalhardo/tudohardware.com/releases/tag/v1.0.0

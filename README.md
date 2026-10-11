@@ -4,15 +4,28 @@ Site de fichas técnicas e comparação de produtos (smartphones, CPUs, GPUs, el
 
 - **Stack:** Next.js 16 (App Router), React 19, TypeScript 7, Tailwind CSS 4, Biome, Bun.
 - **Conteúdo:** arquivos JSON em `data/`, um por categoria. Cada produto vira a página `/<categoria>/<id>`.
+- **Painel:** `/admin`, com login do Google, cria, edita e exclui produtos por commits no repositório e exporta o catálogo em JSON e CSV.
 - **Links de afiliado:** gerenciados pelo dashboard de links (`links.lekzera.xyz`). Os botões do site apontam para o redirect do dashboard, e todo build registra o catálogo lá.
 
 ## Rodar
 
 ```bash
-bun install
-cp .env.example .env   # preencha o que for usar
-bun run dev
+bash setups/setup-windows-local.sh   # Windows (Git Bash)
+bash setups/setup-unix-local.sh      # macOS, Linux, WSL
 ```
+
+Há também `setup-*-with-docker.sh`, que sobe a imagem de `infra/`. O passo a passo completo, incluindo GitHub e Vercel, está em [`docs/agent-setup.md`](docs/agent-setup.md).
+
+## Documentação
+
+| Documento | Assunto |
+| --- | --- |
+| [`docs/agent-setup.md`](docs/agent-setup.md) | Preparar o projeto do zero |
+| [`docs/architecture.md`](docs/architecture.md) | Pastas, fluxos e decisões |
+| [`docs/admin.md`](docs/admin.md) | Painel `/admin` |
+| [`docs/tooling.md`](docs/tooling.md) | Ferramentas, scripts e hooks |
+| [`docs/testing.md`](docs/testing.md) | Testes |
+| [`docs/workflows.md`](docs/workflows.md) | Commits, release, deploy e conteúdo |
 
 ## Comandos
 

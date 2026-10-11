@@ -1,0 +1,12 @@
+# Used automatically for infra/Dockerfile (BuildKit reads <Dockerfile>.dockerignore).
+.git
+.next
+node_modules
+.env
+.env.*
+!.env.example
+telegram/.env
+telegram/node_modules
+*.tsbuildinfo
+.vercel
+.DS_Store
