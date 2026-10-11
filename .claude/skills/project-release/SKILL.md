@@ -1,64 +1,59 @@
 ---
 name: project-release
-description: Publica a release de um commit - calcula a versão pela mensagem, corta o CHANGELOG, cria a tag e o GitHub Release. Use em TODO commit deste repositório (cada commit é uma release), e quando pedirem uma versão, uma tag ou a saída do release candidate.
+description: Publica a release de um commit do tudohardware.com - escolhe a versão, fecha a seção do CHANGELOG, cria a tag e o GitHub Release. Use em todo commit enviado a este repositório e quando pedirem uma versão ou uma tag.
 ---
 
 # Release
 
-**Todo commit é uma release.** Cada commit leva a própria versão no `package.json`, a própria seção no `CHANGELOG.md`, uma tag `vX.Y.Z` e um GitHub Release. Não existe commit `chore(release)` separado: os arquivos de versão entram no mesmo commit da mudança. Detalhes em `docs/ci-cd.md`.
+Todo commit enviado é uma release: leva a própria versão no `package.json`, a própria seção no `CHANGELOG.md`, uma tag anotada `vX.Y.Z` e um GitHub Release. Regras em [`.claude/rules/git-and-releases.md`](../../rules/git-and-releases.md); contexto de deploy em [`docs/workflows.md`](../../../docs/workflows.md). Não existe script de release: os passos são manuais.
 
-Única exceção: commits `content:` feitos pelo painel `/admin` em produção. Eles nascem pela API do GitHub, sem sessão de trabalho, e mantêm a versão do commit anterior.
+## 1. Escolha a versão
 
-## 1. Antes do commit
+| Mensagem do commit | Sobe |
+|---|---|
+| `feat` | minor |
+| `fix`, `perf`, `docs`, `chore`, `test`, `build`, `refactor`, `style` | patch |
+| `!` depois do tipo ou `BREAKING CHANGE:` no corpo | major |
 
-Escreva a mudança em `## [Unreleased]` no `CHANGELOG.md`, na subseção certa (`Added`, `Changed`, `Fixed`, `Removed`, `Security`). Mudança sem efeito visível (`docs`, `chore`, `test`) pode ficar sem texto: o script usa o assunto do commit como nota.
+A versão atual está em `package.json` e na última tag (`git describe --tags --abbrev=0`).
+
+## 2. Antes do commit
 
 ```bash
-bun run check && bun run lint && bun run test
-bun scripts/release.ts --message "feat: descrição do commit" --dry-run   # confere versão e notas
-bun scripts/release.ts --message "feat: descrição do commit" --notes "$TMPDIR/notas.md"
+bun run ci
 ```
 
-`$TMPDIR` existe no macOS, no Linux e no Git Bash; em outro shell do Windows, use `$TEMP`. Os três primeiros comandos são os mesmos do hook `pre-push`: se falharem, o push não sai.
+No `CHANGELOG.md` (Keep a Changelog, em inglês):
 
-O script atualiza `package.json` e move `Unreleased` para `## [X.Y.Z] - AAAA-MM-DD`, com os links do rodapé.
+1. Escreva a mudança sob `## [X.Y.Z] - AAAA-MM-DD`, logo abaixo de `## [Unreleased]`, na subseção certa (`Added`, `Changed`, `Fixed`, `Removed`, `Security`).
+2. No rodapé, aponte `[Unreleased]` para `compare/vX.Y.Z...HEAD` e acrescente a linha `[X.Y.Z]: .../compare/v<anterior>...vX.Y.Z`.
 
-## 2. Regra de versão
-
-| Mensagem do commit | Antes da 1.0.0 | A partir da 1.0.0 |
-|---|---|---|
-| `feat` | minor | minor |
-| `fix`, `perf` | patch | patch |
-| `!` ou `BREAKING CHANGE:` | minor | major |
-| `docs`, `chore`, `test`, `ci`, `build`, `style`, `refactor`, `content` | patch | patch |
-| Qualquer tipo, enquanto a versão é `X.Y.Z-rc.N` | `rc.N+1` | `rc.N+1` |
-
-Sair do release candidate é decisão do dono: `--version 1.0.0`.
+No `package.json`: `"version": "X.Y.Z"`.
 
 ## 3. Commit, tag e publicação
 
 ```bash
-git add <arquivos da mudança> CHANGELOG.md package.json
-git commit --message "feat: descrição do commit"      # a mesma mensagem passada ao script
-git tag vX.Y.Z
+git add -A
+git commit -m "feat: descrição do commit"
+git tag -a vX.Y.Z -m "vX.Y.Z"
 git push origin main vX.Y.Z
-gh release create vX.Y.Z --title vX.Y.Z --notes-file "$TMPDIR/notas.md"   # --prerelease em rc
+gh release create vX.Y.Z --repo AlexGalhardo/tudohardware.com --title vX.Y.Z --notes-file notas.md --latest
 ```
 
-O push na `main` dispara o deploy de produção, e o build confere as variáveis de ambiente e sincroniza os links de afiliado antes de compilar: se algum desses passos falhar, o site continua na versão anterior.
+`notas.md` é o texto da seção `## [X.Y.Z]` do `CHANGELOG.md`, sem o título.
 
-Um commit por mudança lógica continua valendo: dois commits são duas versões, duas tags e dois releases.
+Os hooks rodam sozinhos: `pre-commit` (tipos e lint), `commit-msg` (commitlint) e `pre-push` (build). Se um falhar, corrija a causa.
 
 ## 4. Conferir
 
 ```bash
-git describe --tags --exact-match     # a tag aponta para o HEAD
-gh release view vX.Y.Z --json tagName,isPrerelease
-vercel ls eletroradar.com.br          # só leitura: o deploy do commit chega a Ready
+git describe --tags --exact-match          # a tag aponta para o HEAD
+gh release view vX.Y.Z --repo AlexGalhardo/tudohardware.com --json tagName,isDraft
+vercel ls tudohardware-com                 # o deploy do commit ficou Ready
 ```
 
-Tarefa só está entregue quando o último commit tem tag e GitHub Release. Faltou publicar a de um commit antigo? `bun scripts/release.ts --section X.Y.Z --notes notas.md` devolve as notas daquela versão.
+O push na `main` publica em produção. O build de produção falha se uma variável essencial faltar ou se o dashboard de links recusar o catálogo; nesse caso o site continua na versão anterior.
 
-## Automático
+## Exceção
 
-Com os workflows ativos (`docs/ci-cd.md`), o `release.yml` cria a tag e o GitHub Release da versão do commit depois de cada CI verde na `main`. Enquanto estiverem em `.github/workflows-disabled/`, o passo 3 é feito à mão em todo commit.
+Os commits `content:` que o painel `/admin` grava pela API do GitHub não geram versão nem tag.

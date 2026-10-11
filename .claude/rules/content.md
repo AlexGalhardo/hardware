@@ -1,11 +1,14 @@
-# Conteúdo
+# Conteúdo: produtos
 
-O formato dos arquivos (campos, exemplos, componentes, imagens) está em `docs/content.md`; as regras dos links de afiliado, em `docs/affiliate-links.md`. Para criar ou editar, use as skills `project-new-post` e `project-new-product-list`. Aqui fica só o que não pode ser quebrado:
+O conteúdo do site são os arquivos `data/*.json`: um array de produtos por categoria. Não há banco. Passo a passo para criar ou editar: skill `project-product`. Painel: [`docs/admin.md`](../../docs/admin.md). Aqui ficam só as regras.
 
-- O nome do arquivo `content/posts/<slug>.mdx` é o slug e a URL (`/<slug>`). Slug e `id` de produto são identidade: os dois entram no id do link no dashboard (`<site.url>/<slug do post>/<id do produto>`). Mudar qualquer um apaga o histórico de cliques daquele produto.
-- O mesmo `id` de produto não pode aparecer duas vezes no mesmo post, mesmo em listas diferentes: o build falha.
-- Os campos de loja guardam o endereço real da loja (`https://`). O redirect pelo dashboard é montado pelo site; não escreva o endereço do dashboard no JSON nem link de loja direto no texto do post.
-- `draft: true` ou data futura mantém o post fora do site, do sitemap, da API pública e do dashboard de links.
-- Não use chaves `{` `}` no texto do post: o mdsvex as interpreta como expressão Svelte. Só os componentes registrados em `src/lib/content/mdx-preprocess.ts` podem aparecer.
-- Imagem local referenciada precisa existir em `static/images/`: o site é pré-renderizado e um arquivo ausente derruba o build.
-- Mudou o formato do conteúdo? Atualize o schema (`src/lib/content/schema.ts`), os testes de integração e `docs/content.md` juntos.
+- Cada produto vira a página `/<categoria>/<id>`. A categoria da URL é o id de `categories` em `lib/data.ts`, não o nome do arquivo: `smart-tvs` lê `data/smartvs.json`. O mapa está em `lib/admin/category-files.ts`.
+- O `id` é único dentro da categoria e não muda depois de publicado. Ele faz parte da URL e do id do produto no dashboard de links (`https://tudohardware.com/<categoria>/<id>`): trocar muda o endereço da página e apaga o histórico de cliques. Id repetido falha o build.
+- Formato do `id`: minúsculas, números, hífen e ponto.
+- `name`, `brand` e `image` são obrigatórios.
+- `mercadolivreUrl`, `amazonUrl` e `shopeeUrl` guardam o endereço real da loja, com `https://`, ou `null`. Ao menos um é obrigatório: o build recusa produto sem link. Nunca escreva o endereço do dashboard de links no JSON; o site o monta.
+- `category` do produto é o id da categoria. Valor diferente quebra o link do resultado da busca.
+- Os demais campos são a ficha técnica da categoria (`lib/specs/`). Campo sem valor fica `null`.
+- Produto só é gravado pelo painel por `saveProduct` e `deleteProduct` (`lib/admin/products.ts`), que validam tudo isso. Edição direta no arquivo segue as mesmas regras; `bun run sync-links` valida o catálogo inteiro.
+- Não é possível deixar uma categoria sem produtos.
+- Categoria nova: arquivo em `data/`, entrada em `categories` e no mapa de `lib/data.ts`, em `lib/admin/category-files.ts` e em `categoryFileMap` de `scripts/create-sitemap.ts`, mais os tipos em `lib/types.ts` e `lib/specs/`.
