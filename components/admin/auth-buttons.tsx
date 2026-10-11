@@ -41,7 +41,12 @@ export function GoogleSignIn() {
 
 export function SignOut() {
 	async function signOut() {
-		await fetch("/api/auth/sign-out", { method: "POST" });
+		// better-auth answers 415 to a sign-out without a JSON body, and the session would stay open.
+		await fetch("/api/auth/sign-out", {
+			method: "POST",
+			headers: { "content-type": "application/json" },
+			body: "{}",
+		});
 		globalThis.location.assign("/admin/login");
 	}
 	return (
