@@ -1,0 +1,4391 @@
+[
+	{
+		"id": "samsung-s3-ls24d300galmzd",
+		"name": "S3",
+		"brand": "Samsung",
+		"line": "S3 (S30GD)",
+		"model": "LS24D300GALMZD",
+		"detailedModel": "LS24D300GALMZD",
+		"alphanumericModel": "S3",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_931100-MLA99973037971_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1P6YKCc",
+		"manufacturer": "Samsung",
+		"specs": {
+			"screen": {
+				"size": "24\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "91.8 PPI",
+				"screenType": "LCD",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "100 Hz",
+				"maxRefreshRate": "100 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": "Mega DCR",
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": "100%",
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": "72%"
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": false,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-2.0° a +21.0°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": false,
+				"headphoneJack": false,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": "FreeSync",
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": true
+			},
+			"power": {
+				"consumption": "25W",
+				"consumptionStandby": "0.3W",
+				"consumptionMax": "25W",
+				"powerSupply": "Externo",
+				"voltage": "100-240V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "428.5 mm",
+					"width": "540.7 mm",
+					"depth": "175.1 mm",
+					"weight": "2.4 kg"
+				},
+				"withoutStand": {
+					"height": "320.4 mm",
+					"width": "540.7 mm",
+					"depth": "36.2 mm",
+					"weight": "2 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Trabalho Remoto"],
+				"certifications": ["Windows 11"],
+				"warranty": "3 anos"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 7,
+				"gamingPerformance": 5,
+				"professionalUse": 8,
+				"buildQuality": 7,
+				"features": 6
+			}
+		}
+	},
+	{
+		"id": "bettdow-ac1025-portatil",
+		"name": "AC1025",
+		"brand": "Bettdow",
+		"line": "Portátil",
+		"model": "AC1025",
+		"detailedModel": "AC1025",
+		"alphanumericModel": "AC1025",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_767275-MLA99470531186_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1MuuRWH",
+		"manufacturer": "Bettdow",
+		"specs": {
+			"screen": {
+				"size": "15.6\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "141 PPI",
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "60 Hz",
+				"maxRefreshRate": "144 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": "10µs"
+			},
+			"display": {
+				"brightness": "300 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": "72%"
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": true,
+				"speakerPower": "2W x 2",
+				"webcam": true,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": true,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": true,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": true,
+				"pivotRange": "90°",
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": null,
+				"usbC": {
+					"count": 2,
+					"displayAlt": true,
+					"powerDelivery": null
+				},
+				"thunderbolt": null,
+				"audioOut": false,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": true,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "8W",
+				"consumptionStandby": null,
+				"consumptionMax": "8W",
+				"powerSupply": "Externo",
+				"voltage": "5V DC",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "350 mm",
+					"width": "350 mm",
+					"depth": "1.5 mm",
+					"weight": "4 kg"
+				},
+				"withoutStand": {
+					"height": "250 mm",
+					"width": "350 mm",
+					"depth": "9 mm",
+					"weight": "0.49 kg"
+				}
+			},
+			"additional": {
+				"isPortable": true,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Trabalho Remoto", "Apresentações", "Designers", "Gaming"],
+				"certifications": null,
+				"warranty": "3 meses"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 7,
+				"gamingPerformance": 6,
+				"professionalUse": 8,
+				"buildQuality": 6,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "philips-221v8lb",
+		"name": "221V8LB",
+		"brand": "Philips",
+		"line": "V Line",
+		"model": "221V8LB",
+		"detailedModel": "221V8LB",
+		"alphanumericModel": "221V8LB",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_725058-MLA99936607109_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseYear": 2022,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Nd6gAs",
+		"manufacturer": "Philips",
+		"specs": {
+			"screen": {
+				"size": "21.5\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "102.46 PPI",
+				"screenType": "LED",
+				"panelType": "VA",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "100 Hz",
+				"maxRefreshRate": "100 Hz",
+				"responseTime": "4ms",
+				"responseTimeGTG": "4ms",
+				"responseTimeMPRT": "1ms"
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "3000:1",
+				"dynamicContrast": "Mega Infinity DCR",
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": "100%",
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +20°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": false,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": "Adaptive-Sync",
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "18W",
+				"consumptionStandby": "0.3W",
+				"consumptionMax": "25W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "369 mm",
+					"width": "493 mm",
+					"depth": "220 mm",
+					"weight": "2.63 kg"
+				},
+				"withoutStand": {
+					"height": "286 mm",
+					"width": "493 mm",
+					"depth": "44 mm",
+					"weight": "2.23 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Trabalho Remoto", "Produtividade"],
+				"certifications": null,
+				"warranty": "4 anos"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 7,
+				"gamingPerformance": 6,
+				"professionalUse": 8,
+				"buildQuality": 7,
+				"features": 6
+			}
+		}
+	},
+	{
+		"id": "ultra-ult200",
+		"name": "ULT200",
+		"brand": "Ultra",
+		"line": "ULT200",
+		"model": "ULT200",
+		"detailedModel": "ULT200",
+		"alphanumericModel": "ULT200",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_922453-MLA91982845791_092025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseYear": 2023,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ihEG5B",
+		"manufacturer": "Ultra",
+		"specs": {
+			"screen": {
+				"size": "20\"",
+				"resolution": "1440x900",
+				"resolutionType": "HD",
+				"pixelDensity": "89 PPI",
+				"screenType": "LED",
+				"panelType": "TN",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "60 Hz",
+				"maxRefreshRate": "75 Hz",
+				"responseTime": "3.6ms",
+				"responseTimeGTG": "3.6ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "170°",
+				"viewingAngleVertical": "160°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": false,
+				"blueLightReduction": false,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": true,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": true,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": false,
+				"headphoneJack": false,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": true,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "21W",
+				"consumptionStandby": null,
+				"consumptionMax": null,
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": "A"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "360 mm",
+					"width": "445 mm",
+					"depth": "140 mm",
+					"weight": "2.87 kg"
+				},
+				"withoutStand": {
+					"height": "290 mm",
+					"width": "437 mm",
+					"depth": "40 mm",
+					"weight": "2.35 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Trabalho Remoto", "Uso Básico"],
+				"certifications": null,
+				"warranty": "12 meses"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 5,
+				"gamingPerformance": 4,
+				"professionalUse": 6,
+				"buildQuality": 5,
+				"features": 4
+			}
+		}
+	},
+	{
+		"id": "lg-24gs60f-b",
+		"name": "24GS60F-B",
+		"brand": "LG",
+		"line": "UltraGear",
+		"model": "24GS60F-B",
+		"detailedModel": "24GS60F-B",
+		"alphanumericModel": "24GS60FB",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_672627-MLA104455014957_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/23AHABo",
+		"manufacturer": "LG",
+		"specs": {
+			"screen": {
+				"size": "23.8\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "92.56 PPI",
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "180 Hz",
+				"maxRefreshRate": "180 Hz",
+				"responseTime": "1ms",
+				"responseTimeGTG": "1ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "300 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": "99%",
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": true,
+				"hdrStandards": ["HDR10"],
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +15°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 2,
+					"version": "2.0"
+				},
+				"displayPort": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"dvi": null,
+				"vga": null,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": "G-SYNC Compatible",
+				"gsyncUltimate": false,
+				"lowInputLag": true,
+				"crosshair": true,
+				"blackStabilizer": true,
+				"motionBlur": "Dynamic Action Sync",
+				"gameMode": true
+			},
+			"power": {
+				"consumption": "20W",
+				"consumptionStandby": "0.3W",
+				"consumptionMax": "30W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": "A++"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "408.9 mm",
+					"width": "540.8 mm",
+					"depth": "180.5 mm",
+					"weight": "4 kg"
+				},
+				"withoutStand": {
+					"height": "323.8 mm",
+					"width": "540.8 mm",
+					"depth": "42.8 mm",
+					"weight": "3.5 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Gaming", "Esports", "FPS"],
+				"certifications": ["NVIDIA G-SYNC Compatible"],
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8,
+				"gamingPerformance": 9,
+				"professionalUse": 6,
+				"buildQuality": 7,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "bluecase-bm19k4hvw",
+		"name": "BM19K4HVW",
+		"brand": "Bluecase",
+		"line": "LED",
+		"model": "BM19K4HVW",
+		"detailedModel": "BM19K4HVW",
+		"alphanumericModel": "BM19K4HVW",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_780207-MLA100070978565_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2jNq4dZ",
+		"manufacturer": "Bluecase",
+		"specs": {
+			"screen": {
+				"size": "19\"",
+				"resolution": "1440x900",
+				"resolutionType": "HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "TN",
+				"aspectRatio": "16:10",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "75 Hz",
+				"maxRefreshRate": "75 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": "2000000:1",
+				"viewingAngleHorizontal": "160°",
+				"viewingAngleVertical": "180°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": false,
+				"blueLightReduction": false,
+				"flickerFree": false,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +15°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": false,
+				"headphoneJack": false,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "30W",
+				"consumptionStandby": "0.5W",
+				"consumptionMax": "30W",
+				"powerSupply": "Externo",
+				"voltage": "100-240V",
+				"energyRating": "A"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Trabalho Remoto", "Uso Básico"],
+				"certifications": null,
+				"warranty": "1 ano"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 5,
+				"gamingPerformance": 4,
+				"professionalUse": 6,
+				"buildQuality": 5,
+				"features": 4
+			}
+		}
+	},
+	{
+		"id": "fmaxx-mw21v",
+		"name": "MW21V",
+		"brand": "Fmaxx",
+		"line": "FireMax",
+		"model": "MW21V",
+		"detailedModel": "MW21V",
+		"alphanumericModel": "MW21V",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_738952-MLA99558122010_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/288NGDQ",
+		"manufacturer": "Fmaxx",
+		"specs": {
+			"screen": {
+				"size": "21.5\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "102.46 PPI",
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "75 Hz",
+				"maxRefreshRate": "75 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": false,
+				"blueLightReduction": false,
+				"flickerFree": false,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +15°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": false,
+				"headphoneJack": false,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "25W",
+				"consumptionStandby": "0.5W",
+				"consumptionMax": "30W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Trabalho Remoto", "Uso Doméstico"],
+				"certifications": null,
+				"warranty": "3 meses"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 6,
+				"gamingPerformance": 5,
+				"professionalUse": 7,
+				"buildQuality": 6,
+				"features": 5
+			}
+		}
+	},
+	{
+		"id": "fmaxx-mq19v",
+		"name": "MQ19V",
+		"brand": "Fmaxx",
+		"line": "FireMax",
+		"model": "MQ19V",
+		"detailedModel": "MQ19V",
+		"alphanumericModel": "MQ19V",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_631062-MLA99414535008_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2NsMR38",
+		"manufacturer": "Fmaxx",
+		"specs": {
+			"screen": {
+				"size": "19\"",
+				"resolution": "1440x900",
+				"resolutionType": "HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "TN",
+				"aspectRatio": "16:10",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "60 Hz",
+				"maxRefreshRate": "75 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "200 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": false,
+				"blueLightReduction": false,
+				"flickerFree": false,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +15°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": false,
+				"headphoneJack": false,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": true,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "18W",
+				"consumptionStandby": "0.5W",
+				"consumptionMax": "25W",
+				"powerSupply": "Externo",
+				"voltage": "100-240V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Trabalho Remoto", "Uso Básico"],
+				"certifications": null,
+				"warranty": "3 meses"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 5,
+				"gamingPerformance": 4,
+				"professionalUse": 6,
+				"buildQuality": 5,
+				"features": 4
+			}
+		}
+	},
+	{
+		"id": "vxpro-vx190x",
+		"name": "VX190X",
+		"brand": "VXpro",
+		"line": "Duex",
+		"model": "VX190X",
+		"detailedModel": "VX190X",
+		"alphanumericModel": "VX190X",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_828320-MLA99948248207_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/251sTfV",
+		"manufacturer": "VXpro",
+		"specs": {
+			"screen": {
+				"size": "19\"",
+				"resolution": "1440x900",
+				"resolutionType": "HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:10",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "60 Hz",
+				"maxRefreshRate": "60 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "280 cd/m²",
+				"contrast": "5000:1",
+				"dynamicContrast": "10000000:1",
+				"viewingAngleHorizontal": "170°",
+				"viewingAngleVertical": "160°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": false,
+				"blueLightReduction": false,
+				"flickerFree": false,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +15°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": false,
+				"headphoneJack": false,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "30W",
+				"consumptionStandby": "0.1W",
+				"consumptionMax": "45W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": "A"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": "460 mm",
+					"depth": "335 mm",
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": "460 mm",
+					"depth": "16 mm",
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Trabalho Remoto", "Uso Básico"],
+				"certifications": null,
+				"warranty": "12 meses"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 6,
+				"gamingPerformance": 4,
+				"professionalUse": 6,
+				"buildQuality": 6,
+				"features": 5
+			}
+		}
+	},
+	{
+		"id": "aoc-27g4-p",
+		"name": "27G4/P",
+		"brand": "AOC",
+		"line": "AOC GAMING",
+		"model": "27G4/P",
+		"detailedModel": "27G4/P",
+		"alphanumericModel": "27G4P",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_652244-MLA99448900052_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1X6vLSi",
+		"manufacturer": "AOC",
+		"specs": {
+			"screen": {
+				"size": "27\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "81.59 PPI",
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "180 Hz",
+				"maxRefreshRate": "180 Hz",
+				"responseTime": "1ms",
+				"responseTimeGTG": "1ms",
+				"responseTimeMPRT": "0.5ms"
+			},
+			"display": {
+				"brightness": "300 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": "80000000:1",
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": "100%",
+					"adobeRGB": null,
+					"dciP3": "97%",
+					"ntsc": "111.8%"
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": true,
+				"hdrStandards": ["HDR10"],
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": true,
+				"heightRange": "0-130mm",
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +23°",
+				"swivelAdjustable": true,
+				"swivelRange": "-20° a +20°",
+				"pivotAdjustable": true,
+				"pivotRange": "90°",
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 2,
+					"version": "2.0"
+				},
+				"displayPort": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"dvi": null,
+				"vga": null,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": "G-SYNC Compatible",
+				"gsyncUltimate": false,
+				"lowInputLag": true,
+				"crosshair": true,
+				"blackStabilizer": true,
+				"motionBlur": "MPRT",
+				"gameMode": true
+			},
+			"power": {
+				"consumption": "25W",
+				"consumptionStandby": "0.5W",
+				"consumptionMax": "40W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "516 mm",
+					"width": "613.9 mm",
+					"depth": "207.7 mm",
+					"weight": "5.41 kg"
+				},
+				"withoutStand": {
+					"height": "366.6 mm",
+					"width": "613.9 mm",
+					"depth": "51.2 mm",
+					"weight": "3.57 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Gaming", "Esports", "FPS"],
+				"certifications": ["NVIDIA G-SYNC Compatible"],
+				"warranty": "12 meses"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8,
+				"gamingPerformance": 9,
+				"professionalUse": 6,
+				"buildQuality": 7,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "acer-mk241y",
+		"name": "MK241Y",
+		"brand": "Acer",
+		"line": "MK",
+		"model": "MK241Y",
+		"detailedModel": "MK241Y FLT",
+		"alphanumericModel": "MK241Y",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_739717-MLA97428488825_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseYear": 2023,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2LAanSJ",
+		"manufacturer": "Acer",
+		"specs": {
+			"screen": {
+				"size": "23.8\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "92.56 PPI",
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "100 Hz",
+				"maxRefreshRate": "100 Hz",
+				"responseTime": "1ms",
+				"responseTimeGTG": "1ms",
+				"responseTimeMPRT": "1ms"
+			},
+			"display": {
+				"brightness": "300 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": "100%",
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": "72%"
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": true,
+				"speakerPower": "2W x 2",
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +15°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": "FreeSync",
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": "VRB",
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "20W",
+				"consumptionStandby": "0.5W",
+				"consumptionMax": "30W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": "A"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": "541 mm",
+					"depth": null,
+					"weight": "3.86 kg"
+				},
+				"withoutStand": {
+					"height": null,
+					"width": "541 mm",
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Trabalho Remoto", "Uso Doméstico", "Estudos"],
+				"certifications": ["Acer VisionCare"],
+				"warranty": "12 meses"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 7,
+				"gamingPerformance": 6,
+				"professionalUse": 8,
+				"buildQuality": 6,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "dell-p2425h",
+		"name": "P2425H",
+		"brand": "Dell",
+		"line": "Professional",
+		"model": "P2425H",
+		"detailedModel": "P2425H",
+		"alphanumericModel": "P2425H",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_966189-MLA99465976046_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ohtTMo",
+		"manufacturer": "Dell",
+		"specs": {
+			"screen": {
+				"size": "23.8\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "92.56 PPI",
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "100 Hz",
+				"maxRefreshRate": "100 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1500:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": "99%",
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": true,
+					"usbPorts": "4x USB 3.2",
+					"usbCPort": true,
+					"usbCPower": "15W"
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": true,
+				"heightRange": "0-130mm",
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +21°",
+				"swivelAdjustable": true,
+				"swivelRange": "-30° a +30°",
+				"pivotAdjustable": true,
+				"pivotRange": "90°",
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": {
+					"count": 1,
+					"version": "1.2"
+				},
+				"dvi": null,
+				"vga": 1,
+				"usbC": {
+					"count": 1,
+					"displayAlt": false,
+					"powerDelivery": "15W"
+				},
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "12W",
+				"consumptionStandby": "0.3W",
+				"consumptionMax": "24W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": "Energy Star 8.0"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "496.5 mm",
+					"width": "538.6 mm",
+					"depth": "181.7 mm",
+					"weight": "3.12 kg"
+				},
+				"withoutStand": {
+					"height": "314.2 mm",
+					"width": "538.6 mm",
+					"depth": "50 mm",
+					"weight": "3.12 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Produtividade", "Design Gráfico", "CAD"],
+				"certifications": ["TÜV Rheinland 4-star", "Energy Star 8.0", "TCO Certified Edge", "EPEAT Gold"],
+				"warranty": "36 meses"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 7,
+				"gamingPerformance": 5,
+				"professionalUse": 9,
+				"buildQuality": 8,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "aoc-cq32g4e",
+		"name": "CQ32G4E",
+		"brand": "AOC",
+		"line": "AGON",
+		"model": "CQ32G4E",
+		"detailedModel": "CQ32G4E",
+		"alphanumericModel": "CQ32G4E",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_847859-MLA94128239876_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2hbPruk",
+		"manufacturer": "AOC",
+		"specs": {
+			"screen": {
+				"size": "32\"",
+				"resolution": "2560x1440",
+				"resolutionType": "QHD",
+				"pixelDensity": "91.79 PPI",
+				"screenType": "LED",
+				"panelType": "VA",
+				"aspectRatio": "16:9",
+				"isCurved": true,
+				"curvature": "1500R",
+				"refreshRate": "180 Hz",
+				"maxRefreshRate": "180 Hz",
+				"responseTime": "1ms",
+				"responseTimeGTG": "1ms",
+				"responseTimeMPRT": "0.5ms"
+			},
+			"display": {
+				"brightness": "300 cd/m²",
+				"contrast": "3500:1",
+				"dynamicContrast": "80000000:1",
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": "120%",
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": true,
+				"hdrStandards": ["HDR10"],
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +23°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 2,
+					"version": "2.0"
+				},
+				"displayPort": {
+					"count": 2,
+					"version": "1.4"
+				},
+				"dvi": null,
+				"vga": null,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": "FreeSync Premium",
+				"gsyncUltimate": false,
+				"lowInputLag": true,
+				"crosshair": true,
+				"blackStabilizer": true,
+				"motionBlur": "MBR Sync",
+				"gameMode": true
+			},
+			"power": {
+				"consumption": "30W",
+				"consumptionStandby": "0.5W",
+				"consumptionMax": "45W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "523.8 mm",
+					"width": "709.4 mm",
+					"depth": "265.3 mm",
+					"weight": "7.15 kg"
+				},
+				"withoutStand": {
+					"height": "425.2 mm",
+					"width": "709.4 mm",
+					"depth": "96.6 mm",
+					"weight": "6.08 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Gaming", "Esports", "FPS", "MOBA"],
+				"certifications": ["AMD FreeSync Premium"],
+				"warranty": "12 meses"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8,
+				"gamingPerformance": 9,
+				"professionalUse": 7,
+				"buildQuality": 7,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "tcl-25g64",
+		"name": "25G64",
+		"brand": "TCL",
+		"line": "G64",
+		"model": "25G64",
+		"detailedModel": "25G64",
+		"alphanumericModel": "25G64",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_723939-MLA103720530496_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2coVvrM",
+		"manufacturer": "TCL",
+		"specs": {
+			"screen": {
+				"size": "25\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "88.91 PPI",
+				"screenType": "Mini-LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "300 Hz",
+				"maxRefreshRate": "300 Hz",
+				"responseTime": "1ms",
+				"responseTimeGTG": "1ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "600 cd/m²",
+				"contrast": "6000000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": "99%",
+					"adobeRGB": null,
+					"dciP3": "97%",
+					"ntsc": null
+				},
+				"colorDepth": "10-bit",
+				"maxColors": "1.07 bilhões",
+				"hdr": true,
+				"hdrStandards": ["HDR600"],
+				"peakBrightness": "600 cd/m²"
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": true,
+				"heightRange": "0-110mm",
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +20°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": true,
+				"pivotRange": "90°",
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 2,
+					"version": "2.1"
+				},
+				"displayPort": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"dvi": null,
+				"vga": null,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": "FreeSync Premium",
+				"gsyncUltimate": false,
+				"lowInputLag": true,
+				"crosshair": true,
+				"blackStabilizer": true,
+				"motionBlur": null,
+				"gameMode": true
+			},
+			"power": {
+				"consumption": "35W",
+				"consumptionStandby": "0.5W",
+				"consumptionMax": "50W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": "557 mm",
+					"depth": null,
+					"weight": "4.2 kg"
+				},
+				"withoutStand": {
+					"height": null,
+					"width": "557 mm",
+					"depth": null,
+					"weight": "3.5 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Gaming", "Esports", "FPS", "Design Gráfico", "Edição de Vídeo"],
+				"certifications": ["TÜV Rheinland Low Blue Light", "AMD FreeSync Premium", "NVIDIA G-SYNC Compatible"],
+				"warranty": "12 meses"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 9,
+				"gamingPerformance": 10,
+				"professionalUse": 8,
+				"buildQuality": 8,
+				"features": 9
+			}
+		}
+	},
+	{
+		"id": "samsung-ls24bg300elmzd",
+		"name": "Odyssey G30",
+		"brand": "Samsung",
+		"line": "Odyssey",
+		"model": "LS24BG300ELMZD",
+		"detailedModel": "LS24BG300ELMZD",
+		"alphanumericModel": "LS24BG300ELMZD",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_680360-MLA99954411375_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseYear": 2022,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1xUdiKm",
+		"manufacturer": "Samsung",
+		"specs": {
+			"screen": {
+				"size": "24\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "92.56 PPI",
+				"screenType": "LCD",
+				"panelType": "VA",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "144 Hz",
+				"maxRefreshRate": "144 Hz",
+				"responseTime": "1ms",
+				"responseTimeGTG": null,
+				"responseTimeMPRT": "1ms"
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "4000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": "99%",
+					"adobeRGB": null,
+					"dciP3": "71%",
+					"ntsc": "72%"
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": true,
+				"heightRange": "0-130mm",
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +20°",
+				"swivelAdjustable": true,
+				"swivelRange": "-15° a +15°",
+				"pivotAdjustable": true,
+				"pivotRange": "90°",
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": {
+					"count": 1,
+					"version": "1.2"
+				},
+				"dvi": null,
+				"vga": null,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": "FreeSync Premium",
+				"gsyncUltimate": false,
+				"lowInputLag": true,
+				"crosshair": true,
+				"blackStabilizer": true,
+				"motionBlur": null,
+				"gameMode": true
+			},
+			"power": {
+				"consumption": "20W",
+				"consumptionStandby": "0.3W",
+				"consumptionMax": "30W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": "A"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "370.7 mm",
+					"width": "539.3 mm",
+					"depth": "224 mm",
+					"weight": "3.7 kg"
+				},
+				"withoutStand": {
+					"height": "322.8 mm",
+					"width": "539.3 mm",
+					"depth": "39.9 mm",
+					"weight": "2.2 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Gaming", "Esports", "FPS", "RTS"],
+				"certifications": ["AMD FreeSync Premium"],
+				"warranty": "12 meses"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 7,
+				"gamingPerformance": 8,
+				"professionalUse": 6,
+				"buildQuality": 7,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "lg-22mp410-b",
+		"name": "22MP410-B",
+		"brand": "LG",
+		"line": "LG Gaming",
+		"model": "22MP410-B",
+		"detailedModel": "22MP410-B",
+		"alphanumericModel": "22MP410B",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_890876-MLA99938471091_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1BLTi4y",
+		"manufacturer": "LG",
+		"specs": {
+			"screen": {
+				"size": "21.5\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "102.46 PPI",
+				"screenType": "LED",
+				"panelType": "VA",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "75 Hz",
+				"maxRefreshRate": "75 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "3000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": "72%"
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +15°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": false,
+				"headphoneJack": false,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": "FreeSync",
+				"gsyncUltimate": false,
+				"lowInputLag": true,
+				"crosshair": true,
+				"blackStabilizer": true,
+				"motionBlur": "Dynamic Action Sync",
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "19W",
+				"consumptionStandby": "0.5W",
+				"consumptionMax": "25W",
+				"powerSupply": "Externo",
+				"voltage": "100-240V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "383.5 mm",
+					"width": "511.6 mm",
+					"depth": "190 mm",
+					"weight": "2.6 kg"
+				},
+				"withoutStand": {
+					"height": "295 mm",
+					"width": "511.6 mm",
+					"depth": "40.2 mm",
+					"weight": "2.2 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Trabalho Remoto", "Gaming Casual"],
+				"certifications": ["AMD FreeSync"],
+				"warranty": "12 meses"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 7,
+				"gamingPerformance": 6,
+				"professionalUse": 7,
+				"buildQuality": 7,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "viewpro-mwv23",
+		"name": "MWV23",
+		"brand": "ViewPro",
+		"line": "Office",
+		"model": "MWV23",
+		"detailedModel": "MWV23",
+		"alphanumericModel": "MWV23",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_605657-MLA102448595697_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1FZVsX7",
+		"manufacturer": "ViewPro",
+		"specs": {
+			"screen": {
+				"size": "23.6\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "93.34 PPI",
+				"screenType": "LED",
+				"panelType": "TN",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "60 Hz",
+				"maxRefreshRate": "60 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "200 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": false,
+				"blueLightReduction": false,
+				"flickerFree": false,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": false,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": false,
+				"vesaPattern": null
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": null,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": false,
+				"headphoneJack": false,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "25W",
+				"consumptionStandby": "0.5W",
+				"consumptionMax": "30W",
+				"powerSupply": "Externo",
+				"voltage": "100-240V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Trabalho Remoto", "Uso Básico"],
+				"certifications": null,
+				"warranty": "3 meses"
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"imageQuality": 5,
+				"gamingPerformance": 3,
+				"professionalUse": 6,
+				"buildQuality": 5,
+				"features": 4
+			}
+		}
+	},
+	{
+		"id": "acer-kg241y-p3bip",
+		"name": "KG241Y P3BIP",
+		"brand": "Acer",
+		"line": "Nitro",
+		"model": "KG241Y P3BIP",
+		"detailedModel": "KG241Y P3BIP",
+		"alphanumericModel": "KG241YP3BIP",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_993160-MLA100033539815_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2VxU5he",
+		"manufacturer": "Acer",
+		"specs": {
+			"screen": {
+				"size": "23.8\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "92.56 PPI",
+				"screenType": "LED",
+				"panelType": "VA",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "180 Hz",
+				"maxRefreshRate": "180 Hz",
+				"responseTime": "0.5ms",
+				"responseTimeGTG": "0.5ms",
+				"responseTimeMPRT": "0.5ms"
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "3000:1",
+				"dynamicContrast": "100000000:1",
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": "72%"
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": true,
+				"hdrStandards": ["HDR10"],
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +25°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "2.0"
+				},
+				"displayPort": {
+					"count": 1,
+					"version": "1.2"
+				},
+				"dvi": null,
+				"vga": null,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": "FreeSync Premium",
+				"gsyncUltimate": false,
+				"lowInputLag": true,
+				"crosshair": true,
+				"blackStabilizer": true,
+				"motionBlur": "VRB",
+				"gameMode": true
+			},
+			"power": {
+				"consumption": "25W",
+				"consumptionStandby": "0.5W",
+				"consumptionMax": "35W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": "Energy Star"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "410 mm",
+					"width": "539 mm",
+					"depth": "210 mm",
+					"weight": "3.1 kg"
+				},
+				"withoutStand": {
+					"height": "296 mm",
+					"width": "527 mm",
+					"depth": "42 mm",
+					"weight": "2.6 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Gaming", "Esports", "FPS"],
+				"certifications": ["AMD FreeSync Premium", "Acer VisionCare"],
+				"warranty": "12 meses"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 7,
+				"gamingPerformance": 9,
+				"professionalUse": 6,
+				"buildQuality": 7,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "lg-29wq500-b",
+		"name": "29WQ500-B",
+		"brand": "LG",
+		"line": "UltraWide",
+		"model": "29WQ500-B",
+		"detailedModel": "29WQ500-B",
+		"alphanumericModel": "29WQ500B",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_863773-MLA96861169915_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseYear": 2023,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2qk7kTb",
+		"manufacturer": "LG",
+		"specs": {
+			"screen": {
+				"size": "29\"",
+				"resolution": "2560x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": "95.81 PPI",
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "21:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "100 Hz",
+				"maxRefreshRate": "100 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": "1ms"
+			},
+			"display": {
+				"brightness": "350 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": "99%",
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": "8-bit",
+				"maxColors": "16.7 milhões",
+				"hdr": true,
+				"hdrStandards": ["HDR10"],
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": true,
+				"speakerPower": "5W x 2",
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": "-5° a +15°",
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "2.0"
+				},
+				"displayPort": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"dvi": null,
+				"vga": null,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": "FreeSync",
+				"gsyncUltimate": false,
+				"lowInputLag": true,
+				"crosshair": true,
+				"blackStabilizer": true,
+				"motionBlur": "Dynamic Action Sync",
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "22W",
+				"consumptionStandby": "0.3W",
+				"consumptionMax": "30W",
+				"powerSupply": "Interno",
+				"voltage": "100-240V",
+				"energyRating": "Energy Star"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "313.4 mm",
+					"width": "688.5 mm",
+					"depth": "190 mm",
+					"weight": "4.5 kg"
+				},
+				"withoutStand": {
+					"height": "296 mm",
+					"width": "688.5 mm",
+					"depth": "45.3 mm",
+					"weight": "4 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Design Gráfico", "Edição de Vídeo", "Produtividade", "Programação"],
+				"certifications": ["LG Reader Mode"],
+				"warranty": "12 meses"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8,
+				"gamingPerformance": 6,
+				"professionalUse": 9,
+				"buildQuality": 8,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "tomate-mtm-1022",
+		"name": "MTM-1022",
+		"brand": "Tomate",
+		"line": null,
+		"model": "MTM-1022",
+		"detailedModel": "MTM-1022",
+		"alphanumericModel": "MTM-1022",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_859574-MLA99963144335_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1FCi2oa",
+		"manufacturer": "Tomate",
+		"specs": {
+			"screen": {
+				"size": "22\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": null,
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "60 Hz",
+				"maxRefreshRate": "60 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": null,
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": null,
+				"viewingAngleVertical": null,
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": null,
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": null,
+				"blueLightReduction": null,
+				"flickerFree": null,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": null,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": null,
+				"vesaPattern": null
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": null
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": null,
+				"headphoneJack": null,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": null,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": null,
+				"consumptionStandby": null,
+				"consumptionMax": null,
+				"powerSupply": null,
+				"voltage": "127/220V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": null,
+				"certifications": null,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 6,
+				"gamingPerformance": 5,
+				"professionalUse": 6,
+				"buildQuality": 6,
+				"features": 5
+			}
+		}
+	},
+	{
+		"id": "aoc-24b35hm2",
+		"name": "24B35HM2",
+		"brand": "AOC",
+		"line": "B35",
+		"model": "24B35HM2",
+		"detailedModel": "24B35HM2",
+		"alphanumericModel": "24B35HM2",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_858642-MLA99436181956_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1uycXPe",
+		"manufacturer": "AOC",
+		"specs": {
+			"screen": {
+				"size": "23.8\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "VA",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "100 Hz",
+				"maxRefreshRate": "100 Hz",
+				"responseTime": "4ms",
+				"responseTimeGTG": "4ms",
+				"responseTimeMPRT": "1ms"
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "4000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": null,
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": null,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": null
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": null,
+				"headphoneJack": null,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": "Adaptive-Sync",
+				"gsyncUltimate": false,
+				"lowInputLag": null,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": null,
+				"consumptionStandby": null,
+				"consumptionMax": null,
+				"powerSupply": null,
+				"voltage": null,
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "41.54 cm",
+					"width": "54.06 cm",
+					"depth": "18.59 cm",
+					"weight": "2.47 kg"
+				},
+				"withoutStand": {
+					"height": "32.12 cm",
+					"width": "54.06 cm",
+					"depth": "3.58 cm",
+					"weight": "2.47 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": null,
+				"certifications": null,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 7,
+				"gamingPerformance": 7,
+				"professionalUse": 7,
+				"buildQuality": 7,
+				"features": 6
+			}
+		}
+	},
+	{
+		"id": "mymax-mm215169hv-bk",
+		"name": "MM215169HV/BK",
+		"brand": "Mymax",
+		"line": null,
+		"model": "MM215169HV/BK",
+		"detailedModel": "MM215169HV/BK",
+		"alphanumericModel": "MM215169HV/BK",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_751240-MLA95645992288_102025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2tuxsbU",
+		"manufacturer": "Mymax",
+		"specs": {
+			"screen": {
+				"size": "21.5\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "VA",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "60 Hz",
+				"maxRefreshRate": "60 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "3000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": null,
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": false,
+				"blueLightReduction": false,
+				"flickerFree": false,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": null
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": null,
+				"headphoneJack": null,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "15W",
+				"consumptionStandby": "<0.5W",
+				"consumptionMax": null,
+				"powerSupply": "Externo",
+				"voltage": "100-240V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "38.2 cm",
+					"width": "50.4 cm",
+					"depth": "16.1 cm",
+					"weight": "2.95 kg"
+				},
+				"withoutStand": {
+					"height": "30.5 cm",
+					"width": "50.4 cm",
+					"depth": "4.7 cm",
+					"weight": "2.5 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Estudos", "Uso Diário"],
+				"certifications": null,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 7,
+				"gamingPerformance": 4,
+				"professionalUse": 8,
+				"buildQuality": 6,
+				"features": 5
+			}
+		}
+	},
+	{
+		"id": "antuvi-monitor-portatil-15.6",
+		"name": "Monitor Gamer",
+		"brand": "Antuvi",
+		"line": "Monitor Portátil",
+		"model": "Monitor Gamer",
+		"detailedModel": "Monitor Gamer Portátil 15.6",
+		"alphanumericModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_653941-MLB97526232737_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1YA9GzG",
+		"manufacturer": "Antuvi",
+		"specs": {
+			"screen": {
+				"size": "15.6\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "60 Hz",
+				"maxRefreshRate": "60 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": null,
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": null,
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": true,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": true,
+					"usbCPower": null
+				},
+				"antiGlare": null,
+				"blueLightReduction": null,
+				"flickerFree": null,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": true,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": null,
+				"swivelAdjustable": true,
+				"swivelRange": null,
+				"pivotAdjustable": true,
+				"pivotRange": "90°",
+				"vesaMount": true,
+				"vesaPattern": null
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": null
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 0,
+				"usbC": {
+					"count": 1,
+					"displayAlt": true,
+					"powerDelivery": null
+				},
+				"thunderbolt": null,
+				"audioOut": null,
+				"headphoneJack": null,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": null,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": null,
+				"consumptionStandby": null,
+				"consumptionMax": null,
+				"powerSupply": "Externo",
+				"voltage": "127/220V",
+				"energyRating": "A"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": true,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Viagens", "Produtividade", "Gaming Leve"],
+				"certifications": null,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 7,
+				"gamingPerformance": 6,
+				"professionalUse": 8,
+				"buildQuality": 7,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "grasep-d-mns215",
+		"name": "D-MNS215",
+		"brand": "Grasep",
+		"line": "Gamer",
+		"model": "D-MNS215",
+		"detailedModel": "D-MNS215",
+		"alphanumericModel": "D-MNS215",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_830931-MLA99929758099_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ZUfo2v",
+		"manufacturer": "Grasep",
+		"specs": {
+			"screen": {
+				"size": "21.5\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "VA",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "75 Hz",
+				"maxRefreshRate": "75 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "3000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": null,
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": null,
+				"blueLightReduction": null,
+				"flickerFree": null,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": null
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": null,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": "25W",
+				"consumptionStandby": "<0.5W",
+				"consumptionMax": null,
+				"powerSupply": "Interno",
+				"voltage": "110/220V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": null,
+				"certifications": null,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 6,
+				"gamingPerformance": 6,
+				"professionalUse": 7,
+				"buildQuality": 6,
+				"features": 5
+			}
+		}
+	},
+	{
+		"id": "fmaxx-mf27hs",
+		"name": "MF27HS",
+		"brand": "Fmaxx",
+		"line": "FireMax",
+		"model": "MF27HS",
+		"detailedModel": "MF27HS",
+		"alphanumericModel": "MF27HS",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_722831-MLA99509480460_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ngZ9MY",
+		"manufacturer": "Fmaxx",
+		"specs": {
+			"screen": {
+				"size": "27\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "180 Hz",
+				"maxRefreshRate": "180 Hz",
+				"responseTime": "1ms",
+				"responseTimeGTG": "1ms",
+				"responseTimeMPRT": "1ms"
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": null,
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": true,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": null,
+				"flickerFree": null,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 2,
+					"version": null
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 0,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": "FreeSync",
+				"gsyncUltimate": false,
+				"lowInputLag": null,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": null,
+				"consumptionStandby": null,
+				"consumptionMax": null,
+				"powerSupply": "Interno",
+				"voltage": "127/220V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": null,
+				"certifications": null,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8,
+				"gamingPerformance": 8,
+				"professionalUse": 7,
+				"buildQuality": 7,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "philips-24m2n3200l",
+		"name": "24M2N3200L",
+		"brand": "Philips",
+		"line": "Evnia",
+		"model": "24M2N3200L",
+		"detailedModel": "24M2N3200L",
+		"alphanumericModel": "24M2N3200L",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_904476-MLB95834540027_102025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": 2024,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2qhzf4b",
+		"manufacturer": "Philips",
+		"specs": {
+			"screen": {
+				"size": "24\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "180 Hz",
+				"maxRefreshRate": "180 Hz",
+				"responseTime": "0.5ms",
+				"responseTimeGTG": "1ms",
+				"responseTimeMPRT": "0.5ms"
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": "Mega Infinity DCR",
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": null,
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": true,
+				"blueLightReduction": true,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": false,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": false,
+				"vesaPattern": null
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": "2.0"
+				},
+				"displayPort": {
+					"count": 1,
+					"version": "1.4"
+				},
+				"dvi": null,
+				"vga": 0,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": true,
+				"headphoneJack": true,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": "FreeSync Premium",
+				"gsyncUltimate": false,
+				"lowInputLag": true,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": "Smart MBR",
+				"gameMode": true
+			},
+			"power": {
+				"consumption": null,
+				"consumptionStandby": null,
+				"consumptionMax": null,
+				"powerSupply": "Interno",
+				"voltage": "127/220V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": null,
+				"certifications": null,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8,
+				"gamingPerformance": 9,
+				"professionalUse": 7,
+				"buildQuality": 8,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "samsung-ls27d300galmzd",
+		"name": "LS27D300GALMZD",
+		"brand": "Samsung",
+		"line": "Essential S3",
+		"model": "LS27D300GALMZD",
+		"detailedModel": "LS27D300GALMZD",
+		"alphanumericModel": "LS27D300GALMZD",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_946816-MLA99885422877_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1HE3nV7",
+		"manufacturer": "Samsung",
+		"specs": {
+			"screen": {
+				"size": "27\"",
+				"resolution": "1920x1080",
+				"resolutionType": "Full HD",
+				"pixelDensity": null,
+				"screenType": "LCD",
+				"panelType": "IPS",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "100 Hz",
+				"maxRefreshRate": "100 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": null,
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": false,
+				"blueLightReduction": false,
+				"flickerFree": true,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "100x100"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": null
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": null,
+				"headphoneJack": null,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": null,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": true
+			},
+			"power": {
+				"consumption": null,
+				"consumptionStandby": null,
+				"consumptionMax": null,
+				"powerSupply": "Interno",
+				"voltage": "127/220V",
+				"energyRating": "NA"
+			},
+			"dimensions": {
+				"withStand": {
+					"height": "47 cm",
+					"width": "61.27 cm",
+					"depth": "20.04 cm",
+					"weight": "2.9 kg"
+				},
+				"withoutStand": {
+					"height": "36.09 cm",
+					"width": "61.27 cm",
+					"depth": "3.62 cm",
+					"weight": "2.4 kg"
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Uso Diário", "Gaming Leve"],
+				"certifications": null,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8,
+				"gamingPerformance": 7,
+				"professionalUse": 8,
+				"buildQuality": 8,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "deutel-19-hd",
+		"name": "pc office gamer escritorio 19 20",
+		"brand": "Deutel",
+		"line": "Monitor",
+		"model": "pc office gamer escritorio 19 20",
+		"detailedModel": "pc office gamer escritorio 19 20",
+		"alphanumericModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_826907-MLB87243199140_072025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2h39VKg",
+		"manufacturer": "Deutel",
+		"specs": {
+			"screen": {
+				"size": "19\"",
+				"resolution": "1440x900",
+				"resolutionType": "HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "TN",
+				"aspectRatio": "16:10",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "60 Hz",
+				"maxRefreshRate": "60 Hz",
+				"responseTime": "5ms",
+				"responseTimeGTG": "5ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "250 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": null,
+				"viewingAngleHorizontal": "178°",
+				"viewingAngleVertical": "178°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": null,
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": null,
+				"blueLightReduction": null,
+				"flickerFree": false,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": null
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": null,
+				"headphoneJack": null,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": false,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": false,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": null,
+				"consumptionStandby": null,
+				"consumptionMax": null,
+				"powerSupply": "Interno",
+				"voltage": "127/220V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Home Office", "Estudos"],
+				"certifications": null,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 6,
+				"gamingPerformance": 4,
+				"professionalUse": 8,
+				"buildQuality": 6,
+				"features": 5
+			}
+		}
+	},
+	{
+		"id": "3green-m200whd",
+		"name": "M200WHD",
+		"brand": "3Green",
+		"line": null,
+		"model": "M200WHD",
+		"detailedModel": "M200WHD",
+		"alphanumericModel": "M200WHD",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_664667-MLA100025262889_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseYear": null,
+		"category": "monitores",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/26A59gs",
+		"manufacturer": "3Green",
+		"specs": {
+			"screen": {
+				"size": "20\"",
+				"resolution": "1600x900",
+				"resolutionType": "HD",
+				"pixelDensity": null,
+				"screenType": "LED",
+				"panelType": "TN",
+				"aspectRatio": "16:9",
+				"isCurved": false,
+				"curvature": "Flat",
+				"refreshRate": "75 Hz",
+				"maxRefreshRate": "75 Hz",
+				"responseTime": "2ms",
+				"responseTimeGTG": "2ms",
+				"responseTimeMPRT": null
+			},
+			"display": {
+				"brightness": "220 cd/m²",
+				"contrast": "1000:1",
+				"dynamicContrast": "500000:1",
+				"viewingAngleHorizontal": "176°",
+				"viewingAngleVertical": "176°",
+				"colorGamut": {
+					"sRGB": null,
+					"adobeRGB": null,
+					"dciP3": null,
+					"ntsc": null
+				},
+				"colorDepth": null,
+				"maxColors": "16.7 milhões",
+				"hdr": false,
+				"hdrStandards": null,
+				"peakBrightness": null
+			},
+			"features": {
+				"touchScreen": false,
+				"builtInSpeakers": false,
+				"speakerPower": null,
+				"webcam": false,
+				"webcamResolution": null,
+				"microphone": false,
+				"usb": {
+					"hasHub": false,
+					"usbPorts": null,
+					"usbCPort": false,
+					"usbCPower": null
+				},
+				"antiGlare": null,
+				"blueLightReduction": true,
+				"flickerFree": false,
+				"is3D": false,
+				"pip": false,
+				"pbp": false,
+				"kvm": false,
+				"voiceControl": false,
+				"remoteControl": false
+			},
+			"adjustability": {
+				"heightAdjustable": false,
+				"heightRange": null,
+				"tiltAdjustable": true,
+				"tiltRange": null,
+				"swivelAdjustable": false,
+				"swivelRange": null,
+				"pivotAdjustable": false,
+				"pivotRange": null,
+				"vesaMount": true,
+				"vesaPattern": "75x75"
+			},
+			"connectivity": {
+				"hdmi": {
+					"count": 1,
+					"version": null
+				},
+				"displayPort": null,
+				"dvi": null,
+				"vga": 1,
+				"usbC": null,
+				"thunderbolt": null,
+				"audioOut": null,
+				"headphoneJack": null,
+				"ethernet": false
+			},
+			"gaming": {
+				"isGamingMonitor": true,
+				"adaptiveSync": null,
+				"gsyncUltimate": false,
+				"lowInputLag": null,
+				"crosshair": false,
+				"blackStabilizer": false,
+				"motionBlur": null,
+				"gameMode": false
+			},
+			"power": {
+				"consumption": null,
+				"consumptionStandby": null,
+				"consumptionMax": null,
+				"powerSupply": "Interno",
+				"voltage": "127/220V",
+				"energyRating": null
+			},
+			"dimensions": {
+				"withStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				},
+				"withoutStand": {
+					"height": null,
+					"width": null,
+					"depth": null,
+					"weight": null
+				}
+			},
+			"additional": {
+				"isPortable": false,
+				"batteryPowered": false,
+				"batteryLife": null,
+				"professionalUse": ["Escritório", "Estudos", "Uso Diário"],
+				"certifications": null,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"imageQuality": 6,
+				"gamingPerformance": 6,
+				"professionalUse": 8,
+				"buildQuality": 6,
+				"features": 5
+			}
+		}
+	}
+]

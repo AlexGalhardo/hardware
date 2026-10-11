@@ -1,0 +1,2780 @@
+[
+	{
+		"id": "electrolux-lec15",
+		"name": "LEC15",
+		"brand": "Electrolux",
+		"line": "Premium Care",
+		"model": "LEC15",
+		"detailedModel": "LEC15",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_904132-MLA99986926583_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2S3n4v3",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "15 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 11,
+				"waterLevels": 5,
+				"washSystem": "Agitação",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Pesado/Intenso",
+					"Delicada",
+					"Branca",
+					"Tira-Manchas",
+					"Edredom",
+					"Lava Tênis",
+					"Super Silencioso",
+					"Limpeza de Cesto"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "630 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": true,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": true,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": true,
+				"displayType": "Digital",
+				"panelLock": true,
+				"doorLock": false,
+				"controlType": "Misto",
+				"basketCount": 1,
+				"basketMaterial": "Aço inoxidável",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "105,2 cm",
+				"width": "66,2 cm",
+				"depth": "72,5 cm",
+				"weight": "46 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "24 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": "160 L por ciclo",
+				"energyConsumption": "0,46 kWh por ciclo",
+				"powerInput": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"washingPerformance": 8,
+				"energyEfficiency": 9,
+				"noiseLevel": 8,
+				"durability": 8
+			}
+		}
+	},
+	{
+		"id": "brastemp-bwk13ab",
+		"name": "BWK13AB",
+		"brand": "Brastemp",
+		"line": "Lavadora de Roupas Advanced",
+		"model": "BWK13AB",
+		"detailedModel": "BWK13AB",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_627258-MLA99452032608_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1yZFDVb",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "13 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 12,
+				"waterLevels": 4,
+				"washSystem": "Americano",
+				"quickWash": true,
+				"antiWrinkle": true,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Tira Manchas Advanced",
+					"Cores Duradouras",
+					"Brancas",
+					"Cama e Banho",
+					"Edredom",
+					"Pesado e Jeans",
+					"Delicadas",
+					"Rápido",
+					"Antialérgico",
+					"Roupas de Bebê",
+					"Antibolinhas",
+					"Dia a Dia"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": true,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "700 rpm",
+				"speedRegulation": true,
+				"autoBalance": true
+			},
+			"drying": {
+				"type": "Condensação",
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": true,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": "Digital",
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Aço inoxidável",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "106 cm",
+				"width": "66 cm",
+				"depth": "71 cm",
+				"weight": "38 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": "142 L por ciclo",
+				"energyConsumption": "0,36 kWh por ciclo",
+				"powerInput": "580 W"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"washingPerformance": 9,
+				"energyEfficiency": 9,
+				"noiseLevel": 8,
+				"durability": 8.5
+			}
+		}
+	},
+	{
+		"id": "wanke-tradicional-5kg",
+		"name": "Tradicional",
+		"brand": "Wanke",
+		"line": "5kg",
+		"model": "Tradicional",
+		"detailedModel": "11150024",
+		"color": "Marrom-claro",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_701299-MLA103221622338_012026-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1LpfcQu",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "5 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 3,
+				"waterLevels": 1,
+				"washSystem": "Agitação",
+				"quickWash": false,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": ["Pesado", "Normal", "Leve"],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "1600 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": false,
+				"hasDisplay": false,
+				"displayType": "Lavadora Semi-Auto",
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "72 cm",
+				"width": "61 cm",
+				"depth": "60 cm",
+				"weight": "20,01 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Marrom-claro",
+				"noiseLevel": null,
+				"waterConsumption": "73,3 L por ciclo",
+				"energyConsumption": "0,08 kWh por ciclo",
+				"powerInput": "470 W"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"washingPerformance": 8,
+				"energyEfficiency": 9,
+				"noiseLevel": 7,
+				"durability": 9
+			}
+		}
+	},
+	{
+		"id": "arno-las10",
+		"name": "LAS10",
+		"brand": "Arno",
+		"line": "Lavete",
+		"model": "LAS10",
+		"detailedModel": "LAS10",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_984343-MLA99981900357_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1pXxBHo",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "10 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 7,
+				"waterLevels": 3,
+				"washSystem": "Agitação",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": ["Rápido", "Delicados", "Enxágue", "Dia a Dia", "Jeans", "Edredom", "Tira-manchas"],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "1525 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": "Manípulos",
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "98,3 cm",
+				"width": "49,3 cm",
+				"depth": "56,2 cm",
+				"weight": "9,3 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": null,
+				"warranty": "12 meses",
+				"color": "Preto",
+				"noiseLevel": null,
+				"waterConsumption": null,
+				"energyConsumption": "0,08 kWh por ciclo",
+				"powerInput": "370 W"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"washingPerformance": 8,
+				"energyEfficiency": 9,
+				"noiseLevel": 8,
+				"durability": 8
+			}
+		}
+	},
+	{
+		"id": "consul-cwn15ab",
+		"name": "CWN15AB",
+		"brand": "Consul",
+		"line": "Lavadoras",
+		"model": "CWN15AB",
+		"detailedModel": "CWN15AB",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_615146-MLA99931798445_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/24whWop",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "15 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 12,
+				"waterLevels": 4,
+				"washSystem": "Agitação",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Dia a Dia",
+					"Delicadas",
+					"Esportivas",
+					"Tênis",
+					"Jeans e Casacos",
+					"Rápido",
+					"Panos de Limpeza",
+					"Reusar Água",
+					"Redes",
+					"Cama e Banho",
+					"Edredom",
+					"Brancas"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "2 tipos de centrifugação",
+				"speedRegulation": true,
+				"autoBalance": true
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": true,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": true,
+				"displayType": "Digital",
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Botões",
+				"basketCount": 1,
+				"basketMaterial": "Aço inoxidável",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "98 cm",
+				"width": "62,5 cm",
+				"depth": "69,5 cm",
+				"weight": "35,65 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": "186 litros/ciclo",
+				"energyConsumption": "0,46 kWh/ciclo",
+				"powerInput": "620W"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"washingPerformance": 7.5,
+				"energyEfficiency": 8.0,
+				"noiseLevel": 6.0,
+				"durability": 7.5
+			}
+		}
+	},
+	{
+		"id": "consul-cwb09bb",
+		"name": "CWB09BB",
+		"brand": "Consul",
+		"line": "Máquina de lavar econômica",
+		"model": "CWB09BB",
+		"detailedModel": "CWB09BB",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_655640-MLA99987243503_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2pLq1XS",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "9 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 16,
+				"waterLevels": 4,
+				"washSystem": "Americano",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": true,
+				"specificPrograms": [
+					"Brancas",
+					"Coloridas",
+					"Escuras",
+					"Cama e Banho",
+					"Jeans",
+					"Roupas Delicadas",
+					"Roupas de Bebê",
+					"Casaco e Moletom",
+					"Tênis",
+					"Limpeza Lavadora",
+					"Lavagem Eco",
+					"Rápido",
+					"Limpeza Pesada",
+					"Edredom",
+					"Enxaguar",
+					"Centrifugar"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "750 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": true,
+				"displayType": "Digital",
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Misto",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "101 cm",
+				"width": "58 cm",
+				"depth": "60 cm",
+				"weight": "29,4 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": "103 litros/ciclo",
+				"energyConsumption": "0,25 kWh/ciclo",
+				"powerInput": "415W (127V) / 426W (220V)"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"washingPerformance": 7.5,
+				"energyEfficiency": 8.5,
+				"noiseLevel": 8.0,
+				"durability": 6.5
+			}
+		}
+	},
+	{
+		"id": "brastemp-bwf18ab",
+		"name": "BWF18AB",
+		"brand": "Brastemp",
+		"line": "F",
+		"model": "BWF18AB",
+		"detailedModel": "BWF18ABBNA",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_675220-MLA99461586290_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1gtP2bg",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "18 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 12,
+				"waterLevels": null,
+				"washSystem": "Agitação",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Dia a Dia",
+					"Anti Bolinhas",
+					"Roupas de Bebê",
+					"Antialérgico",
+					"Rápido",
+					"Delicadas/Roupas Íntimas",
+					"Panos de Limpeza",
+					"Tira Manchas",
+					"Cores Duradouras",
+					"Brancas",
+					"Cama e Banho",
+					"Edredom"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": true,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "640 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": true,
+				"displayType": "Digital",
+				"panelLock": false,
+				"doorLock": true,
+				"controlType": "Botões",
+				"basketCount": 1,
+				"basketMaterial": "Aço inoxidável",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "110 cm",
+				"width": "68 cm",
+				"depth": "75 cm",
+				"weight": "45 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": false,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": "269 litros/ciclo",
+				"energyConsumption": "0,54 kWh (110V) / 0,55 kWh (220V)",
+				"powerInput": "480W (110V) / 600W (220V)"
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"washingPerformance": 9.0,
+				"energyEfficiency": 7.5,
+				"noiseLevel": 8.5,
+				"durability": 8.0
+			}
+		}
+	},
+	{
+		"id": "colormaq-lcs10",
+		"name": "LCS - 10kg",
+		"brand": "Colormaq",
+		"line": "Ecomax",
+		"model": "LCS",
+		"detailedModel": "LCS10MBR1NAC/2",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_624438-MLA48818375173_012022-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1dDgg5V",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "10 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 5,
+				"waterLevels": 3,
+				"washSystem": "Turbilhão",
+				"quickWash": false,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": ["Muito Sujo", "Jeans", "Dia a Dia", "Enxágue", "Delicado"],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": false,
+				"speed": null,
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "96,5 cm",
+				"width": "48,5 cm",
+				"depth": "56,2 cm",
+				"weight": "9,3 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": "Baixo",
+				"waterConsumption": "160 litros/ciclo",
+				"energyConsumption": "0,11 kWh/ciclo",
+				"powerInput": "370W"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"washingPerformance": 7.5,
+				"energyEfficiency": 9.0,
+				"noiseLevel": 9.0,
+				"durability": 7.0
+			}
+		}
+	},
+	{
+		"id": "midea-ma512w140",
+		"name": "Wave Impeller",
+		"brand": "Midea",
+		"line": "Wave Impeller",
+		"model": "MA512W140",
+		"detailedModel": "MA512W140/WK-05",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_750367-MLA99968694487_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ffHiV8",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "14 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 13,
+				"waterLevels": 4,
+				"washSystem": "Impeller",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": true,
+				"specificPrograms": [
+					"Brancas",
+					"Coloridas",
+					"Rápido 20'",
+					"Algodão",
+					"Sintético",
+					"Super ECO",
+					"Tênis",
+					"Delicado/Lã",
+					"Cama e Banho",
+					"Edredom",
+					"Jeans",
+					"Tira-Manchas",
+					"Limpeza do Tambor"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "750 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": true,
+				"loadSensor": true,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": true,
+				"displayType": "Digital",
+				"panelLock": true,
+				"doorLock": true,
+				"controlType": "Botões",
+				"basketCount": 1,
+				"basketMaterial": "Aço inoxidável",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "101,5 cm",
+				"width": "58 cm",
+				"depth": "57 cm",
+				"weight": "43 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": false,
+				"warranty": "24 meses",
+				"color": "Branco",
+				"noiseLevel": "64 dB (lavagem) / 78 dB (centrifugação)",
+				"waterConsumption": "96 litros/ciclo",
+				"energyConsumption": "0,37 kWh/ciclo",
+				"powerInput": "750W"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"washingPerformance": 8.0,
+				"energyEfficiency": 8.5,
+				"noiseLevel": 7.5,
+				"durability": 8.0
+			}
+		}
+	},
+	{
+		"id": "electrolux-lec15",
+		"name": "LEC15",
+		"brand": "Electrolux",
+		"line": "Premium Care",
+		"model": "LEC15",
+		"detailedModel": "LEC15",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_945463-MLA99483221950_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Azz8ug",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "15 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 11,
+				"waterLevels": 5,
+				"washSystem": "Agitação",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Rápido",
+					"Pesado",
+					"Tira Manchas",
+					"Delicadas",
+					"Tênis",
+					"Edredom",
+					"Brancas",
+					"Cama e Banho",
+					"Jeans",
+					"Algodão",
+					"Sintético"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "630 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": true,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": true,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": true,
+				"displayType": "Digital",
+				"panelLock": true,
+				"doorLock": true,
+				"controlType": "Misto",
+				"basketCount": 1,
+				"basketMaterial": "Aço inoxidável",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "105,2 cm",
+				"width": "66,2 cm",
+				"depth": "72,5 cm",
+				"weight": "46 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "24 meses",
+				"color": "Branco",
+				"noiseLevel": "Programa Super Silencioso",
+				"waterConsumption": "160 litros/ciclo",
+				"energyConsumption": "0,46 kWh/ciclo",
+				"powerInput": null
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"washingPerformance": 8.5,
+				"energyEfficiency": 9.0,
+				"noiseLevel": 9.0,
+				"durability": 8.5
+			}
+		}
+	},
+	{
+		"id": "colormaq-lcs15",
+		"name": "LCS15",
+		"brand": "Colormaq",
+		"line": "Ecomax",
+		"model": "LCS15",
+		"detailedModel": "LCS15",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_741532-MLA100001084481_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1bodE5B",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "15 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 8,
+				"waterLevels": 3,
+				"washSystem": "Turbilhão",
+				"quickWash": false,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Limpeza ECO",
+					"Roupas Íntimas",
+					"Dia a Dia",
+					"Cama e Banho",
+					"Jeans",
+					"Enxágue",
+					"Edredom",
+					"Limpeza Max"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": false,
+				"speed": "1525 rpm (127V) / 1480 rpm (220V)",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "96,5 cm",
+				"width": "55 cm",
+				"depth": "60 cm",
+				"weight": "9 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": "Baixo",
+				"waterConsumption": "145 litros/ciclo",
+				"energyConsumption": "0,01 kWh/ciclo",
+				"powerInput": "450W"
+			},
+			"ratings": {
+				"costBenefit": 9.5,
+				"washingPerformance": 8.0,
+				"energyEfficiency": 9.5,
+				"noiseLevel": 9.0,
+				"durability": 8.0
+			}
+		}
+	},
+	{
+		"id": "mueller-mlt20b",
+		"name": "MLT20B",
+		"brand": "Mueller",
+		"line": null,
+		"model": "MLT20B",
+		"detailedModel": "MLT20B",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_939477-MLA99455606966_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Z3iRu2",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "20 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 5,
+				"waterLevels": null,
+				"washSystem": "Turbilhão",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": ["Três Molhos", "Lavagem Econômica"],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": false
+			},
+			"spin": {
+				"hasSpin": false,
+				"speed": null,
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": ["Smart Wave"]
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "96 cm",
+				"width": "57 cm",
+				"depth": "58 cm",
+				"weight": "11,8 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": false,
+				"warranty": "12 meses",
+				"color": "Preto",
+				"noiseLevel": null,
+				"waterConsumption": "112 litros/ciclo",
+				"energyConsumption": "0,16 kWh/ciclo",
+				"powerInput": "390W"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"washingPerformance": 7.5,
+				"energyEfficiency": 8.0,
+				"noiseLevel": 7.5,
+				"durability": 8.0
+			}
+		}
+	},
+	{
+		"id": "mueller-mlt20b-branco",
+		"name": "MLT20B - Branco",
+		"brand": "Mueller",
+		"line": null,
+		"model": "MLT20B",
+		"detailedModel": "MLT20B",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_786103-MLA99502703244_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1m7kVsQ",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "20 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 5,
+				"waterLevels": null,
+				"washSystem": "Turbilhão",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": ["Três Molhos", "Lavagem Econômica"],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": false
+			},
+			"spin": {
+				"hasSpin": false,
+				"speed": null,
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": ["Smart Wave"]
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "96 cm",
+				"width": "57 cm",
+				"depth": "58 cm",
+				"weight": "11,8 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": false,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": "112 litros/ciclo",
+				"energyConsumption": "0,16 kWh/ciclo",
+				"powerInput": "390W"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"washingPerformance": 7.5,
+				"energyEfficiency": 8.0,
+				"noiseLevel": 7.5,
+				"durability": 8.0
+			}
+		}
+	},
+	{
+		"id": "mueller-mlt10c",
+		"name": "Supertank MLT10C",
+		"brand": "Mueller",
+		"line": "Supertank",
+		"model": "MLT10C",
+		"detailedModel": "MLT10C",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_836049-MLA99550702178_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1qX8pP6",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "10 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 4,
+				"waterLevels": null,
+				"washSystem": "Turbilhão",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": ["Lavagem Econômica", "Dois Molhos"],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": false
+			},
+			"spin": {
+				"hasSpin": false,
+				"speed": null,
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": ["Smart Wave"]
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "90 cm",
+				"width": "54 cm",
+				"depth": "66 cm",
+				"weight": "11,8 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": false,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": "98 litros/ciclo",
+				"energyConsumption": "0,13 kWh/ciclo",
+				"powerInput": "330W"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"washingPerformance": 7.5,
+				"energyEfficiency": 8.5,
+				"noiseLevel": 8.0,
+				"durability": 8.5
+			}
+		}
+	},
+	{
+		"id": "midea-ma512w160-16kg",
+		"name": "Wave Impeller - 16kg",
+		"brand": "Midea",
+		"line": "Wave Impeller",
+		"model": "MA512W160",
+		"detailedModel": "MA512W160/WK-04",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_762065-MLB85973733993_062025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1MBWoqg",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "16 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 13,
+				"waterLevels": 4,
+				"washSystem": "Impeller",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": true,
+				"specificPrograms": [
+					"Brancas",
+					"Coloridas",
+					"Rápido 20'",
+					"Algodão",
+					"Sintético",
+					"Super ECO",
+					"Tênis",
+					"Delicado/lã",
+					"Cama e banho",
+					"Edredom",
+					"Jeans",
+					"Tira-manchas",
+					"Limpeza do tambor"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "700 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": ["Power Mix Dispenser", "Sistema Anti-Impacto", "Water Reuse"]
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": true,
+				"displayType": "Digital",
+				"panelLock": true,
+				"doorLock": true,
+				"controlType": "Botões",
+				"basketCount": 1,
+				"basketMaterial": "Aço inoxidável",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "105 cm",
+				"width": "60,1 cm",
+				"depth": "58 cm",
+				"weight": "46 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "24 meses",
+				"color": "Branco",
+				"noiseLevel": "64 dB(A) lavagem / 78 dB(A) centrifugação",
+				"waterConsumption": null,
+				"energyConsumption": "0,42 kWh/ciclo",
+				"powerInput": "750W"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"washingPerformance": 9.0,
+				"energyEfficiency": 8.5,
+				"noiseLevel": 7.5,
+				"durability": 8.5
+			}
+		}
+	},
+	{
+		"id": "brastemp-bwd16a9",
+		"name": "BWD16A9",
+		"brand": "Brastemp",
+		"line": "Double Wash",
+		"model": "BWD16A9",
+		"detailedModel": "BWD16A9",
+		"color": "Titânio",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_612886-MLA84836668427_052025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2phyddE",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "16 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 12,
+				"waterLevels": 4,
+				"washSystem": "Americano",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Dia a Dia",
+					"Tira Manchas Advanced",
+					"Cores Duradouras",
+					"Brancas",
+					"Esportivas",
+					"Pesado e Jeans",
+					"Cama e Banho",
+					"Edredom",
+					"Poucas Peças",
+					"Delicadas/Roupas Íntimas",
+					"Rápido",
+					"Antialérgico",
+					"Roupas de Bebê",
+					"Anti Bolinhas"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": true,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "700 rpm",
+				"speedRegulation": true,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": ["Double Wash", "Diluição Anti-Mancha"]
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": "Digital",
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Misto",
+				"basketCount": 2,
+				"basketMaterial": "Aço inoxidável",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "110 cm",
+				"width": "68 cm",
+				"depth": "75 cm",
+				"weight": "49 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Titânio",
+				"noiseLevel": null,
+				"waterConsumption": "215 litros/ciclo",
+				"energyConsumption": "0,49 kWh/ciclo",
+				"powerInput": "480W"
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"washingPerformance": 9.5,
+				"energyEfficiency": 8.5,
+				"noiseLevel": 7.0,
+				"durability": 8.5
+			}
+		}
+	},
+	{
+		"id": "brastemp-bnf11a",
+		"name": "BNF11A",
+		"brand": "Brastemp",
+		"line": null,
+		"model": "BNF11A",
+		"detailedModel": "BNF11A",
+		"color": "Titanium",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_759171-MLA99575389086_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1vZzQqT",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Frontal",
+			"capacity": {
+				"washing": "11 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 15,
+				"waterLevels": null,
+				"washSystem": "Europeu",
+				"quickWash": true,
+				"antiWrinkle": true,
+				"autoAdaptableLoad": true,
+				"specificPrograms": [
+					"Tira Manchas Pro",
+					"Edredom",
+					"Vaporizar",
+					"Extra Silencioso",
+					"Antibactéria",
+					"Rápido 15 min",
+					"Dia a Dia",
+					"Delicado",
+					"Cores Duradouras",
+					"Brancas",
+					"Enxaguar e Centrifugar",
+					"Centrifugar",
+					"Lã",
+					"Cama e Banho",
+					"ECO"
+				],
+				"steamWash": true,
+				"sanitize": true,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "1200 rpm",
+				"speedRegulation": false,
+				"autoBalance": true
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": true,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": true,
+				"endAlarm": true,
+				"loadSensor": true,
+				"autoDispense": false,
+				"aiFeatures": ["Smart Sensor by AI", "Volto Logo com Vapor", "Triplo Vapor", "Mais Roupas"]
+			},
+			"temperature": {
+				"hasRegulation": true,
+				"waterTemp": "Quente e Fria",
+				"options": ["Fria", "Morna", "Quente"]
+			},
+			"structure": {
+				"hasFilter": false,
+				"hasDisplay": true,
+				"displayType": "Digital",
+				"panelLock": true,
+				"doorLock": true,
+				"controlType": "Touch",
+				"basketCount": 1,
+				"basketMaterial": "Aço inoxidável",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "85 cm",
+				"width": "60 cm",
+				"depth": "64 cm",
+				"weight": "75 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Titanium",
+				"noiseLevel": "52 dB(A) lavagem / 72 dB(A) centrifugação",
+				"waterConsumption": "90-93 litros/ciclo",
+				"energyConsumption": "0,26-0,28 kWh/ciclo",
+				"powerInput": "1100-1900W"
+			},
+			"ratings": {
+				"costBenefit": 8.0,
+				"washingPerformance": 9.5,
+				"energyEfficiency": 9.0,
+				"noiseLevel": 8.0,
+				"durability": 9.0
+			}
+		}
+	},
+	{
+		"id": "suggar-ct1502br",
+		"name": "Giromax CT1502BR",
+		"brand": "Suggar",
+		"line": "Giromax",
+		"model": "CT1502BR",
+		"detailedModel": "CT1502BR",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_658430-MLA95939153823_102025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1xPR4ZL",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "15 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 0,
+				"waterLevels": null,
+				"washSystem": "Turbilhão",
+				"quickWash": false,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": null,
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": false
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "2800 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": false,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": true,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "76 cm",
+				"width": "51 cm",
+				"depth": "51 cm",
+				"weight": "8 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": false,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": null,
+				"energyConsumption": "0,04 kWh/ciclo",
+				"powerInput": "250W"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"washingPerformance": null,
+				"energyEfficiency": 9.5,
+				"noiseLevel": 7.0,
+				"durability": 7.5
+			}
+		}
+	},
+	{
+		"id": "colormaq-lct6",
+		"name": "LCT - 6kg",
+		"brand": "Colormaq",
+		"line": "Ecomax",
+		"model": "LCT",
+		"detailedModel": "LCT06MBR2NAC/1",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_844542-MLA100008038581_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1mZE2qN",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "6 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 6,
+				"waterLevels": 3,
+				"washSystem": "Turbilhão",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": ["Muito Sujo", "Jeans", "Enxágue", "Dia a Dia", "Delicado", "Rápido"],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": false,
+				"speed": null,
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": true,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "86,5 cm",
+				"width": "49 cm",
+				"depth": "65 cm",
+				"weight": "9,5 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": "125 litros/ciclo",
+				"energyConsumption": "0,018 kWh/ciclo/kg",
+				"powerInput": "250W"
+			},
+			"ratings": {
+				"costBenefit": 9.5,
+				"washingPerformance": 8.0,
+				"energyEfficiency": 9.5,
+				"noiseLevel": 8.5,
+				"durability": 8.0
+			}
+		}
+	},
+	{
+		"id": "colormaq-lcs13-prata",
+		"name": "LCS13 - Prata",
+		"brand": "Colormaq",
+		"line": "Ecomax",
+		"model": "LCS13",
+		"detailedModel": "LCS13",
+		"color": "Prata",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_877776-MLA99457955886_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1gqJWbi",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "13 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 7,
+				"waterLevels": 3,
+				"washSystem": "Turbilhão",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Muito Sujo",
+					"Jeans",
+					"Cama e Banho",
+					"Delicado",
+					"Dia a Dia",
+					"Enxágue",
+					"Rápido"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": false,
+				"speed": null,
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": false,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "96 cm",
+				"width": "48,5 cm",
+				"depth": "55,5 cm",
+				"weight": "9,3 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Prata",
+				"noiseLevel": null,
+				"waterConsumption": "182 litros/ciclo",
+				"energyConsumption": "0,018 kWh/ciclo/kg",
+				"powerInput": "430W"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"washingPerformance": 8.0,
+				"energyEfficiency": 9.0,
+				"noiseLevel": 8.0,
+				"durability": 8.5
+			}
+		}
+	},
+	{
+		"id": "suggar-le2001pr",
+		"name": "Lavamax Eco LE2001PR",
+		"brand": "Suggar",
+		"line": "Lavamax Eco",
+		"model": "LE200",
+		"detailedModel": "LE2001PR",
+		"color": "Prata",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_860216-MLA99899355489_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2XCHmvr",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "20 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 6,
+				"waterLevels": 3,
+				"washSystem": "Turbilhão",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Rápido",
+					"Econômico",
+					"Pesado",
+					"Delicado",
+					"Reutilização de água",
+					"Cama e Banho"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": false,
+				"speed": null,
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": true,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": ["Timer 0-28 min", "Desligamento Automático", "Sistema de Drenagem"]
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "95,7 cm",
+				"width": "55 cm",
+				"depth": "59,5 cm",
+				"weight": "11,3 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Prata",
+				"noiseLevel": null,
+				"waterConsumption": null,
+				"energyConsumption": "0,12 kWh/ciclo",
+				"powerInput": "247W"
+			},
+			"ratings": {
+				"costBenefit": 9.5,
+				"washingPerformance": 8.5,
+				"energyEfficiency": 9.5,
+				"noiseLevel": 8.0,
+				"durability": 8.5
+			}
+		}
+	},
+	{
+		"id": "midea-ma512w150a-agitator",
+		"name": "Wave Agitator - 15kg",
+		"brand": "Midea",
+		"line": "Wave Agitator",
+		"model": "MA512W150A",
+		"detailedModel": "MA512W150A/WKBR05",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_825378-MLA99525178802_122025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2fz4JDy",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "15 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 13,
+				"waterLevels": 4,
+				"washSystem": "Agitação",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": true,
+				"specificPrograms": [
+					"Brancas",
+					"Coloridas",
+					"Rápido",
+					"Algodão",
+					"Sintético",
+					"Super ECO",
+					"Tênis",
+					"Delicado",
+					"Cama e Banho",
+					"Edredom",
+					"Jeans",
+					"Pesado",
+					"Limpeza do Tambor"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "700 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": true,
+				"endAlarm": true,
+				"loadSensor": true,
+				"autoDispense": false,
+				"aiFeatures": [
+					"Wave Agitator",
+					"Power Mix Dispenser",
+					"Sistema Anti-Impacto",
+					"Função Perfume+",
+					"Função Turbo",
+					"Reuso de Água"
+				]
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": true,
+				"displayType": "Digital",
+				"panelLock": true,
+				"doorLock": true,
+				"controlType": "Botões",
+				"basketCount": 1,
+				"basketMaterial": "Aço inoxidável",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "105 cm",
+				"width": "60,1 cm",
+				"depth": "61,5 cm",
+				"weight": "46 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "24 meses",
+				"color": "Branco",
+				"noiseLevel": "64 dB(A) lavagem / 78 dB(A) centrifugação",
+				"waterConsumption": null,
+				"energyConsumption": "0,42 kWh/ciclo",
+				"powerInput": "750W"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"washingPerformance": 9.0,
+				"energyEfficiency": 8.5,
+				"noiseLevel": 7.5,
+				"durability": 8.5
+			}
+		}
+	},
+	{
+		"id": "colormaq-lcs20",
+		"name": "LCS - 20kg",
+		"brand": "Colormaq",
+		"line": "Ecomax",
+		"model": "LCS",
+		"detailedModel": "LCS20PBR1NAC/1",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_746729-MLA99508684754_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1jtrh2M",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "20 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 6,
+				"waterLevels": 3,
+				"washSystem": "Turbilhão",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": ["Muito Sujo", "Jeans", "Dia a Dia", "Enxágue", "Delicado", "Rápido"],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": false,
+				"speed": null,
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": false
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": true,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": null
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "97 cm",
+				"width": "56 cm",
+				"depth": "61 cm",
+				"weight": "11,2 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": "200 litros/ciclo",
+				"energyConsumption": "0,005 kWh/ciclo/kg",
+				"powerInput": "380W"
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"washingPerformance": 7.5,
+				"energyEfficiency": 9.5,
+				"noiseLevel": 8.5,
+				"durability": 7.5
+			}
+		}
+	},
+	{
+		"id": "suggar-le2001br",
+		"name": "Lavamax Eco LE2001BR - Branco",
+		"brand": "Suggar",
+		"line": "Lavamax Eco",
+		"model": "LE200",
+		"detailedModel": "LE2001BR",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_907851-MLA99925685631_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2wQfm47",
+		"specs": {
+			"type": "Semiautomática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "20 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Manual",
+				"programs": 6,
+				"waterLevels": 3,
+				"washSystem": "Turbilhão",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Rápido",
+					"Econômico",
+					"Pesado",
+					"Delicado",
+					"Reutilização de água",
+					"Cama e Banho"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": false,
+				"speed": null,
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": false,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": true,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": ["Timer 0-28 min", "Desligamento Automático", "Sistema de Drenagem"]
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": false,
+				"controlType": "Manípulos",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "95,7 cm",
+				"width": "55 cm",
+				"depth": "59,5 cm",
+				"weight": "11,3 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": null,
+				"energyConsumption": "0,12 kWh/ciclo",
+				"powerInput": "247W"
+			},
+			"ratings": {
+				"costBenefit": 9.5,
+				"washingPerformance": 8.5,
+				"energyEfficiency": 9.5,
+				"noiseLevel": 8.0,
+				"durability": 8.5
+			}
+		}
+	},
+	{
+		"id": "electrolux-led09",
+		"name": "Efficient Care LED09",
+		"brand": "Electrolux",
+		"line": "Efficient Care",
+		"model": "LED09",
+		"detailedModel": "LED09",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_979820-MLA99986842265_112025-F.webp",
+		"price": 0,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "maquinas-lavar-roupas",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/27Kn3Bb",
+		"specs": {
+			"type": "Automática",
+			"loadType": "Superior",
+			"capacity": {
+				"washing": "9 kg",
+				"drying": null
+			},
+			"isWasherDryer": false,
+			"energyEfficiency": "A",
+			"washing": {
+				"waterLoadType": "Automática",
+				"programs": 10,
+				"waterLevels": 9,
+				"washSystem": "Agitação",
+				"quickWash": true,
+				"antiWrinkle": false,
+				"autoAdaptableLoad": false,
+				"specificPrograms": [
+					"Normal",
+					"Brancas",
+					"Cama, Banho e Edredom",
+					"Delicadas",
+					"Bebê",
+					"Rápido",
+					"Turbo Lavagem",
+					"Limpeza de Cesto",
+					"Turbo Centrifugação",
+					"Enxágue"
+				],
+				"steamWash": false,
+				"sanitize": false,
+				"allergenCycle": false,
+				"delicateCycle": true
+			},
+			"spin": {
+				"hasSpin": true,
+				"speed": "670 rpm",
+				"speedRegulation": false,
+				"autoBalance": false
+			},
+			"drying": {
+				"type": null,
+				"hasDrainPump": true
+			},
+			"technology": {
+				"inverter": true,
+				"smartControl": false,
+				"wifi": false,
+				"voiceControl": null,
+				"delayedStart": false,
+				"endAlarm": true,
+				"loadSensor": false,
+				"autoDispense": false,
+				"aiFeatures": [
+					"Dispenser com Diluição Máxima",
+					"Agitador Multifuncional com compartimento para amaciante",
+					"Reúso de Água"
+				]
+			},
+			"temperature": {
+				"hasRegulation": false,
+				"waterTemp": "Fria",
+				"options": null
+			},
+			"structure": {
+				"hasFilter": true,
+				"hasDisplay": false,
+				"displayType": null,
+				"panelLock": false,
+				"doorLock": true,
+				"controlType": "Misto",
+				"basketCount": 1,
+				"basketMaterial": "Plástico",
+				"isPortable": false,
+				"drumLight": false
+			},
+			"dimensions": {
+				"height": "101,4 cm",
+				"width": "54 cm",
+				"depth": "61 cm",
+				"weight": "30 kg"
+			},
+			"other": {
+				"isIndustrial": false,
+				"positiveImpact": true,
+				"warranty": "12 meses",
+				"color": "Branco",
+				"noiseLevel": null,
+				"waterConsumption": "108 litros/ciclo",
+				"energyConsumption": "0,27 kWh/ciclo",
+				"powerInput": null
+			},
+			"ratings": {
+				"costBenefit": 9.0,
+				"washingPerformance": 8.5,
+				"energyEfficiency": 9.5,
+				"noiseLevel": 8.5,
+				"durability": 9.0
+			}
+		}
+	}
+]

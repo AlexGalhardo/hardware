@@ -1,0 +1,2590 @@
+[
+	{
+		"id": "hw-speed-dome-a8",
+		"name": "Speed Dome A8",
+		"brand": "HW",
+		"line": "Speed Dome",
+		"model": "A8",
+		"alphanumericModel": "A8",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_901090-MLA99414404486_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": "59452214273",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1BXJGku",
+		"manufacturer": "HW",
+		"specs": {
+			"type": "Dome",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "7,62 m"
+			},
+			"lens": {
+				"focalLength": "3,6 mm",
+				"viewingAngle": "120°",
+				"zoom": "5x digital"
+			},
+			"sensor": {
+				"type": "Infravermelho",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "64 GB",
+				"cloud": true,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "Bivolt"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "2°C a 45°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "ICSee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "15 cm",
+				"height": "16,5 cm",
+				"weight": "290 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 7,
+				"nightVision": 6,
+				"easeOfUse": 8,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "haixia-eks-p11",
+		"name": "P11",
+		"brand": "Haixia",
+		"line": "Inteligente",
+		"model": "P11",
+		"alphanumericModel": "EKS-P11",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_723587-MLA100061228309_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": "115432213655",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1VFpKbE",
+		"manufacturer": "Ekaza",
+		"specs": {
+			"type": "Dome",
+			"resolution": "6MP (3MP+3MP)",
+			"videoQuality": {
+				"maxResolution": "3840x2160",
+				"fps": 25,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "15 m"
+			},
+			"lens": {
+				"focalLength": "3,6 mm",
+				"viewingAngle": "340°",
+				"zoom": "4x digital"
+			},
+			"sensor": {
+				"type": "Infravermelho",
+				"megapixels": 6
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": true,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente doméstica",
+				"poe": false,
+				"battery": false,
+				"voltage": "Bivolt"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "-10°C a 50°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "ICSee",
+				"platforms": ["Android", "iOS", "Windows"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"weight": "500 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 8,
+				"nightVision": 8,
+				"easeOfUse": 9,
+				"features": 9
+			}
+		}
+	},
+	{
+		"id": "maxnova-p11",
+		"name": "P11",
+		"brand": "Maxnova",
+		"line": "Inteligente",
+		"model": "CÂMERA",
+		"alphanumericModel": "45",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_782896-MLA100202256389_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1V6zd7G",
+		"manufacturer": "iCSee",
+		"specs": {
+			"type": "Espiã",
+			"resolution": "1296x1080P",
+			"videoQuality": {
+				"maxResolution": "1296x1080P",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "15 m"
+			},
+			"lens": {
+				"focalLength": "15.000 mm",
+				"viewingAngle": "355°",
+				"zoom": "4x digital"
+			},
+			"sensor": {
+				"type": "1/2.7\" BSI Sensor",
+				"megapixels": 3
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": true,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "Bivolt"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": "IP44",
+				"operatingTemp": "-6,67°C a 15,55°C",
+				"weatherResistant": false
+			},
+			"app": {
+				"name": "ICSee",
+				"platforms": ["iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "15 cm",
+				"height": "16 cm",
+				"depth": "3 cm",
+				"weight": "350 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 7,
+				"nightVision": 8,
+				"easeOfUse": 9,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "casenn-a28-2",
+		"name": "A28-2",
+		"brand": "Casenn",
+		"line": "Dome",
+		"model": "A28-2",
+		"alphanumericModel": "A28B",
+		"color": "Branco/Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_635583-MLA100019457791_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": "101792214414",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2HyT8YZ",
+		"manufacturer": "Casenn",
+		"specs": {
+			"type": "Dome",
+			"resolution": "6MP (3MP+3MP)",
+			"videoQuality": {
+				"maxResolution": "3072x2048",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "20 m"
+			},
+			"lens": {
+				"focalLength": "3,6 mm",
+				"viewingAngle": "355° horizontal, 90° vertical",
+				"zoom": "3x óptico, 4x digital"
+			},
+			"sensor": {
+				"type": "1/2.7\" BSI Sensor",
+				"megapixels": 6
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": true,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Fonte DC12V/2A",
+				"poe": false,
+				"battery": false,
+				"voltage": "Bivolt"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "0°C a 60°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "ICSee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "16,5 cm",
+				"height": "8,5 cm",
+				"depth": "7,5 cm",
+				"weight": "616 g"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"videoQuality": 9,
+				"nightVision": 9,
+				"easeOfUse": 9,
+				"features": 9
+			}
+		}
+	},
+	{
+		"id": "tp-link-tapo-tc40",
+		"name": "Tapo TC40",
+		"brand": "TP-Link",
+		"line": "TAPO",
+		"model": "TC40",
+		"alphanumericModel": "TC40",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_726365-MLA99937808493_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2J7qhT6",
+		"manufacturer": "TP-Link",
+		"specs": {
+			"type": "Dome",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 15,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "30 m"
+			},
+			"lens": {
+				"focalLength": "3,89 mm",
+				"viewingAngle": "360° horizontal, 130° vertical",
+				"zoom": "2x óptico, 8x digital"
+			},
+			"sensor": {
+				"type": "CMOS de varredura progressiva de 1/3\"",
+				"size": "1/3\"",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "512 GB",
+				"cloud": true,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "Bivolt"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": true,
+				"privacyMode": true,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": "IP65",
+				"operatingTemp": "0°C a 60°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "Tapo",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "12,3 cm",
+				"height": "9 cm",
+				"depth": "12,3 cm",
+				"weight": "550 g"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"videoQuality": 8,
+				"nightVision": 9,
+				"easeOfUse": 9,
+				"features": 9
+			}
+		}
+	},
+	{
+		"id": "hikvision-ds-2cd1027g2h-liu",
+		"name": "DS-2CD1027G2H-LIU",
+		"brand": "Hikvision",
+		"line": "ColorVu",
+		"model": "DS-2CD1027G2H-LIU",
+		"alphanumericModel": "DS-2CD1027G2H-LIU",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_860013-MLA99442461316_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2YTKNq7",
+		"manufacturer": "Hikvision",
+		"specs": {
+			"type": "Bullet",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "30 m"
+			},
+			"lens": {
+				"type": "Lente fixa",
+				"focalLength": "2,8 mm",
+				"aperture": "F1.0",
+				"viewingAngle": "115° horizontal, 60° vertical, 143° diagonal",
+				"zoom": "4x digital"
+			},
+			"sensor": {
+				"type": "CMOS de varredura progressiva",
+				"size": "1/2,8\"",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": false,
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "256 GB",
+				"cloud": false,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": false,
+				"twoWayAudio": false
+			},
+			"power": {
+				"type": "PoE",
+				"poe": true,
+				"battery": false
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": false,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": false,
+				"tilt": false,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP67",
+				"operatingTemp": "-30°C a 60°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "Hik-Connect",
+				"platforms": ["Android", "iOS", "Windows"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "13,07 cm",
+				"height": "10,17 cm",
+				"depth": "13,07 cm",
+				"weight": "880 g"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"videoQuality": 9,
+				"nightVision": 10,
+				"easeOfUse": 8,
+				"features": 9
+			}
+		}
+	},
+	{
+		"id": "jortan-e27",
+		"name": "E27",
+		"brand": "Smart",
+		"line": "Smart IP E27",
+		"model": "E27",
+		"alphanumericModel": "JT8178",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_928765-MLA95692105396_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "cameras-de-seguranca",
+		"manufacturer": "Jortan Electronics Technology",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/24N5H9Q",
+		"specs": {
+			"type": "Interna",
+			"resolution": "Full HD",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "30 m"
+			},
+			"lens": {
+				"focalLength": "3,6 mm",
+				"viewingAngle": "360°",
+				"zoom": "2x óptico + 2x digital"
+			},
+			"sensor": {
+				"type": "1/2.9\" Progressive Scan CMOS",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["2.4GHz"],
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": false,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente doméstica",
+				"poe": false,
+				"battery": false,
+				"voltage": "Bivolt"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": null,
+				"operatingTemp": "0°C a 60°C",
+				"weatherResistant": false
+			},
+			"app": {
+				"name": null,
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "5,8 cm",
+				"height": "12,8 cm",
+				"depth": "3,8 cm",
+				"weight": "650 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 7,
+				"nightVision": 7,
+				"easeOfUse": 9,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "dgm-8176qj",
+		"name": "8176QJ",
+		"brand": "Genérica",
+		"line": "Externa",
+		"model": "Wifi smart camara",
+		"alphanumericModel": "8176QJ",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_652067-MLU77376056921_072024-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"manufacturer": "DGM",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1kMo179",
+		"specs": {
+			"type": "Dome",
+			"resolution": "Full HD",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "25 m"
+			},
+			"lens": {
+				"focalLength": "3,6 mm",
+				"viewingAngle": "90°-110°",
+				"zoom": "10x digital"
+			},
+			"sensor": {
+				"type": "Infravermelho",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["2.4GHz"],
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": true,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "12V"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "10°C a 70°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "Yoosee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "15 cm",
+				"height": "10 cm",
+				"depth": "17,5 cm",
+				"weight": "600 g"
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"videoQuality": 7,
+				"nightVision": 7,
+				"easeOfUse": 8,
+				"features": 6
+			}
+		}
+	},
+	{
+		"id": "intelbras-vipw-1300-mini-sd-3mp-fc",
+		"name": "VIPW 1300 Mini SD 3MP FC",
+		"brand": "Intelbras",
+		"line": null,
+		"model": "VIPW 1300 Mini SD 3MP FC",
+		"alphanumericModel": "vipw 1300 mini sd",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_975289-MLA81201625064_122024-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"manufacturer": "Intelbras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1MEdC45",
+		"specs": {
+			"type": "Mini Speed Dome",
+			"resolution": "3MP",
+			"videoQuality": {
+				"maxResolution": "2304x1296",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "30 m"
+			},
+			"lens": {
+				"focalLength": "3,8 mm",
+				"viewingAngle": "100°-110°",
+				"zoom": "1x digital"
+			},
+			"sensor": {
+				"type": "1/2.8” CMOS",
+				"megapixels": 3
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["2.4GHz"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "256 GB",
+				"cloud": true,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "12V"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": true,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": false,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "0°C a 55°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "Intelbras Guardian",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "12 cm",
+				"height": "14 cm",
+				"depth": "12 cm",
+				"weight": "500 g"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"videoQuality": 9,
+				"nightVision": 9,
+				"easeOfUse": 9,
+				"features": 9
+			}
+		}
+	},
+	{
+		"id": "icsee-a8-externa",
+		"name": "A8",
+		"brand": "iCSee",
+		"line": null,
+		"model": "A8",
+		"alphanumericModel": "A8",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_855866-MLA96126735431_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "cameras-de-seguranca",
+		"manufacturer": "iCSee",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1eTk96F",
+		"specs": {
+			"type": "Bullet",
+			"resolution": "Full HD",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "20 m"
+			},
+			"lens": {
+				"focalLength": "2,6 mm",
+				"viewingAngle": "110°-120°",
+				"zoom": "4x óptico + 3x digital"
+			},
+			"sensor": {
+				"type": "1/2.8” Progressive Scan CMOS",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["2.4GHz"],
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "64 GB",
+				"cloud": false,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "12V"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": false,
+				"tilt": false,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP44",
+				"operatingTemp": "-10°C a 50°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "ICSee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "7,2 cm",
+				"height": "5,1 cm",
+				"depth": "5,2 cm",
+				"weight": "290 g"
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"videoQuality": 7,
+				"nightVision": 6,
+				"easeOfUse": 8,
+				"features": 6
+			}
+		}
+	},
+	{
+		"id": "nixzen-tomada-preta",
+		"name": "Tomada",
+		"brand": "Nixzen",
+		"line": "APP- YOOSEE",
+		"model": "Câmera de Segurança Tomada",
+		"alphanumericModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_827133-MLA95700031444_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": "132542314414",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/22vkFXR",
+		"manufacturer": "Nixzen W",
+		"specs": {
+			"type": "Interna",
+			"resolution": "Full HD",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "15 m"
+			},
+			"lens": {
+				"focalLength": "5,5 mm",
+				"viewingAngle": "90°-110°",
+				"zoom": "1x digital"
+			},
+			"sensor": {
+				"type": null,
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["2.4GHz"],
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": false,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente doméstica",
+				"poe": false,
+				"battery": false,
+				"voltage": "Bivolt"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": false,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": null,
+				"operatingTemp": "10°C a 50°C",
+				"weatherResistant": false
+			},
+			"app": {
+				"name": "Yoosee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "11,5 cm",
+				"height": "11,2 cm",
+				"depth": "6,5 cm",
+				"weight": "235 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 7,
+				"nightVision": 7,
+				"easeOfUse": 9,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "hw-a28b-dupla-lente",
+		"name": "A28B Dupla Lente",
+		"brand": "HW",
+		"line": "A28",
+		"model": "A28",
+		"detailedModel": "A28B Dupla Lente",
+		"alphanumericModel": "Dupla Lente",
+		"color": "Branco/Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_826421-MLA88399856933_072025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": "41762405662",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/326WC6J",
+		"manufacturer": "HW",
+		"specs": {
+			"type": "Dome",
+			"resolution": "Full HD",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "15 m"
+			},
+			"lens": {
+				"type": "Dupla lente",
+				"focalLength": "3,6 mm",
+				"viewingAngle": "90°-120°",
+				"zoom": "4x digital"
+			},
+			"sensor": {
+				"type": null,
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["2.4GHz"],
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"internal": null,
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": false,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "12V"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "0°C a 70°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "ICSee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "9 cm",
+				"height": "16 cm",
+				"depth": "15 cm",
+				"weight": "527 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 8,
+				"nightVision": 7,
+				"easeOfUse": 8,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "jl-protec-ipsky2",
+		"name": "IPSKY2",
+		"brand": "JL Protec",
+		"line": "Lente Dupla",
+		"model": "IPSKY2",
+		"alphanumericModel": "IPSKY2",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_664063-MLA95676694362_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "cameras-de-seguranca",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1DD27tr",
+		"manufacturer": "JL Protec",
+		"specs": {
+			"type": "Dome",
+			"resolution": "6MP",
+			"videoQuality": {
+				"maxResolution": "3072x2048",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "20 m"
+			},
+			"lens": {
+				"type": "Dupla lente",
+				"focalLength": "3,6 mm",
+				"viewingAngle": "90°-120°",
+				"zoom": "4x digital"
+			},
+			"sensor": {
+				"type": null,
+				"megapixels": 6
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["2.4GHz"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": false,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "12V"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "-10°C a 60°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "ICSee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": null,
+				"height": null,
+				"depth": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 8,
+				"nightVision": 8,
+				"easeOfUse": 8,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "intelbras-vhd-3220-b-full-color",
+		"name": "VHD 3220 B Full Color",
+		"brand": "Intelbras",
+		"line": "Multi VHD",
+		"model": "VHD 3220 B Full Color",
+		"alphanumericModel": "VHD 3220 FULL COLOR",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_683246-MLB92661186247_092025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "cameras-de-seguranca",
+		"manufacturer": "Intelbras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1NW8f4U",
+		"specs": {
+			"type": "Bullet",
+			"resolution": "Full HD",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "20 m"
+			},
+			"lens": {
+				"focalLength": "2,8 mm",
+				"viewingAngle": "112°",
+				"zoom": null
+			},
+			"sensor": {
+				"type": "1/2\" CMOS",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": false,
+				"wifiStandards": null,
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": false,
+				"maxSdCard": null,
+				"cloud": false,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": false,
+				"twoWayAudio": false
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "12V DC"
+			},
+			"features": {
+				"motionDetection": false,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": false,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": false,
+				"tilt": false,
+				"zoom": false,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP67",
+				"operatingTemp": "-10°C a 60°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": null,
+				"platforms": null,
+				"remoteAccess": false
+			},
+			"dimensions": {
+				"width": null,
+				"height": null,
+				"depth": null,
+				"weight": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"videoQuality": 9,
+				"nightVision": 9,
+				"easeOfUse": 9,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "intelbras-im5-sc-black",
+		"name": "iM5 SC",
+		"brand": "Intelbras",
+		"line": "Mibo",
+		"model": "iM5 SC",
+		"alphanumericModel": "iM5 SC",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_651897-MLA99455126600_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "cameras-de-seguranca",
+		"manufacturer": "Intelbras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1mLQHo6",
+		"specs": {
+			"type": "Bullet",
+			"resolution": "Full HD",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "30 m"
+			},
+			"lens": {
+				"focalLength": "2,8 mm",
+				"viewingAngle": "120°",
+				"zoom": "16x digital"
+			},
+			"sensor": {
+				"type": "1/2.8” CMOS",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["2.4GHz"],
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "256 GB",
+				"cloud": true,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": false,
+				"twoWayAudio": false
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "12V"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": true,
+				"privacyMode": false,
+				"pan": false,
+				"tilt": false,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP67",
+				"operatingTemp": "-20°C a 50°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "Mibo",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "7,42 cm",
+				"height": "7,5 cm",
+				"depth": "14,73 cm",
+				"weight": "600 g"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"videoQuality": 9,
+				"nightVision": 9,
+				"easeOfUse": 9,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "gvbl-a9-mini-espia",
+		"name": "A9",
+		"brand": "Genérica",
+		"line": "Battery IP Camera",
+		"model": "A9",
+		"alphanumericModel": "1023",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_830347-MLA99601162526_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseYear": 2025,
+		"category": "cameras-de-seguranca",
+		"manufacturer": "GVBL",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ABbqDo",
+		"specs": {
+			"type": "Micro",
+			"resolution": "Full HD",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 15,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "10 m"
+			},
+			"lens": {
+				"focalLength": "4 mm",
+				"viewingAngle": "90°-110°",
+				"zoom": null
+			},
+			"sensor": {
+				"type": "1/2.8\" SONY CMOS",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["2.4GHz"],
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": false,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": false,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Bateria + USB",
+				"poe": false,
+				"battery": true,
+				"batteryLife": "45-60 min",
+				"voltage": "5V USB"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": false,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": false,
+				"tilt": false,
+				"zoom": false,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "10°C a 50°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "v720",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "4,4 cm",
+				"height": "2,5 cm",
+				"depth": "6,5 cm",
+				"weight": "50 g"
+			},
+			"ratings": {
+				"costBenefit": 6,
+				"videoQuality": 6,
+				"nightVision": 5,
+				"easeOfUse": 7,
+				"features": 5
+			}
+		}
+	},
+	{
+		"id": "chinesee-csn9697",
+		"name": "CHINESEE-9697",
+		"brand": "Chinesee",
+		"line": "Chinesee IP DUPLA YOSEE",
+		"model": "CHINESEE-9697",
+		"alphanumericModel": "CSN9697",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_766795-MLA99517013764_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": "155452112775",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/29BJ3Aj",
+		"manufacturer": "Casenn X",
+		"specs": {
+			"type": "Dome",
+			"resolution": "1920x1080",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "49,99 m"
+			},
+			"lens": {
+				"type": "Lente Dupla",
+				"focalLength": "3,6 mm",
+				"viewingAngle": "105°",
+				"zoom": "4x digital"
+			},
+			"sensor": {
+				"type": "1/2.9\" Progressive Scan CMOS",
+				"megapixels": 3
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": false,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "Bivolt"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "-50°C a 50°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "Yoosee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "11 cm",
+				"height": "16 cm",
+				"depth": "15 cm",
+				"weight": "607 g"
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"videoQuality": 7,
+				"nightVision": 7,
+				"easeOfUse": 8,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "chinesee-9697",
+		"name": "Lente Dupla Yoosee 9697",
+		"brand": "Chinesee",
+		"line": "Chinesee IP DUPLA YOSEE",
+		"model": "CHINESEE-9697",
+		"alphanumericModel": "CSN9697",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_766795-MLA99517013764_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": "155452112775",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/29BJ3Aj",
+		"manufacturer": "Casenn X",
+		"specs": {
+			"type": "Dome",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "49,99 m"
+			},
+			"lens": {
+				"type": "Dupla (fixa + móvel)",
+				"focalLength": "3,6 mm (superior) + 6 mm (inferior)",
+				"viewingAngle": "355° horizontal / 90° vertical",
+				"zoom": "4x digital"
+			},
+			"sensor": {
+				"type": "1/2.9\" Progressive Scan CMOS",
+				"megapixels": 3
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": true,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "DC12V/2A",
+				"batteryLife": null
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": true,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "-10°C a 50°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "Yoosee / ICSee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "15 cm",
+				"height": "16 cm",
+				"depth": "11 cm",
+				"weight": "607 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 7,
+				"nightVision": 7,
+				"easeOfUse": 7,
+				"features": 8
+			}
+		}
+	},
+	{
+		"id": "vianova-abq-a8",
+		"name": "Mini Dome Full HD ABQ-A8",
+		"brand": "V Vianova Telecomunicações",
+		"line": "Mini Dome",
+		"model": "ABQ-A8",
+		"alphanumericModel": "ABQ-A8",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_904387-MLA100033367861_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1hhoHbp",
+		"manufacturer": "V Vianova Telecomunicações",
+		"specs": {
+			"type": "Dome",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "15 m"
+			},
+			"lens": {
+				"focalLength": "3,6 mm",
+				"viewingAngle": "320° horizontal / 110° vertical",
+				"zoom": "4x digital"
+			},
+			"sensor": {
+				"type": "1/4\" CMOS",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": true,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "DC12V/2A"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": true,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "-10°C a 50°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "Yoosee / ICSee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": null,
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 7,
+				"nightVision": 6,
+				"easeOfUse": 8,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "intelbras-im6-full-color",
+		"name": "iM6 Full Color",
+		"brand": "Intelbras",
+		"line": "Mibo",
+		"model": "iM6 Full Color",
+		"alphanumericModel": "iM6",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_646896-MLA100008395327_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": "57042400160",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Po8RV4",
+		"manufacturer": "Intelbras",
+		"specs": {
+			"type": "Lâmpada",
+			"resolution": "1296p",
+			"videoQuality": {
+				"maxResolution": "2304x1296",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "25 m"
+			},
+			"lens": {
+				"focalLength": "2,8 mm",
+				"viewingAngle": "109° (diagonal), 96° (horizontal), 52° (vertical)",
+				"zoom": "8x digital"
+			},
+			"sensor": {
+				"type": "1/2.8\" CMOS progressivo",
+				"megapixels": 3
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n", "802.11ax"],
+				"ethernet": false,
+				"bluetooth": true,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "256 GB",
+				"cloud": true,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica (soquete E27)",
+				"poe": false,
+				"battery": false,
+				"voltage": "100-240V (Bivolt)"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": true,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"operatingTemp": "-10°C a 50°C",
+				"weatherResistant": false
+			},
+			"app": {
+				"name": "Mibo Smart",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"weight": "265 g"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"videoQuality": 9,
+				"nightVision": 9,
+				"easeOfUse": 9,
+				"features": 9
+			}
+		}
+	},
+	{
+		"id": "it-blue-sc-b3",
+		"name": "SC-B3",
+		"brand": "It-Blue",
+		"model": "SC-B3",
+		"alphanumericModel": "CAMERA-SC-B3",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_788850-MLA95698008684_102025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Qq9Ai4",
+		"manufacturer": "It-Blue",
+		"specs": {
+			"type": "Dome",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "10 m"
+			},
+			"lens": {
+				"focalLength": "3,6 mm",
+				"viewingAngle": "75° diagonal / 350° horizontal",
+				"zoom": "4x digital"
+			},
+			"sensor": {
+				"type": "1/2.7\" CMOS",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "64 GB",
+				"cloud": false,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "110/220V (Bivolt)"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "0°C a 55°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "Yoosee / V380",
+				"platforms": ["Android", "iOS", "Windows"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "15 cm",
+				"height": "15 cm",
+				"depth": "1,3 cm",
+				"weight": "270 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 7,
+				"nightVision": 6,
+				"easeOfUse": 8,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "davely-a8-ip-wifi",
+		"name": "A8 IP WiFi",
+		"brand": "Davely",
+		"line": "DVLA8",
+		"model": "A8 IP WiFi",
+		"alphanumericModel": "A8",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_758660-MLA99463705568_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": "129852314594",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1z7FAVY",
+		"manufacturer": "Davely X",
+		"specs": {
+			"type": "IP",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "20 m"
+			},
+			"lens": {
+				"focalLength": "3,6 mm",
+				"viewingAngle": "360°",
+				"zoom": "4x óptico"
+			},
+			"sensor": {
+				"type": "Infravermelho",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": true,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente doméstica",
+				"poe": false,
+				"battery": false,
+				"voltage": "110/220V (Bivolt)"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "0°C a 50°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "ICSee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "15,36 cm",
+				"height": "20 cm",
+				"depth": "8,5 cm",
+				"weight": "600 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 7,
+				"nightVision": 7,
+				"easeOfUse": 8,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "hikvision-thc-t127-lps",
+		"name": "THC-T127-LPS",
+		"brand": "Hikvision",
+		"line": "HiLook",
+		"model": "THC-T127-LPS",
+		"alphanumericModel": "THC-T127-LPS",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_974763-MLA99505476200_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2JGBHm3",
+		"manufacturer": "Hikvision",
+		"specs": {
+			"type": "Dome",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "20 m"
+			},
+			"lens": {
+				"type": "Lente focal fixa",
+				"focalLength": "2,8 mm",
+				"aperture": "F2.0",
+				"viewingAngle": "116°",
+				"zoom": "4x digital"
+			},
+			"sensor": {
+				"type": "CMOS",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": false,
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": false,
+				"cloud": false,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": false,
+				"twoWayAudio": false
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": false,
+				"tilt": false,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "-40°C a 60°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "15 cm",
+				"height": "8 cm",
+				"depth": "10 cm",
+				"weight": "130 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 8,
+				"nightVision": 7,
+				"easeOfUse": 8,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "camera-wifi-espia-9l7u0c0a",
+		"name": "Espiã",
+		"brand": "Camera wifi",
+		"line": "Camera de seguranca",
+		"model": "Espiã",
+		"alphanumericModel": "9l7u0c0a",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_644652-MLA99571504368_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2nrGG86",
+		"manufacturer": "Câmera Wifi",
+		"specs": {
+			"type": "Interna",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 15,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "25 m"
+			},
+			"lens": {
+				"focalLength": "4 mm",
+				"viewingAngle": "150°"
+			},
+			"sensor": {
+				"type": "1/2.9\" Progressive Scan CMOS",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": false,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "64 GB",
+				"cloud": false,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Bateria",
+				"poe": false,
+				"battery": true,
+				"voltage": "5V"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": false,
+				"tilt": false,
+				"zoom": false,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP44",
+				"operatingTemp": "10°C a 50°C",
+				"weatherResistant": false
+			},
+			"app": {
+				"name": "HDWifiCan",
+				"platforms": ["iOS", "Android"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "5 cm",
+				"height": "4 cm",
+				"depth": "6,5 cm",
+				"weight": "18 g"
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"videoQuality": 6,
+				"nightVision": 5,
+				"easeOfUse": 7,
+				"features": 6
+			}
+		}
+	},
+	{
+		"id": "haiz-yj-a08",
+		"name": "YJ-A08",
+		"brand": "Haiz",
+		"line": "A08 YOUSEE",
+		"model": "YJ-A08",
+		"alphanumericModel": "A8",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_979652-MLA99503752286_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ixo1gL",
+		"manufacturer": "Chuang",
+		"specs": {
+			"type": "Dome",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "1920x1080",
+				"fps": 20,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "25 m"
+			},
+			"lens": {
+				"focalLength": "3,6 mm",
+				"viewingAngle": "360°",
+				"zoom": "5x digital"
+			},
+			"sensor": {
+				"type": "Infravermelho",
+				"megapixels": 2
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"internal": null,
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": true,
+				"nvr": true
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "Bivolt"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": false,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": false
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "0°C a 50°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "ICSee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"width": "15 cm",
+				"height": "16,5 cm",
+				"depth": "17,5 cm",
+				"weight": "600 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 7,
+				"nightVision": 7,
+				"easeOfUse": 8,
+				"features": 7
+			}
+		}
+	},
+	{
+		"id": "jortan-camera-4k-lente-dupla-sirene",
+		"name": "Câmera 4K Lente Dupla",
+		"brand": "Monitoramento audio Alarme 360",
+		"line": "360 graus vigilância HD zoom",
+		"model": "Câmera Cinza",
+		"alphanumericModel": "Câmera Cinza",
+		"color": "Cinza",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_650127-MLA105015636691_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/29oNggC",
+		"manufacturer": "Jortan Electronics Technology",
+		"specs": {
+			"type": "Dome",
+			"resolution": "4K",
+			"videoQuality": {
+				"maxResolution": "3840x2160",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "30 m"
+			},
+			"lens": {
+				"type": "Dupla",
+				"focalLength": "3,6 mm",
+				"viewingAngle": "360°",
+				"zoom": "8x óptico, 5x digital"
+			},
+			"sensor": {
+				"megapixels": 6
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": false,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "Bivolt"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "0°C a 60°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "iCSee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"dimensions": {
+				"weight": "550 g"
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 8,
+				"nightVision": 8,
+				"easeOfUse": 7,
+				"features": 9
+			}
+		}
+	},
+	{
+		"id": "it-blue-yousee-ptz-external",
+		"name": "Camera Externa Vigilância PTZ 360",
+		"brand": "Ip Camera Yoosee",
+		"line": "SPEEDY DOME",
+		"model": "Camera Externa Vigilância Segurança IP Wifi Acesso Remoto Sem Fio Distância Panorâmica Motorizada PTZ 360 Alarme Detector Presença Infravermelho",
+		"alphanumericModel": "106922005662",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_624684-MLB89537698103_082025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "cameras-de-seguranca",
+		"anatelNumber": "106922005662",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/18j1n9X",
+		"manufacturer": "It-Blue",
+		"specs": {
+			"type": "PTZ",
+			"resolution": "1080p",
+			"videoQuality": {
+				"maxResolution": "2592x1944",
+				"fps": 30,
+				"hdr": false,
+				"nightVision": true,
+				"nightVisionRange": "30 m"
+			},
+			"lens": {
+				"focalLength": "3,6 mm",
+				"viewingAngle": "350°",
+				"zoom": "Digital"
+			},
+			"sensor": {
+				"megapixels": 5
+			},
+			"connectivity": {
+				"wifi": true,
+				"wifiStandards": ["802.11b", "802.11g", "802.11n"],
+				"ethernet": true,
+				"bluetooth": false,
+				"cellular": false
+			},
+			"storage": {
+				"sdCard": true,
+				"maxSdCard": "128 GB",
+				"cloud": true,
+				"nvr": false
+			},
+			"audio": {
+				"microphone": true,
+				"speaker": true,
+				"twoWayAudio": true
+			},
+			"power": {
+				"type": "Corrente elétrica",
+				"poe": false,
+				"battery": false,
+				"voltage": "12V"
+			},
+			"features": {
+				"motionDetection": true,
+				"personDetection": true,
+				"faceRecognition": false,
+				"soundDetection": false,
+				"alerts": true,
+				"scheduling": false,
+				"privacyMode": false,
+				"pan": true,
+				"tilt": true,
+				"zoom": true,
+				"autoTracking": true
+			},
+			"environmental": {
+				"ipRating": "IP66",
+				"operatingTemp": "0°C a 50°C",
+				"weatherResistant": true
+			},
+			"app": {
+				"name": "ICSee / Yousee",
+				"platforms": ["Android", "iOS"],
+				"remoteAccess": true
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"videoQuality": 8,
+				"nightVision": 8,
+				"easeOfUse": 8,
+				"features": 8
+			}
+		}
+	}
+]

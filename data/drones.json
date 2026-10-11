@@ -1,0 +1,3977 @@
+[
+	{
+		"id": "mini-drone-e998-pro",
+		"name": "Mini Drone E998 Pro",
+		"category": "drones",
+		"brand": "Genérica",
+		"line": null,
+		"model": "E998 Pro",
+		"version": null,
+		"color": "Cinza-escuro",
+		"manufacturer": null,
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2p693ep",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_792056-MLA91557630696_092025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "HD",
+				"sensor": null,
+				"megapixels": null,
+				"fov": null,
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": null,
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": false,
+				"type": null,
+				"axes": null,
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": null
+			},
+			"flight": {
+				"maxFlightTime": "9 min",
+				"maxSpeed": null,
+				"maxDistance": "100m",
+				"maxAltitude": null,
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1800mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 1,
+				"chargingTime": "60-90 min",
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "100m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "HD",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": false,
+				"type": null,
+				"directions": null,
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": false,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": false,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": "13 x 10 x 5.5 cm",
+				"unfolded": "25 x 20 x 5.5 cm",
+				"weight": "200g"
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"Cabo de alimentação",
+					"Controle remoto",
+					"Chave de fenda",
+					"Hélices sobressalentes",
+					"Manual",
+					"Protetores de hélices"
+				],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": null,
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Hobby", "Iniciantes"],
+				"minAge": 14,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 3.5,
+				"cameraQuality": 2.5,
+				"flightPerformance": 2.0,
+				"features": 2.5,
+				"portability": 4.5
+			}
+		}
+	},
+	{
+		"id": "dji-neo-2-fly-more",
+		"name": "Drone Dji Neo 2 Fly More",
+		"category": "drones",
+		"brand": "DJI",
+		"line": "Fly More",
+		"model": "Neo 2",
+		"version": "Fly More Combo (Sem Controle) - DJI070",
+		"color": "Cinza",
+		"manufacturer": "Multi",
+		"releaseDate": "Novembro 2025",
+		"releaseYear": 2025,
+		"anatelNumber": "040092507248",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1bkbtZd",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_683752-MLA99988796100_122025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": false,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": "1/2-inch CMOS",
+				"megapixels": 12,
+				"fov": "119.8°",
+				"aperture": "f/2.2",
+				"iso": "100-12800",
+				"shutterSpeed": "1/8000-1/30s",
+				"fps": "4K @ 60fps, 4K @ 100fps slow-motion",
+				"hasDualCamera": false,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG"],
+				"videoFormats": ["MP4"],
+				"hasRawSupport": false,
+				"bitrate": "80 Mbps"
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Mecânico",
+				"axes": "2-Axis",
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["RockSteady", "EIS"]
+			},
+			"flight": {
+				"maxFlightTime": "19 min",
+				"maxSpeed": "72 km/h",
+				"maxDistance": "6km (CE) / 10km (FCC) com O4",
+				"maxAltitude": null,
+				"windResistance": "10.7 m/s (Level 5)",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1606mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 3,
+				"chargingTime": "68 min (3 baterias simultâneas)",
+				"intelligentBattery": true,
+				"fastCharging": true
+			},
+			"transmission": {
+				"range": "500m (WiFi) / 6km CE / 10km FCC (O4)",
+				"frequency": "2.45GHz",
+				"technology": "DJI O4 / WiFi FPV",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": false,
+				"type": "Smartphone",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": true
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Multi-sensor",
+				"directions": ["Omnidirecional"],
+				"detectionRange": null,
+				"omniDirectional": true,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": true,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": true,
+				"activeTrack": true,
+				"pointOfInterest": true,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": true,
+				"quickShots": ["Dolly Zoom", "MasterShots"],
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": true,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": true,
+				"voiceControl": true
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.45GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB-C"]
+			},
+			"storage": {
+				"internal": "49GB",
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": "-10°C",
+				"max": "40°C"
+			},
+			"dimensions": {
+				"folded": "147 x 171 x 41mm",
+				"unfolded": "147 x 171 x 41mm",
+				"weight": "151g (sem transceiver) / 160g (com transceiver)"
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"3 Baterias",
+					"Hub de carregamento bidirecional",
+					"Hélices sobressalentes",
+					"Protetores de hélices",
+					"Cabo USB-C",
+					"Chave de fenda",
+					"Manual"
+				],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "040092507248",
+				"fccId": null,
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": [
+					"Fotografia aérea",
+					"Vlogging",
+					"Conteúdo para redes sociais",
+					"Follow-me",
+					"Viagens"
+				],
+				"minAge": null,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 4.5,
+				"cameraQuality": 4.0,
+				"flightPerformance": 4.5,
+				"features": 5.0,
+				"portability": 5.0
+			}
+		}
+	},
+	{
+		"id": "dji-mini-5-pro-fly-more",
+		"name": "Mini 5 Pro Fly More",
+		"category": "drones",
+		"brand": "DJI",
+		"line": "Mini",
+		"model": "Mini 5 Pro",
+		"version": "Fly More Combo (Com tela)",
+		"color": "Cinza",
+		"manufacturer": null,
+		"releaseDate": "Setembro 2025",
+		"releaseYear": 2025,
+		"anatelNumber": "022582507248",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1YbSCVc",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_788272-MLA99507690048_112025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": "1-inch CMOS",
+				"megapixels": 50,
+				"fov": null,
+				"aperture": "f/1.8",
+				"iso": "100-12800",
+				"shutterSpeed": null,
+				"fps": "4K @ 60fps HDR, 4K @ 120fps slow-motion",
+				"hasDualCamera": false,
+				"hasNightVision": true,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG", "RAW"],
+				"videoFormats": ["MP4", "MOV"],
+				"hasRawSupport": true,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Mecânico",
+				"axes": "3-Axis",
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": "225°",
+				"stabilization": ["RockSteady", "HorizonBalancing"]
+			},
+			"flight": {
+				"maxFlightTime": "36 min (bateria normal) / 52 min (bateria Plus)",
+				"maxSpeed": null,
+				"maxDistance": "20km (FCC) / 10km (CE)",
+				"maxAltitude": null,
+				"windResistance": "10.7 m/s (Level 5)",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "2915mAh (normal) / 3910mAh (Plus)",
+				"voltage": "7.38V",
+				"type": "Li-Po",
+				"quantity": 3,
+				"chargingTime": null,
+				"intelligentBattery": true,
+				"fastCharging": true
+			},
+			"transmission": {
+				"range": "20km (FCC) / 10km (CE)",
+				"frequency": "2.4GHz / 5.8GHz",
+				"technology": "DJI O4+",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Smart Controller",
+				"screenSize": "5.5 polegadas",
+				"hasBuiltInScreen": true,
+				"batteryLife": "3 horas",
+				"controlledBySmartphone": false,
+				"hasTouch": true
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Multi-sensor",
+				"directions": ["Omnidirecional"],
+				"detectionRange": "0.1 lux (com LiDAR)",
+				"omniDirectional": true,
+				"apas": "APAS 5.0"
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS", "GLONASS", "Galileo", "BeiDou"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": true,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": true,
+				"activeTrack": true,
+				"pointOfInterest": true,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": ["Dronie", "Helix", "Rocket", "Circle", "Boomerang", "Asteroid"],
+				"panorama": true,
+				"hyperlapse": true,
+				"masterShots": true,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": true,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz / 5.8GHz",
+				"hasBluetooth": true,
+				"hasUSB": true,
+				"ports": ["USB-C"]
+			},
+			"storage": {
+				"internal": "42GB",
+				"externalSupport": "microSD",
+				"maxCardSize": "512GB"
+			},
+			"temperature": {
+				"min": "-10°C",
+				"max": "40°C"
+			},
+			"dimensions": {
+				"folded": "148 x 91 x 66mm",
+				"unfolded": "248 x 290 x 66mm",
+				"weight": "249.9g ± 4g"
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": [
+					"3 Baterias",
+					"Controle remoto RC2 com tela integrada",
+					"Hub de carregamento bidirecional",
+					"Filtros ND",
+					"Hélices sobressalentes",
+					"Cabos",
+					"Maleta de transporte"
+				],
+				"carryingCase": true
+			},
+			"certifications": {
+				"anatelNumber": "022582507248",
+				"fccId": null,
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": [
+					"Fotografia profissional",
+					"Filmagem cinematográfica",
+					"Conteúdo para redes sociais",
+					"Viagens",
+					"Voo noturno"
+				],
+				"minAge": null,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": "1 ano"
+			},
+			"ratings": {
+				"costBenefit": 4.5,
+				"cameraQuality": 5.0,
+				"flightPerformance": 5.0,
+				"features": 5.0,
+				"portability": 5.0
+			}
+		}
+	},
+	{
+		"id": "dji-neo-dji051",
+		"name": " Neo Dji051",
+		"category": "drones",
+		"brand": "DJI",
+		"line": "Neo",
+		"model": "Neo",
+		"version": "Fly More Combo",
+		"color": "Cinza",
+		"manufacturer": "Da-Jiang Innovations Science & Tech",
+		"releaseDate": "Setembro 2024",
+		"releaseYear": 2024,
+		"anatelNumber": "065742407248",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/23H19Pn",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_643112-MLA99937779871_112025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": false,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": "1/2-inch CMOS",
+				"megapixels": 12,
+				"fov": "117°",
+				"aperture": "f/2.2",
+				"iso": "100-3200 (Auto) / 100-12800 (Manual)",
+				"shutterSpeed": "1/8000-1/10s",
+				"fps": "4K @ 30fps",
+				"hasDualCamera": false,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG"],
+				"videoFormats": ["MP4"],
+				"hasRawSupport": false,
+				"bitrate": "75 Mbps"
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Mecânico",
+				"axes": "1-Axis",
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["RockSteady", "HorizonBalancing"]
+			},
+			"flight": {
+				"maxFlightTime": "18 min (17 min com protetor de hélices)",
+				"maxSpeed": "16 m/s (Modo Manual)",
+				"maxDistance": "50m (WiFi) / 10km (O4)",
+				"maxAltitude": "2000m",
+				"windResistance": "8 m/s (Level 4)",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1435mAh",
+				"voltage": "7.7V",
+				"type": "Li-Po",
+				"quantity": 3,
+				"chargingTime": "60 min (3 baterias simultâneas com carregador 60W) / 50 min (carga direta com carregador 15W)",
+				"intelligentBattery": true,
+				"fastCharging": true
+			},
+			"transmission": {
+				"range": "50m (WiFi) / 10km (O4 com RC)",
+				"frequency": "2.4GHz / 5.8GHz",
+				"technology": "DJI O4 / WiFi",
+				"maxResolution": "1080p",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": false,
+				"type": null,
+				"directions": null,
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": true,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": true,
+				"activeTrack": true,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": ["Dronie", "Circle", "Rocket", "Spotlight", "Helix", "Boomerang"],
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": true,
+				"voiceControl": true
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz / 5.8GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB-C"]
+			},
+			"storage": {
+				"internal": "22GB",
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": "40°C"
+			},
+			"dimensions": {
+				"folded": null,
+				"unfolded": "130 x 157 x 48.5mm",
+				"weight": "135g"
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"3 Baterias",
+					"Controle remoto RC-N3",
+					"Hub de carregamento bidirecional",
+					"Hélices sobressalentes",
+					"Protetores de hélices",
+					"Cabo USB-C",
+					"Manual"
+				],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "065742407248",
+				"fccId": null,
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": [
+					"Vlogging",
+					"Selfies aéreas",
+					"Conteúdo para redes sociais",
+					"Iniciantes",
+					"Viagens"
+				],
+				"minAge": null,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 5.0,
+				"cameraQuality": 3.0,
+				"flightPerformance": 3.5,
+				"features": 4.0,
+				"portability": 5.0
+			}
+		}
+	},
+	{
+		"id": "drone-mini-pro-gps-2",
+		"name": "Drone Mini Pro GPS 2",
+		"category": "drones",
+		"brand": "Mostaz",
+		"line": "Mini Drone Pro",
+		"model": "Mini Drone Pro GPS",
+		"version": "Mini Drone Pro GPS II",
+		"color": "Preto",
+		"manufacturer": "BELLA BRINQUEDOS",
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": "66152416268",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2XCS84F",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_974939-MLA99533870508_122025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "Full HD",
+				"sensor": null,
+				"megapixels": null,
+				"fov": null,
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": null,
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": false,
+				"type": null,
+				"axes": null,
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": null
+			},
+			"flight": {
+				"maxFlightTime": "10 min",
+				"maxSpeed": "32.4 km/h",
+				"maxDistance": "100m",
+				"maxAltitude": "100m",
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": null,
+				"voltage": null,
+				"type": "Li-Po",
+				"quantity": 2,
+				"chargingTime": null,
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "100m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "Full HD",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": false,
+				"hasTouch": true
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Visual",
+				"directions": ["Frontal", "Inferior"],
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": false,
+				"followMe": true,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": "microSD",
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": "0°C",
+				"max": "70°C"
+			},
+			"dimensions": {
+				"folded": null,
+				"unfolded": null,
+				"weight": "250g"
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"Bateria extra",
+					"Cabo de alimentação",
+					"Chave de fenda",
+					"Controle remoto",
+					"Manual",
+					"Parafuso",
+					"Protetores de hélices",
+					"Suporte para celular",
+					"Maleta de transporte"
+				],
+				"carryingCase": true
+			},
+			"certifications": {
+				"anatelNumber": "66152416268",
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": false,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Lazer", "Profissional", "Recreativo", "Treino", "Vídeos"],
+				"minAge": 7,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 3.5,
+				"cameraQuality": 2.0,
+				"flightPerformance": 2.0,
+				"features": 2.5,
+				"portability": 3.5
+			}
+		}
+	},
+	{
+		"id": "air-3s",
+		"name": " Air 3S",
+		"category": "drones",
+		"brand": "DJI",
+		"line": "Air",
+		"model": "Air 3S",
+		"version": "Standard (sem Tela)",
+		"color": "Cinza",
+		"manufacturer": "DJI",
+		"releaseDate": "Outubro 2024",
+		"releaseYear": 2024,
+		"anatelNumber": "073832407248",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/24bniC9",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_840803-MLA99495348730_112025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": false,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": "1-inch CMOS (Wide) / 1/1.3-inch CMOS (Tele)",
+				"megapixels": 50,
+				"fov": "24mm (Wide) / 70mm (Tele)",
+				"aperture": "f/1.8 (Wide) / f/2.8 (Tele)",
+				"iso": "100-12800",
+				"shutterSpeed": "1/8000s",
+				"fps": "4K @ 60fps HDR, 4K @ 120fps slow-motion",
+				"hasDualCamera": true,
+				"hasNightVision": true,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG", "RAW (DNG)"],
+				"videoFormats": ["MP4", "MOV"],
+				"hasRawSupport": true,
+				"bitrate": "130 Mbps"
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Mecânico",
+				"axes": "3-Axis",
+				"tiltRange": "-90° a +60°",
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["RockSteady", "HorizonBalancing"]
+			},
+			"flight": {
+				"maxFlightTime": "45 min",
+				"maxSpeed": "21 m/s (Modo Sport)",
+				"maxDistance": "32km",
+				"maxAltitude": "6000m",
+				"windResistance": "12 m/s (Level 5)",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "4241mAh",
+				"voltage": "15.48V",
+				"type": "LiPo 4S",
+				"quantity": 1,
+				"chargingTime": "80 min (com DJI 65W) / 60 min (com DJI 100W e hub)",
+				"intelligentBattery": true,
+				"fastCharging": true
+			},
+			"transmission": {
+				"range": "20km (FCC) / 10km (CE)",
+				"frequency": "2.4GHz / 5.8GHz",
+				"technology": "DJI O4",
+				"maxResolution": "1080p",
+				"latency": "120ms",
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Multi-sensor",
+				"directions": ["Omnidirecional (6 direções) + LiDAR frontal"],
+				"detectionRange": "0.5-200m (visão) / 0.5-18m (LiDAR)",
+				"omniDirectional": true,
+				"apas": "APAS 5.0"
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS", "GLONASS", "Galileo", "BeiDou"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": true,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": true,
+				"activeTrack": true,
+				"pointOfInterest": true,
+				"waypoint": true,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": ["Dronie", "Circle", "Rocket", "Spotlight", "Helix", "Boomerang", "Asteroid"],
+				"panorama": true,
+				"hyperlapse": true,
+				"masterShots": true,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": false,
+				"aiTracking": true,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz / 5.8GHz",
+				"hasBluetooth": true,
+				"hasUSB": true,
+				"ports": ["USB-C"]
+			},
+			"storage": {
+				"internal": "42GB",
+				"externalSupport": "microSD",
+				"maxCardSize": "512GB"
+			},
+			"temperature": {
+				"min": "-10°C",
+				"max": "40°C"
+			},
+			"dimensions": {
+				"folded": "207 x 100 x 91mm",
+				"unfolded": "326 x 266 x 106mm",
+				"weight": "724g"
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": ["1 Bateria inteligente", "Controle remoto RC-N3", "Hélices", "Cabo USB-C", "Manual"],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "073832407248",
+				"fccId": null,
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": false,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": [
+					"Fotografia de viagem",
+					"Filmagem profissional",
+					"Criação de conteúdo",
+					"Fotografia noturna",
+					"Paisagens"
+				],
+				"minAge": null,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": "1 ano"
+			},
+			"ratings": {
+				"costBenefit": 4.5,
+				"cameraQuality": 5.0,
+				"flightPerformance": 5.0,
+				"features": 5.0,
+				"portability": 4.0
+			}
+		}
+	},
+	{
+		"id": "dji-mini-4k-standard",
+		"name": " Mini 4K Standard",
+		"category": "drones",
+		"brand": "DJI",
+		"line": "Mini",
+		"model": "Mini 4K",
+		"version": "Standard (sem Tela)",
+		"color": "Prateado",
+		"manufacturer": "DJI",
+		"releaseDate": "Abril 2024",
+		"releaseYear": 2024,
+		"anatelNumber": "68222207248",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1CMkb45",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_987308-MLA99478889674_112025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": "1/2.3-inch CMOS",
+				"megapixels": 12,
+				"fov": null,
+				"aperture": null,
+				"iso": "100-3200 (Auto) / 100-6400 (Manual)",
+				"shutterSpeed": "1/8000-4s",
+				"fps": "4K @ 30fps, 2.7K @ 60fps, 1080p @ 60fps",
+				"hasDualCamera": false,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG", "RAW"],
+				"videoFormats": ["MP4"],
+				"hasRawSupport": true,
+				"bitrate": "100 Mbps"
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Mecânico",
+				"axes": "3-Axis",
+				"tiltRange": "-90° a 0°",
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["RockSteady", "EIS"]
+			},
+			"flight": {
+				"maxFlightTime": "31 min",
+				"maxSpeed": "57.6 km/h (Modo Sport)",
+				"maxDistance": "10km (FCC)",
+				"maxAltitude": "4000m",
+				"windResistance": "10.7 m/s (Level 5)",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "2453mAh",
+				"voltage": "7.38V",
+				"type": "Li-Po",
+				"quantity": 1,
+				"chargingTime": "90 min",
+				"intelligentBattery": true,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "10km (FCC)",
+				"frequency": "2.4GHz / 5.8GHz",
+				"technology": "DJI O2",
+				"maxResolution": "1080p",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": "4 horas (sem carregar) / 2 horas (carregando celular)",
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": false,
+				"type": null,
+				"directions": null,
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS", "GLONASS"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": true,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": true,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": ["Dronie", "Helix", "Rocket", "Circle", "Boomerang"],
+				"panorama": true,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": false,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz / 5.8GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB-C"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": "microSD",
+				"maxCardSize": "256GB"
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": "138 x 81 x 58mm",
+				"unfolded": "159 x 203 x 56mm",
+				"weight": "246g"
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": ["1 Bateria", "Controle remoto RC-N1C", "Hélices", "Cabo USB-C", "Manual"],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "68222207248",
+				"fccId": null,
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": false,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Iniciantes", "Viagens", "Fotografia aérea casual", "Vlogging", "Lazer"],
+				"minAge": null,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 5.0,
+				"cameraQuality": 3.5,
+				"flightPerformance": 4.0,
+				"features": 3.5,
+				"portability": 5.0
+			}
+		}
+	},
+	{
+		"id": "sjrc-f22s-pro-2-baterias-e-bag",
+		"name": "SJRC F22S Pro 2",
+		"category": "drones",
+		"brand": "SJRC",
+		"line": null,
+		"model": "F22S Pro",
+		"version": "2 baterias e Bag",
+		"color": "Cinza",
+		"manufacturer": "SJRC",
+		"releaseDate": null,
+		"releaseYear": 2024,
+		"anatelNumber": "184412207248",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Ypvsvq",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_999206-MLA99945643049_112025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": false,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": null,
+				"megapixels": null,
+				"fov": "100°",
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": "30fps",
+				"hasDualCamera": false,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPG"],
+				"videoFormats": ["MP4"],
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Eletrônico",
+				"axes": "2-Axis",
+				"tiltRange": "-35° a +35°",
+				"panRange": null,
+				"rollRange": "-100° a +70°",
+				"stabilization": ["EIS"]
+			},
+			"flight": {
+				"maxFlightTime": "35 min",
+				"maxSpeed": "46.8 km/h",
+				"maxDistance": "3.5km",
+				"maxAltitude": null,
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "3500mAh",
+				"voltage": "11.1V",
+				"type": "Li-Po",
+				"quantity": 2,
+				"chargingTime": "3.5 horas (com carregador 5V/3A)",
+				"intelligentBattery": true,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "3.5km",
+				"frequency": "2.4GHz / 5GHz",
+				"technology": "Digital Image Transfer / WiFi",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": "2 horas",
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Laser",
+				"directions": ["360° omnidirecional"],
+				"detectionRange": null,
+				"omniDirectional": true,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": true,
+				"activeTrack": true,
+				"pointOfInterest": false,
+				"waypoint": true,
+				"tapFly": false,
+				"gesture": true,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": false,
+				"aiTracking": true,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "5GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB Type-C"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": "microSD / TF",
+				"maxCardSize": "128GB"
+			},
+			"temperature": {
+				"min": "0°C",
+				"max": "40°C"
+			},
+			"dimensions": {
+				"folded": "210 x 95 x 80mm",
+				"unfolded": "450 x 450 x 80mm",
+				"weight": "585g"
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": [
+					"2 Baterias",
+					"Controle remoto",
+					"Maleta de transporte",
+					"Hélices sobressalentes",
+					"Cabo USB",
+					"Manual"
+				],
+				"carryingCase": true
+			},
+			"certifications": {
+				"anatelNumber": "184412207248",
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": [
+					"Fotografia profissional",
+					"Filmagem aérea",
+					"Vlogging de viagem",
+					"Criação de conteúdo"
+				],
+				"minAge": 16,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 4.0,
+				"cameraQuality": 3.5,
+				"flightPerformance": 4.0,
+				"features": 4.0,
+				"portability": 3.5
+			}
+		}
+	},
+	{
+		"id": "dji-mini-3-standard",
+		"name": " Mini 3 Standard",
+		"category": "drones",
+		"brand": "DJI",
+		"line": "Mini",
+		"model": "Mini 3",
+		"version": "Standard (sem Tela)",
+		"color": "Cinza",
+		"manufacturer": "DJI",
+		"releaseDate": "Dezembro 2022",
+		"releaseYear": 2022,
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2GSX8gG",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_868898-MLA100002976127_112025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": "1/1.3-inch CMOS",
+				"megapixels": 12,
+				"fov": null,
+				"aperture": "f/1.7",
+				"iso": "100-3200 (Auto) / 100-12800 (Manual)",
+				"shutterSpeed": null,
+				"fps": "4K @ 30fps, 2.7K @ 60fps, 1080p @ 60fps",
+				"hasDualCamera": false,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG"],
+				"videoFormats": ["MP4"],
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Mecânico",
+				"axes": "3-Axis",
+				"tiltRange": "-90° a 0° (voo horizontal) / 0° a +90° (vertical)",
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["RockSteady"]
+			},
+			"flight": {
+				"maxFlightTime": "38 min (bateria normal) / 51 min (bateria Plus)",
+				"maxSpeed": "57.6 km/h",
+				"maxDistance": "18km (bateria normal) / 25km (bateria Plus)",
+				"maxAltitude": "4000m",
+				"windResistance": "10.7 m/s (Level 5)",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "2453mAh (normal) / 3850mAh (Plus)",
+				"voltage": "7.38V",
+				"type": "Li-Po",
+				"quantity": 1,
+				"chargingTime": null,
+				"intelligentBattery": true,
+				"fastCharging": true
+			},
+			"transmission": {
+				"range": "10km (FCC) / 6km (CE)",
+				"frequency": "2.4GHz / 5.8GHz",
+				"technology": "DJI O2",
+				"maxResolution": "1080p",
+				"latency": "200ms",
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": "5.5 polegadas",
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": true
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": false,
+				"type": null,
+				"directions": null,
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS", "GLONASS"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": true,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": ["Dronie", "Circle", "Helix", "Rocket", "Boomerang"],
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz / 5.8GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB-C"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": "microSD",
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": "-10°C",
+				"max": "40°C"
+			},
+			"dimensions": {
+				"folded": "145 x 90 x 62mm",
+				"unfolded": "251 x 362 x 70mm",
+				"weight": "249g"
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": [
+					"1 Bateria",
+					"1 Controle remoto",
+					"1 Cabo USB-C",
+					"1 Chave de fenda",
+					"1 Protetor de Gimbal",
+					"Hélices sobressalentes"
+				],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": null,
+				"fccId": null,
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": [
+					"Iniciantes",
+					"Viagens",
+					"Vlogging",
+					"Fotografia aérea casual",
+					"Conteúdo para redes sociais"
+				],
+				"minAge": null,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 4.5,
+				"cameraQuality": 4.0,
+				"flightPerformance": 4.5,
+				"features": 3.5,
+				"portability": 5.0
+			}
+		}
+	},
+	{
+		"id": "drone-v88max",
+		"name": "V88max",
+		"category": "drones",
+		"brand": "DLI",
+		"line": null,
+		"model": "V88max",
+		"version": "mini drone",
+		"color": "Preto",
+		"manufacturer": null,
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": "007432516268",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2feNaEw",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_788060-MLB102131128499_122025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": null,
+				"megapixels": null,
+				"fov": null,
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": null,
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": false,
+				"type": null,
+				"axes": null,
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": null
+			},
+			"flight": {
+				"maxFlightTime": "70 min",
+				"maxSpeed": null,
+				"maxDistance": null,
+				"maxAltitude": null,
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": null,
+				"voltage": null,
+				"type": null,
+				"quantity": 2,
+				"chargingTime": null,
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": null,
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": null,
+				"directions": null,
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": false,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": false,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": false,
+				"ports": null
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": null,
+				"unfolded": null,
+				"weight": null
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": null,
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "007432516268",
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": false,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Hobby", "Iniciantes"],
+				"minAge": null,
+				"noiseLevel": null,
+				"ledLights": false,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 3.8,
+				"cameraQuality": 2.8,
+				"flightPerformance": 2.5,
+				"features": 3.0,
+				"portability": 4.2
+			}
+		}
+	},
+	{
+		"id": "mini-drone-pro-gps-mostaz",
+		"name": "Mini Drone Pro GPS",
+		"category": "drones",
+		"brand": "Mostaz",
+		"line": "Mini Drone Pro",
+		"model": "Mini Drone Pro GPS",
+		"version": "Mini Drone Pro GPS II",
+		"color": "Preto",
+		"manufacturer": "BELLA BRINQUEDOS",
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": "66152416268",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2XCS84F",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_974939-MLA99533870508_122025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "Full HD",
+				"sensor": null,
+				"megapixels": null,
+				"fov": null,
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": null,
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": false,
+				"type": null,
+				"axes": null,
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": null
+			},
+			"flight": {
+				"maxFlightTime": "10 min",
+				"maxSpeed": "32.4 km/h",
+				"maxDistance": "100m",
+				"maxAltitude": "100m",
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": null,
+				"voltage": null,
+				"type": null,
+				"quantity": 2,
+				"chargingTime": null,
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "100m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "Full HD",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": false,
+				"hasTouch": true
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Infrared",
+				"directions": null,
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": null,
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": true,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": false,
+				"followMe": true,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": "0 °C",
+				"max": "70 °C"
+			},
+			"dimensions": {
+				"folded": null,
+				"unfolded": null,
+				"weight": null
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"Bateria extra",
+					"Cabo de alimentação",
+					"Chave de fenda",
+					"Controle remoto",
+					"Manual",
+					"Parafuso",
+					"Protetores de hélices",
+					"Suporte para celular",
+					"Maleta de transporte"
+				],
+				"carryingCase": true
+			},
+			"certifications": {
+				"anatelNumber": "66152416268",
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": false,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Lazer", "Profissional", "Recreativo", "Treino", "videos"],
+				"minAge": 7,
+				"noiseLevel": null,
+				"ledLights": false,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 3.7,
+				"cameraQuality": 3.0,
+				"flightPerformance": 2.8,
+				"features": 3.2,
+				"portability": 4.3
+			}
+		}
+	},
+	{
+		"id": "mini-drone-e88-dli",
+		"name": "E88",
+		"category": "drones",
+		"brand": "DLI",
+		"line": null,
+		"model": "E88",
+		"version": "mini drone",
+		"color": null,
+		"manufacturer": "DLI",
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": "196972214108",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2DEV4Pe",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_806100-MLB99452488721_112025-F-mini-drone-e88-profissionals-barata-cmeras-fotografia-aerea.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": null,
+				"megapixels": null,
+				"fov": null,
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": null,
+				"hasDualCamera": false,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": false,
+				"type": null,
+				"axes": null,
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": null
+			},
+			"flight": {
+				"maxFlightTime": "15 min",
+				"maxSpeed": null,
+				"maxDistance": null,
+				"maxAltitude": null,
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": null,
+				"voltage": null,
+				"type": null,
+				"quantity": 1,
+				"chargingTime": null,
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": null,
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": false,
+				"type": null,
+				"directions": null,
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": false,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": false,
+				"ports": null
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": null,
+				"unfolded": null,
+				"weight": null
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": null,
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "196972214108",
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Hobby", "Iniciantes"],
+				"minAge": null,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 4.0,
+				"cameraQuality": 2.5,
+				"flightPerformance": 3.0,
+				"features": 2.8,
+				"portability": 4.5
+			}
+		}
+	},
+	{
+		"id": "dli-drone-m3-max",
+		"name": "M3 Max",
+		"category": "drones",
+		"brand": "DLI",
+		"line": "Mini",
+		"model": "M3 Max",
+		"version": null,
+		"color": "Preto",
+		"manufacturer": "DLI",
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": "007432516268",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2QhBAMW",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_874576-MLB94307812890_102025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": null,
+				"megapixels": null,
+				"fov": "120°",
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": "30fps",
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": false,
+				"type": null,
+				"axes": null,
+				"tiltRange": "90°",
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["Fluxo Óptico"]
+			},
+			"flight": {
+				"maxFlightTime": "7 min",
+				"maxSpeed": null,
+				"maxDistance": "100m",
+				"maxAltitude": null,
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1800mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 1,
+				"chargingTime": "60-70 min",
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "100m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Visual",
+				"directions": ["360°"],
+				"detectionRange": null,
+				"omniDirectional": true,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": true,
+				"tapFly": false,
+				"gesture": true,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": null,
+				"unfolded": null,
+				"weight": "150g"
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"1x Drone",
+					"1x Controle remoto",
+					"2x Manuais de instruções",
+					"4x Lâminas sobressalentes",
+					"4x Anéis de reposição",
+					"1x Cabo USB"
+				],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "007432516268",
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Hobby", "Iniciantes"],
+				"minAge": 14,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 3.5,
+				"cameraQuality": 3.0,
+				"flightPerformance": 2.0,
+				"features": 3.0,
+				"portability": 4.5
+			}
+		}
+	},
+	{
+		"id": "iigenai-drone-e88-gn-310",
+		"name": "Drone E88",
+		"category": "drones",
+		"brand": "Iigenai",
+		"line": "Drone E88",
+		"model": "GN-310",
+		"version": "HD 720",
+		"color": "Preto",
+		"manufacturer": "China",
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2seGbjU",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_759185-MLA99915281325_112025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": false,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "HD",
+				"sensor": null,
+				"megapixels": null,
+				"fov": "110°",
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": "20fps",
+				"hasDualCamera": false,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": false,
+				"type": null,
+				"axes": null,
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": null
+			},
+			"flight": {
+				"maxFlightTime": "15 min",
+				"maxSpeed": "35 km/h",
+				"maxDistance": "100m",
+				"maxAltitude": "80m",
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1800mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 2,
+				"chargingTime": "100-120 min",
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "100m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "HD",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": true
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": false,
+				"type": null,
+				"directions": null,
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": true,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": true,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": "12.5 x 8.1 x 5.3 cm",
+				"unfolded": "26 x 19 x 4.6 cm",
+				"weight": "104g"
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"1x Drone",
+					"1x Controle remoto",
+					"1x Manual",
+					"2x Baterias",
+					"4x Hélices",
+					"4x Protetores de hélice",
+					"1x Cabo USB",
+					"1x Chave de fenda"
+				],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": null,
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Hobby", "Iniciantes"],
+				"minAge": 14,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 3.8,
+				"cameraQuality": 2.5,
+				"flightPerformance": 2.5,
+				"features": 3.0,
+				"portability": 4.5
+			}
+		}
+	},
+	{
+		"id": "mijia-drone-gt3",
+		"name": "Mini Drone GT3",
+		"category": "drones",
+		"brand": "Mijia",
+		"line": "Drones",
+		"model": "GT3",
+		"version": "Drone",
+		"color": "Cinza",
+		"manufacturer": "Importad",
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": "060792000160",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2aXBpCD",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_938143-MLA100688152450_122025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": false,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "HD",
+				"sensor": "1/3.2 polegadas",
+				"megapixels": null,
+				"fov": "120°",
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": "25fps",
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Eletrônico",
+				"axes": "2-Axis",
+				"tiltRange": "180°",
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["EIS", "Fluxo Óptico"]
+			},
+			"flight": {
+				"maxFlightTime": "12 min",
+				"maxSpeed": null,
+				"maxDistance": "100m",
+				"maxAltitude": null,
+				"windResistance": "8 km/h",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1800mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 1,
+				"chargingTime": "60 min",
+				"intelligentBattery": true,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "100m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV 5G",
+				"maxResolution": "HD",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Visual",
+				"directions": ["Frontal", "Traseira", "Lateral"],
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": true,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz / 5GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": null,
+				"unfolded": null,
+				"weight": "260g"
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"Controle remoto",
+					"Manual",
+					"Suporte para celular",
+					"Chave de fenda",
+					"Cabo de alimentação",
+					"Protetores de hélices"
+				],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "060792000160",
+				"fccId": null,
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Hobby", "Iniciantes", "Interior", "Exterior"],
+				"minAge": 14,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 3.5,
+				"cameraQuality": 2.5,
+				"flightPerformance": 2.5,
+				"features": 3.0,
+				"portability": 4.0
+			}
+		}
+	},
+	{
+		"id": "iigenai-drone-gt8-gn-508",
+		"name": "Drone GT8",
+		"category": "drones",
+		"brand": "IIGENAI STORE",
+		"line": "Profesional",
+		"model": "GN-508",
+		"version": "2025",
+		"color": "Azul",
+		"manufacturer": "Genai",
+		"releaseDate": null,
+		"releaseYear": 2025,
+		"anatelNumber": "196972214108",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/11nq7AU",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_915393-MLA97978612113_112025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": false,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": null,
+				"megapixels": null,
+				"fov": "120°",
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": "30fps",
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Eletrônico",
+				"axes": "3-Axis",
+				"tiltRange": "90°",
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["EIS"]
+			},
+			"flight": {
+				"maxFlightTime": "15-20 min",
+				"maxSpeed": null,
+				"maxDistance": "3000m",
+				"maxAltitude": null,
+				"windResistance": "<10 km/h",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1300mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 2,
+				"chargingTime": "90 min",
+				"intelligentBattery": true,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "3000m",
+				"frequency": "2.4GHz",
+				"technology": "5G WiFi FPV",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Smart Controller",
+				"screenSize": "4.3 polegadas",
+				"hasBuiltInScreen": true,
+				"batteryLife": null,
+				"controlledBySmartphone": false,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Multi-sensor",
+				"directions": ["Frontal", "Traseira", "Superior", "Inferior"],
+				"detectionRange": null,
+				"omniDirectional": true,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": true,
+				"tapFly": false,
+				"gesture": true,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz / 5GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": "MicroSD",
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": "13 x 8.9 x 7.2 cm",
+				"unfolded": "28.5 x 26 x 7.2 cm",
+				"weight": "177g"
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": [
+					"Manual",
+					"Controle remoto com tela",
+					"Bolsa de armazenamento",
+					"Cartão de memória + leitor",
+					"Cabo USB",
+					"Chave de fenda",
+					"8x Hélices sobressalentes"
+				],
+				"carryingCase": true
+			},
+			"certifications": {
+				"anatelNumber": "196972214108",
+				"fccId": null,
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Filmagem profissional", "Hobby"],
+				"minAge": 14,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 4.0,
+				"cameraQuality": 3.5,
+				"flightPerformance": 3.0,
+				"features": 4.0,
+				"portability": 4.5
+			}
+		}
+	},
+	{
+		"id": "dji-mini-3-rc",
+		"name": "Mini 3 DJI RC",
+		"category": "drones",
+		"brand": "DJI",
+		"line": "Mini",
+		"model": "Mini 3",
+		"version": "Standard",
+		"color": "Cinza",
+		"manufacturer": "DJI",
+		"releaseDate": "Dezembro 2022",
+		"releaseYear": 2022,
+		"anatelNumber": "183765432873",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2xbxgKZ",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_940104-MLA105469160271_012026-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": "1/1.3 polegadas CMOS",
+				"megapixels": 12,
+				"fov": "83° (equivalente 24mm)",
+				"aperture": "f/1.7",
+				"iso": "100-3200 (Auto), 100-6400 (Manual)",
+				"shutterSpeed": "4-1/8000s",
+				"fps": "4K: 24/25/30fps, 2.7K: 24/25/30/48/50/60fps, FHD: 24/25/30/48/50/60fps",
+				"hasDualCamera": false,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG", "DNG (RAW)"],
+				"videoFormats": ["MP4/MOV (H.264/H.265)"],
+				"hasRawSupport": true,
+				"bitrate": "150 Mbps"
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Mecânico",
+				"axes": "3-Axis",
+				"tiltRange": "-90° a +60°",
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["Mecânica 3-Axis"]
+			},
+			"flight": {
+				"maxFlightTime": "38 min (bateria padrão), 51 min (bateria Plus)",
+				"maxSpeed": "57.6 km/h (modo Sport)",
+				"maxDistance": "18 km",
+				"maxAltitude": "3000m (com bateria padrão), 4000m (com bateria Plus)",
+				"windResistance": "38.52 km/h (10.7 m/s, Nível 5)",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "2453mAh (bateria padrão)",
+				"voltage": "7.38V",
+				"type": "Li-Po",
+				"quantity": 1,
+				"chargingTime": "64 min (bateria padrão)",
+				"intelligentBattery": true,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "10 km (FCC), 6 km (CE/SRRC/MIC)",
+				"frequency": "2.4GHz / 5.8GHz",
+				"technology": "DJI O2",
+				"maxResolution": "4K",
+				"latency": "~200ms",
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Smart Controller",
+				"screenSize": "5.5 polegadas",
+				"hasBuiltInScreen": true,
+				"batteryLife": "6 horas (sem carregar dispositivo), 4 horas (carregando dispositivo)",
+				"controlledBySmartphone": false,
+				"hasTouch": true
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Visual",
+				"directions": ["Inferior"],
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS", "GLONASS", "Galileo"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": ["Dronie", "Helix", "Rocket", "Circle", "Boomerang"],
+				"panorama": true,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": false,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz / 5.8GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB-C"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": "microSD",
+				"maxCardSize": "256GB"
+			},
+			"temperature": {
+				"min": "-10°C",
+				"max": "40°C"
+			},
+			"dimensions": {
+				"folded": "148 x 90 x 62 mm",
+				"unfolded": "251 x 362 x 72 mm",
+				"weight": "249g"
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": [
+					"1x Cabo USB",
+					"1x Cabo USB-C a Tipo C PD",
+					"1x Controlador DJI RC",
+					"1x Chave de fenda",
+					"1x Cubo de Carga Bidirecional",
+					"Manual",
+					"4x Parafusos",
+					"2x Conjuntos de hélices",
+					"Protetor de gimbal"
+				],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "183765432873",
+				"fccId": "SS3-MT3B3D",
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": false,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": [
+					"Fotografia aérea",
+					"Filmagem 4K",
+					"Vídeos verticais",
+					"Viagens",
+					"Conteúdo para redes sociais"
+				],
+				"minAge": null,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": "1 ano"
+			},
+			"ratings": {
+				"costBenefit": 4.5,
+				"cameraQuality": 4.5,
+				"flightPerformance": 4.0,
+				"features": 4.0,
+				"portability": 5.0
+			}
+		}
+	},
+	{
+		"id": "dji-mini-3-fly-more-combo-rc",
+		"name": "Mini 3 Fly More Combo RC",
+		"category": "drones",
+		"brand": "DJI",
+		"line": "Mini",
+		"model": "Mini 3 RC",
+		"version": "Fly More Combo RC Com 3 baterias",
+		"color": "Cinza",
+		"manufacturer": "DJI",
+		"releaseDate": "Dezembro 2022",
+		"releaseYear": 2022,
+		"anatelNumber": "729622072488",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2ub8LG1",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_691373-MLA100073962015_122025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": "1/1.3 polegadas CMOS",
+				"megapixels": 12,
+				"fov": "83° (equivalente 24mm)",
+				"aperture": "f/1.7",
+				"iso": "100-3200 (Auto), 100-6400 (Manual)",
+				"shutterSpeed": "4-1/8000s",
+				"fps": "4K: 24/25/30fps, 2.7K: 24/25/30/48/50/60fps, FHD: 24/25/30/48/50/60fps",
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG", "DNG (RAW)"],
+				"videoFormats": ["MP4/MOV (H.264/H.265)"],
+				"hasRawSupport": true,
+				"bitrate": "150 Mbps"
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Mecânico",
+				"axes": "3-Axis",
+				"tiltRange": "-90° a +60°",
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["Mecânica 3-Axis"]
+			},
+			"flight": {
+				"maxFlightTime": "38 min (bateria padrão), 51 min (bateria Plus)",
+				"maxSpeed": "57.6 km/h (modo Sport)",
+				"maxDistance": "10 km",
+				"maxAltitude": "3000m (com bateria padrão), 4000m (com bateria Plus)",
+				"windResistance": "38.52 km/h (10.7 m/s, Nível 5)",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "2453mAh (bateria padrão)",
+				"voltage": "7.38V",
+				"type": "Li-Po",
+				"quantity": 3,
+				"chargingTime": "64 min (bateria padrão)",
+				"intelligentBattery": true,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "10 km (FCC), 6 km (CE/SRRC/MIC)",
+				"frequency": "2.4GHz / 5.8GHz",
+				"technology": "DJI O2",
+				"maxResolution": "4K",
+				"latency": "~200ms",
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Smart Controller",
+				"screenSize": "5.5 polegadas",
+				"hasBuiltInScreen": true,
+				"batteryLife": "6 horas (sem carregar dispositivo), 4 horas (carregando dispositivo)",
+				"controlledBySmartphone": false,
+				"hasTouch": true
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Visual",
+				"directions": ["Inferior"],
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS", "GLONASS", "Galileo"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": ["Dronie", "Helix", "Rocket", "Circle", "Boomerang"],
+				"panorama": true,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": false,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz / 5.8GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB-C"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": "microSD",
+				"maxCardSize": "256GB"
+			},
+			"temperature": {
+				"min": "-10°C",
+				"max": "40°C"
+			},
+			"dimensions": {
+				"folded": "148 x 90 x 62 mm",
+				"unfolded": "251 x 362 x 72 mm",
+				"weight": "249g"
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": [
+					"1x Bolsa de ombro",
+					"1x Cabo USB",
+					"1x Cabo USB-C a Tipo C PD",
+					"1x Chave de fenda",
+					"1x Controlador DJI RC",
+					"1x Cubo de Carga Bidirecional",
+					"18x Parafusos de reposição",
+					"3x Baterias inteligentes",
+					"6x Hélices de reposição",
+					"Protetor de gimbal",
+					"Manual"
+				],
+				"carryingCase": true
+			},
+			"certifications": {
+				"anatelNumber": "729622072488",
+				"fccId": "SS3-MT3B3D",
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": [
+					"Fotografia aérea",
+					"Filmagem 4K",
+					"Vídeos verticais",
+					"Viagens",
+					"Conteúdo para redes sociais"
+				],
+				"minAge": null,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": "1 ano"
+			},
+			"ratings": {
+				"costBenefit": 4.5,
+				"cameraQuality": 4.5,
+				"flightPerformance": 4.0,
+				"features": 4.5,
+				"portability": 5.0
+			}
+		}
+	},
+	{
+		"id": "genai-ls-s2s-drone",
+		"name": "S2S Profissional",
+		"category": "drones",
+		"brand": "Genai",
+		"line": "Brushless",
+		"model": "LS-S2S",
+		"version": "2025",
+		"color": "Branco",
+		"manufacturer": "MARGO ACESSORIOS",
+		"releaseDate": null,
+		"releaseYear": 2025,
+		"anatelNumber": "196972214108",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1UemKgj",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_880606-MLA98658828201_112025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": false,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": null,
+				"megapixels": null,
+				"fov": "120°",
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": "30fps",
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Eletrônico",
+				"axes": "2-Axis",
+				"tiltRange": "90°",
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["EIS", "Servo"]
+			},
+			"flight": {
+				"maxFlightTime": "25 min",
+				"maxSpeed": null,
+				"maxDistance": "100m",
+				"maxAltitude": "100m",
+				"windResistance": "Nível 7",
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "2000mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 2,
+				"chargingTime": "120 min",
+				"intelligentBattery": true,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "100m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Multi-sensor",
+				"directions": ["360°"],
+				"detectionRange": null,
+				"omniDirectional": true,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": true,
+				"waypoint": true,
+				"tapFly": false,
+				"gesture": true,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": "0°C",
+				"max": "40°C"
+			},
+			"dimensions": {
+				"folded": "11.2 x 13.6 x 8.3 cm",
+				"unfolded": "27 x 22 x 7 cm",
+				"weight": "174g"
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": [
+					"Controle remoto",
+					"Manual",
+					"Chave de fenda",
+					"Parafuso",
+					"Cabo de alimentação",
+					"8x Hélices sobressalentes"
+				],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "196972214108",
+				"fccId": null,
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Hobby", "Iniciantes"],
+				"minAge": 14,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 4.0,
+				"cameraQuality": 3.5,
+				"flightPerformance": 3.5,
+				"features": 4.0,
+				"portability": 4.0
+			}
+		}
+	},
+	{
+		"id": "iisank-zd012-gn-512",
+		"name": "Drone ZD012 Profissional",
+		"category": "drones",
+		"brand": "IIsank",
+		"line": "Profissional",
+		"model": "GN-512",
+		"version": "ZS012",
+		"color": "Preto",
+		"manufacturer": "IIsank",
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1qb7gkH",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_666327-MLB104123937587_012026-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": false,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "HD",
+				"sensor": null,
+				"megapixels": null,
+				"fov": "110°",
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": "25fps",
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": null,
+				"videoFormats": null,
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": true,
+				"type": "Eletrônico",
+				"axes": "1-Axis",
+				"tiltRange": "90°",
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": ["Eletrônico"]
+			},
+			"flight": {
+				"maxFlightTime": "15 min",
+				"maxSpeed": null,
+				"maxDistance": "300-500m",
+				"maxAltitude": null,
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1000mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 2,
+				"chargingTime": "120 min",
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "300-500m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "HD",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": false,
+				"type": null,
+				"directions": null,
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": true,
+				"gpsType": ["GPS"],
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": true,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": true,
+				"tapFly": false,
+				"gesture": false,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": false,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": "130 x 70 x 55 mm",
+				"unfolded": "230 x 230 x 55 mm",
+				"weight": "158g"
+			},
+			"accessories": {
+				"hasProtectors": false,
+				"includedItems": [
+					"2x Baterias",
+					"Bolsa",
+					"Cabo de alimentação",
+					"Chave de fenda",
+					"Controle remoto",
+					"2x Hélices sobressalentes",
+					"Manual"
+				],
+				"carryingCase": true
+			},
+			"certifications": {
+				"anatelNumber": null,
+				"fccId": null,
+				"ceMarking": true
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Hobby", "Iniciantes"],
+				"minAge": 14,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 4.0,
+				"cameraQuality": 2.5,
+				"flightPerformance": 3.0,
+				"features": 3.5,
+				"portability": 4.5
+			}
+		}
+	},
+	{
+		"id": "dli-e99-mini-drone",
+		"name": "Drone E99 4k",
+		"category": "drones",
+		"brand": "DLI",
+		"line": "Mini",
+		"model": "E99",
+		"version": "mini drone",
+		"color": "Preto",
+		"manufacturer": "2.4 GHz",
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": "80641707248",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1oPtM5Q",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_724125-MLA99523584644_122025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": null,
+				"megapixels": null,
+				"fov": "120°",
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": "30fps",
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG"],
+				"videoFormats": ["MP4"],
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": false,
+				"type": null,
+				"axes": null,
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": null
+			},
+			"flight": {
+				"maxFlightTime": "12-15 min",
+				"maxSpeed": null,
+				"maxDistance": "80-100m",
+				"maxAltitude": null,
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1800mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 2,
+				"chargingTime": "100-120 min",
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "80-100m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Visual",
+				"directions": ["Inferior"],
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": false,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": true,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": "12.5 x 8 x 5.5 cm",
+				"unfolded": "25 x 20 x 5.5 cm",
+				"weight": "90g"
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"1x Chavinha",
+					"2x Baterias",
+					"4x Hélices reserva",
+					"4x Protetores para hélices",
+					"Cabo USB",
+					"Controle remoto",
+					"Maleta (estojo)"
+				],
+				"carryingCase": true
+			},
+			"certifications": {
+				"anatelNumber": "80641707248",
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Hobby", "Iniciantes"],
+				"minAge": 14,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 3.5,
+				"cameraQuality": 3.0,
+				"flightPerformance": 2.5,
+				"features": 3.0,
+				"portability": 5.0
+			}
+		}
+	},
+	{
+		"id": "dli-e88-mini-drone",
+		"name": "Mini Drone E88",
+		"category": "drones",
+		"brand": "DLI",
+		"line": "Drone",
+		"model": "E88",
+		"version": "mini drone",
+		"color": null,
+		"manufacturer": "DLI",
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": "196972214108",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2DEV4Pe",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_806100-MLB99452488721_112025-F-mini-drone-e88-profissionals-barata-cmeras-fotografia-aerea.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": null,
+				"megapixels": null,
+				"fov": "110°",
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": "30fps",
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG"],
+				"videoFormats": ["MP4"],
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": false,
+				"type": null,
+				"axes": null,
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": null
+			},
+			"flight": {
+				"maxFlightTime": "15 min",
+				"maxSpeed": null,
+				"maxDistance": "100m",
+				"maxAltitude": null,
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1800mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 1,
+				"chargingTime": "100 min",
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "100m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": false,
+				"type": null,
+				"directions": null,
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": true,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": true,
+				"tapFly": false,
+				"gesture": true,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": "12.5 x 8 x 5.5 cm",
+				"unfolded": "25 x 20 x 5.5 cm",
+				"weight": "90g"
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"Drone",
+					"Controle remoto",
+					"Cabo USB",
+					"Protetor de hélices",
+					"Chave de fenda",
+					"Hélices sobressalentes"
+				],
+				"carryingCase": false
+			},
+			"certifications": {
+				"anatelNumber": "196972214108",
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Hobby", "Iniciantes"],
+				"minAge": 14,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 3.5,
+				"cameraQuality": 2.5,
+				"flightPerformance": 2.5,
+				"features": 3.0,
+				"portability": 5.0
+			}
+		}
+	},
+	{
+		"id": "dli-e99-mini-drone-cinza",
+		"name": "Drone E99 4k",
+		"category": "drones",
+		"brand": "DLI",
+		"line": "Mini",
+		"model": "E99",
+		"version": "mini drone",
+		"color": "Cinza",
+		"manufacturer": "2.4 GHz",
+		"releaseDate": null,
+		"releaseYear": null,
+		"anatelNumber": "112572013224",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1yn24hm",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_665964-MLA99447787764_112025-F.webp",
+		"specs": {
+			"type": "Aéreo",
+			"isMini": true,
+			"isFoldable": true,
+			"camera": {
+				"hasCamera": true,
+				"resolution": "4K",
+				"sensor": null,
+				"megapixels": null,
+				"fov": "120°",
+				"aperture": null,
+				"iso": null,
+				"shutterSpeed": null,
+				"fps": "30fps",
+				"hasDualCamera": true,
+				"hasNightVision": false,
+				"hasThermalCamera": false,
+				"photoFormats": ["JPEG"],
+				"videoFormats": ["MP4"],
+				"hasRawSupport": false,
+				"bitrate": null
+			},
+			"gimbal": {
+				"hasGimbal": false,
+				"type": null,
+				"axes": null,
+				"tiltRange": null,
+				"panRange": null,
+				"rollRange": null,
+				"stabilization": null
+			},
+			"flight": {
+				"maxFlightTime": "12-15 min",
+				"maxSpeed": "4 m/s",
+				"maxDistance": "80-100m",
+				"maxAltitude": "50m",
+				"windResistance": null,
+				"motors": 4,
+				"propellerSize": null
+			},
+			"battery": {
+				"capacity": "1800mAh",
+				"voltage": "3.7V",
+				"type": "Li-Po",
+				"quantity": 2,
+				"chargingTime": "100-120 min",
+				"intelligentBattery": false,
+				"fastCharging": false
+			},
+			"transmission": {
+				"range": "80-100m",
+				"frequency": "2.4GHz",
+				"technology": "WiFi FPV",
+				"maxResolution": "4K",
+				"latency": null,
+				"liveView": true
+			},
+			"controller": {
+				"hasController": true,
+				"type": "Controle padrão",
+				"screenSize": null,
+				"hasBuiltInScreen": false,
+				"batteryLife": null,
+				"controlledBySmartphone": true,
+				"hasTouch": false
+			},
+			"obstacleAvoidance": {
+				"hasObstacleAvoidance": true,
+				"type": "Visual",
+				"directions": ["Inferior"],
+				"detectionRange": null,
+				"omniDirectional": false,
+				"apas": null
+			},
+			"positioning": {
+				"hasGPS": false,
+				"gpsType": null,
+				"hasVisionPositioning": true,
+				"hasInfraredPositioning": false,
+				"rtkPositioning": false
+			},
+			"intelligentFeatures": {
+				"autoReturn": false,
+				"followMe": false,
+				"activeTrack": false,
+				"pointOfInterest": false,
+				"waypoint": false,
+				"tapFly": false,
+				"gesture": true,
+				"quickShots": null,
+				"panorama": false,
+				"hyperlapse": false,
+				"masterShots": false,
+				"spin360": true,
+				"altitudeHold": true,
+				"headlessMode": true,
+				"aiTracking": false,
+				"voiceControl": false
+			},
+			"connectivity": {
+				"hasWiFi": true,
+				"wiFiFrequency": "2.4GHz",
+				"hasBluetooth": false,
+				"hasUSB": true,
+				"ports": ["USB"]
+			},
+			"storage": {
+				"internal": null,
+				"externalSupport": null,
+				"maxCardSize": null
+			},
+			"temperature": {
+				"min": null,
+				"max": null
+			},
+			"dimensions": {
+				"folded": "12.5 x 8 x 5.5 cm",
+				"unfolded": "25 x 20 x 5.5 cm",
+				"weight": "92g"
+			},
+			"accessories": {
+				"hasProtectors": true,
+				"includedItems": [
+					"1x Chavinha",
+					"2x Baterias",
+					"4x Hélices reserva",
+					"4x Protetores para hélices",
+					"Cabo USB",
+					"Controle remoto",
+					"Maleta (estojo)"
+				],
+				"carryingCase": true
+			},
+			"certifications": {
+				"anatelNumber": "112572013224",
+				"fccId": null,
+				"ceMarking": null
+			},
+			"other": {
+				"isFPV": true,
+				"isRacing": false,
+				"waterResistance": null,
+				"recommendedUses": ["Fotografia aérea", "Hobby", "Iniciantes"],
+				"minAge": 14,
+				"noiseLevel": null,
+				"ledLights": true,
+				"warranty": null
+			},
+			"ratings": {
+				"costBenefit": 3.5,
+				"cameraQuality": 3.0,
+				"flightPerformance": 2.5,
+				"features": 3.0,
+				"portability": 5.0
+			}
+		}
+	}
+]

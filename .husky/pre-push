@@ -1,0 +1,5 @@
+bun run stats
+
+bun run format
+
+bun run build

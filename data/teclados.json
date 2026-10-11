@@ -1,0 +1,2337 @@
+[
+	{
+		"id": "teclado-titanis-usb-abnt2",
+		"name": "USB",
+		"brand": "Titanis",
+		"line": null,
+		"model": "USB",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_714792-MLA99598037550_122025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1tR7JHS",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "Titanis",
+		"specs": {
+			"type": "Membrana",
+			"layout": "ABNT2",
+			"size": "Full Size",
+			"switches": null,
+			"keycaps": {
+				"material": null,
+				"profile": null,
+				"printMethod": null,
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "1,2 m",
+					"detachable": false
+				}
+			},
+			"backlighting": {
+				"type": "Nenhum",
+				"software": null,
+				"effects": null,
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": false,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": null,
+				"plate": null,
+				"weight": "350 g"
+			},
+			"software": null,
+			"dimensions": {
+				"width": "44 cm",
+				"height": "13,5 cm",
+				"depth": "1,5 cm",
+				"weight": "350 g"
+			},
+			"compatibility": ["Windows", "Linux"],
+			"ratings": {
+				"costBenefit": 7.5,
+				"typingExperience": 5.0,
+				"buildQuality": 5.5,
+				"features": 3.0,
+				"gaming": 4.0
+			}
+		}
+	},
+	{
+		"id": "teclado-logitech-pebble-keys-2-k380s-branco",
+		"name": "Pebble Keys 2 K380s",
+		"brand": "Logitech",
+		"line": "Pebble Keys",
+		"model": "K380s",
+		"detailedModel": "Pebble Keys 2 K380s",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_922040-MLA99988615541_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2oDbD9Y",
+		"shopeeUrl": null,
+		"alphanumericModel": "920-011790",
+		"version": "2",
+		"manufacturer": "Logitech",
+		"specs": {
+			"type": "Membrana",
+			"layout": "QWERTY (Inglês US)",
+			"size": "75%",
+			"switches": {
+				"type": "SilentTouch",
+				"brand": "Logitech",
+				"actuationForce": null,
+				"travelDistance": null,
+				"lifespan": "10 milhões de toques",
+				"hotSwappable": false
+			},
+			"keycaps": {
+				"material": "Plástico",
+				"profile": "Redondas",
+				"printMethod": null,
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Sem fio",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": false,
+					"multiDevice": true,
+					"maxDevices": 3
+				},
+				"cable": null
+			},
+			"backlighting": {
+				"type": "Nenhum",
+				"software": null,
+				"effects": null,
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": false,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": {
+				"type": "2x AAA",
+				"capacity": null,
+				"life": "Até 36 meses",
+				"rechargeable": false
+			},
+			"build": {
+				"frame": "Plástico",
+				"plate": null,
+				"weight": "415 g"
+			},
+			"software": {
+				"name": "Logi Options+",
+				"features": ["Customização de teclas", "Easy-Switch"],
+				"platforms": ["Windows", "macOS", "iPadOS", "ChromeOS", "Linux", "Android", "iOS"]
+			},
+			"dimensions": {
+				"width": "27,9 cm",
+				"height": "12,4 cm",
+				"depth": "1,6 cm",
+				"weight": "415 g"
+			},
+			"compatibility": ["Windows", "macOS", "iPadOS", "ChromeOS", "Linux", "Android", "iOS"],
+			"ratings": {
+				"costBenefit": 8.0,
+				"typingExperience": 7.5,
+				"buildQuality": 7.5,
+				"features": 7.0,
+				"gaming": 5.0
+			}
+		}
+	},
+	{
+		"id": "teclado-bmax-bm-t02-abnt2-preto",
+		"name": "BM-T02",
+		"brand": "B-Max",
+		"line": null,
+		"model": "BM-T02",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_811150-MLA95533531204_102025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2BB7JzF",
+		"shopeeUrl": null,
+		"alphanumericModel": "BM-T02",
+		"version": null,
+		"manufacturer": "B-Max",
+		"specs": {
+			"type": "Membrana",
+			"layout": "ABNT2",
+			"size": "Full Size",
+			"switches": null,
+			"keycaps": {
+				"material": null,
+				"profile": null,
+				"printMethod": null,
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "1,5 m",
+					"detachable": false
+				}
+			},
+			"backlighting": {
+				"type": "Nenhum",
+				"software": null,
+				"effects": null,
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": false,
+				"macroKeys": null,
+				"mediaKeys": false,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico",
+				"plate": null,
+				"weight": null
+			},
+			"software": null,
+			"dimensions": {
+				"width": "20 cm",
+				"height": "15 cm",
+				"depth": "10 cm",
+				"weight": null
+			},
+			"compatibility": ["Windows", "Linux"],
+			"ratings": {
+				"costBenefit": 7.0,
+				"typingExperience": 5.0,
+				"buildQuality": 5.0,
+				"features": 3.5,
+				"gaming": 3.5
+			}
+		}
+	},
+	{
+		"id": "teclado-clanm-snow-walker-60-branco",
+		"name": "Snow Walker",
+		"brand": "CLANM",
+		"line": "Snow Walker",
+		"model": "TK76SNOW",
+		"detailedModel": "Snow Walker TK76SNOW",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_716602-MLA99536259136_122025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2tLGpkx",
+		"shopeeUrl": null,
+		"alphanumericModel": "TK76SNOW",
+		"version": null,
+		"manufacturer": "CLANM",
+		"specs": {
+			"type": "Mecânico",
+			"layout": "QWERTY",
+			"size": "60%",
+			"switches": {
+				"type": "Mecânico",
+				"brand": "CLANM",
+				"actuationForce": null,
+				"travelDistance": null,
+				"lifespan": "50 milhões de toques",
+				"hotSwappable": false
+			},
+			"keycaps": {
+				"material": "ABS",
+				"profile": null,
+				"printMethod": "Pad Printing",
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB Type-C",
+					"length": "1,5 m",
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "RGB",
+				"software": null,
+				"effects": ["Breathing", "Wave", "Ripple", "Reactive", "Static"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": true,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico ABS",
+				"plate": null,
+				"weight": null
+			},
+			"software": null,
+			"dimensions": {
+				"width": "29,2 cm",
+				"height": "3,5 cm",
+				"depth": "10,5 cm",
+				"weight": null
+			},
+			"compatibility": ["Windows", "macOS", "Linux"],
+			"ratings": {
+				"costBenefit": 7.5,
+				"typingExperience": 6.5,
+				"buildQuality": 6.0,
+				"features": 6.5,
+				"gaming": 7.0
+			}
+		}
+	},
+	{
+		"id": "teclado-rezzet-bahrein-com-fio-preto",
+		"name": "Bahrein",
+		"brand": "Rezzet",
+		"line": "Padrão",
+		"model": "Bahrein",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_791049-MLA94970915514_102025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2R3YoBK",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "Rezzet",
+		"specs": {
+			"type": "Membrana",
+			"layout": "QWERTY (Português Brasil)",
+			"size": "Full Size",
+			"switches": null,
+			"keycaps": {
+				"material": null,
+				"profile": null,
+				"printMethod": null,
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": null,
+					"detachable": false
+				}
+			},
+			"backlighting": {
+				"type": "Nenhum",
+				"software": null,
+				"effects": null,
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": false,
+				"macroKeys": null,
+				"mediaKeys": false,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": null,
+				"plate": null,
+				"weight": null
+			},
+			"software": null,
+			"dimensions": {
+				"width": "44 cm",
+				"height": "14 cm",
+				"depth": null,
+				"weight": null
+			},
+			"compatibility": ["Windows", "Linux"],
+			"ratings": {
+				"costBenefit": 6.5,
+				"typingExperience": 4.5,
+				"buildQuality": 4.5,
+				"features": 2.5,
+				"gaming": 3.0
+			}
+		}
+	},
+	{
+		"id": "teclado-aula-f75-rgb-tri-mode-leobog",
+		"name": "F75",
+		"brand": "Aula",
+		"line": "F 75%",
+		"model": "F75",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_843447-MLA99995615829_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ZPhtYX",
+		"shopeeUrl": null,
+		"alphanumericModel": "F75",
+		"version": null,
+		"manufacturer": "Aula",
+		"specs": {
+			"type": "Mecânico",
+			"layout": "QWERTY (Inglês US)",
+			"size": "75%",
+			"switches": {
+				"type": "Linear",
+				"brand": "Leobog",
+				"actuationForce": "45g",
+				"travelDistance": "4mm",
+				"lifespan": "50 milhões de toques",
+				"hotSwappable": true
+			},
+			"keycaps": {
+				"material": "PBT",
+				"profile": "OEM",
+				"printMethod": "Dye-sublimation",
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Híbrido",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": true,
+					"multiDevice": true,
+					"maxDevices": 3
+				},
+				"cable": {
+					"type": "USB-C",
+					"length": "1,8 m",
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "Per-Key RGB",
+				"software": "Aula Software",
+				"effects": ["Static", "Breathing", "Wave", "Rainbow", "Reactive", "Custom"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": true,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": true,
+				"wristRest": false,
+				"programmable": true,
+				"onboardMemory": true,
+				"passthrough": false
+			},
+			"battery": {
+				"type": "Li-ion",
+				"capacity": "4000mAh",
+				"life": "Até 200 horas (sem RGB)",
+				"rechargeable": true
+			},
+			"build": {
+				"frame": "Alumínio",
+				"plate": "Alumínio",
+				"weight": "1,02 kg"
+			},
+			"software": {
+				"name": "Aula Software",
+				"features": ["Customização RGB", "Macros", "Remapeamento de teclas", "Perfis"],
+				"platforms": ["Windows", "macOS"]
+			},
+			"dimensions": {
+				"width": "33 cm",
+				"height": "4,3 cm",
+				"depth": "14 cm",
+				"weight": "1,02 kg"
+			},
+			"compatibility": ["Windows", "macOS", "Linux", "PS4", "Xbox 360", "Xbox One"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"typingExperience": 8.0,
+				"buildQuality": 8.5,
+				"features": 9.0,
+				"gaming": 8.5
+			}
+		}
+	},
+	{
+		"id": "redragon-kumara-elite-k552-krs",
+		"name": "Kumara Elite",
+		"brand": "Redragon",
+		"line": "Kumara",
+		"model": "Kumara Elite",
+		"detailedModel": "K552-KRS",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_867447-MLA100007934727_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2GbAHnz",
+		"shopeeUrl": null,
+		"alphanumericModel": "K552-KRS",
+		"version": null,
+		"manufacturer": "Redragon",
+		"specs": {
+			"type": "Mecânico",
+			"layout": "ABNT2",
+			"size": "TKL",
+			"switches": {
+				"type": "Tátil",
+				"brand": "Redragon Brown",
+				"actuationForce": "55g",
+				"travelDistance": "4mm",
+				"lifespan": "50 milhões de cliques",
+				"hotSwappable": true
+			},
+			"keycaps": {
+				"material": "ABS",
+				"profile": "OEM",
+				"printMethod": "Doubleshot Injection",
+				"doubleShot": true
+			},
+			"connectivity": {
+				"type": "Híbrido",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": true,
+					"multiDevice": true,
+					"maxDevices": 3
+				},
+				"cable": {
+					"type": "USB Type-C",
+					"length": "1,5m",
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "RGB",
+				"software": "Redragon Software",
+				"effects": [
+					"Estático",
+					"Respiração",
+					"Onda",
+					"Ripple",
+					"Reactive",
+					"Rainbow",
+					"Gradiente",
+					"Trail of Light",
+					"Pass without Trace",
+					"Coastal",
+					"Hurricane",
+					"Accumulate",
+					"Digital Times"
+				],
+				"brightness": 5
+			},
+			"features": {
+				"nkro": true,
+				"antiGhosting": true,
+				"macroKeys": 0,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": true,
+				"onboardMemory": true,
+				"passthrough": false
+			},
+			"battery": {
+				"type": "Li-ion recarregável",
+				"capacity": "4000mAh",
+				"life": "Até 200 horas (sem iluminação)",
+				"rechargeable": true
+			},
+			"build": {
+				"frame": "Plástico ABS com placa de metal",
+				"plate": "Tray Mount",
+				"weight": "900g"
+			},
+			"software": {
+				"name": "Redragon Software",
+				"features": [
+					"Customização de iluminação RGB",
+					"Programação de macros",
+					"Configuração de perfis",
+					"Remapeamento de teclas"
+				],
+				"platforms": ["Windows", "macOS"]
+			},
+			"dimensions": {
+				"width": "354mm",
+				"height": "36mm",
+				"depth": "124mm",
+				"weight": "900g"
+			},
+			"compatibility": ["Windows 7/8/10/11", "macOS", "Linux", "Android", "iOS"],
+			"ratings": {
+				"costBenefit": 9.0,
+				"typingExperience": 7.5,
+				"buildQuality": 8.0,
+				"features": 8.5,
+				"gaming": 8.0
+			}
+		}
+	},
+	{
+		"id": "redragon-dyaus-2-k509rgb",
+		"name": "Dyaus 2",
+		"brand": "Redragon",
+		"line": "Dyaus",
+		"model": "Dyaus 2",
+		"detailedModel": "K509RGB (PT)",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_884449-MLA99933925113_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2PQo2S2",
+		"shopeeUrl": null,
+		"alphanumericModel": "K509RGB",
+		"version": null,
+		"manufacturer": "Redragon",
+		"specs": {
+			"type": "Membrana",
+			"layout": "ABNT2",
+			"size": "Full Size",
+			"switches": null,
+			"keycaps": {
+				"material": "ABS",
+				"profile": null,
+				"printMethod": null,
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB 2.0",
+					"length": "1,8m",
+					"detachable": false
+				}
+			},
+			"backlighting": {
+				"type": "RGB",
+				"software": null,
+				"effects": [
+					"7 modos de cores RGB",
+					"Iluminação no perímetro do teclado",
+					"Ajuste de velocidade",
+					"Ajuste de brilho"
+				],
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": true,
+				"macroKeys": 0,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico ABS com backplate de metal/alumínio",
+				"plate": null,
+				"weight": "800g"
+			},
+			"software": {
+				"name": null,
+				"features": null,
+				"platforms": null
+			},
+			"dimensions": {
+				"width": "460mm",
+				"height": "60mm",
+				"depth": "200mm",
+				"weight": "800g"
+			},
+			"compatibility": ["Windows", "macOS", "Linux"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"typingExperience": 7.0,
+				"buildQuality": 7.5,
+				"features": 6.5,
+				"gaming": 7.0
+			}
+		}
+	},
+	{
+		"id": "flatshop-t223",
+		"name": "T223",
+		"brand": "Flatshop",
+		"line": "Gamer",
+		"model": "T223",
+		"detailedModel": "T223",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_753952-MLA99455393320_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1FMzngZ",
+		"shopeeUrl": null,
+		"alphanumericModel": "T223",
+		"version": null,
+		"manufacturer": "Flatshop",
+		"specs": {
+			"type": "Mecânico",
+			"layout": "QWERTY ABNT2",
+			"size": "60%",
+			"switches": {
+				"type": "Brown",
+				"brand": null,
+				"actuationForce": null,
+				"travelDistance": null,
+				"lifespan": null,
+				"hotSwappable": false
+			},
+			"keycaps": {
+				"material": null,
+				"profile": null,
+				"printMethod": null,
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "1,5 m",
+					"detachable": false
+				}
+			},
+			"backlighting": {
+				"type": "RGB",
+				"software": null,
+				"effects": ["17 efeitos"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": true,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": null,
+				"plate": null,
+				"weight": null
+			},
+			"software": null,
+			"dimensions": {
+				"width": "29 cm",
+				"height": "3,6 cm",
+				"depth": "9,95 cm",
+				"weight": null
+			},
+			"compatibility": ["PC", "PS4", "Xbox", "Console"],
+			"ratings": {
+				"costBenefit": 7.5,
+				"typingExperience": 6.5,
+				"buildQuality": 6.0,
+				"features": 6.0,
+				"gaming": 7.0
+			}
+		}
+	},
+	{
+		"id": "aula-f75-thunder-black",
+		"name": "F75",
+		"brand": "Aula",
+		"line": "Línea F 75%",
+		"model": "F75",
+		"detailedModel": "F75 Thunder Black",
+		"color": "Thunder black",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_708935-MLA100005092589_122025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2NfoRZp",
+		"shopeeUrl": null,
+		"alphanumericModel": "F75",
+		"version": null,
+		"manufacturer": "Aula",
+		"specs": {
+			"type": "Mecânico",
+			"layout": "ANSI US 75%",
+			"size": "75%",
+			"switches": {
+				"type": "Linear",
+				"brand": "Leobog Graywood",
+				"actuationForce": "40g",
+				"travelDistance": "3.6mm",
+				"lifespan": "60 milhões de cliques",
+				"hotSwappable": true
+			},
+			"keycaps": {
+				"material": "PBT",
+				"profile": "Cherry",
+				"printMethod": "Double-shot",
+				"doubleShot": true
+			},
+			"connectivity": {
+				"type": "Híbrido",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": true,
+					"multiDevice": true,
+					"maxDevices": 3
+				},
+				"cable": {
+					"type": "USB-C",
+					"length": "1,8 m",
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "Per-Key RGB",
+				"software": "AULA Software",
+				"effects": ["16 efeitos pré-definidos", "Ritmo de áudio"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": true,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": true,
+				"wristRest": false,
+				"programmable": true,
+				"onboardMemory": true,
+				"passthrough": false
+			},
+			"battery": {
+				"type": "Li-ion",
+				"capacity": "4000mAh",
+				"life": "30.5 horas com RGB ligado, 80 horas com RGB desligado",
+				"rechargeable": true
+			},
+			"build": {
+				"frame": "ABS plástico",
+				"plate": "PC Flex-Cut",
+				"weight": "1,02 kg"
+			},
+			"software": {
+				"name": "AULA Software",
+				"features": ["Remapeamento de teclas", "Macros", "Controle RGB", "Perfis de memória"],
+				"platforms": ["Windows"]
+			},
+			"dimensions": {
+				"width": "33 cm",
+				"height": "4,3 cm",
+				"depth": "14 cm",
+				"weight": "1,02 kg"
+			},
+			"compatibility": ["Windows", "Mac", "Android", "Linux", "PS4", "Xbox 360", "Xbox One"],
+			"ratings": {
+				"costBenefit": 9.0,
+				"typingExperience": 8.5,
+				"buildQuality": 8.0,
+				"features": 8.5,
+				"gaming": 8.0
+			}
+		}
+	},
+	{
+		"id": "logitech-k950-signature-slim",
+		"name": "Signature Slim K950",
+		"brand": "Logitech",
+		"line": "SIGNATURE SLIM",
+		"model": "K950",
+		"detailedModel": "920-012432",
+		"color": "Grafite",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_777762-MLA99952946845_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1kbxjNS",
+		"shopeeUrl": null,
+		"alphanumericModel": "920-012432",
+		"version": null,
+		"manufacturer": "Logitech",
+		"specs": {
+			"type": "Membrana",
+			"layout": "QWERTY Full Size",
+			"size": "Full Size",
+			"switches": {
+				"type": "Scissor",
+				"brand": "Logitech",
+				"actuationForce": null,
+				"travelDistance": null,
+				"lifespan": null,
+				"hotSwappable": false
+			},
+			"keycaps": {
+				"material": "Plástico",
+				"profile": "Low-profile laptop-style",
+				"printMethod": "Printed",
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Sem fio",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": false,
+					"multiDevice": true,
+					"maxDevices": 3
+				},
+				"cable": null
+			},
+			"backlighting": {
+				"type": "Nenhum",
+				"software": null,
+				"effects": null,
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": false,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": true,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": {
+				"type": "2x AAA",
+				"capacity": null,
+				"life": "Até 36 meses",
+				"rechargeable": false
+			},
+			"build": {
+				"frame": "Plástico (48% reciclado pós-consumo)",
+				"plate": null,
+				"weight": "800 g"
+			},
+			"software": {
+				"name": "Logi Options+",
+				"features": [
+					"Remapeamento de teclas",
+					"Smart Actions",
+					"Macros",
+					"Perfis personalizados",
+					"AI Prompt Builder",
+					"Flow"
+				],
+				"platforms": ["Windows", "macOS"]
+			},
+			"dimensions": {
+				"width": "43,38 cm",
+				"height": "13,48 cm",
+				"depth": "2,31 cm",
+				"weight": "800 g"
+			},
+			"compatibility": ["Windows", "macOS", "ChromeOS", "Linux", "iPadOS 14+", "iOS 14+", "Android 9.0+"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"typingExperience": 8.0,
+				"buildQuality": 7.5,
+				"features": 8.0,
+				"gaming": 5.0
+			}
+		}
+	},
+	{
+		"id": "redragon-yi-k625p",
+		"name": "Yi",
+		"brand": "Redragon",
+		"line": null,
+		"model": "Yi",
+		"detailedModel": "K625P-KB (PT-BROWN)",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_863030-MLA99520066824_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2xhqJuF",
+		"shopeeUrl": null,
+		"alphanumericModel": "K625P-KB",
+		"version": null,
+		"manufacturer": "Redragon",
+		"specs": {
+			"type": "Mecânico",
+			"layout": "ABNT2 96%",
+			"size": "Full Size",
+			"switches": {
+				"type": "Tátil",
+				"brand": "Redragon Low Profile Brown",
+				"actuationForce": "45g",
+				"travelDistance": "3.0mm",
+				"lifespan": "50 milhões de cliques",
+				"hotSwappable": true
+			},
+			"keycaps": {
+				"material": "ABS",
+				"profile": "Low Profile",
+				"printMethod": "Double-shot Injection",
+				"doubleShot": true
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB-C",
+					"length": "1,5 m",
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "Per-Key RGB",
+				"software": null,
+				"effects": ["RGB Redragon Chroma Mk.II"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": true,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico",
+				"plate": null,
+				"weight": "822 g"
+			},
+			"software": null,
+			"dimensions": {
+				"width": "390 mm",
+				"height": "40 mm",
+				"depth": "190 mm",
+				"weight": "822 g"
+			},
+			"compatibility": ["Windows", "Mac", "Linux"],
+			"ratings": {
+				"costBenefit": 8.5,
+				"typingExperience": 8.0,
+				"buildQuality": 7.5,
+				"features": 7.5,
+				"gaming": 8.0
+			}
+		}
+	},
+	{
+		"id": "aula-win60-he",
+		"name": "WIN60 HE",
+		"brand": "Aula",
+		"line": "WIN HE Series",
+		"model": "WIN60 HE",
+		"detailedModel": "WIN60 HE 8000Hz",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_890329-MLA99573027644_122025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2qz1bo4",
+		"shopeeUrl": null,
+		"alphanumericModel": "WIN60HE",
+		"version": null,
+		"manufacturer": "Aula",
+		"specs": {
+			"type": "Magnético",
+			"layout": "QWERTY ANSI 60%",
+			"size": "60%",
+			"switches": {
+				"type": "Linear Magnético (Hall Effect)",
+				"brand": "Aula Graywood Magnetic",
+				"actuationForce": null,
+				"travelDistance": "0.08mm - 3.4mm ajustável",
+				"lifespan": "100 milhões de cliques",
+				"hotSwappable": true
+			},
+			"keycaps": {
+				"material": "ABS",
+				"profile": "OEM",
+				"printMethod": "Double-shot",
+				"doubleShot": true
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB-C",
+					"length": null,
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "Per-Key RGB",
+				"software": "AULA Web Driver",
+				"effects": ["16 milhões de cores", "South-facing LED"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": true,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": false,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": true,
+				"onboardMemory": true,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico com placa de posicionamento em metal",
+				"plate": "Metal positioning plate",
+				"weight": null
+			},
+			"software": {
+				"name": "AULA Web Driver (Chrome-based)",
+				"features": [
+					"Rapid Trigger (RT) 0.02mm",
+					"Dynamic Keystroke (DKS)",
+					"Multi-Tap (MT)",
+					"Toggle (TGL)",
+					"SOCD",
+					"Rapid Switch (RS)",
+					"Ajuste de acionamento 0.08mm-3.4mm",
+					"Calibração visual",
+					"Macro personalizado",
+					"Perfis de memória"
+				],
+				"platforms": ["Windows", "macOS"]
+			},
+			"dimensions": {
+				"width": "29.15 cm",
+				"height": "3.69 cm",
+				"depth": "10.91 cm",
+				"weight": null
+			},
+			"compatibility": ["Windows", "macOS"],
+			"ratings": {
+				"costBenefit": 9.0,
+				"typingExperience": 7.5,
+				"buildQuality": 7.5,
+				"features": 9.5,
+				"gaming": 9.5
+			}
+		}
+	},
+	{
+		"id": "akko-tac75-he-black",
+		"name": "TAC75 HE",
+		"brand": "Akko",
+		"line": null,
+		"model": "TAC75 HE",
+		"detailedModel": "TAC75 HE Black",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_840798-MLA100025369213_122025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1kQdZN7",
+		"shopeeUrl": null,
+		"alphanumericModel": "TAC75 HE",
+		"version": null,
+		"manufacturer": "Akko",
+		"specs": {
+			"type": "Magnético",
+			"layout": "ANSI 75%",
+			"size": "75%",
+			"switches": {
+				"type": "Linear Magnético",
+				"brand": "Akko AstroAim / Astrolink / Glare",
+				"actuationForce": "25-36gf (inicial)",
+				"travelDistance": "3.4-3.5mm",
+				"lifespan": "100 milhões de cliques",
+				"hotSwappable": true
+			},
+			"keycaps": {
+				"material": "PBT",
+				"profile": "Cherry",
+				"printMethod": "Side-printed",
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB-C",
+					"length": null,
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "Per-Key RGB",
+				"software": "Akko Driver",
+				"effects": ["Mais de 20 modos pré-definidos", "16 milhões de cores por tecla"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": true,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": false,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": true,
+				"onboardMemory": true,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico",
+				"plate": "Plate-mounted",
+				"weight": null
+			},
+			"software": {
+				"name": "Akko Driver",
+				"features": [
+					"Rapid Trigger 0.005mm-2mm",
+					"Distância de acionamento ajustável 0.1mm-3.3mm",
+					"RT Stabilizer",
+					"Snap Key (SOCD)",
+					"Dynamic Keystrokes",
+					"Mod-Tap",
+					"Toggle Key",
+					"Deadzone Setting",
+					"Controle RGB personalizado"
+				],
+				"platforms": ["Windows", "Web"]
+			},
+			"dimensions": {
+				"width": null,
+				"height": null,
+				"depth": "13,5 cm",
+				"weight": null
+			},
+			"compatibility": ["Windows", "Mac", "Linux"],
+			"ratings": {
+				"costBenefit": 9.5,
+				"typingExperience": 8.0,
+				"buildQuality": 7.5,
+				"features": 9.5,
+				"gaming": 9.5
+			}
+		}
+	},
+	{
+		"id": "titorion-te-001",
+		"name": "TE-001",
+		"brand": "Titorion",
+		"line": "Gamer",
+		"model": "TE-001",
+		"detailedModel": "TE-001",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_946903-MLA99991826447_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/12cAX9F",
+		"shopeeUrl": null,
+		"alphanumericModel": "TE-001",
+		"version": null,
+		"manufacturer": "Titorion",
+		"specs": {
+			"type": "Semi-mecânico",
+			"layout": "ABNT 2",
+			"size": "Full Size",
+			"switches": {
+				"type": "Mem-chanical (híbrido)",
+				"brand": "Titorion",
+				"actuationForce": null,
+				"travelDistance": null,
+				"lifespan": null,
+				"hotSwappable": false
+			},
+			"keycaps": {
+				"material": "ABS",
+				"profile": "Cilíndrico",
+				"printMethod": null,
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB 2.0",
+					"length": "1,5 m",
+					"detachable": false
+				}
+			},
+			"backlighting": {
+				"type": "RGB",
+				"software": null,
+				"effects": ["Rainbow fixo"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico ABS",
+				"plate": null,
+				"weight": "600 g"
+			},
+			"software": null,
+			"dimensions": {
+				"width": "44 cm",
+				"height": "4 cm",
+				"depth": "13 cm",
+				"weight": "600 g"
+			},
+			"compatibility": ["Windows", "PS4", "Xbox 360", "Xbox One", "PS5"],
+			"ratings": {
+				"costBenefit": 7.5,
+				"typingExperience": 6.0,
+				"buildQuality": 6.5,
+				"features": 6.0,
+				"gaming": 6.5
+			}
+		}
+	},
+	{
+		"id": "aula-f75-cedar-green",
+		"name": "F75 Cedar Green",
+		"brand": "Aula",
+		"line": "Línea F 75%",
+		"model": "F75",
+		"detailedModel": "F75 Cedar Green",
+		"color": "Cedar Green",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_703337-MLA99974409173_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1KQm694",
+		"shopeeUrl": null,
+		"alphanumericModel": "F75",
+		"version": "Cedar Green",
+		"manufacturer": "Aula",
+		"specs": {
+			"type": "Mecânico",
+			"layout": "ANSI US 75%",
+			"size": "75%",
+			"switches": {
+				"type": "Linear",
+				"brand": "Leobog Ash Wood V3 (Graywood V3)",
+				"actuationForce": "30gf",
+				"travelDistance": "3.6mm",
+				"lifespan": "60 milhões de cliques",
+				"hotSwappable": true
+			},
+			"keycaps": {
+				"material": "PBT",
+				"profile": "Cherry",
+				"printMethod": "Double-shot",
+				"doubleShot": true
+			},
+			"connectivity": {
+				"type": "Híbrido",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": true,
+					"multiDevice": true,
+					"maxDevices": 5
+				},
+				"cable": {
+					"type": "USB-C",
+					"length": "1,8 m",
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "Per-Key RGB",
+				"software": "AULA Software",
+				"effects": ["16 efeitos pré-definidos", "10 efeitos ritmo de áudio", "16,8 milhões de cores"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": true,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": true,
+				"wristRest": false,
+				"programmable": true,
+				"onboardMemory": true,
+				"passthrough": false
+			},
+			"battery": {
+				"type": "Li-ion",
+				"capacity": "4000mAh",
+				"life": "30,5 horas com RGB ligado, 80 horas com RGB desligado",
+				"rechargeable": true
+			},
+			"build": {
+				"frame": "Plástico de alta qualidade",
+				"plate": "PC Flex-Cut com Gasket Mount",
+				"weight": "1,02 kg"
+			},
+			"software": {
+				"name": "AULA Software",
+				"features": [
+					"Remapeamento de teclas",
+					"Macros programáveis",
+					"Controle RGB personalizado",
+					"Perfis de memória",
+					"Efeitos de música sincronizados"
+				],
+				"platforms": ["Windows"]
+			},
+			"dimensions": {
+				"width": "33 cm",
+				"height": "4,3 cm",
+				"depth": "14 cm",
+				"weight": "1,02 kg"
+			},
+			"compatibility": ["Windows", "Mac", "Android", "Linux", "PS4", "Xbox 360", "Xbox One"],
+			"ratings": {
+				"costBenefit": 9.0,
+				"typingExperience": 8.5,
+				"buildQuality": 8.0,
+				"features": 8.5,
+				"gaming": 8.0
+			}
+		}
+	},
+	{
+		"id": "knup-madset-te-140",
+		"name": "Madset TE-140",
+		"brand": "Knup",
+		"line": "Madset",
+		"model": "TE-140",
+		"detailedModel": "KP-TE140",
+		"color": "Branco",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_766433-MLA99938294043_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1QGvRnt",
+		"shopeeUrl": null,
+		"alphanumericModel": "KP-TE140",
+		"version": null,
+		"manufacturer": "Knup",
+		"specs": {
+			"type": "Semi-mecânico",
+			"layout": "ABNT 2",
+			"size": "75%",
+			"switches": {
+				"type": "Mem-chanical (híbrido)",
+				"brand": "Knup",
+				"actuationForce": null,
+				"travelDistance": null,
+				"lifespan": null,
+				"hotSwappable": false
+			},
+			"keycaps": {
+				"material": "ABS",
+				"profile": "Cilíndrico",
+				"printMethod": null,
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB-C",
+					"length": "1,6 m",
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "RGB",
+				"software": null,
+				"effects": ["Rainbow"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": true,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico ABS",
+				"plate": null,
+				"weight": "1,02 kg"
+			},
+			"software": null,
+			"dimensions": {
+				"width": "33 cm",
+				"height": "13,9 cm",
+				"depth": "4,1 cm",
+				"weight": "1,02 kg"
+			},
+			"compatibility": ["Windows", "Linux", "Mac", "PS4", "Xbox 360", "Xbox One"],
+			"ratings": {
+				"costBenefit": 8.0,
+				"typingExperience": 6.5,
+				"buildQuality": 7.0,
+				"features": 7.0,
+				"gaming": 7.0
+			}
+		}
+	},
+	{
+		"id": "knup-kp-2003a",
+		"name": "KP-2003A",
+		"brand": "Knup",
+		"line": null,
+		"model": "KP-2003A",
+		"detailedModel": "BN-30",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_691448-MLA99598582506_122025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1UxV1s8",
+		"shopeeUrl": null,
+		"alphanumericModel": "KP-2003A",
+		"version": null,
+		"manufacturer": "Knup",
+		"specs": {
+			"type": "Membrana",
+			"layout": "Numérico",
+			"size": "40%",
+			"switches": {
+				"type": "Membrana",
+				"brand": "Knup",
+				"actuationForce": null,
+				"travelDistance": null,
+				"lifespan": null,
+				"hotSwappable": false
+			},
+			"keycaps": {
+				"material": "ABS",
+				"profile": "Cilíndrico",
+				"printMethod": null,
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB 2.0",
+					"length": "1,25 m",
+					"detachable": false
+				}
+			},
+			"backlighting": null,
+			"features": {
+				"nkro": false,
+				"antiGhosting": false,
+				"macroKeys": null,
+				"mediaKeys": false,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico ABS",
+				"plate": null,
+				"weight": "20 g"
+			},
+			"software": null,
+			"dimensions": {
+				"width": "8,5 cm",
+				"height": "2 cm",
+				"depth": "14 cm",
+				"weight": "20 g"
+			},
+			"compatibility": ["Windows", "Linux", "Mac"],
+			"ratings": {
+				"costBenefit": 7.0,
+				"typingExperience": 5.0,
+				"buildQuality": 5.5,
+				"features": 4.0,
+				"gaming": 4.0
+			}
+		}
+	},
+	{
+		"id": "aula-win60-he-max",
+		"name": "WIN60 HE MAX",
+		"brand": "Aula",
+		"line": "WIN Series",
+		"model": "WIN60 HE MAX",
+		"detailedModel": "WIN60 HE MAX",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_920142-MLA85660017503_062025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1cTBk8k",
+		"shopeeUrl": null,
+		"alphanumericModel": "WIN60 HE MAX",
+		"version": "MAX",
+		"manufacturer": "Aula",
+		"specs": {
+			"type": "Magnético",
+			"layout": "ANSI 60%",
+			"size": "60%",
+			"switches": {
+				"type": "Linear Magnético Hall Effect",
+				"brand": "Leobog Wing Chun",
+				"actuationForce": "36gf",
+				"travelDistance": "3.4mm",
+				"lifespan": "100 milhões de cliques",
+				"hotSwappable": true
+			},
+			"keycaps": {
+				"material": "PBT",
+				"profile": "Cherry",
+				"printMethod": "Double-shot",
+				"doubleShot": true
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB-C",
+					"length": null,
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "Per-Key RGB",
+				"software": "AULA Web Driver",
+				"effects": ["Mais de 20 modos de iluminação", "16,8 milhões de cores personalizáveis"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": true,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": false,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": true,
+				"onboardMemory": true,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico ABS de alta qualidade",
+				"plate": "Metal positioning plate com Gasket Mount",
+				"weight": "634 g"
+			},
+			"software": {
+				"name": "AULA Web Driver",
+				"features": [
+					"Rapid Trigger 0.01mm (Beast Mode)",
+					"Precisão de acionamento 0.02mm (0.01mm no Beast Mode)",
+					"Distância de acionamento ajustável 0.1-3.4mm por 0.01mm",
+					"Dynamic Keystroke (DKS) - até 4 funções por tecla",
+					"Mod-Tap (MT)",
+					"Toggle Key (TGL)",
+					"Multi-Press Timing (MPT)",
+					"SOCD (Snap Key)",
+					"Rapid Switch (RS)",
+					"Deadzone Setting",
+					"Controle RGB personalizado"
+				],
+				"platforms": ["Windows", "Web-based"]
+			},
+			"dimensions": {
+				"width": "32 cm",
+				"height": "11 cm",
+				"depth": "3 cm",
+				"weight": "634 g"
+			},
+			"compatibility": ["Windows", "Mac", "Linux"],
+			"ratings": {
+				"costBenefit": 9.5,
+				"typingExperience": 8.5,
+				"buildQuality": 8.5,
+				"features": 10.0,
+				"gaming": 10.0
+			}
+		}
+	},
+	{
+		"id": "logitech-k120-preto-abnt2",
+		"name": "K120",
+		"brand": "Logitech",
+		"line": null,
+		"model": "K120",
+		"detailedModel": "920-002816",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_889766-MLA99449024848_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1cq2LLW",
+		"shopeeUrl": null,
+		"alphanumericModel": "920-002816",
+		"version": null,
+		"manufacturer": "Logitech",
+		"specs": {
+			"type": "Membrana",
+			"layout": "ABNT2 Português Brasil",
+			"size": "Full Size",
+			"switches": null,
+			"keycaps": {
+				"material": "Plástico ABS com revestimento UV",
+				"profile": "Perfil baixo",
+				"printMethod": "Caracteres brancos brilhantes",
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "1,5 m",
+					"detachable": false
+				}
+			},
+			"backlighting": {
+				"type": "Nenhum",
+				"software": null,
+				"effects": null,
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": false,
+				"macroKeys": null,
+				"mediaKeys": false,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico (51% reciclado pós-consumo)",
+				"plate": null,
+				"weight": "550 g"
+			},
+			"software": {
+				"name": "Plug-and-Play",
+				"features": ["Sem necessidade de software", "Instalação instantânea"],
+				"platforms": ["Windows", "Linux"]
+			},
+			"dimensions": {
+				"width": "45 cm",
+				"height": "15,5 cm",
+				"depth": "2,35 cm",
+				"weight": "550 g"
+			},
+			"compatibility": [
+				"Windows XP",
+				"Windows Vista",
+				"Windows 7",
+				"Windows 8",
+				"Windows 10",
+				"Windows 11",
+				"Linux kernel 2.6+",
+				"PS4"
+			],
+			"ratings": {
+				"costBenefit": 9.5,
+				"typingExperience": 7.0,
+				"buildQuality": 7.5,
+				"features": 5.0,
+				"gaming": 5.5
+			}
+		}
+	},
+	{
+		"id": "dell-kb216-preto-abnt2",
+		"name": "KB216",
+		"brand": "Dell",
+		"line": null,
+		"model": "KB216",
+		"detailedModel": "KB216",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_847147-MLA99483236256_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1D3jE3Z",
+		"shopeeUrl": null,
+		"alphanumericModel": "KB216",
+		"version": null,
+		"manufacturer": "Dell",
+		"specs": {
+			"type": "Membrana",
+			"layout": "ABNT2 Português Brasil",
+			"size": "Full Size",
+			"switches": {
+				"type": "Plunger",
+				"brand": null,
+				"actuationForce": null,
+				"travelDistance": "Curso curto (chiclet)",
+				"lifespan": null,
+				"hotSwappable": false
+			},
+			"keycaps": {
+				"material": "Plástico",
+				"profile": "Chiclet (perfil baixo)",
+				"printMethod": "Impressão branca",
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "1,5 m",
+					"detachable": false
+				}
+			},
+			"backlighting": {
+				"type": "Nenhum",
+				"software": null,
+				"effects": null,
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": false,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico",
+				"plate": null,
+				"weight": "503 g"
+			},
+			"software": {
+				"name": "Plug-and-Play",
+				"features": ["Sem necessidade de software", "Instalação automática"],
+				"platforms": ["Windows", "macOS", "Linux", "Chrome OS", "Android OS"]
+			},
+			"dimensions": {
+				"width": "44,2 cm",
+				"height": "12,7 cm",
+				"depth": "2,44 cm",
+				"weight": "503 g"
+			},
+			"compatibility": [
+				"Windows 7",
+				"Windows 8.1",
+				"Windows 10",
+				"Windows 11",
+				"macOS",
+				"Linux 6.x",
+				"Ubuntu",
+				"Chrome OS",
+				"Android OS"
+			],
+			"ratings": {
+				"costBenefit": 9.0,
+				"typingExperience": 7.5,
+				"buildQuality": 7.5,
+				"features": 6.0,
+				"gaming": 5.0
+			}
+		}
+	},
+	{
+		"id": "satechi-st-btsx3m-slim-x3-space-gray",
+		"name": "Slim X3",
+		"brand": "Satechi",
+		"line": "Slim",
+		"model": "ST-BTSX3M",
+		"detailedModel": "ST-BTSX3M Space Gray",
+		"color": "Cinza-espacial",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_805527-MLA102913583784_012026-F.webp",
+		"price": null,
+		"releaseDate": "Janeiro de 2021",
+		"releaseMonth": "Janeiro",
+		"releaseYear": 2021,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2AFm5TW",
+		"shopeeUrl": null,
+		"alphanumericModel": "ST-BTSX3M",
+		"version": null,
+		"manufacturer": "Satechi",
+		"specs": {
+			"type": "De Tesoura",
+			"layout": "QWERTY Inglês US",
+			"size": "Full Size",
+			"switches": {
+				"type": "Scissor-switch (tesoura)",
+				"brand": null,
+				"actuationForce": null,
+				"travelDistance": "Curso baixo (low-profile)",
+				"lifespan": null,
+				"hotSwappable": false
+			},
+			"keycaps": {
+				"material": "Plástico ABS",
+				"profile": "Low-profile (perfil baixo)",
+				"printMethod": "Impressão branca",
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Híbrido",
+				"wireless": {
+					"bluetooth": true,
+					"rf24ghz": false,
+					"multiDevice": true,
+					"maxDevices": 4
+				},
+				"cable": {
+					"type": "USB-C",
+					"length": "Incluído",
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "Single Color",
+				"software": null,
+				"effects": [
+					"10 níveis de brilho",
+					"Desligamento automático após 3 minutos",
+					"Redução automática após 1 minuto"
+				],
+				"brightness": 10
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": false,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": {
+				"type": "Recarregável Li-ion",
+				"capacity": null,
+				"life": "Até 80 horas com backlight ligado no mínimo / 144 horas sem backlight / 10 horas com backlight no máximo",
+				"rechargeable": true
+			},
+			"build": {
+				"frame": "Alumínio com acabamento anodizado",
+				"plate": null,
+				"weight": "440 g"
+			},
+			"software": {
+				"name": "Plug-and-Play",
+				"features": ["Sem necessidade de software", "Teclas de atalho macOS", "Modo sleep após 30 minutos"],
+				"platforms": ["macOS", "iPadOS", "iOS"]
+			},
+			"dimensions": {
+				"width": "42,29 cm",
+				"height": "1,01 cm",
+				"depth": "11,43 cm",
+				"weight": "440 g"
+			},
+			"compatibility": [
+				"macOS 2012 e posteriores",
+				"MacBook Pro",
+				"MacBook Air",
+				"iMac",
+				"Mac mini",
+				"iPad Pro",
+				"iPad Air",
+				"iPad",
+				"iPad mini",
+				"iPhone"
+			],
+			"ratings": {
+				"costBenefit": 8.5,
+				"typingExperience": 8.5,
+				"buildQuality": 8.5,
+				"features": 8.0,
+				"gaming": 6.5
+			}
+		}
+	},
+	{
+		"id": "aula-win68-he-max-preto-vermelho",
+		"name": "Win68 HE Max",
+		"brand": "Aula",
+		"line": "WIN HE Series",
+		"model": "Win68 HE Max",
+		"detailedModel": "Win68 HE Max 8000Hz Black/Red",
+		"color": "Preto e Vermelho",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_896810-MLA99507436342_112025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1LVKJst",
+		"shopeeUrl": null,
+		"alphanumericModel": "WIN68HEMAX",
+		"version": "MAX",
+		"manufacturer": "Aula",
+		"specs": {
+			"type": "Magnético",
+			"layout": "ANSI US 65%",
+			"size": "65%",
+			"switches": {
+				"type": "Hall Effect Magnético",
+				"brand": "Leobog Wing Chun",
+				"actuationForce": "36gf",
+				"travelDistance": "3.4mm ±0.1mm",
+				"lifespan": "100 milhões de cliques",
+				"hotSwappable": true
+			},
+			"keycaps": {
+				"material": "PBT",
+				"profile": "Gravação lateral",
+				"printMethod": "Side-engraved (lateral)",
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB-C",
+					"length": "1,8 m",
+					"detachable": true
+				}
+			},
+			"backlighting": {
+				"type": "Per-Key RGB",
+				"software": "Web-based driver (AULA)",
+				"effects": ["16,8 milhões de cores", "14 efeitos pré-definidos", "South-facing LEDs"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": true,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": true,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": true,
+				"onboardMemory": true,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico ABS com placa de metal posicionadora",
+				"plate": "Metal (alumínio)",
+				"weight": "900 g"
+			},
+			"software": {
+				"name": "AULA Web Driver",
+				"features": [
+					"Ajuste de atuação (0.01mm-3.3mm)",
+					"Rapid Trigger",
+					"RS (Rapid Switch)",
+					"DKS (Dual Key Switching)",
+					"MT (Multi-Tap)",
+					"TGL (Toggle)",
+					"MPT (Multi-Press Timing)",
+					"SOCD (Simultaneous Opposite Cardinal Directions)",
+					"Zero dead zones",
+					"Até 4 perfis",
+					"Personalização RGB",
+					"Macros"
+				],
+				"platforms": ["Windows", "macOS", "Linux"]
+			},
+			"dimensions": {
+				"width": "32,11 cm",
+				"height": "3,72 cm",
+				"depth": "10,91 cm",
+				"weight": "900 g"
+			},
+			"compatibility": ["Windows", "macOS", "Linux", "PS4", "Xbox 360", "Xbox One"],
+			"ratings": {
+				"costBenefit": 9.5,
+				"typingExperience": 8.5,
+				"buildQuality": 8.0,
+				"features": 9.5,
+				"gaming": 9.5
+			}
+		}
+	},
+	{
+		"id": "nexdomus-60-gamer-rgb-preto-abnt2",
+		"name": "Gamer 60% RGB",
+		"brand": "Teclado 60 por Cento Barato",
+		"line": "Gamer",
+		"model": "Com Fio Abnt2 Membrana",
+		"detailedModel": "Gamer 60% RGB USB ABNT2",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_880456-MLB83478015448_042025-F.webp",
+		"price": null,
+		"releaseDate": null,
+		"releaseMonth": null,
+		"releaseYear": null,
+		"origin": null,
+		"category": "teclados",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1qMJitH",
+		"shopeeUrl": null,
+		"alphanumericModel": null,
+		"version": null,
+		"manufacturer": "Nexdomus",
+		"specs": {
+			"type": "Semi-mecânico",
+			"layout": "QWERTY ABNT2 Português Brasil",
+			"size": "60%",
+			"switches": {
+				"type": "Membrana híbrida",
+				"brand": null,
+				"actuationForce": null,
+				"travelDistance": null,
+				"lifespan": "8 milhões de cliques (estimado)",
+				"hotSwappable": false
+			},
+			"keycaps": {
+				"material": "ABS",
+				"profile": "Perfil padrão",
+				"printMethod": "Impressão",
+				"doubleShot": false
+			},
+			"connectivity": {
+				"type": "Com fio",
+				"wireless": null,
+				"cable": {
+					"type": "USB",
+					"length": "1 m",
+					"detachable": false
+				}
+			},
+			"backlighting": {
+				"type": "RGB",
+				"software": null,
+				"effects": ["Múltiplos efeitos RGB"],
+				"brightness": null
+			},
+			"features": {
+				"nkro": false,
+				"antiGhosting": true,
+				"macroKeys": null,
+				"mediaKeys": false,
+				"volumeWheel": false,
+				"wristRest": false,
+				"programmable": false,
+				"onboardMemory": false,
+				"passthrough": false
+			},
+			"battery": null,
+			"build": {
+				"frame": "Plástico ABS",
+				"plate": null,
+				"weight": "498 g"
+			},
+			"software": {
+				"name": "Plug-and-Play",
+				"features": ["Sem necessidade de software"],
+				"platforms": ["Windows"]
+			},
+			"dimensions": {
+				"width": "31 cm",
+				"height": "3 cm",
+				"depth": "10 cm",
+				"weight": "498 g"
+			},
+			"compatibility": ["Windows", "PS4", "PS5", "Xbox"],
+			"ratings": {
+				"costBenefit": 8.0,
+				"typingExperience": 6.5,
+				"buildQuality": 6.0,
+				"features": 6.5,
+				"gaming": 6.5
+			}
+		}
+	}
+]

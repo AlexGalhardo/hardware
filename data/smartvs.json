@@ -1,0 +1,2756 @@
+[
+	{
+		"id": "philco-p58kga-58",
+		"name": "P58KGA",
+		"brand": "Philco",
+		"line": "Audio e video",
+		"model": "P58KGA",
+		"detailedModel": null,
+		"color": "Cinza",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_922530-MLA99453302308_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1BFbygn",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "P58KGA",
+		"version": null,
+		"manufacturer": "Philco",
+		"specs": {
+			"screen": {
+				"sizeInches": 58,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 360,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Google TV",
+				"apps": ["YouTube"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 15,
+				"dolbyAudio": false,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true,
+				"spdif": null
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 2,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 129,
+				"heightCm": 70,
+				"depthCm": 10,
+				"weightKg": 12.26,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": "000403/2018"
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"imageQuality": 8.6,
+				"soundQuality": 7.2,
+				"systemSpeed": 8.2,
+				"connectivity": 8.4
+			}
+		}
+	},
+
+	{
+		"id": "philco-p32vik-32",
+		"name": "P32VIK",
+		"brand": "Philco",
+		"line": "Smart TV",
+		"model": "P32VIK",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_691057-MLA100479527690_122025-F.webp",
+		"price": 817.88,
+		"releaseDate": "2025-11-15",
+		"releaseMonth": 11,
+		"releaseYear": 2025,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1L5Efi6",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "P32VIK",
+		"version": "Roku",
+		"manufacturer": "Philco",
+		"specs": {
+			"screen": {
+				"sizeInches": 32,
+				"resolution": "HD",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 250,
+				"contrastRatio": 3000,
+				"responseTimeMs": 8,
+				"viewingAngleDegrees": 170,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Roku TV",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "GloboPlay"],
+				"voiceAssistant": "Google Assistant / Alexa",
+				"isSmart": true,
+				"storageGb": 8,
+				"processorCores": 4,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 16,
+				"dolbyAudio": true,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": true,
+				"spdif": true
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 2,
+				"component": false,
+				"composite": false,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 72,
+				"heightCm": 46.5,
+				"depthCm": 18,
+				"weightKg": 5.0,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": "000403/2018"
+			},
+			"ratings": {
+				"costBenefit": 8.6,
+				"imageQuality": 8.0,
+				"soundQuality": 7.6,
+				"systemSpeed": 8.4,
+				"connectivity": 8.2
+			}
+		}
+	},
+	{
+		"id": "lg-43lr671c-b-43",
+		"name": "43LR671C-B",
+		"brand": "LG",
+		"line": "Smart TV PRO",
+		"model": "43LR671C-B",
+		"detailedModel": "43LR671C0SA.AWZ",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_929244-MLA104540336039_012026-F.webp",
+		"price": null,
+		"releaseDate": "2026",
+		"releaseMonth": null,
+		"releaseYear": 2026,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2mqBWF4",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "43LR671C0SA.AWZ",
+		"version": null,
+		"manufacturer": "LG",
+		"specs": {
+			"screen": {
+				"sizeInches": 43,
+				"resolution": "Full HD",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "webOS 23",
+				"apps": ["Netflix", "YouTube", "Prime Video", "Disney+"],
+				"voiceAssistant": "Alexa integrada",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": 4,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true,
+				"spdif": true
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 1,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 97.3,
+				"heightCm": 62.3,
+				"depthCm": 21.6,
+				"weightKg": 8.1,
+				"cableManagement": true
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"imageQuality": 8.4,
+				"soundQuality": 8.0,
+				"systemSpeed": 9,
+				"connectivity": 8.6
+			}
+		}
+	},
+
+	{
+		"id": "weyon-32wdsnmx-32",
+		"name": "32WDSNMX",
+		"brand": "Weyon",
+		"line": "Android TV",
+		"model": "32WDSNMX",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_824259-MLA99939289013_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1tjHwY4",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "32WDSNMX",
+		"version": null,
+		"manufacturer": "Weyon",
+		"specs": {
+			"screen": {
+				"sizeInches": 32,
+				"resolution": "HD",
+				"panelType": "LED",
+				"hdr": false,
+				"refreshRateHz": 60,
+				"brightnessNits": 250,
+				"contrastRatio": 3000,
+				"responseTimeMs": 6.5,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Android TV",
+				"apps": ["Netflix", "YouTube", "Hulu", "Vudu", "HBO Max", "Google Play Store"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": 8,
+				"processorCores": 2,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 10,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": true,
+				"spdif": true
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 2,
+				"component": true,
+				"composite": true,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 73.2,
+				"heightCm": 47.41,
+				"depthCm": 19.56,
+				"weightKg": 4.83,
+				"cableManagement": true
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9.2,
+				"imageQuality": 7.8,
+				"soundQuality": 7.2,
+				"systemSpeed": 8.4,
+				"connectivity": 8.4
+			}
+		}
+	},
+	{
+		"id": "tcl-75c7k-75",
+		"name": "75C7K",
+		"brand": "TCL",
+		"line": "C7K",
+		"model": "75C7K",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_782739-MLA103359617310_012026-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1SBUBez",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "75C7K",
+		"version": null,
+		"manufacturer": "TCL",
+		"specs": {
+			"screen": {
+				"sizeInches": 75,
+				"resolution": "4K",
+				"panelType": "QLED",
+				"hdr": true,
+				"refreshRateHz": 144,
+				"brightnessNits": 3000,
+				"contrastRatio": 26000000,
+				"responseTimeMs": 8.5,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Google TV",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "Globoplay", "HBO Max"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": 64,
+				"processorCores": null,
+				"screenShare": false
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 4,
+				"usb": 1,
+				"spdif": null,
+				"component": true,
+				"composite": true,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 167.3,
+				"heightCm": 103,
+				"depthCm": 39.4,
+				"weightKg": 37,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": "04654-22-06714"
+			},
+			"ratings": {
+				"costBenefit": 9.2,
+				"imageQuality": 9.6,
+				"soundQuality": 8.6,
+				"systemSpeed": 9,
+				"connectivity": 8.8
+			}
+		}
+	},
+	{
+		"id": "samsung-un43f6000fgxzd-43",
+		"name": "UN43F6000FGXZD",
+		"brand": "Samsung",
+		"line": "FHD",
+		"model": "UN43F6000FGXZD",
+		"detailedModel": "F6000F",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_668133-MLA99998133323_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/114FXFS",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "UN43F6000FGXZD",
+		"version": null,
+		"manufacturer": "Samsung",
+		"specs": {
+			"screen": {
+				"sizeInches": 43,
+				"resolution": "Full HD",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Tizen",
+				"apps": ["YouTube", "Samsung Gaming Hub", "Netflix", "Prime Video", "Disney+", "Globoplay", "HBO Max"],
+				"voiceAssistant": "Alexa, Bixby",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": false
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": false,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 1,
+				"spdif": false,
+				"component": false,
+				"composite": true,
+				"rfAntenna": true,
+				"vga": true
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 96.59,
+				"heightCm": 59,
+				"depthCm": 15.76,
+				"weightKg": 6.6,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": "005993/2017"
+			},
+			"ratings": {
+				"costBenefit": 8.6,
+				"imageQuality": 7.4,
+				"soundQuality": 6.8,
+				"systemSpeed": 6.4,
+				"connectivity": 7.8
+			}
+		}
+	},
+	{
+		"id": "lg-55nano80asa-55",
+		"name": "55NANO80ASA",
+		"brand": "LG",
+		"line": "2025",
+		"model": "55NANO80ASA",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_925791-MLA99949981259_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": "188312201925",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Rk8ajK",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "55NANO80ASA.BWZ",
+		"version": null,
+		"manufacturer": "LG",
+		"specs": {
+			"screen": {
+				"sizeInches": 55,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 278,
+				"contrastRatio": 2610,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "webOS",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "Globoplay", "HBO Max"],
+				"voiceAssistant": "Google Assistant, Alexa",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 2,
+				"spdif": null,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 127.0,
+				"heightCm": 78,
+				"depthCm": 23,
+				"weightKg": 18.2,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 8.6,
+				"imageQuality": 8.4,
+				"soundQuality": 7.6,
+				"systemSpeed": 8.6,
+				"connectivity": 8.8
+			}
+		}
+	},
+	{
+		"id": "samsung-qn55qn70fagxzd-55",
+		"name": "QN55QN70FAGXZD",
+		"brand": "Samsung",
+		"line": "Neo QLED 4K",
+		"model": "QN55QN70FAGXZD",
+		"detailedModel": "QN70F",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_962799-MLA94529301574_102025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1ZAVMgD",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "QN55QN70FAGXZD",
+		"version": null,
+		"manufacturer": "Samsung",
+		"specs": {
+			"screen": {
+				"sizeInches": 55,
+				"resolution": "4K",
+				"panelType": "QLED",
+				"hdr": true,
+				"refreshRateHz": 144,
+				"brightnessNits": 800,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Tizen",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "Globoplay", "HBO Max", "Xbox Game Pass"],
+				"voiceAssistant": "Alexa, Bixby",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": false,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 4,
+				"usb": 2,
+				"spdif": null,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 123.3,
+				"heightCm": 76.57,
+				"depthCm": 24.74,
+				"weightKg": 15,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": "005992/2017"
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"imageQuality": 8.6,
+				"soundQuality": 7.0,
+				"systemSpeed": 9,
+				"connectivity": 9.2
+			}
+		}
+	},
+	{
+		"id": "philco-ptv50va4regb-50",
+		"name": "PTV50VA4REGB",
+		"brand": "Philco",
+		"line": "Audio e video",
+		"model": "PTV50VA4REGB",
+		"detailedModel": null,
+		"color": "Cinza",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_764025-MLA99481366708_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": "01576-22-11928",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/31QMRaX",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "PTV50VA4REGB",
+		"version": null,
+		"manufacturer": "Philco",
+		"specs": {
+			"screen": {
+				"sizeInches": 50,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 320,
+				"contrastRatio": 5000000,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Roku TV",
+				"apps": ["Netflix", "YouTube", "Prime Video", "Disney+", "Globoplay", "Apple TV"],
+				"voiceAssistant": "Google Assistant, Alexa",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": 4,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 24,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 2,
+				"spdif": true,
+				"component": null,
+				"composite": true,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 115.5,
+				"heightCm": 69,
+				"depthCm": 11,
+				"weightKg": 8,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9.4,
+				"imageQuality": 8.4,
+				"soundQuality": 8.8,
+				"systemSpeed": 8.2,
+				"connectivity": 7.6
+			}
+		}
+	},
+	{
+		"id": "samsung-lh55befh4ggxzd-55",
+		"name": "LH55BEFH4GGXZD",
+		"brand": "Samsung",
+		"line": "Smart TV 4k",
+		"model": "LH55BEFH4GGXZD",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_807592-MLA96970001108_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": "228792302217",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1UiZ994",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "LH55BEFH4GGXZD",
+		"version": null,
+		"manufacturer": "Samsung",
+		"specs": {
+			"screen": {
+				"sizeInches": 55,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Tizen",
+				"apps": ["Netflix", "YouTube", "Prime Video", "Disney+", "Globoplay"],
+				"voiceAssistant": "Alexa, Bixby",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 1,
+				"spdif": true,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 123.05,
+				"heightCm": 70.72,
+				"depthCm": 5.99,
+				"weightKg": null,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 8.4,
+				"imageQuality": 8.2,
+				"soundQuality": 7.4,
+				"systemSpeed": 8.0,
+				"connectivity": 8.4
+			}
+		}
+	},
+	{
+		"id": "samsung-lh65befh4ggxzd-65",
+		"name": "LH65BEFH4GGXZD",
+		"brand": "Samsung",
+		"line": "Smart TV 4k",
+		"model": "LH65BEFH4GGXZD",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_712967-MLA96969981644_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": "228792302217",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2jQ2GVV",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "LH65BEFH4GGXZD",
+		"version": null,
+		"manufacturer": "Samsung",
+		"specs": {
+			"screen": {
+				"sizeInches": 65,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Tizen",
+				"apps": ["Netflix", "YouTube", "Prime Video", "Disney+", "Globoplay"],
+				"voiceAssistant": "Alexa, Bixby",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 1,
+				"spdif": true,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 145.13,
+				"heightCm": 83.18,
+				"depthCm": 5.99,
+				"weightKg": null,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 8.4,
+				"imageQuality": 8.2,
+				"soundQuality": 7.4,
+				"systemSpeed": 8.0,
+				"connectivity": 8.4
+			}
+		}
+	},
+	{
+		"id": "weyon-32wdsnmx-32",
+		"name": "32WDSNMX",
+		"brand": "Weyon",
+		"line": "Android TV",
+		"model": "32WDSNMX",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_824259-MLA99939289013_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1tjHwY4",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "32WDSNMX",
+		"version": null,
+		"manufacturer": "Weyon",
+		"specs": {
+			"screen": {
+				"sizeInches": 32,
+				"resolution": "HD",
+				"panelType": "LED",
+				"hdr": false,
+				"refreshRateHz": 60,
+				"brightnessNits": 250,
+				"contrastRatio": 3000,
+				"responseTimeMs": 6.5,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Android TV",
+				"apps": ["Netflix", "YouTube", "Hulu", "Vudu", "HBO Max", "Prime Video", "Disney+"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": 8,
+				"processorCores": 2,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 10,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 2,
+				"spdif": true,
+				"component": true,
+				"composite": true,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 73.2,
+				"heightCm": 47.41,
+				"depthCm": 19.56,
+				"weightKg": 4.83,
+				"cableManagement": true
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": "017658/2024"
+			},
+			"ratings": {
+				"costBenefit": 9.6,
+				"imageQuality": 7.0,
+				"soundQuality": 7.6,
+				"systemSpeed": 7.2,
+				"connectivity": 7.4
+			}
+		}
+	},
+	{
+		"id": "tcl-40s5k-40",
+		"name": "40S5K",
+		"brand": "TCL",
+		"line": "S5K",
+		"model": "40S5K",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_960083-MLA103757070263_012026-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/33F5oiW",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "40S5K",
+		"version": null,
+		"manufacturer": "TCL",
+		"specs": {
+			"screen": {
+				"sizeInches": 40,
+				"resolution": "Full HD",
+				"panelType": "QLED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 300,
+				"contrastRatio": 5000,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Google TV",
+				"apps": ["Netflix", "YouTube", "Prime Video", "Disney+", "Apple TV", "Globoplay", "HBO Max"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": 8,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 10,
+				"dolbyAudio": true,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 1,
+				"spdif": null,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": null,
+				"widthCm": 89.2,
+				"heightCm": 50.7,
+				"depthCm": 7.7,
+				"weightKg": 9.2,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "A+",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9.2,
+				"imageQuality": 8.6,
+				"soundQuality": 7.6,
+				"systemSpeed": 8.4,
+				"connectivity": 8.2
+			}
+		}
+	},
+	{
+		"id": "aiwa-aws-tv-50-bl-02-a-50",
+		"name": "AWS-TV-50-BL-02-A",
+		"brand": "Aiwa",
+		"line": null,
+		"model": "AWS-TV-50-BL-02-A",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_768600-MLA99887667399_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2NkHaFi",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "5026-01",
+		"version": null,
+		"manufacturer": "Aiwa",
+		"specs": {
+			"screen": {
+				"sizeInches": 50,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": 4000,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Android TV",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "Globoplay"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": 4,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 10,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 2,
+				"spdif": false,
+				"component": true,
+				"composite": false,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 111.3,
+				"heightCm": 70.1,
+				"depthCm": 22.8,
+				"weightKg": 9.9,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": "004.904/2022"
+			},
+			"ratings": {
+				"costBenefit": 9.6,
+				"imageQuality": 8.6,
+				"soundQuality": 9,
+				"systemSpeed": 8.4,
+				"connectivity": 8.8
+			}
+		}
+	},
+	{
+		"id": "samsung-un43u8100fgxzd-43",
+		"name": "UN43U8100FGXZD",
+		"brand": "Samsung",
+		"line": "Crystal UHD",
+		"model": "UN43U8100FGXZD",
+		"detailedModel": "U8100F",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_648933-MLA99498284868_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2Y9KCNR",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "UN43U8100FGXZD",
+		"version": null,
+		"manufacturer": "Samsung",
+		"specs": {
+			"screen": {
+				"sizeInches": 43,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 325,
+				"contrastRatio": null,
+				"responseTimeMs": 9,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Tizen",
+				"apps": ["YouTube", "Netflix", "Prime Video", "Disney+", "Globoplay", "HBO Max", "Samsung TV Plus"],
+				"voiceAssistant": "Alexa, Bixby",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": false,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 1,
+				"spdif": null,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 96.75,
+				"heightCm": 60.97,
+				"depthCm": 19.1,
+				"weightKg": 7.1,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": "005993/2017"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8.4,
+				"soundQuality": 7.2,
+				"systemSpeed": 8.8,
+				"connectivity": 8.6
+			}
+		}
+	},
+	{
+		"id": "lg-32lr600bpsa-32",
+		"name": "32LR600BPSA",
+		"brand": "LG",
+		"line": "WebOs",
+		"model": "32LR600BPSA",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_934018-MLA99576753908_122025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": "18830-22-01925",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2gjejef",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "32LR600BPSA",
+		"version": null,
+		"manufacturer": "LG",
+		"specs": {
+			"screen": {
+				"sizeInches": 32,
+				"resolution": "HD",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "webOS",
+				"apps": ["Netflix", "Disney+", "Apple TV+", "LG Channels", "Prime Video", "YouTube", "Globoplay"],
+				"voiceAssistant": "Alexa, Google Assistant",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 10,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 1,
+				"spdif": true,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 72,
+				"heightCm": 48,
+				"depthCm": 17,
+				"weightKg": 8.6,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9.4,
+				"imageQuality": 9,
+				"soundQuality": 9.2,
+				"systemSpeed": 9.2,
+				"connectivity": 8.8
+			}
+		}
+	},
+	{
+		"id": "philips-70pug7019-70",
+		"name": "70PUG7019/78",
+		"brand": "Philips",
+		"line": "7019",
+		"model": "70PUG7019/78",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_974454-MLA99928210341_112025-F.webp",
+		"price": null,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/16FzvKm",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "70PUG7019/78",
+		"version": null,
+		"manufacturer": "Philips",
+		"specs": {
+			"screen": {
+				"sizeInches": 70,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 330,
+				"contrastRatio": 200000,
+				"responseTimeMs": 8,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Google TV",
+				"apps": ["Google Play Store", "YouTube", "Netflix", "Prime Video", "Disney+", "Globoplay"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": 8,
+				"processorCores": 4,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 16,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 2,
+				"spdif": true,
+				"component": false,
+				"composite": false,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 156.72,
+				"heightCm": 98.27,
+				"depthCm": 35.3,
+				"weightKg": 20.4,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 7.8,
+				"soundQuality": 8.0,
+				"systemSpeed": 7.4,
+				"connectivity": 8.6
+			}
+		}
+	},
+	{
+		"id": "lg-43au801c0sa-43",
+		"name": "43AU801C0SA",
+		"brand": "LG",
+		"line": "Smart TV 4k",
+		"model": "43AU801C0SA",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_663736-MLA101387825184_122025-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": "094602401925",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1Ee7GZQ",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "43AU801C0SA.BWZ",
+		"version": null,
+		"manufacturer": "LG",
+		"specs": {
+			"screen": {
+				"sizeInches": 43,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "webOS",
+				"apps": ["Netflix", "YouTube", "Prime Video", "Disney+", "Globoplay", "HBO Max"],
+				"voiceAssistant": "Alexa, Google Assistant",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 2,
+				"spdif": null,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 96.8,
+				"heightCm": 62.1,
+				"depthCm": 20,
+				"weightKg": 10,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9.2,
+				"imageQuality": 9,
+				"soundQuality": 8.6,
+				"systemSpeed": 9,
+				"connectivity": 9.2
+			}
+		}
+	},
+	{
+		"id": "tcl-50p7k-50",
+		"name": "50P7K",
+		"brand": "TCL",
+		"line": "P7K",
+		"model": "50P7K",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_629030-MLA103240702876-012026-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2xH2TE7",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "50P7K",
+		"version": null,
+		"manufacturer": "TCL",
+		"specs": {
+			"screen": {
+				"sizeInches": 50,
+				"resolution": "4K",
+				"panelType": "QLED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 430,
+				"contrastRatio": null,
+				"responseTimeMs": 6.5,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Google TV",
+				"apps": ["Netflix", "YouTube", "Prime Video", "Disney+", "Globoplay", "HBO Max"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": 16,
+				"processorCores": null,
+				"screenShare": false
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 1,
+				"spdif": null,
+				"component": null,
+				"composite": true,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 111.1,
+				"heightCm": 70.2,
+				"depthCm": 28,
+				"weightKg": 11.8,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9.4,
+				"imageQuality": 9,
+				"soundQuality": 7.0,
+				"systemSpeed": 8.8,
+				"connectivity": 8.6
+			}
+		}
+	},
+	{
+		"id": "samsung-ls43f6000fgxzd-43",
+		"name": "LS43F6000FGXZD",
+		"brand": "Samsung",
+		"line": "Smart TV",
+		"model": "LS43F6000FGXZD",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_850374-MLA103344560695_012026-F.webp",
+		"price": null,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1FQAmjZ",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "LS43F6000FGXZD",
+		"version": null,
+		"manufacturer": "Samsung",
+		"specs": {
+			"screen": {
+				"sizeInches": 43,
+				"resolution": "Full HD",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": 9.5,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Tizen",
+				"apps": null,
+				"voiceAssistant": "Bixby (com suporte a Alexa)",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": null,
+				"surround": null
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 1,
+				"spdif": null,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 96.59,
+				"heightCm": 56.33,
+				"depthCm": 7.58,
+				"weightKg": 6.5,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8.4,
+				"soundQuality": 7.6,
+				"systemSpeed": 8.0,
+				"connectivity": 8.6
+			}
+		}
+	},
+	{
+		"id": "semp-50s62-50",
+		"name": "50S62",
+		"brand": "Semp",
+		"line": "Google TV S62",
+		"model": "50S62",
+		"detailedModel": "50S62",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_644662-MLA103737769538_012026-F.webp",
+		"price": null,
+		"releaseDate": "2025-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2025,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1VfqAeE",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "50S62",
+		"version": null,
+		"manufacturer": "TCL Semp",
+		"specs": {
+			"screen": {
+				"sizeInches": 50,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Google TV",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "GloboPlay", "HBO Max"],
+				"voiceAssistant": "Google Assistant / Alexa",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 1,
+				"spdif": true,
+				"component": false,
+				"composite": false,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": null,
+				"widthCm": 111.1,
+				"heightCm": 69.2,
+				"depthCm": 25.7,
+				"weightKg": 7.4,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8.4,
+				"soundQuality": 8.0,
+				"systemSpeed": 8.6,
+				"connectivity": 8.8
+			}
+		}
+	},
+	{
+		"id": "tcl-75p7k-75",
+		"name": "75P7K",
+		"brand": "TCL",
+		"line": "P7K",
+		"model": "75P7K",
+		"detailedModel": "75P7K",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_884010-MLA103850766403_012026-F.webp",
+		"price": null,
+		"releaseDate": "2025-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2025,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1RWdPnn",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "75P7K",
+		"version": null,
+		"manufacturer": "TCL",
+		"specs": {
+			"screen": {
+				"sizeInches": 75,
+				"resolution": "4K",
+				"panelType": "QLED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 350,
+				"contrastRatio": null,
+				"responseTimeMs": 8.5,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Google TV",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "GloboPlay"],
+				"voiceAssistant": "Google Assistant / Alexa",
+				"isSmart": true,
+				"storageGb": 16,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 30,
+				"dolbyAudio": true,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 1,
+				"spdif": false,
+				"component": true,
+				"composite": true,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 166.8,
+				"heightCm": 95.9,
+				"depthCm": 39.6,
+				"weightKg": 22.4,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": "04654-22-06714"
+			},
+			"ratings": {
+				"costBenefit": 9.2,
+				"imageQuality": 8.6,
+				"soundQuality": 7.4,
+				"systemSpeed": 8.8,
+				"connectivity": 9
+			}
+		}
+	},
+	{
+		"id": "lg-50ua8550psa-50",
+		"name": "50UA8550PSA",
+		"brand": "LG",
+		"line": "UHD AI UA85",
+		"model": "50UA8550PSA",
+		"detailedModel": "50UA8550PSA",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_674822-MLA96870825149_102025-F.webp",
+		"price": null,
+		"releaseDate": "2025-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2025,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": "94602401925",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2xH4cBh",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "50UA8550PSA",
+		"version": null,
+		"manufacturer": "LG",
+		"specs": {
+			"screen": {
+				"sizeInches": 50,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "webOS 25",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "GloboPlay", "LG Channels"],
+				"voiceAssistant": "Google Assistant / Alexa / ThinQ AI",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": null
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 2,
+				"spdif": null,
+				"component": null,
+				"composite": null,
+				"rfAntenna": null,
+				"vga": null
+			},
+			"design": {
+				"vesa": null,
+				"widthCm": null,
+				"heightCm": null,
+				"depthCm": null,
+				"weightKg": 9.4,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8.8,
+				"soundQuality": 8.4,
+				"systemSpeed": 9.2,
+				"connectivity": 8.6
+			}
+		}
+	},
+	{
+		"id": "lg-43ua7500psa-43",
+		"name": "43UA7500PSA",
+		"brand": "LG",
+		"line": "UHD AI UA75",
+		"model": "43UA7500PSA",
+		"detailedModel": "43UA7500PSA",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_948824-MLA96872931345_102025-F.webp",
+		"price": null,
+		"releaseDate": "2025-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2025,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": "94602401925",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/26guGHd",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "43UA7500PSA",
+		"version": null,
+		"manufacturer": "LG",
+		"specs": {
+			"screen": {
+				"sizeInches": 43,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "webOS 25",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "GloboPlay", "LG Channels"],
+				"voiceAssistant": "Google Assistant / Alexa / ThinQ AI",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": null
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 1,
+				"spdif": null,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 96.8,
+				"heightCm": 56.7,
+				"depthCm": 6.8,
+				"weightKg": 7.3,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"imageQuality": 9,
+				"soundQuality": 8.4,
+				"systemSpeed": 9.2,
+				"connectivity": 8.6
+			}
+		}
+	},
+	{
+		"id": "philco-ptv50g7pr2csb-50",
+		"name": "PTV50G7PR2CSB",
+		"brand": "Philco",
+		"line": "Roku TV",
+		"model": "PTV50G7PR2CSB",
+		"detailedModel": "PTV50G7PR2CSB",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_927144-MLA99525728168_122025-F.webp",
+		"price": null,
+		"releaseDate": "2025-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2025,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1xBJWXy",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "PTV50G7PR2CSB",
+		"version": null,
+		"manufacturer": "Philco",
+		"specs": {
+			"screen": {
+				"sizeInches": 50,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 262,
+				"contrastRatio": 5000000,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": 170,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Roku TV",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "GloboPlay"],
+				"voiceAssistant": "Google Assistant / Alexa",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": 4,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 10,
+				"dolbyAudio": true,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": null,
+				"usb": 2,
+				"spdif": null,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 110.5,
+				"heightCm": 69,
+				"depthCm": 8.5,
+				"weightKg": 9.0,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 8.4,
+				"imageQuality": 8.0,
+				"soundQuality": 7.6,
+				"systemSpeed": 8.2,
+				"connectivity": 7.8
+			}
+		}
+	},
+	{
+		"id": "philco-ptv58g7pagcsbl-58",
+		"name": "PTV58G7PAGCSBL",
+		"brand": "Philco",
+		"line": "Android TV",
+		"model": "PTV58G7PAGCSBL",
+		"detailedModel": "PTV58G7PAGCSBL",
+		"color": "Cinza",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_664347-MLA99475191648_112025-F.webp",
+		"price": null,
+		"releaseDate": "2025-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2025,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2c24xsq",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "PTV58G7PAGCSBL",
+		"version": null,
+		"manufacturer": "Philco",
+		"specs": {
+			"screen": {
+				"sizeInches": 58,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 345,
+				"contrastRatio": null,
+				"responseTimeMs": 8,
+				"viewingAngleDegrees": 170,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Android TV",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "GloboPlay"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": 4,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 12,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 2,
+				"spdif": true,
+				"component": true,
+				"composite": false,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 129,
+				"heightCm": 75,
+				"depthCm": 21,
+				"weightKg": 13.29,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8.6,
+				"soundQuality": 8.2,
+				"systemSpeed": 8.8,
+				"connectivity": 8.6
+			}
+		}
+	},
+	{
+		"id": "samsung-be55d-h-55",
+		"name": "BE55D-H",
+		"brand": "Samsung",
+		"line": "Business BED-H",
+		"model": "BE55D-H",
+		"detailedModel": "LH55BEDHVGGXZ",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_644006-MLA99414862844_112025-F.webp",
+		"price": null,
+		"releaseDate": "2024-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2024,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2YZftN7",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "LH55BEDHVGGXZ",
+		"version": null,
+		"manufacturer": "Samsung",
+		"specs": {
+			"screen": {
+				"sizeInches": 55,
+				"resolution": "4K",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 300,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Tizen Enterprise Platform",
+				"apps": ["YouTube", "Microsoft 365", "Samsung Business TV App"],
+				"voiceAssistant": "Alexa / Bixby",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": false,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 1,
+				"spdif": null,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": null,
+				"widthCm": 123.4,
+				"heightCm": 71.08,
+				"depthCm": 6.03,
+				"weightKg": 10.7,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "B",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 8.6,
+				"imageQuality": 8.8,
+				"soundQuality": 8.0,
+				"systemSpeed": 9,
+				"connectivity": 9.2
+			}
+		}
+	},
+	{
+		"id": "multi-tl081e-32",
+		"name": "TL081E",
+		"brand": "Multi",
+		"line": "Essencial Roku TV",
+		"model": "TL081E",
+		"detailedModel": "TL081E",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_615358-MLA99991190537_112025-F.webp",
+		"price": null,
+		"releaseDate": "2022-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2022,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": "13889-21-06714",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/25iuACY",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "TL081E",
+		"version": null,
+		"manufacturer": "Multi",
+		"specs": {
+			"screen": {
+				"sizeInches": 32,
+				"resolution": "HD",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 180,
+				"contrastRatio": 2000,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Roku TV",
+				"apps": ["Netflix", "YouTube", "Prime Video", "Disney+", "GloboPlay"],
+				"voiceAssistant": "Google Assistant / Alexa",
+				"isSmart": true,
+				"storageGb": 8,
+				"processorCores": 4,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": null,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 2,
+				"spdif": true,
+				"component": true,
+				"composite": true,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 73.2,
+				"heightCm": 47.41,
+				"depthCm": 19.56,
+				"weightKg": 4.83,
+				"cableManagement": true
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": "002256/2022"
+			},
+			"ratings": {
+				"costBenefit": 8.8,
+				"imageQuality": 7.8,
+				"soundQuality": 7.4,
+				"systemSpeed": 8.0,
+				"connectivity": 8.2
+			}
+		}
+	},
+	{
+		"id": "lg-32lr600bpsa-32",
+		"name": "32LR600BPSA",
+		"brand": "LG",
+		"line": "LR60",
+		"model": "32LR600BPSA",
+		"detailedModel": "32LR600BPSA",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_934018-MLA99576753908_122025-F.webp",
+		"price": null,
+		"releaseDate": "2024-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2024,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2gjejef",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "32LR600BPSA",
+		"version": null,
+		"manufacturer": "LG",
+		"specs": {
+			"screen": {
+				"sizeInches": 32,
+				"resolution": "HD",
+				"panelType": "LED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": null,
+				"contrastRatio": null,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": null,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "webOS 23",
+				"apps": ["Netflix", "Disney+", "Apple TV+", "LG Channels", "Prime Video", "YouTube"],
+				"voiceAssistant": "Google Assistant / Alexa / ThinQ AI",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 10,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 1,
+				"spdif": true,
+				"component": null,
+				"composite": null,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": null,
+				"widthCm": 72,
+				"heightCm": 43,
+				"depthCm": 9,
+				"weightKg": 8.4,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9.4,
+				"imageQuality": 8.8,
+				"soundQuality": 8.6,
+				"systemSpeed": 9,
+				"connectivity": 8.8
+			}
+		}
+	},
+	{
+		"id": "tcl-43s5k-43",
+		"name": "43S5K",
+		"brand": "TCL",
+		"line": "S5K",
+		"model": "43S5K",
+		"detailedModel": "43S5K",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_954980-MLA103322421580_012026-F.webp",
+		"price": null,
+		"releaseDate": "2025-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2025,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2W3Z5Wm",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "43S5K",
+		"version": null,
+		"manufacturer": "TCL",
+		"specs": {
+			"screen": {
+				"sizeInches": 43,
+				"resolution": "Full HD",
+				"panelType": "QLED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 300,
+				"contrastRatio": 5000,
+				"responseTimeMs": 6.5,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Google TV",
+				"apps": ["Netflix", "YouTube", "Prime Video", "Disney+", "Apple TV", "Google Play Store"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": 8,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 10,
+				"dolbyAudio": true,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 2,
+				"usb": 1,
+				"spdif": true,
+				"component": false,
+				"composite": false,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": null,
+				"widthCm": 95.4,
+				"heightCm": 55.4,
+				"depthCm": 7.7,
+				"weightKg": 5.0,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "A++",
+				"inmetroCertification": "04654-22-06714"
+			},
+			"ratings": {
+				"costBenefit": 9.2,
+				"imageQuality": 8.6,
+				"soundQuality": 8.2,
+				"systemSpeed": 8.8,
+				"connectivity": 8.6
+			}
+		}
+	},
+	{
+		"id": "tcl-65p7k-65",
+		"name": "65P7K",
+		"brand": "TCL",
+		"line": "P7K",
+		"model": "65P7K",
+		"detailedModel": "65P7K",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_681302-MLA103364086954_012026-F.webp",
+		"price": null,
+		"releaseDate": "2025-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2025,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/17dV5zf",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "65P7K",
+		"version": null,
+		"manufacturer": "TCL",
+		"specs": {
+			"screen": {
+				"sizeInches": 65,
+				"resolution": "4K",
+				"panelType": "QLED",
+				"hdr": true,
+				"refreshRateHz": 60,
+				"brightnessNits": 430,
+				"contrastRatio": null,
+				"responseTimeMs": 6.5,
+				"viewingAngleDegrees": 178,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Google TV",
+				"apps": ["Netflix", "Prime Video", "YouTube", "Disney+", "GloboPlay"],
+				"voiceAssistant": "Google Assistant",
+				"isSmart": true,
+				"storageGb": 16,
+				"processorCores": null,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": false
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": true,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 1,
+				"spdif": null,
+				"component": true,
+				"composite": true,
+				"rfAntenna": true,
+				"vga": null
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": 145,
+				"heightCm": 83.3,
+				"depthCm": 32.9,
+				"weightKg": 15.8,
+				"cableManagement": false
+			},
+			"energy": {
+				"energyEfficiencyClass": null,
+				"inmetroCertification": "04654-22-06714"
+			},
+			"ratings": {
+				"costBenefit": 9.4,
+				"imageQuality": 8.4,
+				"soundQuality": 7.2,
+				"systemSpeed": 8.6,
+				"connectivity": 8.8
+			}
+		}
+	},
+	{
+		"id": "britania-btv43va4regb-43",
+		"name": "BTV43VA4REGB",
+		"brand": "Britânia",
+		"line": "Roku TV",
+		"model": "BTV43VA4REGB",
+		"detailedModel": "BTV43VA4REGB",
+		"color": "Cinza",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_763506-MLA99463576368_112025-F.webp",
+		"price": null,
+		"releaseDate": "2022-01-01",
+		"releaseMonth": 1,
+		"releaseYear": 2022,
+		"origin": "BR",
+		"category": "smart-tvs",
+		"subcategory": "tv",
+		"anatelNumber": "18197-22-11928",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1CfcTHw",
+		"amazonUrl": null,
+		"shopeeUrl": null,
+		"alphanumericModel": "BTV43VA4REGB",
+		"version": null,
+		"manufacturer": "Britânia",
+		"specs": {
+			"screen": {
+				"sizeInches": 43,
+				"resolution": "Full HD",
+				"panelType": "LED",
+				"hdr": false,
+				"refreshRateHz": 60,
+				"brightnessNits": 250,
+				"contrastRatio": 4000000,
+				"responseTimeMs": null,
+				"viewingAngleDegrees": 170,
+				"aspectRatio": "16:9"
+			},
+			"system": {
+				"os": "Roku TV",
+				"apps": ["Netflix", "YouTube", "Prime Video", "Disney+", "GloboPlay"],
+				"voiceAssistant": "Google Assistant / Alexa",
+				"isSmart": true,
+				"storageGb": null,
+				"processorCores": 4,
+				"screenShare": true
+			},
+			"audio": {
+				"speakers": 2,
+				"powerWatts": 20,
+				"dolbyAudio": true,
+				"surround": true
+			},
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": true
+			},
+			"ports": {
+				"hdmi": 3,
+				"usb": 2,
+				"spdif": true,
+				"component": false,
+				"composite": false,
+				"rfAntenna": true,
+				"vga": false
+			},
+			"design": {
+				"vesa": true,
+				"widthCm": null,
+				"heightCm": null,
+				"depthCm": null,
+				"weightKg": 6.2,
+				"cableManagement": null
+			},
+			"energy": {
+				"energyEfficiencyClass": "A",
+				"inmetroCertification": null
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"imageQuality": 8.4,
+				"soundQuality": 8.2,
+				"systemSpeed": 8.0,
+				"connectivity": 8.4
+			}
+		}
+	}
+]

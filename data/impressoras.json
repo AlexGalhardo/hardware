@@ -1,0 +1,2036 @@
+[
+	{
+		"id": "epson-l6490",
+		"name": "L6490",
+		"brand": "Epson",
+		"line": "EcoTank",
+		"model": "L6490",
+		"alphanumericModel": "C11CJ88303",
+		"color": "Cinza",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_859376-MLA99450654260_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "impressoras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/21bKpid",
+		"manufacturer": "Epson",
+		"specs": {
+			"manufacturer": "Epson",
+			"type": "Multifuncional",
+			"printingTechnology": "Jato de tinta",
+			"printType": "Cor",
+			"functions": ["Impressão", "Cópia", "Digitalização", "Fax"],
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": true,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": ["Wi-Fi Direct", "Epson Connect", "Epson Smart Panel"],
+				"usbType": "USB 3.0",
+				"ethernetSpeed": "10/100 Mbps"
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "4800 x 1200 dpi",
+				"maxResolutionColor": "4800 x 1200 dpi",
+				"maxSpeedBlackWhite": 37,
+				"maxSpeedColor": 23,
+				"firstPageOut": "7 segundos",
+				"duplexPrinting": "Automático",
+				"monthlyCycle": 20000,
+				"recommendedVolume": "1500 páginas por mês",
+				"languages": ["PCL", "ESC/P-R"]
+			},
+			"paper": {
+				"types": ["A4", "Carta", "Legal", "Envelope", "Fotográfico"],
+				"sizes": ["A4", "Carta", "Legal", "A5", "A6", "Envelope"],
+				"maxCapacity": 250,
+				"trays": 1,
+				"maxWeight": 300,
+				"minWeight": 64,
+				"customSizes": true,
+				"borderlessPrinting": true
+			},
+			"scanner": {
+				"type": "Flatbed + ADF",
+				"maxResolution": "1200 x 2400 dpi",
+				"scanSpeed": null,
+				"adfCapacity": 35,
+				"scanArea": "216 x 297 mm",
+				"fileFormats": ["PDF", "JPEG", "TIFF", "PNG"],
+				"colorDepth": "48 bits",
+				"duplexScanning": false
+			},
+			"copier": {
+				"maxCopies": 99,
+				"copySpeed": "12 ipm preto / 6 ipm cor",
+				"reduction": "25%",
+				"enlargement": "400%",
+				"idCopy": true
+			},
+			"fax": {
+				"speed": null,
+				"memory": "180 páginas",
+				"resolution": null,
+				"autoRedialing": true,
+				"speedDial": 100
+			},
+			"ink": {
+				"cartridges": 4,
+				"cartridgeType": "Tanque de tinta",
+				"colors": ["Preto", "Ciano", "Magenta", "Amarelo"],
+				"cartridgeYield": {
+					"black": "7500 páginas ISO",
+					"color": "6000 páginas ISO"
+				},
+				"tankSystem": true,
+				"inkBottles": [
+					"T524120-AL (Preto)",
+					"T524220-AL (Ciano)",
+					"T524320-AL (Magenta)",
+					"T524420-AL (Amarelo)"
+				]
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "Touchscreen",
+				"size": "2,4 polegadas",
+				"color": true,
+				"touchscreen": true,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": false,
+				"processorSpeed": null,
+				"memory": null,
+				"storage": null,
+				"energyEfficiency": "A",
+				"operatingSystem": null,
+				"supportedOS": ["Windows", "macOS", "Linux", "Android", "iOS"]
+			},
+			"power": {
+				"voltage": "Bivolt (110V-240V automático)",
+				"powerConsumption": "12 W",
+				"standbyPower": null,
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "34,6 cm",
+				"width": "37,5 cm",
+				"depth": "34,7 cm",
+				"weight": "7,3 kg"
+			},
+			"environmental": {
+				"energyStar": true,
+				"ecoMode": true,
+				"recyclable": true,
+				"certifications": ["RoHS"]
+			},
+			"security": {
+				"passwordProtection": true,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": true,
+				"mobilePrinting": true,
+				"automaticDocumentFeeder": true,
+				"adfCapacity": 35,
+				"twoSidedId": true,
+				"voiceActivated": false,
+				"smartTasks": true,
+				"colorDisplay": true,
+				"quietMode": false
+			},
+			"software": {
+				"included": ["Epson Smart Panel", "Epson Connect"],
+				"compatible": ["Windows", "macOS", "Linux"],
+				"driverSupport": ["PCL", "ESC/P-R"],
+				"mobileApps": ["Epson Smart Panel", "Epson iPrint"]
+			},
+			"bundled": {
+				"cables": ["Cabo USB", "Cabo de energia"],
+				"cartridges": ["Kit completo de garrafas de tinta (4 cores)"],
+				"software": ["Epson Smart Panel"],
+				"accessories": ["Manual de instruções", "Guia de instalação"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": "Garantia do fabricante",
+				"support": "Suporte técnico Epson"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"printQuality": 9,
+				"speed": 8,
+				"connectivity": 9,
+				"reliability": 8.5,
+				"features": 9,
+				"costPerPage": 9.5
+			}
+		}
+	},
+	{
+		"id": "hp-deskjet-ink-advantage-2874",
+		"name": "DeskJet Ink Advantage 2874",
+		"brand": "HP",
+		"line": "DeskJet Ink Advantage",
+		"model": "2874",
+		"alphanumericModel": "6W7G2A#AK4",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_997367-MLA99927857041_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "impressoras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1Rt3zNn",
+		"manufacturer": "HP",
+		"specs": {
+			"manufacturer": "HP",
+			"type": "Multifuncional",
+			"printingTechnology": "Jato de tinta",
+			"printType": "Cor",
+			"functions": ["Impressão", "Cópia", "Digitalização"],
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": false,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": ["Wi-Fi Direct", "HP Smart", "AirPrint"],
+				"usbType": "USB 2.0",
+				"ethernetSpeed": null
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "1200 x 1200 dpi",
+				"maxResolutionColor": "4800 x 1200 dpi",
+				"maxSpeedBlackWhite": 7.5,
+				"maxSpeedColor": 5.5,
+				"firstPageOut": "13 segundos (preto), 16 segundos (cor)",
+				"duplexPrinting": "Manual",
+				"monthlyCycle": 1000,
+				"recommendedVolume": "50 a 100 páginas por mês",
+				"languages": null
+			},
+			"paper": {
+				"types": ["Papel comum", "Papel fotográfico", "Envelopes"],
+				"sizes": ["A4", "B5", "A6", "Envelope DL"],
+				"maxCapacity": 60,
+				"trays": 1,
+				"maxWeight": 300,
+				"minWeight": 60,
+				"customSizes": false,
+				"borderlessPrinting": true
+			},
+			"scanner": {
+				"type": "Flatbed",
+				"maxResolution": "1200 dpi",
+				"scanSpeed": null,
+				"adfCapacity": null,
+				"scanArea": null,
+				"fileFormats": ["PDF", "JPEG"],
+				"colorDepth": null,
+				"duplexScanning": false
+			},
+			"copier": {
+				"maxCopies": 9,
+				"copySpeed": null,
+				"reduction": null,
+				"enlargement": "Ampliação automática",
+				"idCopy": false
+			},
+			"fax": null,
+			"ink": {
+				"cartridges": 2,
+				"cartridgeType": "Cartucho",
+				"colors": ["Preto", "Colorido (tricolor)"],
+				"cartridgeYield": {
+					"black": "120 páginas (HP 667)",
+					"color": "100 páginas (HP 667)"
+				},
+				"tankSystem": false,
+				"inkBottles": null
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "LCD",
+				"size": null,
+				"color": false,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": false,
+				"processorSpeed": "1 GHz",
+				"memory": "64 MB DDR1",
+				"storage": null,
+				"energyEfficiency": "A",
+				"operatingSystem": null,
+				"supportedOS": ["Windows", "macOS", "Android", "iOS"]
+			},
+			"power": {
+				"voltage": "Bivolt",
+				"powerConsumption": "2,8 W em standby",
+				"standbyPower": "2,8 W",
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": null,
+			"environmental": {
+				"energyStar": false,
+				"ecoMode": false,
+				"recyclable": true,
+				"certifications": ["Programa de reciclagem HP"]
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": true,
+				"mobilePrinting": true,
+				"automaticDocumentFeeder": false,
+				"adfCapacity": null,
+				"twoSidedId": false,
+				"voiceActivated": false,
+				"smartTasks": true,
+				"colorDisplay": false,
+				"quietMode": false
+			},
+			"software": {
+				"included": ["HP Smart"],
+				"compatible": ["Windows", "macOS"],
+				"driverSupport": ["Windows 7", "Windows 10", "Windows 11", "macOS"],
+				"mobileApps": ["HP Smart"]
+			},
+			"bundled": {
+				"cables": ["Cabo de alimentação"],
+				"cartridges": ["Cartucho preto HP 667 (instalação)", "Cartucho colorido HP 667 (instalação)"],
+				"software": ["HP Smart"],
+				"accessories": ["Guia de configuração", "Folheto regulamentar"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": "Garantia limitada do fabricante",
+				"support": "Suporte técnico HP via chat, telefone e aplicativo"
+			},
+			"ratings": {
+				"costBenefit": 7,
+				"printQuality": 7.5,
+				"speed": 6,
+				"connectivity": 8,
+				"reliability": 7.5,
+				"features": 6.5,
+				"costPerPage": 5.5
+			}
+		}
+	},
+	{
+		"id": "hp-smart-tank-584",
+		"name": "Smart Tank 584",
+		"brand": "HP",
+		"line": "Smart Tank",
+		"model": "584",
+		"alphanumericModel": "5D1C1A#AK4",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_961034-MLA99958290111_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "impressoras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1zgVom4",
+		"manufacturer": "HP",
+		"specs": {
+			"manufacturer": "HP",
+			"type": "Multifuncional",
+			"printingTechnology": "Tanque de tinta",
+			"printType": "Cor",
+			"functions": ["Impressão", "Cópia", "Digitalização"],
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": false,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": ["Wi-Fi com autorreparo", "HP Smart", "AirPrint"],
+				"usbType": "USB 2.0",
+				"ethernetSpeed": null
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "1200 x 1200 dpi",
+				"maxResolutionColor": "4800 x 1200 dpi",
+				"maxSpeedBlackWhite": 12,
+				"maxSpeedColor": 5,
+				"firstPageOut": "14 segundos (preto), 21 segundos (cor)",
+				"duplexPrinting": "Manual",
+				"monthlyCycle": 3000,
+				"recommendedVolume": "400 a 800 páginas por mês",
+				"languages": ["HP PCL 3", "HP PCLm", "URF"]
+			},
+			"paper": {
+				"types": ["Papel comum", "Papel fotográfico", "Envelopes"],
+				"sizes": ["A4", "B5", "A6", "Envelope DL", "Envelope C5"],
+				"maxCapacity": 100,
+				"trays": 1,
+				"maxWeight": 300,
+				"minWeight": 60,
+				"customSizes": true,
+				"borderlessPrinting": true
+			},
+			"scanner": {
+				"type": "Flatbed",
+				"maxResolution": "1200 dpi",
+				"scanSpeed": null,
+				"adfCapacity": null,
+				"scanArea": "216 x 297 mm",
+				"fileFormats": ["PDF", "JPEG"],
+				"colorDepth": null,
+				"duplexScanning": false
+			},
+			"copier": {
+				"maxCopies": 99,
+				"copySpeed": null,
+				"reduction": "Redução automática",
+				"enlargement": "Ampliação automática",
+				"idCopy": true
+			},
+			"fax": null,
+			"ink": {
+				"cartridges": 4,
+				"cartridgeType": "Tanque de tinta",
+				"colors": ["Preto", "Ciano", "Magenta", "Amarelo"],
+				"cartridgeYield": {
+					"black": "6000 páginas",
+					"color": "6000 páginas"
+				},
+				"tankSystem": true,
+				"inkBottles": ["GT53XL (Preto)", "GT52 (Ciano)", "GT52 (Magenta)", "GT52 (Amarelo)"]
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "LCD",
+				"size": null,
+				"color": false,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": false,
+				"processorSpeed": null,
+				"memory": null,
+				"storage": null,
+				"energyEfficiency": null,
+				"operatingSystem": null,
+				"supportedOS": ["Windows 10", "Windows 11", "macOS", "Android", "iOS"]
+			},
+			"power": {
+				"voltage": "Bivolt (110V/220V automático)",
+				"powerConsumption": null,
+				"standbyPower": null,
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "15,7 cm",
+				"width": "44,3 cm",
+				"depth": "36,1 cm",
+				"weight": "4,94 kg"
+			},
+			"environmental": {
+				"energyStar": false,
+				"ecoMode": true,
+				"recyclable": true,
+				"certifications": ["Programa de reciclagem HP"]
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": true,
+				"mobilePrinting": true,
+				"automaticDocumentFeeder": false,
+				"adfCapacity": null,
+				"twoSidedId": true,
+				"voiceActivated": false,
+				"smartTasks": true,
+				"colorDisplay": false,
+				"quietMode": true
+			},
+			"software": {
+				"included": ["HP Smart"],
+				"compatible": ["Windows", "macOS"],
+				"driverSupport": ["Windows 10", "Windows 11", "macOS"],
+				"mobileApps": ["HP Smart"]
+			},
+			"bundled": {
+				"cables": ["Cabo de alimentação"],
+				"cartridges": ["Kit GT53XL preto", "GT52 ciano", "GT52 magenta", "GT52 amarelo"],
+				"software": ["HP Smart"],
+				"accessories": ["Guia do usuário"]
+			},
+			"warranty": {
+				"period": "1 ano (até 2 anos com registro)",
+				"type": "Garantia limitada do fabricante",
+				"support": "Suporte técnico HP via app e telefone"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"printQuality": 8.5,
+				"speed": 7,
+				"connectivity": 9,
+				"reliability": 8.5,
+				"features": 8,
+				"costPerPage": 9
+			}
+		}
+	},
+	{
+		"id": "epson-ecotank-l3250",
+		"name": "EcoTank L3250",
+		"brand": "Epson",
+		"line": "EcoTank",
+		"model": "L3250",
+		"alphanumericModel": "C11CJ67303",
+		"detailedModel": "C11CJ67301",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_867179-MLA99966959445_112025-F.webp",
+		"price": 0,
+		"releaseDate": "Agosto de 2021",
+		"releaseYear": 2021,
+		"category": "impressoras",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/342sHeq",
+		"manufacturer": "Epson",
+		"specs": {
+			"manufacturer": "Epson",
+			"type": "Multifuncional",
+			"printingTechnology": "Jato de tinta",
+			"printType": "Cor",
+			"functions": ["Impressão", "Cópia", "Digitalização"],
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": false,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": ["Wi-Fi Direct", "Epson Smart Panel", "Epson iPrint"],
+				"usbType": "USB 2.0",
+				"ethernetSpeed": null
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "5760 x 1440 dpi",
+				"maxResolutionColor": "5760 x 1440 dpi",
+				"maxSpeedBlackWhite": 33,
+				"maxSpeedColor": 15,
+				"firstPageOut": null,
+				"duplexPrinting": "Manual",
+				"monthlyCycle": 30000,
+				"recommendedVolume": "Até 2000 páginas por mês",
+				"languages": null
+			},
+			"paper": {
+				"types": ["Papel comum", "Papel fotográfico", "Envelopes", "Papel matte"],
+				"sizes": ["A4", "Carta", "Ofício"],
+				"maxCapacity": 100,
+				"trays": 2,
+				"maxWeight": 90,
+				"minWeight": 64,
+				"customSizes": false,
+				"borderlessPrinting": true
+			},
+			"scanner": {
+				"type": "Flatbed",
+				"maxResolution": "600 x 1200 dpi",
+				"scanSpeed": "200 dpi em A4 (modo preto/branco e cor)",
+				"adfCapacity": null,
+				"scanArea": "216 x 297 mm",
+				"fileFormats": ["PDF", "JPEG"],
+				"colorDepth": null,
+				"duplexScanning": false
+			},
+			"copier": {
+				"maxCopies": 99,
+				"copySpeed": null,
+				"reduction": "Redução automática",
+				"enlargement": "Ampliação automática",
+				"idCopy": false
+			},
+			"fax": null,
+			"ink": {
+				"cartridges": 4,
+				"cartridgeType": "Tanque de tinta",
+				"colors": ["Preto", "Ciano", "Magenta", "Amarelo"],
+				"cartridgeYield": {
+					"black": "4500 páginas",
+					"color": "7500 páginas"
+				},
+				"tankSystem": true,
+				"inkBottles": ["T544120 (Preto)", "T544220 (Ciano)", "T544320 (Magenta)", "T544420 (Amarelo)"]
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "LCD",
+				"size": null,
+				"color": false,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": true,
+				"processorSpeed": null,
+				"memory": null,
+				"storage": null,
+				"energyEfficiency": null,
+				"operatingSystem": null,
+				"supportedOS": [
+					"Windows Vista",
+					"Windows 7",
+					"Windows 8",
+					"Windows 8.1",
+					"Windows 10",
+					"Windows 11",
+					"macOS 10.5.8",
+					"macOS 11",
+					"Android",
+					"iOS"
+				]
+			},
+			"power": {
+				"voltage": "Bivolt",
+				"powerConsumption": null,
+				"standbyPower": null,
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "37,5 cm",
+				"width": "34,7 cm",
+				"depth": "17,9 cm",
+				"weight": "3,9 kg"
+			},
+			"environmental": {
+				"energyStar": false,
+				"ecoMode": true,
+				"recyclable": true,
+				"certifications": []
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": true,
+				"mobilePrinting": true,
+				"automaticDocumentFeeder": true,
+				"adfCapacity": 7500,
+				"twoSidedId": false,
+				"voiceActivated": true,
+				"smartTasks": true,
+				"colorDisplay": false,
+				"quietMode": false
+			},
+			"software": {
+				"included": ["Epson Smart Panel", "Epson iPrint"],
+				"compatible": ["Windows", "macOS"],
+				"driverSupport": [
+					"Windows Vista",
+					"Windows 7",
+					"Windows 8",
+					"Windows 8.1",
+					"Windows 10",
+					"Windows 11",
+					"macOS"
+				],
+				"mobileApps": ["Epson Smart Panel", "Epson iPrint"]
+			},
+			"bundled": {
+				"cables": ["Cabo USB", "Cabo de energia"],
+				"cartridges": ["Kit completo de garrafas de tinta (4 cores)"],
+				"software": ["Epson Smart Panel"],
+				"accessories": ["Manual de instruções"]
+			},
+			"warranty": {
+				"period": "Até 2 anos (com registro em até 30 dias)",
+				"type": "0-3 meses sem limite + 4-12 meses até 30.000 páginas + 12 meses adicional (com registro)",
+				"support": "Suporte técnico Epson via telefone, chat e e-mail"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"printQuality": 8,
+				"speed": 7.5,
+				"connectivity": 8.5,
+				"reliability": 7.5,
+				"features": 7.5,
+				"costPerPage": 9
+			}
+		}
+	},
+	{
+		"id": "zebra-zd220",
+		"name": "ZD220",
+		"brand": "Zebra",
+		"line": "Desktop Printers",
+		"model": "ZD220",
+		"detailedModel": "ZD220 (Substituta GC420T)",
+		"alphanumericModel": "ZD22042-T0AG00EZ",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_987750-MLA99959799225_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2019",
+		"releaseYear": 2019,
+		"category": "impressoras",
+		"subcategory": "Impressora de Etiquetas",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1kQDFzP",
+		"manufacturer": "Zebra",
+		"specs": {
+			"manufacturer": "Zebra",
+			"type": "Impressora",
+			"printingTechnology": "Térmica",
+			"printType": "Monocromática",
+			"functions": ["Impressão"],
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": false,
+				"ethernet": false,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": null,
+				"usbType": "USB 2.0",
+				"ethernetSpeed": null
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "203 dpi",
+				"maxResolutionColor": null,
+				"maxSpeedBlackWhite": 102,
+				"maxSpeedColor": null,
+				"firstPageOut": null,
+				"duplexPrinting": "Não",
+				"monthlyCycle": null,
+				"recommendedVolume": "Até 1000 impressões diárias",
+				"languages": ["ZPL", "ZPL II", "EPL2", "XML"]
+			},
+			"paper": {
+				"types": ["Etiqueta", "Recibo", "Pulseira", "Tíquete"],
+				"sizes": ["33,8 mm a 109,2 mm de largura"],
+				"maxCapacity": 151,
+				"trays": 1,
+				"maxWeight": null,
+				"minWeight": null,
+				"customSizes": true,
+				"borderlessPrinting": false
+			},
+			"scanner": null,
+			"copier": null,
+			"fax": null,
+			"ink": {
+				"cartridges": 1,
+				"cartridgeType": "Ribbon",
+				"colors": ["Preto"],
+				"cartridgeYield": {
+					"black": "Até 74m por ribbon",
+					"color": null
+				},
+				"tankSystem": false,
+				"inkBottles": null
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "LED",
+				"size": null,
+				"color": false,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": false,
+				"processorSpeed": null,
+				"memory": "128 MB SDRAM",
+				"storage": "256 MB Flash",
+				"energyEfficiency": "ENERGY STAR",
+				"operatingSystem": null,
+				"supportedOS": ["Windows", "macOS", "Linux"]
+			},
+			"power": {
+				"voltage": "Bivolt (110V-240V automático)",
+				"powerConsumption": null,
+				"standbyPower": null,
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "19,1 cm",
+				"width": "26,7 cm",
+				"depth": "19,7 cm",
+				"weight": "1,13 kg"
+			},
+			"environmental": {
+				"energyStar": true,
+				"ecoMode": false,
+				"recyclable": true,
+				"certifications": ["ENERGY STAR"]
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": false,
+				"mobilePrinting": false,
+				"automaticDocumentFeeder": false,
+				"adfCapacity": null,
+				"twoSidedId": false,
+				"voiceActivated": false,
+				"smartTasks": false,
+				"colorDisplay": false,
+				"quietMode": false
+			},
+			"software": {
+				"included": ["Zebra Designer Essentials"],
+				"compatible": ["Zebra Designer", "ZebraDesigner PRO"],
+				"driverSupport": ["ZPL", "EPL", "XML"],
+				"mobileApps": null
+			},
+			"bundled": {
+				"cables": ["Cabo USB", "Cabo de energia"],
+				"cartridges": null,
+				"software": ["Zebra Designer Essentials"],
+				"accessories": ["Manual de instruções", "Guia de instalação rápida"]
+			},
+			"warranty": {
+				"period": "2 anos",
+				"type": "Garantia padrão do fabricante",
+				"support": "Suporte técnico Zebra via rede de 10.000+ parceiros globais"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"printQuality": 8.5,
+				"speed": 8,
+				"connectivity": 6,
+				"reliability": 9,
+				"features": 7,
+				"costPerPage": 8.5
+			}
+		}
+	},
+	{
+		"id": "bematech-mp4200-hs",
+		"name": "MP-4200 HS",
+		"brand": "Bematech",
+		"line": "MP-4200",
+		"model": "MP-4200 HS",
+		"detailedModel": "MP-4200 HS (Substituta MP-4200 TH)",
+		"alphanumericModel": "46B4200HS000",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_677350-MLA99451971144_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2019",
+		"releaseYear": 2019,
+		"category": "impressoras",
+		"subcategory": "Impressora de Cupom Não Fiscal",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2SxCPZv",
+		"manufacturer": "Bematech",
+		"specs": {
+			"manufacturer": "Bematech",
+			"type": "Impressora",
+			"printingTechnology": "Térmica",
+			"printType": "Monocromática",
+			"functions": ["Impressão"],
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": false,
+				"ethernet": true,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": null,
+				"usbType": "USB 2.0",
+				"ethernetSpeed": "10/100 Mbps"
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "203 dpi",
+				"maxResolutionColor": null,
+				"maxSpeedBlackWhite": 300,
+				"maxSpeedColor": null,
+				"firstPageOut": null,
+				"duplexPrinting": "Não",
+				"monthlyCycle": null,
+				"recommendedVolume": "Alto volume diário",
+				"languages": ["ESC/POS"]
+			},
+			"paper": {
+				"types": ["Bobina térmica", "Cupom"],
+				"sizes": ["58mm", "76mm", "80mm", "82,5mm"],
+				"maxCapacity": 151,
+				"trays": 1,
+				"maxWeight": null,
+				"minWeight": null,
+				"customSizes": true,
+				"borderlessPrinting": false
+			},
+			"scanner": null,
+			"copier": null,
+			"fax": null,
+			"ink": {
+				"cartridges": 0,
+				"cartridgeType": null,
+				"colors": ["Preto"],
+				"cartridgeYield": null,
+				"tankSystem": false,
+				"inkBottles": null
+			},
+			"display": {
+				"hasDisplay": false,
+				"type": null,
+				"size": null,
+				"color": false,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": false,
+				"processorSpeed": null,
+				"memory": "4 MB RAM",
+				"storage": "4 MB Flash",
+				"energyEfficiency": null,
+				"operatingSystem": null,
+				"supportedOS": ["Windows", "Linux", "Android"]
+			},
+			"power": {
+				"voltage": "Bivolt (100-240V automático)",
+				"powerConsumption": null,
+				"standbyPower": null,
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "29 cm",
+				"width": "8,25 cm",
+				"depth": "21,8 cm",
+				"weight": "2,5 kg"
+			},
+			"environmental": {
+				"energyStar": false,
+				"ecoMode": false,
+				"recyclable": true,
+				"certifications": null
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": false,
+				"mobilePrinting": false,
+				"automaticDocumentFeeder": false,
+				"adfCapacity": null,
+				"twoSidedId": false,
+				"voiceActivated": false,
+				"smartTasks": false,
+				"colorDisplay": false,
+				"quietMode": false
+			},
+			"software": {
+				"included": ["Drivers Windows/Linux"],
+				"compatible": ["ESC/POS"],
+				"driverSupport": ["Windows", "Linux", "Android"],
+				"mobileApps": null
+			},
+			"bundled": {
+				"cables": ["Cabo USB", "Cabo Serial RS-232", "Cabo de energia"],
+				"cartridges": null,
+				"software": ["Drivers"],
+				"accessories": ["Guia de uso rápido", "Manual de instruções"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": "Garantia do fabricante",
+				"support": "Suporte técnico Bematech"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"printQuality": 8,
+				"speed": 9,
+				"connectivity": 8,
+				"reliability": 9,
+				"features": 7,
+				"costPerPage": 9
+			}
+		}
+	},
+	{
+		"id": "epson-ecotank-l4260",
+		"name": "L4260",
+		"brand": "Epson",
+		"line": "EcoTank",
+		"model": "L4260",
+		"detailedModel": "EcoTank L4260",
+		"alphanumericModel": "C11CJ63303",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_918837-MLA99991756367_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseYear": 2022,
+		"category": "impressoras",
+		"subcategory": "Multifuncional",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1SHFUTz",
+		"manufacturer": "Epson",
+		"specs": {
+			"manufacturer": "Epson",
+			"type": "Multifuncional",
+			"printingTechnology": "Jato de tinta",
+			"printType": "Cor",
+			"functions": ["Impressão", "Cópia", "Digitalização"],
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": false,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": [
+					"Wi-Fi Direct",
+					"AirPrint",
+					"Epson Connect",
+					"Epson Smart Panel",
+					"Epson Email Print",
+					"Chromebook Native Print",
+					"Mopria"
+				],
+				"usbType": "USB 2.0",
+				"ethernetSpeed": null
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "5760 x 1440 dpi",
+				"maxResolutionColor": "5760 x 1440 dpi",
+				"maxSpeedBlackWhite": 33,
+				"maxSpeedColor": 15,
+				"firstPageOut": "5 segundos",
+				"duplexPrinting": "Automático",
+				"monthlyCycle": null,
+				"recommendedVolume": "Até 1500 páginas por mês",
+				"languages": ["PCL", "ESC/P-R"]
+			},
+			"paper": {
+				"types": [
+					"Normal",
+					"Envelope",
+					"Especial",
+					"Photo semi-gloss",
+					"Presentation matte",
+					"High quality inkjet",
+					"Photo glossy"
+				],
+				"sizes": [
+					"A4",
+					"Carta",
+					"Ofício",
+					"Ofício México",
+					"Ofício 9",
+					"Folio",
+					"Executivo",
+					"Meia carta",
+					"A6",
+					"A5",
+					"B6",
+					"B5",
+					"Foto 4x6",
+					"Foto 5x7",
+					"Foto 8x10",
+					"Envelope N10"
+				],
+				"maxCapacity": 100,
+				"trays": 2,
+				"maxWeight": 90,
+				"minWeight": 64,
+				"customSizes": true,
+				"borderlessPrinting": true
+			},
+			"scanner": {
+				"type": "Flatbed",
+				"maxResolution": "1200 x 2400 dpi",
+				"scanSpeed": "11 segundos (P&B), 28 segundos (Cor)",
+				"adfCapacity": null,
+				"scanArea": "216 x 297 mm",
+				"fileFormats": ["PDF", "JPEG", "PNG"],
+				"colorDepth": "48 bits",
+				"duplexScanning": false
+			},
+			"copier": {
+				"maxCopies": 99,
+				"copySpeed": "10 cpm preto / 5 cpm cor",
+				"reduction": "25%",
+				"enlargement": "400%",
+				"idCopy": true
+			},
+			"fax": null,
+			"ink": {
+				"cartridges": 4,
+				"cartridgeType": "Tanque de tinta",
+				"colors": ["Preto", "Ciano", "Magenta", "Amarelo"],
+				"cartridgeYield": {
+					"black": "7500 páginas ISO",
+					"color": "6000 páginas ISO"
+				},
+				"tankSystem": true,
+				"inkBottles": ["T504120 (Preto)", "T504220 (Ciano)", "T504320 (Magenta)", "T504420 (Amarelo)"]
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "LCD",
+				"size": "1,44 polegadas",
+				"color": true,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": false,
+				"processorSpeed": null,
+				"memory": null,
+				"storage": null,
+				"energyEfficiency": "A",
+				"operatingSystem": null,
+				"supportedOS": ["Windows", "macOS", "Linux", "Android", "iOS"]
+			},
+			"power": {
+				"voltage": "Bivolt (100-240V automático)",
+				"powerConsumption": "12 W",
+				"standbyPower": "0,7 W",
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "25,9 cm",
+				"width": "37,5 cm",
+				"depth": "56,7 cm",
+				"weight": "5,5 kg"
+			},
+			"environmental": {
+				"energyStar": true,
+				"ecoMode": true,
+				"recyclable": true,
+				"certifications": ["RoHS"]
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": ["WEP", "WPA-PSK (TKIP)", "WPA2-PSK (AES)", "WPA3-SAE (AES)"],
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": true,
+				"mobilePrinting": true,
+				"automaticDocumentFeeder": false,
+				"adfCapacity": null,
+				"twoSidedId": true,
+				"voiceActivated": true,
+				"smartTasks": true,
+				"colorDisplay": true,
+				"quietMode": true
+			},
+			"software": {
+				"included": ["Epson Smart Panel", "Epson iPrint"],
+				"compatible": ["Windows", "macOS", "Linux"],
+				"driverSupport": ["PCL", "ESC/P-R"],
+				"mobileApps": ["Epson Smart Panel", "Epson iPrint", "Epson Email Print"]
+			},
+			"bundled": {
+				"cables": ["Cabo USB", "Cabo de energia"],
+				"cartridges": ["Kit completo de garrafas de tinta (4 cores)"],
+				"software": ["Epson Smart Panel", "CD de instalação"],
+				"accessories": ["Manual de instruções", "Guia de instalação rápida"]
+			},
+			"warranty": {
+				"period": "1 ano (extensível para 2 anos com registro)",
+				"type": "Garantia do fabricante",
+				"support": "Suporte técnico Epson"
+			},
+			"ratings": {
+				"costBenefit": 9.5,
+				"printQuality": 8.5,
+				"speed": 7.5,
+				"connectivity": 9,
+				"reliability": 8.5,
+				"features": 9,
+				"costPerPage": 9.5
+			}
+		}
+	},
+	{
+		"id": "canon-pixma-g3110",
+		"name": "G3110",
+		"brand": "Canon",
+		"line": "Pixma",
+		"model": "G3110",
+		"detailedModel": "Pixma G3110",
+		"alphanumericModel": "G3110",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_611292-MLA99572305216_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2017",
+		"releaseYear": 2017,
+		"category": "impressoras",
+		"subcategory": "Multifuncional",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1MWTUti",
+		"manufacturer": "Canon",
+		"specs": {
+			"manufacturer": "Canon",
+			"type": "Multifuncional",
+			"printingTechnology": "Jato de tinta",
+			"printType": "Cor",
+			"functions": ["Impressão", "Cópia", "Digitalização"],
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": false,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": [
+					"Canon PRINT",
+					"Pixma Cloud Link",
+					"Google Cloud Print",
+					"Easy-PhotoPrint+",
+					"Message In Print"
+				],
+				"usbType": "USB 2.0",
+				"ethernetSpeed": null
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "600 x 600 dpi",
+				"maxResolutionColor": "4800 x 1200 dpi",
+				"maxSpeedBlackWhite": 8.8,
+				"maxSpeedColor": 5,
+				"firstPageOut": null,
+				"duplexPrinting": "Manual",
+				"monthlyCycle": null,
+				"recommendedVolume": "Até 1000 páginas por mês",
+				"languages": null
+			},
+			"paper": {
+				"types": [
+					"Normal",
+					"Alta resolução",
+					"Fotográfico fosco",
+					"Envelope",
+					"Fotográfico brilhante",
+					"Fotográfico brilhante plus II"
+				],
+				"sizes": ["A4", "A5", "B5", "Carta", "Ofício", "Envelope N10", "4x6", "5x7"],
+				"maxCapacity": 100,
+				"trays": 1,
+				"maxWeight": 275,
+				"minWeight": 64,
+				"customSizes": true,
+				"borderlessPrinting": true
+			},
+			"scanner": {
+				"type": "Flatbed",
+				"maxResolution": "600 x 1200 dpi",
+				"scanSpeed": null,
+				"adfCapacity": null,
+				"scanArea": "216 x 297 mm",
+				"fileFormats": ["JPEG", "PDF", "PNG", "TIFF"],
+				"colorDepth": "48 bits",
+				"duplexScanning": false
+			},
+			"copier": {
+				"maxCopies": 99,
+				"copySpeed": "3,5 cpm",
+				"reduction": null,
+				"enlargement": null,
+				"idCopy": true
+			},
+			"fax": null,
+			"ink": {
+				"cartridges": 4,
+				"cartridgeType": "Tanque de tinta",
+				"colors": ["Preto", "Ciano", "Magenta", "Amarelo"],
+				"cartridgeYield": {
+					"black": "6000 páginas",
+					"color": "7000 páginas"
+				},
+				"tankSystem": true,
+				"inkBottles": [
+					"GI-190 Preto (135 ml)",
+					"GI-190 Ciano (70 ml)",
+					"GI-190 Magenta (70 ml)",
+					"GI-190 Amarelo (70 ml)"
+				]
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "LCD",
+				"size": "1,2 polegadas",
+				"color": true,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": false,
+				"processorSpeed": null,
+				"memory": null,
+				"storage": null,
+				"energyEfficiency": null,
+				"operatingSystem": null,
+				"supportedOS": ["Windows", "macOS", "iOS", "Android"]
+			},
+			"power": {
+				"voltage": "Bivolt (110V-220V)",
+				"powerConsumption": "11 W",
+				"standbyPower": null,
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "16,3 cm",
+				"width": "44,5 cm",
+				"depth": "33 cm",
+				"weight": "6,3 kg"
+			},
+			"environmental": {
+				"energyStar": false,
+				"ecoMode": true,
+				"recyclable": true,
+				"certifications": null
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": true,
+				"mobilePrinting": true,
+				"automaticDocumentFeeder": false,
+				"adfCapacity": null,
+				"twoSidedId": true,
+				"voiceActivated": false,
+				"smartTasks": false,
+				"colorDisplay": true,
+				"quietMode": true
+			},
+			"software": {
+				"included": ["Canon PRINT", "Easy-PhotoPrint+"],
+				"compatible": ["Windows", "macOS"],
+				"driverSupport": ["Windows 10", "Windows 8", "Windows 7", "macOS"],
+				"mobileApps": ["Canon PRINT", "Pixma Cloud Link", "Easy-PhotoPrint+"]
+			},
+			"bundled": {
+				"cables": ["Cabo USB", "Cabo de energia"],
+				"cartridges": [
+					"Kit completo de garrafas de tinta (4 cores): GI-190 Preto, GI-190 Ciano, GI-190 Magenta, GI-190 Amarelo"
+				],
+				"software": null,
+				"accessories": ["Manual de instruções"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": "Garantia do fabricante",
+				"support": "Suporte técnico Canon"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"printQuality": 8,
+				"speed": 6.5,
+				"connectivity": 8,
+				"reliability": 8,
+				"features": 7.5,
+				"costPerPage": 9.5
+			}
+		}
+	},
+	{
+		"id": "epson-ecotank-l8050",
+		"name": "L8050",
+		"brand": "Epson",
+		"line": "EcoTank",
+		"model": "L8050",
+		"detailedModel": "EcoTank L8050",
+		"alphanumericModel": "C11CK37301",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_726123-MCO53647298050_022023-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseYear": 2022,
+		"category": "impressoras",
+		"subcategory": "Impressora Fotográfica",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2YpwwwP",
+		"manufacturer": "Epson",
+		"specs": {
+			"manufacturer": "Epson",
+			"type": "Impressora",
+			"printingTechnology": "Jato de tinta",
+			"printType": "Cor",
+			"functions": ["Impressão"],
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": false,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": [
+					"Wi-Fi Direct",
+					"Epson Smart Panel",
+					"Epson Connect",
+					"Alexa",
+					"Google Assistant"
+				],
+				"usbType": "USB 2.0",
+				"ethernetSpeed": null
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "5760 x 1440 dpi",
+				"maxResolutionColor": "5760 x 1440 dpi",
+				"maxSpeedBlackWhite": 22,
+				"maxSpeedColor": 22,
+				"firstPageOut": "25 segundos (foto 10x15 cm)",
+				"duplexPrinting": "Manual",
+				"monthlyCycle": null,
+				"recommendedVolume": "Alto volume fotográfico",
+				"languages": ["PCL", "ESC/P-R"]
+			},
+			"paper": {
+				"types": [
+					"Normal",
+					"Papel fotográfico",
+					"Photo glossy",
+					"Photo semi-gloss",
+					"Presentation matte",
+					"High quality inkjet",
+					"Envelope",
+					"CD/DVD imprimível",
+					"Cartão PVC"
+				],
+				"sizes": [
+					"A4",
+					"Carta",
+					"Ofício",
+					"Ofício 9",
+					"Ofício México",
+					"Fólio",
+					"Executivo",
+					"Meia carta",
+					"A6",
+					"10x15 cm (4x6)",
+					"13x18 cm (5x7)",
+					"9x13 cm (3,5x5)",
+					"8x10",
+					"Envelope N10",
+					"ID PVC (54x86mm)"
+				],
+				"maxCapacity": 100,
+				"trays": 1,
+				"maxWeight": 300,
+				"minWeight": 64,
+				"customSizes": true,
+				"borderlessPrinting": true
+			},
+			"scanner": null,
+			"copier": null,
+			"fax": null,
+			"ink": {
+				"cartridges": 6,
+				"cartridgeType": "Tanque de tinta",
+				"colors": ["Preto", "Preto fotográfico", "Ciano", "Ciano claro", "Magenta", "Magenta claro"],
+				"cartridgeYield": {
+					"black": "Até 2100 fotos 10x15 cm com kit completo",
+					"color": "Até 2100 fotos 10x15 cm com kit completo"
+				},
+				"tankSystem": true,
+				"inkBottles": [
+					"T574120 (Preto fotográfico)",
+					"T574220 (Ciano)",
+					"T574320 (Magenta)",
+					"T574420 (Amarelo)",
+					"T574520 (Ciano claro)",
+					"T574620 (Magenta claro)"
+				]
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "LED",
+				"size": null,
+				"color": false,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": false,
+				"processorSpeed": null,
+				"memory": null,
+				"storage": null,
+				"energyEfficiency": "A",
+				"operatingSystem": null,
+				"supportedOS": ["Windows", "macOS", "Linux", "Android", "iOS"]
+			},
+			"power": {
+				"voltage": "Bivolt (110V-240V automático)",
+				"powerConsumption": "17 W",
+				"standbyPower": "0,8 W",
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "29,9 cm",
+				"width": "40,3 cm",
+				"depth": "63,3 cm",
+				"weight": "6 kg"
+			},
+			"environmental": {
+				"energyStar": true,
+				"ecoMode": true,
+				"recyclable": true,
+				"certifications": ["RoHS"]
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": true,
+				"mobilePrinting": true,
+				"automaticDocumentFeeder": false,
+				"adfCapacity": null,
+				"twoSidedId": false,
+				"voiceActivated": true,
+				"smartTasks": true,
+				"colorDisplay": false,
+				"quietMode": false
+			},
+			"software": {
+				"included": ["Epson Smart Panel", "Driver de instalação"],
+				"compatible": ["Windows", "macOS", "Linux"],
+				"driverSupport": ["PCL", "ESC/P-R"],
+				"mobileApps": ["Epson Smart Panel", "Epson iPrint", "Epson Connect"]
+			},
+			"bundled": {
+				"cables": ["Cabo USB", "Cabo de energia"],
+				"cartridges": ["Kit completo de 6 garrafas de tinta originais Epson"],
+				"software": ["Driver de instalação", "Epson Smart Panel"],
+				"accessories": [
+					"Bandeja de impressão CD/DVD",
+					"Bandeja de impressão PVC",
+					"Guia de instalação rápida",
+					"Manual"
+				]
+			},
+			"warranty": {
+				"period": "1 ano (extensível para 2 anos com registro)",
+				"type": "Garantia do fabricante (ou 30.000 páginas, o que ocorrer primeiro)",
+				"support": "Suporte técnico Epson"
+			},
+			"ratings": {
+				"costBenefit": 8.5,
+				"printQuality": 9.5,
+				"speed": 8,
+				"connectivity": 9,
+				"reliability": 8,
+				"features": 9,
+				"costPerPage": 9
+			}
+		}
+	},
+	{
+		"id": "szr-impressora-portatil-tatuagem",
+		"name": "Impressora Portátil Tatuagem",
+		"brand": "SZR",
+		"line": null,
+		"model": "Impressora Portátil Tatuagem",
+		"detailedModel": "Impressora Térmica Bluetooth A4 para Decalques",
+		"alphanumericModel": "Impressora Portátil Tatuagem",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_879163-MLB100313964296_122025-F-impressora-portatil-decalque-tatto-bluetooth-a4-ios-android.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "impressoras",
+		"subcategory": "Impressora Portátil para Decalque de Tatuagem",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1PwTHu6",
+		"manufacturer": "Mega Varejo",
+		"specs": {
+			"manufacturer": "Outros",
+			"type": "Impressora",
+			"printingTechnology": "Térmica",
+			"printType": "Monocromática",
+			"functions": ["Impressão"],
+			"connectivity": {
+				"wifi": false,
+				"bluetooth": true,
+				"ethernet": false,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": ["Bluetooth 4.0"],
+				"usbType": "USB-C",
+				"ethernetSpeed": null
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "203 dpi",
+				"maxResolutionColor": null,
+				"maxSpeedBlackWhite": null,
+				"maxSpeedColor": null,
+				"firstPageOut": null,
+				"duplexPrinting": "Não",
+				"monthlyCycle": null,
+				"recommendedVolume": "Uso profissional para decalques de tatuagem",
+				"languages": null
+			},
+			"paper": {
+				"types": ["Papel hectográfico", "Papel térmico A4", "Papel stencil"],
+				"sizes": ["A4 (210mm)"],
+				"maxCapacity": 1,
+				"trays": 1,
+				"maxWeight": null,
+				"minWeight": null,
+				"customSizes": false,
+				"borderlessPrinting": false
+			},
+			"scanner": null,
+			"copier": null,
+			"fax": null,
+			"ink": {
+				"cartridges": 0,
+				"cartridgeType": null,
+				"colors": ["Preto"],
+				"cartridgeYield": null,
+				"tankSystem": false,
+				"inkBottles": null
+			},
+			"display": {
+				"hasDisplay": false,
+				"type": null,
+				"size": null,
+				"color": false,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": true,
+				"processorSpeed": null,
+				"memory": null,
+				"storage": null,
+				"energyEfficiency": "A",
+				"operatingSystem": null,
+				"supportedOS": ["Android", "iOS", "Windows", "macOS", "Linux"]
+			},
+			"power": {
+				"voltage": "5V 2A (USB-C)",
+				"powerConsumption": null,
+				"standbyPower": null,
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "4 cm",
+				"width": "26,5 cm",
+				"depth": "8 cm",
+				"weight": "650 g"
+			},
+			"environmental": {
+				"energyStar": false,
+				"ecoMode": false,
+				"recyclable": true,
+				"certifications": null
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": false,
+				"mobilePrinting": true,
+				"automaticDocumentFeeder": false,
+				"adfCapacity": null,
+				"twoSidedId": false,
+				"voiceActivated": false,
+				"smartTasks": false,
+				"colorDisplay": false,
+				"quietMode": true
+			},
+			"software": {
+				"included": ["Aplicativo Tattoo Go"],
+				"compatible": ["Android", "iOS", "Windows", "macOS", "Linux"],
+				"driverSupport": null,
+				"mobileApps": ["Tattoo Go"]
+			},
+			"bundled": {
+				"cables": ["Cabo USB-C"],
+				"cartridges": null,
+				"software": ["App Tattoo Go"],
+				"accessories": ["Manual de instruções", "Papel hectográfico (quantidade variável)"]
+			},
+			"warranty": {
+				"period": "90 dias",
+				"type": "Garantia do vendedor",
+				"support": null
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"printQuality": 7.5,
+				"speed": 7,
+				"connectivity": 8,
+				"reliability": 7,
+				"features": 7,
+				"costPerPage": 9
+			}
+		}
+	},
+	{
+		"id": "brother-dcp-t530dw",
+		"name": "DCP-T530DW",
+		"brand": "Brother",
+		"line": "InkBenefit Tank",
+		"model": "DCP-T530DW",
+		"detailedModel": "DCP-T530DW",
+		"alphanumericModel": "DCP-T530DW",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_649512-MLB93555727887_092025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseYear": 2024,
+		"category": "impressoras",
+		"subcategory": "Multifuncional",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1UFX8G7",
+		"manufacturer": "Brother",
+		"specs": {
+			"manufacturer": "Brother",
+			"type": "Multifuncional",
+			"printingTechnology": "Jato de tinta",
+			"printType": "Cor",
+			"functions": ["Impressão", "Cópia", "Digitalização"],
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": false,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": [
+					"Wi-Fi Direct",
+					"Wi-Fi Dual Band (2.4 GHz e 5.0 GHz)",
+					"Brother Mobile Connect",
+					"Mopria",
+					"AirPrint"
+				],
+				"usbType": "USB 2.0",
+				"ethernetSpeed": null
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "6000 x 1200 dpi",
+				"maxResolutionColor": "6000 x 1200 dpi",
+				"maxSpeedBlackWhite": 27,
+				"maxSpeedColor": 11,
+				"firstPageOut": null,
+				"duplexPrinting": "Automático",
+				"monthlyCycle": null,
+				"recommendedVolume": "Até 2500 páginas por mês",
+				"languages": null
+			},
+			"paper": {
+				"types": ["Normal", "Reciclado", "Bond", "Envelope", "Fotográfico", "Glossy", "Inkjet"],
+				"sizes": ["A4", "Carta", "Legal", "Ofício", "A5", "A6", "Envelope"],
+				"maxCapacity": 150,
+				"trays": 1,
+				"maxWeight": 220,
+				"minWeight": 64,
+				"customSizes": true,
+				"borderlessPrinting": true
+			},
+			"scanner": {
+				"type": "Flatbed",
+				"maxResolution": "1200 x 2400 dpi",
+				"scanSpeed": null,
+				"adfCapacity": null,
+				"scanArea": "216 x 297 mm",
+				"fileFormats": ["PDF", "JPEG", "TIFF"],
+				"colorDepth": "48 bits",
+				"duplexScanning": false
+			},
+			"copier": {
+				"maxCopies": 99,
+				"copySpeed": null,
+				"reduction": "25%",
+				"enlargement": "400%",
+				"idCopy": true
+			},
+			"fax": null,
+			"ink": {
+				"cartridges": 4,
+				"cartridgeType": "Tanque de tinta",
+				"colors": ["Preto", "Ciano", "Magenta", "Amarelo"],
+				"cartridgeYield": {
+					"black": "15000 páginas (2 garrafas de 108 ml cada)",
+					"color": "5000 páginas (3 garrafas de 48,8 ml cada)"
+				},
+				"tankSystem": true,
+				"inkBottles": [
+					"BTD100BK (Preto - 108 ml) x2",
+					"BTD100C (Ciano - 48,8 ml)",
+					"BTD100M (Magenta - 48,8 ml)",
+					"BTD100Y (Amarelo - 48,8 ml)"
+				]
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "LCD",
+				"size": "1 linha",
+				"color": false,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": false,
+				"processorSpeed": null,
+				"memory": null,
+				"storage": null,
+				"energyEfficiency": "A",
+				"operatingSystem": null,
+				"supportedOS": ["Windows", "macOS", "Linux", "iOS", "Android"]
+			},
+			"power": {
+				"voltage": "Bivolt (110V-127V / 220V-240V)",
+				"powerConsumption": "15 W",
+				"standbyPower": "2,5 W",
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "27 cm",
+				"width": "41 cm",
+				"depth": "36 cm",
+				"weight": "11,79 kg"
+			},
+			"environmental": {
+				"energyStar": false,
+				"ecoMode": true,
+				"recyclable": true,
+				"certifications": null
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": true,
+				"mobilePrinting": true,
+				"automaticDocumentFeeder": false,
+				"adfCapacity": null,
+				"twoSidedId": true,
+				"voiceActivated": false,
+				"smartTasks": false,
+				"colorDisplay": false,
+				"quietMode": false
+			},
+			"software": {
+				"included": ["Brother Mobile Connect", "Drivers de instalação"],
+				"compatible": ["Windows", "macOS", "Linux"],
+				"driverSupport": [
+					"Windows 11",
+					"Windows 10",
+					"Windows Server 2025/2022/2019/2016",
+					"macOS",
+					"Linux (rpm/deb)"
+				],
+				"mobileApps": ["Brother Mobile Connect", "Brother iPrint&Scan"]
+			},
+			"bundled": {
+				"cables": ["Cabo USB", "Cabo de energia"],
+				"cartridges": [
+					"Kit completo de tinta: 2 garrafas pretas BTD100BK (108ml cada) + 3 garrafas coloridas BTD100 (48,8ml cada)"
+				],
+				"software": ["Drivers de instalação"],
+				"accessories": ["Guia de instalação rápida", "Manual de instruções"]
+			},
+			"warranty": {
+				"period": "1 ano ou 30.000 páginas (o que ocorrer primeiro)",
+				"type": "Garantia do fabricante",
+				"support": "Suporte técnico Brother"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"printQuality": 8.5,
+				"speed": 8,
+				"connectivity": 9,
+				"reliability": 8.5,
+				"features": 8.5,
+				"costPerPage": 9.5
+			}
+		}
+	},
+	{
+		"id": "hp-laser-107w",
+		"name": "Laser 107w",
+		"brand": "HP",
+		"line": "Laser",
+		"model": "107w",
+		"detailedModel": "HP Laser 107w",
+		"alphanumericModel": "4ZB78A",
+		"color": "Cinza/Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_991161-MLA99989981859_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2019",
+		"releaseYear": 2019,
+		"category": "impressoras",
+		"subcategory": "Impressora Laser Monocromática",
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2dyPe4T",
+		"manufacturer": "HP",
+		"specs": {
+			"manufacturer": "HP",
+			"type": "Impressora",
+			"printingTechnology": "Laser",
+			"printType": "Monocromática",
+			"functions": ["Impressão"],
+			"connectivity": {
+				"wifi": true,
+				"bluetooth": false,
+				"ethernet": false,
+				"usb": true,
+				"nfc": false,
+				"mobileConnections": ["Wi-Fi Direct", "AirPrint", "Google Cloud Print", "Mopria", "HP Smart"],
+				"usbType": "USB 2.0",
+				"ethernetSpeed": null
+			},
+			"printing": {
+				"maxResolutionBlackWhite": "1200 x 1200 dpi",
+				"maxResolutionColor": null,
+				"maxSpeedBlackWhite": 20,
+				"maxSpeedColor": null,
+				"firstPageOut": "8,3 segundos",
+				"duplexPrinting": "Manual",
+				"monthlyCycle": 10000,
+				"recommendedVolume": "Até 1500 páginas por mês",
+				"languages": ["SPL"]
+			},
+			"paper": {
+				"types": [
+					"Normal",
+					"Grosso",
+					"Fino",
+					"Algodão",
+					"Cor",
+					"Pré-impresso",
+					"Reciclado",
+					"Etiqueta",
+					"Cartolina",
+					"Bond",
+					"Arquivo",
+					"Envelope"
+				],
+				"sizes": ["A4", "A5", "B5 JIS", "Ofício", "Envelope DL", "Envelope C5"],
+				"maxCapacity": 150,
+				"trays": 1,
+				"maxWeight": 163,
+				"minWeight": 60,
+				"customSizes": true,
+				"borderlessPrinting": false
+			},
+			"scanner": null,
+			"copier": null,
+			"fax": null,
+			"ink": {
+				"cartridges": 1,
+				"cartridgeType": "Toner",
+				"colors": ["Preto"],
+				"cartridgeYield": {
+					"black": "500 páginas (introdutório) / 1000 páginas (HP 105A padrão)",
+					"color": null
+				},
+				"tankSystem": false,
+				"inkBottles": null
+			},
+			"display": {
+				"hasDisplay": true,
+				"type": "LED",
+				"size": null,
+				"color": false,
+				"touchscreen": false,
+				"resolution": null
+			},
+			"specifications": {
+				"portable": false,
+				"processorSpeed": "400 MHz",
+				"memory": null,
+				"storage": null,
+				"energyEfficiency": "ENERGY STAR",
+				"operatingSystem": null,
+				"supportedOS": ["Windows", "macOS", "Linux"]
+			},
+			"power": {
+				"voltage": "110-127V (50/60 Hz)",
+				"powerConsumption": "320 W (impressão ativa), 33 W (pronta), 1,1 W (suspensão)",
+				"standbyPower": "0,2 W",
+				"sleepMode": true,
+				"autoShutoff": true
+			},
+			"dimensions": {
+				"height": "17,8 cm",
+				"width": "33,1 cm",
+				"depth": "21,5 cm",
+				"weight": "4,16 kg"
+			},
+			"environmental": {
+				"energyStar": true,
+				"ecoMode": false,
+				"recyclable": true,
+				"certifications": ["ENERGY STAR", "HP Planet Partners"]
+			},
+			"security": {
+				"passwordProtection": false,
+				"encryption": null,
+				"secureErase": false,
+				"pinPrinting": false
+			},
+			"features": {
+				"cloudPrinting": true,
+				"mobilePrinting": true,
+				"automaticDocumentFeeder": false,
+				"adfCapacity": null,
+				"twoSidedId": false,
+				"voiceActivated": false,
+				"smartTasks": false,
+				"colorDisplay": false,
+				"quietMode": false
+			},
+			"software": {
+				"included": ["HP Smart", "Drivers de instalação"],
+				"compatible": ["Windows", "macOS"],
+				"driverSupport": ["Windows 7", "Windows 8", "Windows 8.1", "Windows 10", "Windows 11", "macOS"],
+				"mobileApps": ["HP Smart"]
+			},
+			"bundled": {
+				"cables": ["Cabo USB", "Cabo de energia"],
+				"cartridges": ["Cartucho de toner preto introdutório (500 páginas)"],
+				"software": ["Drivers"],
+				"accessories": ["Guia de instalação", "Guia de referência", "Brochura de relatórios regulamentar"]
+			},
+			"warranty": {
+				"period": "1 ano",
+				"type": "Garantia do fabricante",
+				"support": "Suporte técnico HP"
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"printQuality": 8.5,
+				"speed": 8,
+				"connectivity": 9,
+				"reliability": 8,
+				"features": 7,
+				"costPerPage": 9
+			}
+		}
+	}
+]

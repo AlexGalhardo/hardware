@@ -1,0 +1,2205 @@
+[
+	{
+		"id": "airfryer-philips-walita-na130-00",
+		"name": "NA130/00",
+		"brand": "Philips Walita",
+		"line": "Série 1000",
+		"model": "NA130/00",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_623708-MLA99577999648_122025-F.webp",
+		"price": 349.9,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1YjhWYw",
+		"shopeeUrl": null,
+		"alphanumericModel": "NA130/00",
+		"version": null,
+		"manufacturer": "Versuni India Home Solutions Ltd.",
+		"specs": {
+			"capacity": {
+				"liters": 6.2,
+				"servings": 4,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1700,
+				"voltage": "Bivolt (127V/220V)",
+				"frequency": "50-60 Hz"
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Rapid Air Technology",
+				"rapidAir": true,
+				"convection": true
+			},
+			"programs": {
+				"preset": 12,
+				"customizable": true,
+				"programs": ["Fritar", "Assar", "Grelhar", "Tostar", "Reaquecer", "Descongelar", "Desidratar"]
+			},
+			"control": {
+				"type": "Digital",
+				"display": "LED",
+				"appControl": true,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": true,
+				"viewWindow": false,
+				"keepWarm": false,
+				"preheat": false,
+				"shakeReminder": false,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": true,
+				"nonSlipFeet": true
+			},
+			"accessories": {
+				"included": ["Grelha", "Manual de Instruções"],
+				"compatible": ["Acessórios Philips Airfryer"]
+			},
+			"dimensions": {
+				"width": "30,8 cm",
+				"height": "40,3 cm",
+				"depth": "30,8 cm",
+				"weight": "4,2 kg",
+				"basketSize": "6,2L"
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - peças removíveis laváveis na lava-louças",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 9,
+				"easeOfUse": 8,
+				"capacity": 10,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-philips-walita-na130-09",
+		"name": "NA130/09",
+		"brand": "Philips Walita",
+		"line": "Série 1000",
+		"model": "NA130/09",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_858060-MLA99373778810_112025-F.webp",
+		"price": 349.9,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1bj8Dd9",
+		"shopeeUrl": null,
+		"alphanumericModel": "NA130/09",
+		"version": null,
+		"manufacturer": "Versuni India Home Solutions Ltd.",
+		"specs": {
+			"capacity": {
+				"liters": 6.2,
+				"servings": 4,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1700,
+				"voltage": "Bivolt (127V/220V)",
+				"frequency": "50-60 Hz"
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Rapid Air Technology",
+				"rapidAir": true,
+				"convection": true
+			},
+			"programs": {
+				"preset": 12,
+				"customizable": true,
+				"programs": ["Fritar", "Assar", "Grelhar", "Tostar", "Reaquecer", "Descongelar", "Desidratar"]
+			},
+			"control": {
+				"type": "Digital",
+				"display": "LED",
+				"appControl": true,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": true,
+				"viewWindow": false,
+				"keepWarm": false,
+				"preheat": false,
+				"shakeReminder": false,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": true,
+				"nonSlipFeet": true
+			},
+			"accessories": {
+				"included": ["Grelha", "Manual de Instruções"],
+				"compatible": ["Acessórios Philips Airfryer"]
+			},
+			"dimensions": {
+				"width": "30,8 cm",
+				"height": "40,3 cm",
+				"depth": "30,8 cm",
+				"weight": "4,2 kg",
+				"basketSize": "6,2L"
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - peças removíveis laváveis na lava-louças",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 9,
+				"easeOfUse": 8,
+				"capacity": 10,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-mondial-af-30",
+		"name": "AF-30",
+		"brand": "Mondial",
+		"line": "Pratica",
+		"model": "AF-30",
+		"detailedModel": "Family Inox IV",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_660792-MLA97351447703_112025-F.webp",
+		"price": 249.9,
+		"releaseDate": "2023",
+		"releaseMonth": null,
+		"releaseYear": 2023,
+		"origin": "China",
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2sijMN3",
+		"shopeeUrl": null,
+		"alphanumericModel": "AF-30",
+		"version": "IV",
+		"manufacturer": "Mondial",
+		"specs": {
+			"capacity": {
+				"liters": 7,
+				"servings": 3,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1500,
+				"voltage": "Bivolt (127V/220V)",
+				"frequency": "50-60 Hz"
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 30,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Circulação de Ar Quente",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": true,
+				"programs": null
+			},
+			"control": {
+				"type": "Analógico",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": false,
+				"viewWindow": false,
+				"keepWarm": false,
+				"preheat": false,
+				"shakeReminder": false,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": true,
+				"nonSlipFeet": true
+			},
+			"accessories": {
+				"included": ["Cesto removível", "Manual de Instruções"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "31,4 cm",
+				"height": "27,3 cm",
+				"depth": "33,2 cm",
+				"weight": "3,9 kg",
+				"basketSize": "3,5L"
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 7,
+				"easeOfUse": 9,
+				"capacity": 7,
+				"cleaning": 8
+			}
+		}
+	},
+	{
+		"id": "airfryer-philips-walita-na341",
+		"name": "NA341",
+		"brand": "Philips Walita",
+		"line": "Série 3000",
+		"model": "NA341",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_818147-MLA99507423644_112025-F.webp",
+		"price": 799.9,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1QzsmvN",
+		"shopeeUrl": null,
+		"alphanumericModel": "NA341",
+		"version": null,
+		"manufacturer": "Versuni India Home Solutions Ltd.",
+		"specs": {
+			"capacity": {
+				"liters": 7.2,
+				"servings": 6,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 2000,
+				"voltage": "Bivolt (127V/220V)",
+				"frequency": "50-60 Hz"
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Rapid Air Technology",
+				"rapidAir": true,
+				"convection": true
+			},
+			"programs": {
+				"preset": 13,
+				"customizable": true,
+				"programs": [
+					"Fritar",
+					"Assar",
+					"Grelhar",
+					"Tostar",
+					"Reaquecer",
+					"Descongelar",
+					"Desidratar",
+					"Bacon",
+					"Frango",
+					"Peixe",
+					"Bolo",
+					"Pizza",
+					"Vegetais"
+				]
+			},
+			"control": {
+				"type": "Digital",
+				"display": "LED Digital",
+				"appControl": true,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": true,
+				"viewWindow": true,
+				"keepWarm": true,
+				"preheat": false,
+				"shakeReminder": true,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": true,
+				"nonSlipFeet": true
+			},
+			"accessories": {
+				"included": ["Cesto removível", "Grelha", "Manual de Instruções"],
+				"compatible": ["Acessórios Philips Airfryer"]
+			},
+			"dimensions": {
+				"width": "37,1 cm",
+				"height": "36,5 cm",
+				"depth": "49,2 cm",
+				"weight": "7,7 kg",
+				"basketSize": "7,2L"
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - peças removíveis laváveis na lava-louças",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"cookingPerformance": 10,
+				"easeOfUse": 9,
+				"capacity": 10,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-midea-fwm45p1",
+		"name": "FWM45P1",
+		"brand": "Midea",
+		"line": "FWM",
+		"model": "FWM45P1.FWM45P2",
+		"detailedModel": "Widemax",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_733418-MLA99504461002_112025-F.webp",
+		"price": 399.9,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2kx3sz3",
+		"shopeeUrl": null,
+		"alphanumericModel": "FWM45P1.FWM45P2",
+		"version": null,
+		"manufacturer": "Midea",
+		"specs": {
+			"capacity": {
+				"liters": 9,
+				"servings": 4,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1500,
+				"voltage": "Bivolt (127V/220V)",
+				"frequency": "50-60 Hz"
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Circulação de Ar Quente 360°",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": 8,
+				"customizable": true,
+				"programs": ["Fritar", "Assar", "Grelhar", "Reaquecer", "Descongelar", "Bacon", "Frango", "Batata"]
+			},
+			"control": {
+				"type": "Digital",
+				"display": "LED",
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": true,
+				"viewWindow": false,
+				"keepWarm": false,
+				"preheat": false,
+				"shakeReminder": false,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": true,
+				"nonSlipFeet": true
+			},
+			"accessories": {
+				"included": ["Bandeja de gotejamento", "Grelha", "Manual de Instruções"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "27,5 cm",
+				"height": "28,8 cm",
+				"depth": "39 cm",
+				"weight": "4,9 kg",
+				"basketSize": "4,5L"
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - peças removíveis com revestimento antiaderente laváveis na lava-louças",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 8,
+				"capacity": 8,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-oster-ckstaf60wddf",
+		"name": "CKSTAF60WDDF",
+		"brand": "Oster",
+		"line": "CKSTAF60WDDF",
+		"model": "CKSTAF60WDDF",
+		"detailedModel": "Diamondtech",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_675945-MLA99966366509_112025-F.webp",
+		"price": 599.9,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2WHnph5",
+		"shopeeUrl": null,
+		"alphanumericModel": "2204924",
+		"version": null,
+		"manufacturer": "Oster",
+		"specs": {
+			"capacity": {
+				"liters": 6.0,
+				"servings": 5,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1700,
+				"voltage": "Bivolt (127V/220V)",
+				"frequency": "50-60 Hz"
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Diamondtech Ceramic Coating",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": 10,
+				"customizable": true,
+				"programs": [
+					"Fritar",
+					"Assar",
+					"Grelhar",
+					"Reaquecer",
+					"Descongelar",
+					"Bacon",
+					"Frango",
+					"Peixe",
+					"Pizza",
+					"Batata"
+				]
+			},
+			"control": {
+				"type": "Touch",
+				"display": "LED Digital",
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": true,
+				"viewWindow": true,
+				"keepWarm": false,
+				"preheat": false,
+				"shakeReminder": false,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": true,
+				"nonSlipFeet": true
+			},
+			"accessories": {
+				"included": ["Cesto removível", "Manual de Instruções"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "32 cm",
+				"height": "35 cm",
+				"depth": "38 cm",
+				"weight": "5 kg",
+				"basketSize": "6L"
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - revestimento cerâmico Diamondtech antiaderente, peças removíveis laváveis na lava-louças",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"cookingPerformance": 9,
+				"easeOfUse": 9,
+				"capacity": 9,
+				"cleaning": 10
+			}
+		}
+	},
+	{
+		"id": "airfryer-itatiaia-afita1035a",
+		"name": "AFITA1035A",
+		"brand": "Itatiaia",
+		"line": "AFITA",
+		"model": "AFITA1035A",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_616430-MLA98192923164_112025-F.webp",
+		"price": 199.9,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/118TbG2",
+		"shopeeUrl": null,
+		"alphanumericModel": "AFITA1035A",
+		"version": null,
+		"manufacturer": "Itatiaia",
+		"specs": {
+			"capacity": {
+				"liters": 7,
+				"servings": 3,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1400,
+				"voltage": "Bivolt (127V/220V)",
+				"frequency": "50-60 Hz"
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 30,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Circulação de Ar Quente",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": true,
+				"programs": null
+			},
+			"control": {
+				"type": "Analógico",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": false,
+				"viewWindow": false,
+				"keepWarm": false,
+				"preheat": false,
+				"shakeReminder": false,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": true,
+				"nonSlipFeet": true
+			},
+			"accessories": {
+				"included": ["Cesto removível", "Manual de Instruções"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "30 cm",
+				"height": "30 cm",
+				"depth": "31 cm",
+				"weight": "3 kg",
+				"basketSize": "3,5L"
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 10,
+				"cookingPerformance": 7,
+				"easeOfUse": 8,
+				"capacity": 7,
+				"cleaning": 7
+			}
+		}
+	},
+	{
+		"id": "airfryer-philco-pfr2200p",
+		"name": "PFR2200P",
+		"brand": "Philco",
+		"line": "Air",
+		"model": "PFR2200P",
+		"detailedModel": "Air Fryer Oven 4 em 1",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_646055-MLA99511429566_112025-F.webp",
+		"price": 599.9,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": "China",
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1hq54Sy",
+		"shopeeUrl": null,
+		"alphanumericModel": "7205127",
+		"version": null,
+		"manufacturer": "Philco",
+		"specs": {
+			"capacity": {
+				"liters": 12.0,
+				"servings": 8,
+				"baskets": 2
+			},
+			"power": {
+				"watts": 1800,
+				"voltage": "Bivolt (127V/220V)",
+				"frequency": "50-60 Hz"
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Circulação de Ar Quente 360°",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": 8,
+				"customizable": true,
+				"programs": ["Fritar", "Assar", "Grelhar", "Tostar", "Reaquecer", "Descongelar", "Frango", "Batata"]
+			},
+			"control": {
+				"type": "Digital",
+				"display": "LED Digital",
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": true,
+				"viewWindow": true,
+				"keepWarm": false,
+				"preheat": false,
+				"shakeReminder": false,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": true,
+				"nonSlipFeet": true
+			},
+			"accessories": {
+				"included": ["2 Cestos removíveis", "Grelha", "Bandeja coletora", "Manual de Instruções"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "33 cm",
+				"height": "37 cm",
+				"depth": "38 cm",
+				"weight": "7,3 kg",
+				"basketSize": "12L (2 cestos de 6L cada)"
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - peças removíveis antiaderentes laváveis na lava-louças",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 8,
+				"capacity": 10,
+				"cleaning": 8
+			}
+		}
+	},
+	{
+		"id": "airfryer-electrolux-eaf40",
+		"name": "EAF40",
+		"brand": "Electrolux",
+		"line": "Efficient por Rita Lobo",
+		"model": "EAF40",
+		"detailedModel": null,
+		"color": "Cinza-escuro",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_696592-MLA104141415391_012026-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1dLBvbj",
+		"shopeeUrl": null,
+		"alphanumericModel": "EAF40",
+		"version": null,
+		"manufacturer": "Electrolux",
+		"specs": {
+			"capacity": {
+				"liters": 5.6,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1400,
+				"voltage": "127V ou 220V (verificar versão)",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Convecção / Air Fry",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": 8,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Digital",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": null,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": ["Grelha"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "34,7 cm",
+				"height": "30,4 cm",
+				"depth": "26,7 cm",
+				"weight": "3,8 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível com dupla camada antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 9,
+				"capacity": 8,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-philco-pfr15pg",
+		"name": "PFR15PG",
+		"brand": "Philco",
+		"line": "Gourmet Black",
+		"model": "PFR15PG",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_860668-MLU74370099605_022024-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseMonth": null,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/34mFyEY",
+		"shopeeUrl": null,
+		"alphanumericModel": "PFR15PG",
+		"version": "220V",
+		"manufacturer": "Philco",
+		"specs": {
+			"capacity": {
+				"liters": 4.4,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1500,
+				"voltage": "220V",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Air Fry com convecção",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Analógico",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": null,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": [],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "29,5 cm",
+				"height": "34,6 cm",
+				"depth": "37 cm",
+				"weight": "4,22 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível com antiaderente Maxx Gold",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 8,
+				"capacity": 7,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-mondial-afon-12l-ab",
+		"name": "AFON-12L-AB",
+		"brand": "Mondial",
+		"line": "Air Fryer Oven",
+		"model": "AFON-12L",
+		"detailedModel": "AFON-12L-AB",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_641245-MLA99683681642_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2022",
+		"releaseMonth": null,
+		"releaseYear": 2022,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1fCJ7ao",
+		"shopeeUrl": null,
+		"alphanumericModel": "AFON-12L-AB",
+		"version": null,
+		"manufacturer": "Mondial",
+		"specs": {
+			"capacity": {
+				"liters": 12,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 2000,
+				"voltage": "127V ou 220V (potência varia: 2000W em 127V / 2200W em 220V)",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Air Fry + Forno com convecção",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Analógico",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": true,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": null,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": ["Cesto assadeira", "Bandeja", "Grelha", "Bandeja coletora"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "36,1 cm",
+				"height": "36 cm",
+				"depth": "32 cm",
+				"weight": "7,62 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - peças antiaderentes removíveis",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 8,
+				"capacity": 10,
+				"cleaning": 8
+			}
+		}
+	},
+	{
+		"id": "airfryer-britania-baf40a",
+		"name": "BAF40A",
+		"brand": "Britânia",
+		"line": null,
+		"model": "BAF40A",
+		"detailedModel": "063801125",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_778760-MLA99856338061_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2eWbhB7",
+		"shopeeUrl": null,
+		"alphanumericModel": "BAF40A-127V",
+		"version": null,
+		"manufacturer": "Britânia",
+		"specs": {
+			"capacity": {
+				"liters": 4,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1500,
+				"voltage": "127V ou 220V (disponível em versões)",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Air Flow 360°",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Botões",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": null,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": [],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "33 cm",
+				"height": "23 cm",
+				"depth": "30 cm",
+				"weight": "3,7 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 9,
+				"capacity": 8,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-britania-baf45a",
+		"name": "BAF45A",
+		"brand": "Britânia",
+		"line": null,
+		"model": "BAF45A",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_818764-MLA99962602187_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/1XvRcpu",
+		"shopeeUrl": null,
+		"alphanumericModel": "BAF45A",
+		"version": null,
+		"manufacturer": "Britânia",
+		"specs": {
+			"capacity": {
+				"liters": 5,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1500,
+				"voltage": "127V ou 220V (não bivolt)",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Air Flow 360°",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Analógico",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": null,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": true
+			},
+			"accessories": {
+				"included": [],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "28,5 cm",
+				"height": "33,5 cm",
+				"depth": "35,4 cm",
+				"weight": "3,75 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Muito fácil - revestimento antiaderente Gold",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 9,
+				"capacity": 8,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-itatiaia-afita1035a",
+		"name": "AFITA1035A",
+		"brand": "Itatiaia",
+		"line": "AFITA",
+		"model": "AFITA1035A",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_616430-MLA98192923164_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/118TbG2",
+		"shopeeUrl": null,
+		"alphanumericModel": "AFITA1035A",
+		"version": null,
+		"manufacturer": "Itatiaia",
+		"specs": {
+			"capacity": {
+				"liters": 3.5,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1400,
+				"voltage": "127V ou 220V (verificar versão)",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Circulação de ar quente",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Analógico",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": null,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": ["Grelha"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "30 cm",
+				"height": "30 cm",
+				"depth": "31 cm",
+				"weight": "3 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 9,
+				"capacity": 7,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-philco-paf55a",
+		"name": "PAF55A",
+		"brand": "Philco",
+		"line": null,
+		"model": "PAF55A",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_950317-MLA99970944425_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/17qSAn6",
+		"shopeeUrl": null,
+		"alphanumericModel": "PAF55A",
+		"version": null,
+		"manufacturer": "Philco",
+		"specs": {
+			"capacity": {
+				"liters": 5.5,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1500,
+				"voltage": "127V ou 220V (verificar versão)",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Circulação de ar quente",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Analógico",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": null,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": [],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "30,8 cm",
+				"height": "35,7 cm",
+				"depth": "39,5 cm",
+				"weight": "4,54 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 9,
+				"capacity": 9,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-electrolux-eaf45",
+		"name": "EAF45",
+		"brand": "Electrolux",
+		"line": "Experience por Rita Lobo",
+		"model": "EAF45",
+		"detailedModel": null,
+		"color": "Grafite",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_914550-MLA99990413573_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2vXzLft",
+		"shopeeUrl": null,
+		"alphanumericModel": "EAF45",
+		"version": null,
+		"manufacturer": "Electrolux",
+		"specs": {
+			"capacity": {
+				"liters": 5.6,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1400,
+				"voltage": "127V ou 220V (verificar versão)",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 60,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Air Cooking 360°",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": 9,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Digital",
+				"display": "Touch",
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": true,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": ["Cesto removível"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "34,7 cm",
+				"height": "30,4 cm",
+				"depth": "26,7 cm",
+				"weight": "3,9 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível com dupla camada antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 9,
+				"easeOfUse": 9,
+				"capacity": 9,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-philco-paf11b",
+		"name": "PAF11B",
+		"brand": "Philco",
+		"line": "Oven",
+		"model": "PAF11B",
+		"detailedModel": null,
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_660936-MLA92716452059_092025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2WsDFoz",
+		"shopeeUrl": null,
+		"alphanumericModel": "PAF11B 220V",
+		"version": "220V",
+		"manufacturer": "Philco",
+		"specs": {
+			"capacity": {
+				"liters": 11,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1800,
+				"voltage": "220V",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Air Fry + Oven com convecção",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": 8,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Digital",
+				"display": "Touch",
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": true,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": true,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": ["Cesto removível"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "34,5 cm",
+				"height": "33 cm",
+				"depth": "31 cm",
+				"weight": "5.5 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível antiaderente e visor removível",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 9,
+				"capacity": 10,
+				"cleaning": 8
+			}
+		}
+	},
+	{
+		"id": "airfryer-electrolux-eaf45-rita-lobo-experience",
+		"name": "EAF45",
+		"brand": "Electrolux",
+		"line": "Experience por Rita Lobo",
+		"model": "EAF45",
+		"detailedModel": null,
+		"color": "Grafite",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_780274-MLA99571434150_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2NoPRBc",
+		"shopeeUrl": null,
+		"alphanumericModel": "EAF45",
+		"version": null,
+		"manufacturer": "Electrolux",
+		"specs": {
+			"capacity": {
+				"liters": 5.6,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1400,
+				"voltage": "127V ou 220V (verificar versão)",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 60,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Air Cooking 360°",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": 4,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Digital",
+				"display": "Assistant Touch",
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": true,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": ["Cesto removível"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "34,7 cm",
+				"height": "30,4 cm",
+				"depth": "26,7 cm",
+				"weight": "3,9 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível com dupla camada antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 9,
+				"easeOfUse": 9,
+				"capacity": 9,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-electrolux-eaf85",
+		"name": "EAF85",
+		"brand": "Electrolux",
+		"line": "Experience por Rita Lobo",
+		"model": "EAF85",
+		"detailedModel": "5311AABR201",
+		"color": "Grafite",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_721756-MLA99555662232_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2025",
+		"releaseMonth": null,
+		"releaseYear": 2025,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2aiG5Eg",
+		"shopeeUrl": null,
+		"alphanumericModel": "5311AABR201",
+		"version": null,
+		"manufacturer": "Electrolux",
+		"specs": {
+			"capacity": {
+				"liters": 12,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1700,
+				"voltage": "127V ou 220V (verificar versão)",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 60,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 90,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Air Cooking com convecção",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": 7,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Digital",
+				"display": "Touch LED",
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": true,
+				"keepWarm": null,
+				"preheat": true,
+				"shakeReminder": true,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": ["Bandeja de gotejamento", "Bandeja antiaderente", "Cesto"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "32,2 cm",
+				"height": "40,9 cm",
+				"depth": "37,6 cm",
+				"weight": "6,8 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - porta removível com luz interna e peças antiaderentes",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 9,
+				"easeOfUse": 9,
+				"capacity": 10,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-philips-walita-hd9206-90",
+		"name": "HD9206/90",
+		"brand": "Philips Walita",
+		"line": "Série 3000 XL",
+		"model": "HD9206/90",
+		"detailedModel": "Série 3000 XL HD9206/90",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_806264-MLA99550695498_122025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": "Brasil",
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2E47jPa",
+		"shopeeUrl": null,
+		"alphanumericModel": "HD9206/90",
+		"version": null,
+		"manufacturer": "Philips Walita",
+		"specs": {
+			"capacity": {
+				"liters": 6.2,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 2000,
+				"voltage": "127V ou 220V (verificar versão)",
+				"frequency": "50-60 Hz"
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Rapid Air",
+				"rapidAir": true,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Analógico",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": null,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": ["Cesto removível"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "31,6 cm",
+				"height": "36,6 cm",
+				"depth": "39,3 cm",
+				"weight": "6,5 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 9,
+				"easeOfUse": 9,
+				"capacity": 9,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-fmaxx-max-cube-af-2",
+		"name": "Max Cube AF-2",
+		"brand": "Fmaxx",
+		"line": null,
+		"model": "AF-2",
+		"detailedModel": "Max Cube AF-2",
+		"color": "Preto",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_771788-MLA85718473664_062025-F.webp",
+		"price": 0,
+		"releaseDate": "2024",
+		"releaseMonth": null,
+		"releaseYear": 2024,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2VVBGPZ",
+		"shopeeUrl": null,
+		"alphanumericModel": "AF-2",
+		"version": null,
+		"manufacturer": "Fmaxx",
+		"specs": {
+			"capacity": {
+				"liters": 4.2,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1300,
+				"voltage": "127V ou 220V (verificar versão)",
+				"frequency": null
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Circulação de ar quente",
+				"rapidAir": false,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Analógico",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": null,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": ["Cesto removível"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "25 cm",
+				"height": "25 cm",
+				"depth": "25 cm",
+				"weight": "2,2 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto removível antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 9,
+				"cookingPerformance": 8,
+				"easeOfUse": 9,
+				"capacity": 7,
+				"cleaning": 9
+			}
+		}
+	},
+	{
+		"id": "airfryer-philips-walita-ri9252",
+		"name": "RI9252",
+		"brand": "Philips Walita",
+		"line": "Série 3000 Spectre",
+		"model": "RI9252",
+		"detailedModel": null,
+		"color": "Vermelho",
+		"image": "https://http2.mlstatic.com/D_NQ_NP_2X_757332-MLA99941444187_112025-F.webp",
+		"price": 0,
+		"releaseDate": "2023",
+		"releaseMonth": null,
+		"releaseYear": 2023,
+		"origin": null,
+		"category": "airfryers",
+		"anatelNumber": null,
+		"amazonUrl": null,
+		"mercadolivreUrl": "https://mercadolivre.com/sec/2MRTa2S",
+		"shopeeUrl": null,
+		"alphanumericModel": "9252",
+		"version": null,
+		"manufacturer": "Philips Walita",
+		"specs": {
+			"capacity": {
+				"liters": 4.1,
+				"servings": null,
+				"baskets": 1
+			},
+			"power": {
+				"watts": 1400,
+				"voltage": "127V ou 220V (verificar versão)",
+				"frequency": "50-60 Hz"
+			},
+			"temperature": {
+				"min": 80,
+				"max": 200,
+				"unit": "°C"
+			},
+			"timer": {
+				"max": 60,
+				"unit": "minutos",
+				"autoShutoff": true
+			},
+			"technology": {
+				"type": "Rapid Air",
+				"rapidAir": true,
+				"convection": true
+			},
+			"programs": {
+				"preset": null,
+				"customizable": false,
+				"programs": null
+			},
+			"control": {
+				"type": "Digital",
+				"display": null,
+				"appControl": false,
+				"voiceControl": false
+			},
+			"features": {
+				"nonStick": true,
+				"dishwasherSafe": null,
+				"viewWindow": false,
+				"keepWarm": null,
+				"preheat": null,
+				"shakeReminder": null,
+				"oilLess": true,
+				"removableBasket": true
+			},
+			"safety": {
+				"overheatProtection": true,
+				"autoShutoff": true,
+				"coolTouch": null,
+				"nonSlipFeet": null
+			},
+			"accessories": {
+				"included": ["Cesto removível"],
+				"compatible": null
+			},
+			"dimensions": {
+				"width": "38 cm",
+				"height": "35 cm",
+				"depth": null,
+				"weight": "4,63 kg",
+				"basketSize": null
+			},
+			"maintenance": {
+				"cleaningEase": "Fácil - cesto QuickClean antiaderente",
+				"filterReplacement": false
+			},
+			"ratings": {
+				"costBenefit": 8,
+				"cookingPerformance": 9,
+				"easeOfUse": 9,
+				"capacity": 8,
+				"cleaning": 9
+			}
+		}
+	}
+]
