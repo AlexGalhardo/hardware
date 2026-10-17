@@ -50,6 +50,8 @@ Next.js 16 (App Router) · React 19 · TypeScript 7 strict · Tailwind CSS 4 · 
 | `scripts/catalogue.ts`, `scripts/sync-links.ts` | Monta o catálogo e o envia ao dashboard antes do build |
 | `scripts/create-sitemap.ts`, `data-jsons-stats.ts` | Geram `public/sitemap.xml` e `data-stats.json` no build |
 | `app/admin/`, `app/api/admin/`, `lib/admin/`, `components/admin/` | Painel de produtos: login com Google (better-auth), CRUD por commit no GitHub, exportação. Ver [`docs/admin.md`](docs/admin.md) |
+| `app/contato/`, `lib/contact.ts` | Formulário de contato: valida e envia ao Telegram com `@galhardoalex/telegram-logger` |
+| `lib/scrapers.ts`, `components/CopyProtection.tsx` | Bloqueio de clientes de script no `proxy.ts` e de cópia no navegador. Não bloqueie buscadores nem crawlers de IA: o site depende de ser encontrado |
 | `hooks/use-dashboard-down.ts` | Desvio dos botões para a loja quando o dashboard de links não responde |
 | `infra/`, `setups/` | Docker e scripts de preparação |
 | `docs/` | Documentação (índice em `.claude/agents.md`); `docs/prompts/` tem os prompts de geração de JSON |

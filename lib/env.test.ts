@@ -10,6 +10,8 @@ const valid = {
 	ADMIN_EMAILS: "dono@example.com, outro@example.com",
 	GITHUB_TOKEN: "github_pat_11ABCDEFG0abcdefghij_klmnopqrstuvwxyz",
 	GITHUB_REPO: "dono/site",
+	TELEGRAM_BOT_TOKEN: `123456789:${"A".repeat(35)}`,
+	TELEGRAM_CHAT_ID: "-1001234567890",
 };
 
 describe("envProblems", () => {
@@ -45,6 +47,8 @@ describe("envProblems", () => {
 			["GITHUB_REPO", "so-o-nome"],
 			["GITHUB_TOKEN", "abc"],
 			["LINKS_DASHBOARD_TOKEN", "curta"],
+			["TELEGRAM_BOT_TOKEN", "sem-dois-pontos"],
+			["TELEGRAM_CHAT_ID", "abc"],
 		];
 		for (const [name, value] of cases) {
 			for (const production of [false, true]) {

@@ -5,6 +5,7 @@ import { ThemeProvider } from "@/components/providers/theme-provider";
 import { Toaster } from "@/components/ui/toaster";
 import "./globals.css";
 import Script from "next/script";
+import CopyProtection from "@/components/CopyProtection";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import { NavbarWrapper } from "@/components/navbar-wrapper";
 import { orbitron } from "@/lib/fonts";
@@ -101,6 +102,7 @@ export default function RootLayout({
 					<NavbarWrapper />
 					<main>{children}</main>
 					<Toaster />
+					<CopyProtection />
 				</ThemeProvider>
 
 				<Script

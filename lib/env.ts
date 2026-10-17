@@ -38,6 +38,14 @@ export const envSchema = z.object({
 		.regex(/^[\w.-]+\/[\w.-]+$/, "formato dono/repositório")
 		.optional(),
 	GITHUB_BRANCH: z.string().min(1).optional(),
+	TELEGRAM_BOT_TOKEN: z
+		.string()
+		.regex(/^\d+:[\w-]{30,}$/, "token do BotFather (número:chave)")
+		.optional(),
+	TELEGRAM_CHAT_ID: z
+		.string()
+		.regex(/^(-?\d+|@\w+)$/, "id numérico do chat ou @canal")
+		.optional(),
 });
 
 export const ESSENTIAL = [
@@ -49,6 +57,8 @@ export const ESSENTIAL = [
 	"ADMIN_EMAILS",
 	"GITHUB_TOKEN",
 	"GITHUB_REPO",
+	"TELEGRAM_BOT_TOKEN",
+	"TELEGRAM_CHAT_ID",
 ] as const satisfies readonly (keyof z.infer<typeof envSchema>)[];
 
 /**

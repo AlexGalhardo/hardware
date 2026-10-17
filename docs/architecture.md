@@ -25,6 +25,7 @@ Site de fichas técnicas e comparação de produtos, com links de afiliado. Next
 2. O id da categoria na URL vem de `categories` (`lib/data.ts`), não do nome do arquivo: `smart-tvs` lê `data/smartvs.json`. O mapa completo está em `lib/admin/category-files.ts`.
 3. Os botões de loja usam `productAffiliateHref`, que aponta para o redirect do dashboard de links.
 4. Endereço que não é página vai para a home: `proxy.ts` decide os de um segmento (categoria inexistente), a página do produto decide os de produto inexistente, e `app/not-found.tsx` cobre o resto no navegador.
+5. Antes disso, `proxy.ts` responde `403` a clientes de script (curl, python-requests, Scrapy, navegador headless) pelo user agent (`lib/scrapers.ts`). Buscadores e crawlers de IA passam. No navegador, `components/CopyProtection.tsx` bloqueia seleção, cópia e menu de contexto fora de campos de formulário e do `/admin`.
 
 ## Fluxo do conteúdo
 

@@ -48,7 +48,7 @@ Todas descritas em [`.env.example`](../.env.example). Nenhuma é obrigatória pa
 Todo build começa por `bun run check-env` (`lib/env.ts`, zod):
 
 - **Valor mal formado** (segredo do Google fora do formato, e-mail inválido, URL sem `http`): o build falha em qualquer ambiente.
-- **Variável essencial ausente:** só falha no build de produção (`VERCEL_ENV=production`). Essenciais: `LINKS_DASHBOARD_TOKEN`, `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `ADMIN_EMAILS`, `GITHUB_TOKEN`, `GITHUB_REPO`.
+- **Variável essencial ausente:** só falha no build de produção (`VERCEL_ENV=production`). Essenciais: `LINKS_DASHBOARD_TOKEN`, `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `ADMIN_EMAILS`, `GITHUB_TOKEN`, `GITHUB_REPO`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`.
 - **Opcional:** `GITHUB_BRANCH` (padrão `main`).
 
 A mensagem diz o nome da variável, nunca o valor.
@@ -58,6 +58,7 @@ A mensagem diz o nome da variável, nunca o valor.
 | `LINKS_DASHBOARD_TOKEN` | Registrar os links no dashboard no build | Build de produção falha; os outros só validam |
 | `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `ADMIN_EMAILS` | Login do painel | `/admin/login` lista as que faltam |
 | `GITHUB_TOKEN`, `GITHUB_REPO`, `GITHUB_BRANCH` | Painel grava por commit | Em desenvolvimento, grava em `data/` local |
+| `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | Formulário de `/contato` envia ao Telegram | O envio falha com aviso ao visitante |
 
 Nunca imprima nem commite valores de `.env`.
 

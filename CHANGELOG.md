@@ -7,6 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.6.0] - 2026-10-17
+
+### Added
+
+- `/contato` page: name, e-mail, contact type (bug, question, suggestion/feedback, other) and a 32 to 512 character
+  message, sent to the owner's Telegram with `@galhardoalex/telegram-logger`. Linked in the footer and the sitemap.
+- `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` environment variables, essential in production.
+
+### Security
+
+- `proxy.ts` answers `403` to script clients and headless browsers (curl, wget, python-requests, Scrapy, axios,
+  HeadlessChrome, Puppeteer, Playwright...) and to requests without a user agent. Search engines, AI crawlers and
+  link previews keep full access.
+- Text selection, copy, cut, drag and the context menu are blocked on the public pages, except inside form fields.
+  `CopyProtection` was never mounted before and looked for an element that did not exist.
+
 ## [1.5.6] - 2026-10-11
 
 ### Fixed
@@ -144,7 +160,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Site as it was before this changelog started.
 
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.6...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.0...HEAD
+[1.6.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.6...v1.6.0
 [1.5.6]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.5...v1.5.6
 [1.5.5]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.4...v1.5.5
 [1.5.4]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.3...v1.5.4
