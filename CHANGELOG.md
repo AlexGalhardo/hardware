@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.6.1] - 2026-10-17
+
+### Changed
+
+- Contact form: the name takes 4 to 16 characters and always starts with an upper-case letter; the e-mail
+  takes 12 to 48 characters. Checked in the browser and again on the server.
+
 ## [1.6.0] - 2026-10-17
 
 ### Added
@@ -160,7 +167,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Site as it was before this changelog started.
 
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.0...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.1...HEAD
+[1.6.1]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.0...v1.6.1
 [1.6.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.6...v1.6.0
 [1.5.6]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.5...v1.5.6
 [1.5.5]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.4...v1.5.5

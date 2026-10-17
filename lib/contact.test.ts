@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test";
 import { sendContact } from "./contact";
 
 const env = { TELEGRAM_BOT_TOKEN: "123:abc", TELEGRAM_CHAT_ID: "42" };
-const valid = { name: "Ana", email: "ana@example.com", type: "Bug", message: "x".repeat(32) };
+const valid = { name: "Ana Maria", email: "ana@example.com", type: "Bug", message: "x".repeat(32) };
 
 function fakeTelegram(status = 200) {
 	const calls: { url: string; body: string }[] = [];
@@ -19,7 +19,7 @@ describe("sendContact", () => {
 		expect(await sendContact(valid, env, fetchFn)).toEqual({ ok: true });
 		expect(calls).toHaveLength(1);
 		expect(calls[0]?.url).toBe("https://api.telegram.org/bot123:abc/sendMessage");
-		for (const text of ["Ana", "ana@example.com", "Bug", "x".repeat(32), '"chat_id":"42"'])
+		for (const text of ["Ana Maria", "ana@example.com", "Bug", "x".repeat(32), '"chat_id":"42"'])
 			expect(calls[0]?.body).toContain(text);
 	});
 
@@ -29,7 +29,10 @@ describe("sendContact", () => {
 			{ ...valid, message: "x".repeat(513) },
 			{ ...valid, email: "sem-arroba" },
 			{ ...valid, type: "Spam" },
-			{ ...valid, name: "" },
+			{ ...valid, name: "Ana" },
+			{ ...valid, name: "x".repeat(17) },
+			{ ...valid, email: "a@exemplo.c" },
+			{ ...valid, email: `${"a".repeat(37)}@example.com` },
 			{ ...valid, website: "http://spam.example" },
 			null,
 		];
@@ -38,6 +41,12 @@ describe("sendContact", () => {
 			expect((await sendContact(input, env, fetchFn)).ok).toBe(false);
 			expect(calls).toHaveLength(0);
 		}
+	});
+
+	test("the first letter of the name is upper-cased", async () => {
+		const { calls, fetchFn } = fakeTelegram();
+		expect(await sendContact({ ...valid, name: "ana maria" }, env, fetchFn)).toEqual({ ok: true });
+		expect(calls[0]?.body).toContain("Ana maria");
 	});
 
 	test("a Telegram failure becomes a friendly error", async () => {
