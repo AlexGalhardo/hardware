@@ -28,6 +28,13 @@ export default function Footer() {
 					>
 						Termos de Uso
 					</a>
+
+					<a
+						href="/contato"
+						className="text-sm text-black dark:text-white hover:text-blue-500 hover:underline transition-all"
+					>
+						Contato
+					</a>
 				</div>
 			</div>
 		</footer>
