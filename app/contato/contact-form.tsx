@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
-import { CONTACT_TYPES } from "@/lib/contact";
+import { CONTACT_TYPES, capitalize } from "@/lib/contact";
 import { submitContact } from "./actions";
 
 export function ContactForm() {
@@ -22,12 +22,30 @@ export function ContactForm() {
 		<form action={action} className="space-y-5">
 			<div className="space-y-2">
 				<Label htmlFor="name">Nome</Label>
-				<Input id="name" name="name" required minLength={2} maxLength={100} autoComplete="name" />
+				<Input
+					id="name"
+					name="name"
+					required
+					minLength={4}
+					maxLength={16}
+					autoComplete="name"
+					onChange={(event) => {
+						event.target.value = capitalize(event.target.value);
+					}}
+				/>
 			</div>
 
 			<div className="space-y-2">
 				<Label htmlFor="email">E-mail</Label>
-				<Input id="email" name="email" type="email" required maxLength={200} autoComplete="email" />
+				<Input
+					id="email"
+					name="email"
+					type="email"
+					required
+					minLength={12}
+					maxLength={48}
+					autoComplete="email"
+				/>
 			</div>
 
 			<div className="space-y-2">

@@ -60,5 +60,6 @@
 		"*.ts": "typescript"
 	},
 	"window.zoomLevel": 1,
-	"workbench.editor.empty.hint": "hidden"
+    "workbench.editor.empty.hint": "hidden",
+    "python.terminal.useEnvFile": true
 }

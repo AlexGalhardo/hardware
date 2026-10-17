@@ -3,9 +3,21 @@ import { z } from "zod";
 
 export const CONTACT_TYPES = ["Bug", "Dúvida", "Sugestão/Feedback", "Outros assuntos"] as const;
 
+export function capitalize(value: string): string {
+	return value.charAt(0).toUpperCase() + value.slice(1);
+}
+
 export const contactSchema = z.object({
-	name: z.string().trim().min(2, "Informe seu nome.").max(100, "Nome muito longo."),
-	email: z.email("E-mail inválido.").max(200),
+	name: z
+		.string()
+		.trim()
+		.min(4, "O nome precisa ter ao menos 4 caracteres.")
+		.max(16, "O nome pode ter no máximo 16 caracteres.")
+		.transform(capitalize),
+	email: z
+		.email("E-mail inválido.")
+		.min(12, "O e-mail precisa ter ao menos 12 caracteres.")
+		.max(48, "O e-mail pode ter no máximo 48 caracteres."),
 	type: z.enum(CONTACT_TYPES, "Escolha o tipo de contato."),
 	message: z
 		.string()
