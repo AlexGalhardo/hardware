@@ -2,6 +2,7 @@ import { ArrowLeft } from "lucide-react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import Footer from "@/components/Footer";
+import { submitContact } from "./actions";
 import { ContactForm } from "./contact-form";
 
 export const metadata: Metadata = {
@@ -23,7 +24,7 @@ export default function ContatoPage() {
 
 				<h1 className="text-3xl font-bold text-foreground mb-6 text-center">Contato</h1>
 
-				<ContactForm />
+				<ContactForm submit={submitContact} />
 			</div>
 			<Footer />
 		</main>
