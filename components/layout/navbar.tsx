@@ -27,7 +27,6 @@ import {
 	Waves,
 	X,
 } from "lucide-react";
-import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { PiSecurityCamera } from "react-icons/pi";
@@ -137,14 +136,12 @@ export function Navbar({ allProducts }: NavbarProps) {
 					<div className="flex items-center gap-2 flex-1 xl:flex-initial">
 						<a href="/" className="flex-shrink-0">
 							<span className="font-orbitron uppercase font-bold text-lg flex items-center gap-2 hover:opacity-80 transition-opacity">
-								<Image
+								<img
 									src="/new-logo.webp"
 									alt="Logo TudoHardware"
 									width={40}
 									height={40}
 									className="rounded-lg"
-									priority
-									quality={75}
 								/>
 								<span className="hidden xl:inline text-black dark:text-white">TUDO HARDWARE</span>
 							</span>

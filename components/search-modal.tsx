@@ -2,7 +2,6 @@
 
 import Fuse from "fuse.js";
 import { Search } from "lucide-react";
-import Image from "next/image";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Dialog, DialogContent } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
@@ -190,11 +189,11 @@ export function SearchModal({ allProducts }: SearchModalProps) {
 										)}
 									>
 										<div className="relative h-16 w-16 flex-shrink-0 bg-muted rounded-lg overflow-hidden">
-											<Image
+											<img
 												src={product.image || "/placeholder.svg"}
 												alt={product.name}
-												fill
-												className="object-contain p-1"
+												className="absolute inset-0 h-full w-full object-contain p-1"
+												loading="lazy"
 											/>
 										</div>
 										<div className="flex-1 min-w-0">
