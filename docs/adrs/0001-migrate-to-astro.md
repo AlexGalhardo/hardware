@@ -60,3 +60,17 @@ Riscos descobertos:
 3. A comparação por `?products=` deixa de ser renderizada no servidor: o HTML inicial não traz os produtos escolhidos.
 4. Com `@astrojs/vercel`, o build escreve em `.vercel/output/static`; `dist/` também é gerado. `dist/` e `.astro/` entraram no `.gitignore`.
 5. O Biome não entende o frontmatter `.astro` (acusa variáveis e imports como não usados): `*.astro` ficou fora do Biome em `biome.json`.
+
+## Estado do plano 002 (2026-11-09)
+
+Feito em `feat/astro`: layout raiz, home, categorias, produtos, páginas de texto, 404 real, página `/contato` com a rota `POST /api/contato` sob demanda (`prerender = false`), `sitemap.xml` e `robots.txt` (servidos de `public/`) e `tests/pages.test.ts`. Com uma rota sob demanda, o Astro grava os arquivos estáticos em `dist/client`.
+
+Paridade com a produção (conferida com `curl` e user-agent de navegador, porque o `proxy.ts` devolve 403 a clientes de script): `<title>`, `meta description`, `canonical` e `h1` idênticos em `/`, `/smartphones`, `/cpus`, um produto, `/sobre`, `/termos-de-uso` e `/contato`; `sitemap.xml` e `robots.txt` sem nenhuma diferença.
+
+Não feito (parou aqui):
+
+- **Lighthouse e preview da Vercel**: dependem de deploy de preview, que exige autorização.
+- **`bunx astro check`**: indisponível; o `@astrojs/check` 0.9.12 recusa o TypeScript 7 do projeto. A alternativa é o pacote experimental `@astrojs/ts-content-mapper`; decisão adiada. A checagem de tipos segue pelo `tsc`.
+- **Ficha técnica como HTML estático puro**: a página de produto usa `ProductDetailClient` como ilha `client:load` (o HTML já sai renderizado no build, mas hidrata inteiro). Separar a parte estática da interativa fica para depois.
+- **`astro/` → `src/`**, o `next/*` restante em `components/admin/` e a remoção do Next: plano 003.
+- **Navegador**: o `astro preview` não serve com o adaptador da Vercel; as páginas não foram abertas num navegador (sem verificação de erros de console).
