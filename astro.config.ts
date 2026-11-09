@@ -20,10 +20,6 @@ export default defineConfig({
 		resolve: {
 			alias: {
 				"@": root,
-				// Spike only: the components still import Next primitives. Plan 002 replaces them.
-				"next/link": path.join(root, "astro/shims/next-link.tsx"),
-				"next/image": path.join(root, "astro/shims/next-image.tsx"),
-				"next/navigation": path.join(root, "astro/shims/next-navigation.ts"),
 			},
 		},
 	},

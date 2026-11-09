@@ -27,7 +27,6 @@ import {
 	Waves,
 	X,
 } from "lucide-react";
-import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { PiSecurityCamera } from "react-icons/pi";
 import { categories } from "@/lib/data";
@@ -119,10 +118,10 @@ const categoryActiveColors: Record<ProductCategory, string> = {
 
 interface NavbarProps {
 	allProducts: Product[];
+	pathname: string;
 }
 
-export function Navbar({ allProducts }: NavbarProps) {
-	const pathname = usePathname();
+export function Navbar({ allProducts, pathname }: NavbarProps) {
 	const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
 	const currentCategory = pathname.split("/")[1] as ProductCategory;

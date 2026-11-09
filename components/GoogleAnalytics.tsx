@@ -1,7 +1,3 @@
-"use client";
-
-import Script from "next/script";
-
 interface Props {
 	GA_MEASUREMENT_ID: string;
 }
@@ -9,18 +5,14 @@ interface Props {
 export default function GoogleAnalytics({ GA_MEASUREMENT_ID }: Props) {
 	return (
 		<>
-			<Script
-				src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
-				strategy="afterInteractive"
+			<script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`} />
+			<script
+				id="ga-init"
+				// biome-ignore lint/security/noDangerouslySetInnerHtml: fixed analytics snippet, no user input reaches it
+				dangerouslySetInnerHTML={{
+					__html: `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', '${GA_MEASUREMENT_ID}');`,
+				}}
 			/>
-			<Script id="ga-init" strategy="afterInteractive">
-				{`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', '${GA_MEASUREMENT_ID}');
-        `}
-			</Script>
 		</>
 	);
 }
