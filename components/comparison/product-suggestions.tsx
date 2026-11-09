@@ -1,7 +1,6 @@
 "use client";
 
 import { Plus } from "lucide-react";
-import Image from "next/image";
 import type { Product, ProductCategory } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
@@ -77,12 +76,11 @@ export function ProductSuggestions({
 						onClick={() => onAdd(product)}
 					>
 						<div className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-md bg-muted">
-							<Image
+							<img
 								src={product.image || "/placeholder.svg"}
 								alt={product.name}
-								fill
-								className="object-cover"
-								sizes="32px"
+								className="absolute inset-0 h-full w-full object-cover"
+								loading="lazy"
 							/>
 						</div>
 						<div className="flex-1 min-w-0">

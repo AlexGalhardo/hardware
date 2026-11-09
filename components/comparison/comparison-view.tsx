@@ -1,7 +1,6 @@
 "use client";
 
 import { RotateCcw, Search, X } from "lucide-react";
-import Image from "next/image";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { FaFacebookF, FaLinkedinIn, FaPinterest, FaReddit, FaTelegram, FaWhatsapp, FaXTwitter } from "react-icons/fa6";
 import { Button } from "@/components/ui/button";
@@ -260,12 +259,11 @@ export function ComparisonView({ category, categoryInfo, allProducts, initialPro
 														className="flex items-center gap-3 w-full p-2 rounded-lg hover:bg-muted transition-colors text-left"
 													>
 														<div className="relative h-10 w-10 rounded-md overflow-hidden bg-muted flex-shrink-0">
-															<Image
+															<img
 																src={p.image || "/placeholder.svg"}
 																alt={p.name}
-																fill
-																className="object-cover"
-																sizes="40px"
+																className="absolute inset-0 h-full w-full object-cover"
+																loading="lazy"
 															/>
 														</div>
 														<div className="flex-1 min-w-0">

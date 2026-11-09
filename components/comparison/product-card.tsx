@@ -1,7 +1,6 @@
 "use client";
 
 import { X } from "lucide-react";
-import Image from "next/image";
 import { SiMercadopago, SiShopee } from "react-icons/si";
 import { Button } from "@/components/ui/button";
 import { useDashboardDown } from "@/hooks/use-dashboard-down";
@@ -39,12 +38,11 @@ export function ProductCard({ product, onRemove, compact = false, category }: Pr
 				rel="noopener noreferrer"
 				className={cn("relative overflow-hidden rounded-lg mb-3", compact ? "h-24 w-20" : "h-48 w-40")}
 			>
-				<Image
+				<img
 					src={product.image || "/placeholder.svg"}
 					alt={product.name}
-					fill
-					className="object-contain"
-					sizes={compact ? "80px" : "128px"}
+					className="absolute inset-0 h-full w-full object-contain"
+					loading="lazy"
 				/>
 			</a>
 
