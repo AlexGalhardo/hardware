@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.6.2] - 2026-11-09
+
+### Added
+
+- `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md` and `SECURITY.md` at the repository root.
+
+### Changed
+
+- The README follows the workspace reference layout.
+
+### Removed
+
+- The empty `lib/specs/place-mae-specs.ts`, a misspelled duplicate that nothing imported.
+
+### Security
+
+- Next.js 16.4.0 → 16.4.6: the build refused 16.4.0 with `SecurityFatalError` (known vulnerability).
+
 ## [1.6.1] - 2026-10-17
 
 ### Changed
@@ -167,7 +185,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Site as it was before this changelog started.
 
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.1...HEAD
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.2...HEAD
+[1.6.2]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.1...v1.6.2
 [1.6.1]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.0...v1.6.1
 [1.6.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.6...v1.6.0
 [1.5.6]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.5...v1.5.6
