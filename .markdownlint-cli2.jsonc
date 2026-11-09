@@ -10,6 +10,6 @@
 		"MD033": { "allowed_elements": ["div", "h1", "h3", "a", "strong"] },
 		"MD041": false
 	},
-	"globs": ["*.md", ".claude/*.md", ".claude/rules/*.md", ".claude/skills/SOURCES.md", ".claude/skills/project-*/*.md", "docs/*.md"],
+	"globs": ["*.md", ".claude/*.md", ".claude/rules/*.md", ".claude/skills/SOURCES.md", ".claude/skills/project-*/*.md", "docs/*.md", "docs/adrs/*.md"],
 	"ignores": ["node_modules", ".next", "docs/prompts"]
 }
