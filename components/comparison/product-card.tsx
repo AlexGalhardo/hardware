@@ -2,7 +2,6 @@
 
 import { X } from "lucide-react";
 import Image from "next/image";
-import Link from "next/link";
 import { SiMercadopago, SiShopee } from "react-icons/si";
 import { Button } from "@/components/ui/button";
 import { useDashboardDown } from "@/hooks/use-dashboard-down";
@@ -34,7 +33,7 @@ export function ProductCard({ product, onRemove, compact = false, category }: Pr
 				</Button>
 			)}
 
-			<Link
+			<a
 				href={`/${category}/${product.id}`}
 				target="_blank"
 				rel="noopener noreferrer"
@@ -47,9 +46,9 @@ export function ProductCard({ product, onRemove, compact = false, category }: Pr
 					className="object-contain"
 					sizes={compact ? "80px" : "128px"}
 				/>
-			</Link>
+			</a>
 
-			<Link
+			<a
 				href={`/${category}/${product.id}`}
 				target="_blank"
 				rel="noopener noreferrer"
@@ -59,7 +58,7 @@ export function ProductCard({ product, onRemove, compact = false, category }: Pr
 				)}
 			>
 				{`${product.brand} ${product.name}`}
-			</Link>
+			</a>
 
 			{!compact && (
 				<div className="mt-4 flex flex-col gap-2 w-full max-w-[180px]">
