@@ -1,8 +1,6 @@
 "use client";
 
 import { ChevronRight } from "lucide-react";
-import Image from "next/image";
-import Link from "next/link";
 import { useEffect } from "react";
 import { SiMercadopago, SiShopee } from "react-icons/si";
 import { useDashboardDown } from "@/hooks/use-dashboard-down";
@@ -73,13 +71,13 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 		<div id="product-detail-protected" className="min-h-screen bg-background">
 			<div className="container mx-auto px-4 py-6">
 				<div className="flex items-center gap-2 text-xs md:text-sm text-black dark:text-white mb-6">
-					<Link href="/" className="hover:text-primary transition-colors">
+					<a href="/" className="hover:text-primary transition-colors">
 						Home
-					</Link>
+					</a>
 					<ChevronRight className="h-3 w-3 md:h-4 md:w-4" />
-					<Link href={`/${category}`} className="hover:text-primary transition-colors">
+					<a href={`/${category}`} className="hover:text-primary transition-colors">
 						{categoryInfo.name}
-					</Link>
+					</a>
 					<ChevronRight className="h-3 w-3 md:h-4 md:w-4" />
 					<span className="text-foreground">{`${product.brand} ${product.name}`}</span>
 				</div>
@@ -88,12 +86,10 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 					<div className="lg:sticky lg:top-24 lg:self-start bg-white dark:bg-white">
 						<div className=" rounded-lg border border-border p-4">
 							<div className="relative w-75 aspect-square mb-4  rounded-lg overflow-hidden mx-auto">
-								<Image
+								<img
 									src={product.image || "/placeholder.svg"}
 									alt={`${product.brand} ${product.name}`}
-									fill
-									className="object-contain p-4"
-									priority
+									className="absolute inset-0 h-full w-full object-contain p-4"
 								/>
 							</div>
 
@@ -238,17 +234,17 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 							<h3 className="text-lg font-semibold mb-4">Produtos Similares</h3>
 							<div className="space-y-3">
 								{relatedProducts.slice(0, 8).map((relatedProduct) => (
-									<Link
+									<a
 										key={relatedProduct.id}
 										href={`/${category}/${relatedProduct.id}`}
 										className="flex items-center gap-3 p-2 rounded-lg transition-colors group hover:bg-muted"
 									>
 										<div className="relative h-16 w-16 flex-shrink-0  rounded-lg overflow-hidden">
-											<Image
+											<img
 												src={relatedProduct.image || "/placeholder.svg"}
 												alt={relatedProduct.name}
-												fill
-												className="object-contain p-1"
+												className="absolute inset-0 h-full w-full object-contain p-1"
+												loading="lazy"
 											/>
 										</div>
 										<div className="flex-1 min-w-0">
@@ -259,7 +255,7 @@ export function ProductDetailClient({ product, category, categoryInfo, relatedPr
 												{relatedProduct.name}
 											</p>
 										</div>
-									</Link>
+									</a>
 								))}
 							</div>
 						</div>
