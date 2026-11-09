@@ -1,0 +1,21 @@
+---
+import { HomePageClient } from "@/components/home-page-client";
+import { categories, getProductsByCategory } from "@/lib/data";
+import Root from "../layouts/Root.astro";
+
+const initialCategory = "smartphones";
+const initialProducts = await getProductsByCategory(initialCategory);
+const initialCategoryInfo = categories.find((c) => c.id === initialCategory)!;
+---
+
+<Root>
+	<main>
+		<HomePageClient
+			client:load
+			initialCategory={initialCategory}
+			initialProducts={initialProducts}
+			initialCategoryInfo={initialCategoryInfo}
+			initialProductIds={[]}
+		/>
+	</main>
+</Root>
