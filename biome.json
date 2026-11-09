@@ -17,6 +17,9 @@
 				"noNonNullAssertion": "off",
 				"useImportType": "off"
 			},
+			"performance": {
+				"noImgElement": "off"
+			},
 			"complexity": {
 				"noForEach": "off"
 			},

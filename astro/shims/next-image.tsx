@@ -8,6 +8,5 @@ type Props = Omit<ImgHTMLAttributes<HTMLImageElement>, "src"> & {
 };
 
 export default function Image({ priority, fill, unoptimized, alt, ...rest }: Props) {
-	// biome-ignore lint/performance/noImgElement: Astro has no image component for React islands
 	return <img alt={alt} loading={priority ? "eager" : "lazy"} {...rest} />;
 }
