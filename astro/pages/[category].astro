@@ -1,0 +1,31 @@
+---
+import { HomePageClient } from "@/components/home-page-client";
+import Root from "../layouts/Root.astro";
+import { categories, getProductsByCategory } from "@/lib/data";
+import type { ProductCategory } from "@/lib/types";
+
+export async function getStaticPaths() {
+	return Promise.all(
+		categories.map(async (category) => ({
+			params: { category: category.id },
+			props: { category, products: await getProductsByCategory(category.id as ProductCategory) },
+		})),
+	);
+}
+
+const { category, products } = Astro.props;
+---
+
+<Root
+	title={`Comparar ${category.name} - TudoHardware`}
+	description={category.description}
+	canonical={`/${category.id}`}
+>
+	<HomePageClient
+		client:load
+		initialCategory={category.id as ProductCategory}
+		initialProducts={products}
+		initialCategoryInfo={category}
+		initialProductIds={[]}
+	/>
+</Root>
