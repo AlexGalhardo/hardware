@@ -1,6 +1,6 @@
 ---
 import { HomePageClient } from "@/components/home-page-client";
-import Root from "../layouts/Root.astro";
+import Root from "../../layouts/Root.astro";
 import { categories, getProductsByCategory } from "@/lib/data";
 import type { ProductCategory } from "@/lib/types";
 
@@ -21,6 +21,7 @@ const { category, products } = Astro.props;
 	description={category.description}
 	canonical={`/${category.id}`}
 >
+	<main>
 	<HomePageClient
 		client:load
 		initialCategory={category.id as ProductCategory}
@@ -28,4 +29,5 @@ const { category, products } = Astro.props;
 		initialCategoryInfo={category}
 		initialProductIds={[]}
 	/>
+	</main>
 </Root>
