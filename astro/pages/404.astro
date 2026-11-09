@@ -1,0 +1,17 @@
+---
+import Footer from "@/components/Footer";
+import Root from "../layouts/Root.astro";
+---
+
+<Root title="Página não encontrada - TudoHardware">
+	<main class="min-h-screen flex flex-col bg-background">
+		<div class="flex-1 flex items-center justify-center">
+			<div class="text-center">
+				<h1 class="text-4xl font-bold text-foreground mb-4">404</h1>
+				<p class="text-foreground mb-4">Página Não Encontrada</p>
+				<a href="/" class="text-sm text-primary hover:underline">Voltar para a página inicial</a>
+			</div>
+		</div>
+		<Footer client:idle />
+	</main>
+</Root>
