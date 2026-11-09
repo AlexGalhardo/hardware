@@ -3,7 +3,6 @@
 import Fuse from "fuse.js";
 import { Search } from "lucide-react";
 import Image from "next/image";
-import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Dialog, DialogContent } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
@@ -178,7 +177,7 @@ export function SearchModal({ allProducts }: SearchModalProps) {
 						) : filteredProducts.length > 0 ? (
 							<div className="space-y-2">
 								{filteredProducts.map((product, index) => (
-									<Link
+									<a
 										key={product.id}
 										ref={index === selectedIndex ? selectedItemRef : null}
 										href={`/${product.category}/${product.id}`}
@@ -206,7 +205,7 @@ export function SearchModal({ allProducts }: SearchModalProps) {
 												{product.name}
 											</p>
 										</div>
-									</Link>
+									</a>
 								))}
 							</div>
 						) : (

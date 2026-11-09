@@ -28,7 +28,6 @@ import {
 	X,
 } from "lucide-react";
 import Image from "next/image";
-import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { PiSecurityCamera } from "react-icons/pi";
@@ -136,7 +135,7 @@ export function Navbar({ allProducts }: NavbarProps) {
 			<div className="container px-4 mx-auto">
 				<div className="flex h-16 items-center justify-between gap-2">
 					<div className="flex items-center gap-2 flex-1 xl:flex-initial">
-						<Link href="/" className="flex-shrink-0">
+						<a href="/" className="flex-shrink-0">
 							<span className="font-orbitron uppercase font-bold text-lg flex items-center gap-2 hover:opacity-80 transition-opacity">
 								<Image
 									src="/new-logo.webp"
@@ -149,7 +148,7 @@ export function Navbar({ allProducts }: NavbarProps) {
 								/>
 								<span className="hidden xl:inline text-black dark:text-white">TUDO HARDWARE</span>
 							</span>
-						</Link>
+						</a>
 
 						<div className="flex-1 xl:hidden">
 							<SearchModal allProducts={allProducts} />
@@ -186,7 +185,7 @@ export function Navbar({ allProducts }: NavbarProps) {
 						const isActive = currentCategory === category.id;
 
 						return (
-							<Link
+							<a
 								key={category.id}
 								href={`/${category.id}`}
 								title={category.name}
@@ -198,7 +197,7 @@ export function Navbar({ allProducts }: NavbarProps) {
 								)}
 							>
 								{categoryIcons[category.id]}
-							</Link>
+							</a>
 						);
 					})}
 				</div>
@@ -214,7 +213,7 @@ export function Navbar({ allProducts }: NavbarProps) {
 								const isActive = currentCategory === category.id;
 
 								return (
-									<Link
+									<a
 										key={category.id}
 										href={`/${category.id}`}
 										onClick={closeMobileMenu}
@@ -227,7 +226,7 @@ export function Navbar({ allProducts }: NavbarProps) {
 									>
 										{categoryIcons[category.id]}
 										<span>{category.name}</span>
-									</Link>
+									</a>
 								);
 							})}
 						</div>
