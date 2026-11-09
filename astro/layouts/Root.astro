@@ -1,0 +1,27 @@
+---
+import "../../app/globals.css";
+
+interface Props {
+	title: string;
+	description?: string;
+	canonical: string;
+}
+
+const { title, description, canonical } = Astro.props;
+const canonicalUrl = new URL(canonical, Astro.site).toString();
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>{title}</title>
+		{description && <meta name="description" content={description} />}
+		<link rel="canonical" href={canonicalUrl} />
+		<link rel="icon" href="/new-logo.webp" />
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>
