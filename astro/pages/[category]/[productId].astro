@@ -1,0 +1,43 @@
+---
+import { ProductDetailClient } from "@/app/[category]/[productId]/product-detail-client";
+import { categories, getProductsByCategory } from "@/lib/data";
+import type { ProductCategory } from "@/lib/types";
+import Root from "../../layouts/Root.astro";
+
+export async function getStaticPaths() {
+	const paths = [];
+	for (const categoryInfo of categories) {
+		const products = await getProductsByCategory(categoryInfo.id);
+		for (const product of products) {
+			paths.push({
+				params: { category: categoryInfo.id, productId: product.id },
+				props: {
+					categoryInfo,
+					product,
+					relatedProducts: products.filter((p) => p.id !== product.id).slice(0, 6),
+				},
+			});
+		}
+	}
+	return paths;
+}
+
+const { categoryInfo, product, relatedProducts } = Astro.props;
+const { category, productId } = Astro.params;
+---
+
+<Root
+	title={`${product.brand} ${product.name} - Ficha Técnica | TudoHardware`}
+	description={`Veja as especificações técnicas completas do ${product.brand} ${product.name}. Confira todos os detalhes, características e compare com outros ${categoryInfo.name.toLowerCase()}.`}
+	canonical={`/${category}/${productId}`}
+>
+	<main>
+		<ProductDetailClient
+			client:load
+			product={product}
+			category={category as ProductCategory}
+			categoryInfo={categoryInfo}
+			relatedProducts={relatedProducts}
+		/>
+	</main>
+</Root>
