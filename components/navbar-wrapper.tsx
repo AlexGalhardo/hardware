@@ -5,7 +5,7 @@ import { categories, getProductsByCategory } from "@/lib/data";
 import type { Product } from "@/lib/types";
 import { Navbar } from "./layout/navbar";
 
-export function NavbarWrapper() {
+export function NavbarWrapper({ pathname = "/" }: { pathname?: string }) {
 	const [allProducts, setAllProducts] = useState<Product[]>([]);
 
 	useEffect(() => {
@@ -20,5 +20,5 @@ export function NavbarWrapper() {
 		loadAllProducts();
 	}, []);
 
-	return <Navbar allProducts={allProducts} />;
+	return <Navbar allProducts={allProducts} pathname={pathname} />;
 }
