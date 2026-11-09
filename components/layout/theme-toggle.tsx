@@ -1,14 +1,18 @@
 "use client";
 
 import { Moon, Sun } from "lucide-react";
-import { useTheme } from "next-themes";
 import { Button } from "@/components/ui/button";
 
+// Same storage key and `dark` class as the inline script in the root layout.
 export function ThemeToggle() {
-	const { theme, setTheme } = useTheme();
-
 	const toggleTheme = () => {
-		setTheme(theme === "dark" ? "light" : "dark");
+		const dark = !document.documentElement.classList.contains("dark");
+		document.documentElement.classList.toggle("dark", dark);
+		try {
+			localStorage.setItem("theme", dark ? "dark" : "light");
+		} catch {
+			// Storage can be blocked; the theme still applies for this visit.
+		}
 	};
 
 	return (
