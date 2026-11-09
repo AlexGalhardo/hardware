@@ -5,11 +5,12 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
-import { CONTACT_TYPES, capitalize } from "@/lib/contact";
-import { submitContact } from "./actions";
+import { CONTACT_TYPES, type ContactResult, capitalize } from "@/lib/contact";
 
-export function ContactForm() {
-	const [state, action, pending] = useActionState(submitContact, null);
+export type SubmitContact = (previous: ContactResult | null, form: FormData) => Promise<ContactResult>;
+
+export function ContactForm({ submit }: { submit: SubmitContact }) {
+	const [state, action, pending] = useActionState(submit, null);
 
 	if (state?.ok)
 		return (
