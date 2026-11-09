@@ -1,14 +1,25 @@
 ---
-import "../../app/globals.css";
+import "../styles/globals.css";
+import CopyProtection from "@/components/CopyProtection";
+import { NavbarWrapper } from "@/components/navbar-wrapper";
+import { Toaster } from "@/components/ui/toaster";
 
 interface Props {
-	title: string;
+	title?: string;
 	description?: string;
-	canonical: string;
+	canonical?: string;
 }
 
-const { title, description, canonical } = Astro.props;
-const canonicalUrl = new URL(canonical, Astro.site).toString();
+const siteTitle = "TudoHardware.com - Comparações Técnicas";
+const siteDescription =
+	"Compare smartphones, tablets, notebooks, CPUs, GPUs, geladeiras, tvs, drones, smartwatches, máquinas de lavar roupa e muito mais.";
+const keywords = ["comparar celulares","comparar smartphones","qual notebook comprar","melhor celular","comparar notebooks","ficha técnica","especificações celular","benchmark CPU","benchmark GPU","comparação processadores","melhor placa video","comparar GPUs","comparar processadores","qual GPU comprar","melhor notebook","comparar geladeiras","melhor geladeira","comparar lavadoras","drone comparação","smartwatch comparação","melhor smartwatch","comparar drones","qual melhor","vs comparação","review técnico","análise técnica","custo benefício","melhor desempenho","especificações completas","guia compra","Hardware Brasil","tecnologia comparação","teste benchmark","comparativo técnico"];
+
+const { title = siteTitle, description = siteDescription, canonical = "/" } = Astro.props;
+// Pages without their own canonical point at the home page, as the Next layout did.
+const canonicalUrl = canonical === "/" ? "https://tudohardware.com" : new URL(canonical, Astro.site).toString();
+const logo = new URL("/new-logo.webp", Astro.site).toString();
+const GA_MEASUREMENT_ID = "G-G7P8NXJKX4";
 ---
 
 <!doctype html>
@@ -17,11 +28,70 @@ const canonicalUrl = new URL(canonical, Astro.site).toString();
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<title>{title}</title>
-		{description && <meta name="description" content={description} />}
+		<meta name="description" content={description} />
+		<meta name="keywords" content={keywords.join(", ")} />
+		<meta name="author" content="TudoHardware.com" />
 		<link rel="canonical" href={canonicalUrl} />
+		<link rel="alternate" hreflang="pt-BR" href="https://tudohardware.com" />
 		<link rel="icon" href="/new-logo.webp" />
+		<meta property="og:title" content={siteTitle} />
+		<meta property="og:description" content={siteDescription} />
+		<meta property="og:url" content="https://tudohardware.com" />
+		<meta property="og:site_name" content="TudoHardware.com" />
+		<meta property="og:image" content={logo} />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="TudoHardware.com -  Seu Guia Sobre Tecnologia" />
+		<meta property="og:locale" content="pt-BR" />
+		<meta property="og:type" content="website" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={siteTitle} />
+		<meta name="twitter:description" content={siteDescription} />
+		<meta name="twitter:image" content={logo} />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			rel="stylesheet"
+			href="https://fonts.googleapis.com/css2?family=Inter:wght@400..700&family=Orbitron:wght@400..900&display=swap"
+		/>
+		<script is:inline>
+			// Applies the saved theme before the first paint (same key and fallback next-themes used).
+			(function () {
+				try {
+					var t = localStorage.getItem("theme");
+					var dark = t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+					document.documentElement.classList.toggle("dark", dark);
+				} catch (e) {}
+			})();
+		</script>
 	</head>
-	<body>
+	<body class="font-sans antialiased min-h-screen bg-background">
+		<NavbarWrapper client:load pathname={Astro.url.pathname} />
 		<slot />
+		<Toaster client:idle />
+		<CopyProtection client:idle />
+		<script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}></script>
+		<script is:inline define:vars={{ GA_MEASUREMENT_ID }}>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag("js", new Date());
+			gtag("config", GA_MEASUREMENT_ID);
+		</script>
+		<script is:inline>
+			(function (c, l, a, r, i, t, y) {
+				c[a] =
+					c[a] ||
+					function () {
+						(c[a].q = c[a].q || []).push(arguments);
+					};
+				t = l.createElement(r);
+				t.async = 1;
+				t.src = "https://www.clarity.ms/tag/" + i;
+				y = l.getElementsByTagName(r)[0];
+				y.parentNode.insertBefore(t, y);
+			})(window, document, "clarity", "script", "xm2gg2m5sc");
+		</script>
 	</body>
 </html>
