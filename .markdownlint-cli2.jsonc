@@ -5,7 +5,10 @@
 		// Technical documentation with tables and long URLs: no line width limit.
 		"MD013": false,
 		// The changelog (Keep a Changelog) repeats "Added", "Fixed" etc. in every version.
-		"MD024": { "siblings_only": true }
+		"MD024": { "siblings_only": true },
+		// Centered README header (same as the workspace reference).
+		"MD033": { "allowed_elements": ["div", "h1", "h3", "a", "strong"] },
+		"MD041": false
 	},
 	"globs": ["*.md", ".claude/*.md", ".claude/rules/*.md", ".claude/skills/SOURCES.md", ".claude/skills/project-*/*.md", "docs/*.md"],
 	"ignores": ["node_modules", ".next", "docs/prompts"]
