@@ -1,0 +1,8 @@
+name: tudohardware
+services:
+  web:
+    build: .
+    image: tudohardware:local
+    ports:
+      - "${PORT:-8080}:80"
+    restart: unless-stopped
