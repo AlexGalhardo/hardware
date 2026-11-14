@@ -7,197 +7,68 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.6.2] - 2026-11-09
+## [0.2.0] - 2026-11-14
 
 ### Added
 
-- `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md` and `SECURITY.md` at the repository root.
+- **adr:** record the astro migration decisions ([e8852c5](https://github.com/AlexGalhardo/tudohardware/commit/e8852c5e3be5a29c47ae4ed0b760936fca5c568b))
+- **astro:** spike proving one static category page ([a6e77ee](https://github.com/AlexGalhardo/tudohardware/commit/a6e77ee4b93ac8639ce3e5ab55ac3a57966adf3f))
+- **astro:** root layout ([9b5c64d](https://github.com/AlexGalhardo/tudohardware/commit/9b5c64d72dedecbc5ac5b532557ab1c800c47830))
+- **astro:** render the home and category pages statically ([61b343f](https://github.com/AlexGalhardo/tudohardware/commit/61b343f42453df859cb59cc5e74db4c64256a963))
+- **astro:** render the product pages statically ([fc6114e](https://github.com/AlexGalhardo/tudohardware/commit/fc6114e83136239abd157123aeea1d969e892ab8))
+- **astro:** render the text pages statically ([a417db5](https://github.com/AlexGalhardo/tudohardware/commit/a417db5978fff7823587bb0287f5442ccc45d1fc))
+- **astro:** a real 404 page ([869d484](https://github.com/AlexGalhardo/tudohardware/commit/869d484cb4084e5106094e67304b8d66af40fd3c))
+- **test:** check the built pages have title and canonical and no next assets ([eb7843a](https://github.com/AlexGalhardo/tudohardware/commit/eb7843a5e62a5be71e69ba4a71bba19122ee6773))
+- **astro:** contact page and its API route (removed again in the static cutover) ([c285cc5](https://github.com/AlexGalhardo/tudohardware/commit/c285cc599987218bcc8f974c852cfc8357d7d99a))
+- **adr:** record where the astro public site migration stopped ([00f6c65](https://github.com/AlexGalhardo/tudohardware/commit/00f6c6516c069a3fdcdeaf28241249b3eb68ef65))
+- **pages:** serve the static site under a configurable base path (BASE_PATH, default /tudohardware) for GitHub Pages ([8ae6300](https://github.com/AlexGalhardo/tudohardware/commit/8ae630060e286e871322362f45c60ba9a015641d))
+- **docker:** serve the static build with Caddy ([ad0d894](https://github.com/AlexGalhardo/tudohardware/commit/ad0d894175333671a59df6959fe0bb4f891b71cb))
+- **ci:** CI, GitHub Pages deploy and release workflows ([fe3fc20](https://github.com/AlexGalhardo/tudohardware/commit/fe3fc200e6f4825e260b51f019a474812eef9ab0))
 
 ### Changed
 
-- The README follows the workspace reference layout.
+- **ui:** replace next/link with anchors ([0364bd5](https://github.com/AlexGalhardo/tudohardware/commit/0364bd5d51fc9df88252a3a15ef85c50f1d5fa0e))
+- **ui:** replace next/image with img ([5a4276d](https://github.com/AlexGalhardo/tudohardware/commit/5a4276dd6f3565af159037efbaf01362bc7160bf))
+- **ui:** drop next-themes, next/navigation and next/script from the shared components ([7b8c50f](https://github.com/AlexGalhardo/tudohardware/commit/7b8c50f41b1667f445c3bb370e2f7b74659fd46d))
+- **docs:** describe the static Astro site, Docker, Pages and the release flow ([a707b22](https://github.com/AlexGalhardo/tudohardware/commit/a707b2239547ae01003e5016c038c5b02d1d5fc6))
 
 ### Removed
 
-- The empty `lib/specs/place-mae-specs.ts`, a misspelled duplicate that nothing imported.
+- **next:** Next.js, the admin panel, the contact form and the Vercel adapter; the site is static only (breaking) ([eb4c67a](https://github.com/AlexGalhardo/tudohardware/commit/eb4c67ab071085205c5ee144c15e48c6ab978329))
 
-### Security
-
-- Next.js 16.4.0 → 16.4.6: the build refused 16.4.0 with `SecurityFatalError` (known vulnerability).
-
-## [1.6.1] - 2026-10-17
-
-### Changed
-
-- Contact form: the name takes 4 to 16 characters and always starts with an upper-case letter; the e-mail
-  takes 12 to 48 characters. Checked in the browser and again on the server.
-
-## [1.6.0] - 2026-10-17
+## [0.1.0] - 2026-11-09
 
 ### Added
 
-- `/contato` page: name, e-mail, contact type (bug, question, suggestion/feedback, other) and a 32 to 512 character
-  message, sent to the owner's Telegram with `@galhardoalex/telegram-logger`. Linked in the footer and the sitemap.
-- `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` environment variables, essential in production.
+- **site:** product comparison site with spec sheets and affiliate links ([866060e](https://github.com/AlexGalhardo/tudohardware/commit/866060e8fdee81864b27eb02f9833e08113462d5))
+- **links:** route affiliate links through the links dashboard and add project tooling ([f6d1e56](https://github.com/AlexGalhardo/tudohardware/commit/f6d1e5695ff7551580406c39abd15938c705de99))
+- **links:** fall back to the store address when the links dashboard is down ([d4f4279](https://github.com/AlexGalhardo/tudohardware/commit/d4f4279347dc67db883e64e1d4e70387bd421700))
+- **admin:** product panel with Google sign-in, export, docs, setups and infra ([59ed399](https://github.com/AlexGalhardo/tudohardware/commit/59ed399f4cf025ecb58fd8e1d836d746de1ad7e6))
+- **build:** environment check at build time and redirect of unknown addresses to the home page ([7bf97bc](https://github.com/AlexGalhardo/tudohardware/commit/7bf97bc5cfd8b5464ea72bfad9cb89f8bae971c9))
+- **admin:** show the product photo beside its name ([52979cf](https://github.com/AlexGalhardo/tudohardware/commit/52979cf0ea447ba4605fe448421800fb45f671ca))
+- **agents:** agent rules, skills, agents and references ([90e27e3](https://github.com/AlexGalhardo/tudohardware/commit/90e27e378962c2467bc70ca3745cebe43a5f44e8))
+- **contact:** contact page, script scraper blocking and page copy protection ([568640d](https://github.com/AlexGalhardo/tudohardware/commit/568640dd3bd0c3bf2b9e55872f2a6e8c8476049b))
+- **docs:** contributing, code of conduct and security policy ([99ff1d6](https://github.com/AlexGalhardo/tudohardware/commit/99ff1d612915ad6c7a76c0a81e3791cc530f7731))
 
-### Security
+### Changed
 
-- `proxy.ts` answers `403` to script clients and headless browsers (curl, wget, python-requests, Scrapy, axios,
-  HeadlessChrome, Puppeteer, Playwright...) and to requests without a user agent. Search engines, AI crawlers and
-  link previews keep full access.
-- Text selection, copy, cut, drag and the context menu are blocked on the public pages, except inside form fields.
-  `CopyProtection` was never mounted before and looked for an element that did not exist.
-
-## [1.5.6] - 2026-10-11
+- **agents:** adapt the agent rules and project skills to this project ([dd804df](https://github.com/AlexGalhardo/tudohardware/commit/dd804df35b25f2bcfd256dff2b972528814e4302))
+- **docs:** restructure the README like the workspace reference ([c2dafdd](https://github.com/AlexGalhardo/tudohardware/commit/c2dafdd1881c01830f2355d58b76cf7a6a18ed76))
+- **docs:** record the open source files and the next.js security patch in the changelog ([87db6ec](https://github.com/AlexGalhardo/tudohardware/commit/87db6ec16754bf99e2a89a753f9cc28d31999b91))
 
 ### Fixed
 
-- The "Sair" button of the admin panel did not end the session: the sign-out request had no JSON body and the server answered 415.
-
-## [1.5.5] - 2026-10-11
+- **docs:** repair markdown tables and run markdownlint in the pre-commit hook ([b6a49f7](https://github.com/AlexGalhardo/tudohardware/commit/b6a49f7b49844d27bfa994b8f2fe15e814e2f32e))
+- **admin:** end the session on sign-out ([77c59ec](https://github.com/AlexGalhardo/tudohardware/commit/77c59ecf96f5877f9fe38fda35e5c5010f072564))
+- **contact:** limit name to 4-16 and e-mail to 12-48 characters ([6299073](https://github.com/AlexGalhardo/tudohardware/commit/6299073db5ab781c44a4cdfbce2f49423c5a683b))
+- **deps:** bump next to 16.4.6 ([fd0ebbd](https://github.com/AlexGalhardo/tudohardware/commit/fd0ebbd7133050daaae41b5eb13f1d24854d80d0))
 
 ### Removed
 
-- `api/indexnow.http`, a leftover request file from another project that pointed to a different domain.
+- **contact:** the contact page, resend and the telegram bot ([28fbda4](https://github.com/AlexGalhardo/tudohardware/commit/28fbda4e6a10d5fe9e6a29b0a87d85d3da21b27a))
+- **repo:** the leftover api/indexnow.http file ([486876e](https://github.com/AlexGalhardo/tudohardware/commit/486876ed94c96cdc480c409f132c780726c808af))
+- **specs:** the empty place-mae-specs file ([97e336c](https://github.com/AlexGalhardo/tudohardware/commit/97e336cae20c841cf9e5638c5c2d52485aa4dc99))
 
-## [1.5.4] - 2026-10-11
-
-### Fixed
-
-- Table formatting in `.claude/skills/SOURCES.md` and in the project skills, which failed markdownlint in 1.5.3.
-
-### Changed
-
-- The `pre-commit` hook also runs markdownlint, so a Markdown error can no longer reach a release.
-
-## [1.5.3] - 2026-10-11
-
-### Changed
-
-- `.claude/` adapted to this project. The rules and project skills had been copied from a SvelteKit blog and described posts, Markdown content and a release script that do not exist here; they now describe the product data, the admin panel and the manual release flow. `AGENTS.md` says which skills are loaded at session start and which per task.
-- markdownlint also checks the project rules and project skills.
-
-### Removed
-
-- Skills `project-new-post` and `project-new-product-list` (replaced by `project-product`) and the vendored `graphify` skill, which nothing in this project uses.
-
-## [1.5.2] - 2026-10-11
-
-### Added
-
-- Agent rules, skills, agents and reference checklists under `.claude/`, copied from the eletroradar.com.br project.
-
-## [1.5.1] - 2026-10-11
-
-### Changed
-
-- Admin panel: the product photo appears beside the name in the category list and on the product page.
-
-## [1.5.0] - 2026-10-11
-
-### Added
-
-- Environment check at the start of every build (`scripts/check-env.ts`, schema in `lib/env.ts`, zod 4): a malformed value always fails the build, and a production build fails when an essential variable is missing. Other builds need no variable.
-
-### Changed
-
-- An address that is not a page redirects to the home page: unknown top-level addresses in `proxy.ts`, unknown products in the product page. They used to answer 200 with the not-found screen.
-- `bun run typecheck` generates the route types first, so it no longer depends on a previous build.
-
-## [1.4.0] - 2026-10-11
-
-### Removed
-
-- Contact page, the contact e-mail route and the Resend integration (`resend` and `@react-email/components` dependencies, `RESEND_API_KEY`).
-- Telegram offers bot (`telegram/`) and the build step that generated its CSV.
-
-### Fixed
-
-- `setups/_common.sh` appended a variable to `.env` without a line break when the file did not end with one, gluing it onto the last line. In this project that corrupted `GOOGLE_CLIENT_SECRET` and broke the Google sign-in with `invalid_code`. Covered by `setups/env.test.ts`.
-
-## [1.3.0] - 2026-10-11
-
-### Added
-
-- Admin panel at `/admin`: Google sign-in restricted to `ADMIN_EMAILS`, product list per category, create, edit and delete. Every change is a commit in the repository through the GitHub Contents API (local files in development).
-- "Exportar produtos" buttons in the panel: every published product with its store links as JSON or CSV, in the format the links dashboard imports.
-- `docs/` for AI agents (architecture, admin, tooling, testing, workflows, setup from zero), indexed in `.claude/agents.md`.
-- `setups/` with four scripts (local and Docker, Unix and Windows) and `infra/` with a multi-stage Dockerfile and a compose file.
-
-### Changed
-
-- `/admin` and `/api` are blocked in `robots.txt` and answer with `X-Robots-Tag: noindex`.
-- The generation prompts moved from `docs/` to `docs/prompts/`.
-
-### Fixed
-
-- The contact route created the e-mail client when the module loaded, so any build without `RESEND_API_KEY` failed. It now answers 503 when the key is missing.
-
-## [1.2.0] - 2026-10-11
-
-### Added
-
-- Store buttons fall back to the store address when the links dashboard does not answer its health check.
-
-### Changed
-
-- The build identifies the site to the links dashboard by its address and uses the dashboard's shared key; `LINKS_DASHBOARD_TOKEN` is now that key.
-- `bun run lint` passes with no errors and is part of `bun run ci`; explicit `any` is refused by Biome. The `pre-commit` hook runs the type check and the lint.
-- The suggestion rows of the comparison page are real buttons, usable from the keyboard.
-
-### Fixed
-
-- The category-change effect of the comparison page read `updateUrl` before it was declared.
-- The toast hook registered its listener again on every state change.
-
-### Removed
-
-- Unused duplicate `components/theme-provider.tsx`.
-
-## [1.1.0] - 2026-10-11
-
-### Added
-
-- Links dashboard integration: store buttons point to the `links.lekzera.xyz` redirect, and every build registers the whole catalogue there (`scripts/sync-links.ts`, `LINKS_DASHBOARD_TOKEN`). The production build fails when the dashboard refuses.
-- Tests for the dashboard contract and for the site catalogue (`bun test`).
-- `typecheck`, `lint`, `lint:md`, `test` and `ci` scripts; commit message linting, markdownlint, `.editorconfig`, `.env.example`, `AGENTS.md`.
-- Canonical URL on every category and product page.
-- The sitemap now includes the `cafeteiras`, `impressoras` and `fechaduras` categories (56 pages were missing).
-
-### Changed
-
-- Dependencies updated to the latest stable releases and pinned to exact versions (Next.js 16.4, React 19.3, TypeScript 7).
-- Type errors fail the build (`ignoreBuildErrors` removed).
-- `README.md` rewritten.
-
-### Fixed
-
-- The site declared `tudohardware.br` as its canonical and Open Graph address; it is `tudohardware`.
-- 26 duplicated product entries removed from `data/` (the first entry of each id was kept).
-- `qcy-h3` had a category that does not exist, so its search result led to a 404.
-- The product page no longer loads every product of the site for a prop that was not used.
-
-### Security
-
-- `.env` and `telegram/.env` are no longer tracked, and the Telegram bot token was removed from `README.md`. The token is still in the git history and must be revoked.
-
-## [1.0.0] - 2026-07-01
-
-Site as it was before this changelog started.
-
-[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.2...HEAD
-[1.6.2]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.1...v1.6.2
-[1.6.1]: https://github.com/AlexGalhardo/tudohardware/compare/v1.6.0...v1.6.1
-[1.6.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.6...v1.6.0
-[1.5.6]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.5...v1.5.6
-[1.5.5]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.4...v1.5.5
-[1.5.4]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.3...v1.5.4
-[1.5.3]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.2...v1.5.3
-[1.5.2]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.1...v1.5.2
-[1.5.1]: https://github.com/AlexGalhardo/tudohardware/compare/v1.5.0...v1.5.1
-[1.5.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.4.0...v1.5.0
-[1.4.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.3.0...v1.4.0
-[1.3.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.2.0...v1.3.0
-[1.2.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.1.0...v1.2.0
-[1.1.0]: https://github.com/AlexGalhardo/tudohardware/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/AlexGalhardo/tudohardware/releases/tag/v1.0.0
+[Unreleased]: https://github.com/AlexGalhardo/tudohardware/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/AlexGalhardo/tudohardware/compare/v0.1.0...v0.2.0
+[0.1.0]: https://github.com/AlexGalhardo/tudohardware/releases/tag/v0.1.0
