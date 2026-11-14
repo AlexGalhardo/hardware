@@ -6,7 +6,7 @@ Instruções para agentes de código neste repositório. O `CLAUDE.md` importa e
 
 ## O que é o projeto
 
-Site de fichas técnicas e comparação de produtos com links de afiliado, em produção em <https://alexgalhardo.github.io/tudohardware>. Não há banco: o conteúdo são os arquivos JSON de `data/`, importados estaticamente. O painel `/admin` edita esses arquivos por commits no próprio repositório.
+Site de fichas técnicas e comparação de produtos com links de afiliado, no ar em <https://alexgalhardo.github.io/tudohardware> (GitHub Pages). Não há banco nem servidor: o conteúdo são os arquivos JSON de `data/`, importados estaticamente, e a saída é 100% estática (Astro).
 
 ## Início de toda sessão
 
@@ -16,7 +16,7 @@ Site de fichas técnicas e comparação de produtos com links de afiliado, em pr
    - `ponytail`: a solução mais simples que funciona.
 2. Leia o índice em [`.claude/agents.md`](.claude/agents.md) e, dele, só a documentação do assunto em que vai mexer.
 3. As regras por assunto ficam em [`.claude/rules/`](.claude/rules/) (o Claude Code as carrega sozinho) e valem tanto quanto as deste arquivo.
-4. Antes de usar uma API do Next.js 16 de que não tenha certeza, leia `node_modules/next/dist/docs/`.
+4. Antes de usar uma API do Astro de que não tenha certeza, consulte <https://docs.astro.build>.
 
 ## Skills, agentes e checklists
 
@@ -25,15 +25,15 @@ Tudo fica em `.claude/`. A origem dos pacotes de terceiros está em [`.claude/sk
 | Skill do projeto | Quando |
 | --- | --- |
 | `project-product` | Criar, editar ou remover um produto; categoria nova |
-| `project-release` | Em todo commit enviado: versão, `CHANGELOG.md`, tag e GitHub Release |
+| `project-release` | Fechar uma versão: `CHANGELOG.md`, `package.json` e tag |
 
-As skills de engenharia do pacote agent-skills entram por tarefa, indicadas pelo `using-agent-skills`. As mais comuns aqui: `test-driven-development`, `debugging-and-error-recovery`, `frontend-ui-engineering`, `security-and-hardening` (login, painel e API), `code-review-and-quality` e `git-workflow-and-versioning`. Duas não têm uso hoje: `ci-cd-and-automation` (o repositório não tem workflows) e `browser-testing-with-devtools` (depende do servidor MCP do Chrome DevTools, não configurado).
+As skills de engenharia do pacote agent-skills entram por tarefa, indicadas pelo `using-agent-skills`. As mais comuns aqui: `test-driven-development`, `debugging-and-error-recovery`, `frontend-ui-engineering`, `security-and-hardening`, `code-review-and-quality` e `git-workflow-and-versioning`. Uma não tem uso hoje: `browser-testing-with-devtools` (depende do servidor MCP do Chrome DevTools, não configurado).
 
 As skills `ponytail-*` só entram quando o dono pedir. Os agentes de `.claude/agents/` (`code-reviewer`, `security-auditor`, `test-engineer`, `web-performance-auditor`) são chamados pelo nome como subagentes de revisão; os checklists de `.claude/references/` são consultados por eles e pelas skills do pacote.
 
 ## Stack
 
-Next.js 16 (App Router) · React 19 · TypeScript 7 strict · Tailwind CSS 4 · Radix/shadcn (`components/ui`) · Biome · Bun.
+Astro 7 (estático) · React 19 (ilhas) · TypeScript 7 strict · Tailwind CSS 4 · Radix/shadcn (`components/ui`) · Biome · Bun.
 
 ## Mapa
 
@@ -49,23 +49,22 @@ Next.js 16 (App Router) · React 19 · TypeScript 7 strict · Tailwind CSS 4 · 
 | `lib/affiliate-catalogue.ts` | Como um produto vira id e `href` no dashboard. Importado por componentes de cliente: não importe `lib/data.ts` aqui |
 | `scripts/catalogue.ts`, `scripts/sync-links.ts` | Monta o catálogo e o envia ao dashboard antes do build |
 | `scripts/create-sitemap.ts`, `data-jsons-stats.ts` | Geram `public/sitemap.xml` e `data-stats.json` no build |
-| `app/admin/`, `app/api/admin/`, `lib/admin/`, `components/admin/` | Painel de produtos: login com Google (better-auth), CRUD por commit no GitHub, exportação. Ver [`docs/admin.md`](docs/admin.md) |
-| `app/contato/`, `lib/contact.ts` | Formulário de contato: valida e envia ao Telegram com `@galhardoalex/telegram-logger` |
-| `lib/scrapers.ts`, `components/CopyProtection.tsx` | Bloqueio de clientes de script no `proxy.ts` e de cópia no navegador. Não bloqueie buscadores nem crawlers de IA: o site depende de ser encontrado |
+| `components/CopyProtection.tsx` | Bloqueio de cópia no navegador. Não bloqueie buscadores nem crawlers de IA: o site depende de ser encontrado |
 | `hooks/use-dashboard-down.ts` | Desvio dos botões para a loja quando o dashboard de links não responde |
-| `infra/`, `setups/` | Docker e scripts de preparação |
+| `Dockerfile`, `Caddyfile`, `docker-compose.yml` | Imagem estática: bun builda com `BASE_PATH=/`, Caddy serve o `dist/` |
+| `.github/workflows/` | `ci.yml`, `pages.yml` (deploy) e `release.yml` (GitHub Release e imagem no GHCR e Docker Hub) |
 | `docs/` | Documentação (índice em `.claude/agents.md`); `docs/prompts/` tem os prompts de geração de JSON |
 
 ## Regras
 
 - **Links de afiliado só pelo dashboard.** Use `productAffiliateHref`. O único caso em que o botão aponta direto para a loja é o desvio de `useDashboardDown()`, quando o dashboard não responde. Ver "Links de afiliado" no [`README.md`](README.md).
 - **`id` do produto é único na categoria e estável.** Id repetido falha o build; id trocado apaga os cliques do produto no dashboard.
-- **Categoria nova:** arquivo em `data/`, entrada em `categories` e no mapa de `lib/data.ts`, em `lib/admin/category-files.ts`, e em `categoryFileMap` de `scripts/create-sitemap.ts`.
-- **Painel:** toda página de `app/admin/(panel)/` chama `requireAdmin()` e toda rota de `app/api/admin/` passa por `adminRoute()`. O layout não protege os dados da página. Produto só é gravado por `saveProduct`/`deleteProduct` (`lib/admin/products.ts`).
+- **Categoria nova:** arquivo em `data/`, entrada em `categories` e no mapa de `lib/data.ts` e em `categoryFileMap` de `scripts/create-sitemap.ts`.
+- **Base:** link interno e imagem de `public/` usam `withBase`, nunca `/caminho` solto; no Pages o site vive em `/tudohardware`. Não escreva o domínio antigo em lugar nenhum.
 - **Segredos:** nada de chave real no repositório. `.env` é ignorado pelo git; `.env.example` só tem placeholders.
 - **Dependências:** última versão estável, com versão exata, sem `^` nem `~`. Dependência nova só com aprovação do dono.
-- **TypeScript:** sem `any` (o Biome recusa), sem `@ts-ignore`. O build falha com erro de tipo.
-- **Variáveis de ambiente:** toda variável nova entra no schema de `lib/env.ts` (e em `ESSENTIAL` se a produção não roda sem ela) e em `.env.example`.
+- **TypeScript:** sem `any` (o Biome recusa), sem `@ts-ignore`. `bun run typecheck` precisa passar.
+- **Variáveis de ambiente:** toda variável nova entra no schema de `lib/env.ts` e em `.env.example`.
 - **Lint:** `bun run lint` precisa passar sem erro. `biome-ignore` só com o motivo escrito na mesma linha.
 - **Idioma:** código, comentários e commits em inglês; textos de interface e documentação em português do Brasil.
 
@@ -79,15 +78,15 @@ bun run lint:md
 bun run build
 ```
 
-`bun run ci` roda os cinco. O hook `pre-commit` roda tipos, lint e markdownlint; o `pre-push` roda o build. Mudança visual é conferida no navegador.
+`bun run ci` roda os cinco. O hook `pre-commit` roda tipos, lint e markdownlint; o `pre-push` roda o build. Mudança visual é conferida no navegador (`bun run preview`).
 
 ## Commits e versões
 
 - Conventional Commits, validados pelo commitlint no hook `commit-msg`.
 - SemVer: `feat` sobe a minor, `fix` e os demais sobem a patch, `!` sobe a major.
-- Registre a mudança em `## [Unreleased]` no [`CHANGELOG.md`](CHANGELOG.md). Ao fechar a versão: mova o texto para `## [X.Y.Z] - AAAA-MM-DD`, atualize `version` no `package.json`, crie a tag `vX.Y.Z` e o GitHub Release com as notas da versão.
+- Registre a mudança em `## [Unreleased]` no [`CHANGELOG.md`](CHANGELOG.md), com itens `- **escopo:** texto ([sha](link))`. Ao fechar a versão: mova o texto para `## [X.Y.Z] - AAAA-MM-DD`, atualize `version` no `package.json` e crie a tag `vX.Y.Z`; o `release.yml` cria o GitHub Release e publica a imagem.
 
 ## Dívida conhecida
 
-- O deploy por push depende de o app da Vercel no GitHub ter acesso ao repositório (ver [`docs/workflows.md`](docs/workflows.md)). Sem isso, o deploy é `vercel deploy --prod` e os commits do painel não entram no ar sozinhos.
-- As telas do painel não têm teste no navegador (o login depende de uma conta Google real).
+- O painel de produtos e o formulário de contato foram removidos com o Next.js (saída estática não tem servidor). Reintroduzi-los exige um backend à parte.
+- Não há testes de navegador; `tests/pages.test.ts` só confere o HTML do `dist/`.

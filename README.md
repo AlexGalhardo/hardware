@@ -3,7 +3,7 @@
 <h1><strong><a href="https://alexgalhardo.github.io/tudohardware" target="_blank">TudoHardware</a></strong></h1>
 
 [![Bun 1.4](https://img.shields.io/badge/bun-1.4-000000?logo=bun&logoColor=white)](package.json)
-[![Next.js 16](https://img.shields.io/badge/next.js-16-000000?logo=nextdotjs&logoColor=white)](package.json)
+[![Astro 7](https://img.shields.io/badge/astro-7-BC52EE?logo=astro&logoColor=white)](package.json)
 
 <h3><strong>Fichas técnicas e comparação de produtos de hardware e eletrônicos</strong></h3>
 
@@ -11,11 +11,10 @@
 
 ## Introdução
 
-Site de fichas técnicas e comparação de produtos (smartphones, CPUs, GPUs, eletrodomésticos e mais), com links de afiliado. Em produção em <https://alexgalhardo.github.io/tudohardware>.
+Site de fichas técnicas e comparação de produtos (smartphones, CPUs, GPUs, eletrodomésticos e mais), com links de afiliado. No ar em <https://alexgalhardo.github.io/tudohardware> (GitHub Pages).
 
-- **Stack:** Next.js 16 (App Router), React 19, TypeScript 7, Tailwind CSS 4, Biome, Bun.
+- **Stack:** Astro 7 (saída estática), React 19, TypeScript 7, Tailwind CSS 4, Biome, Bun.
 - **Conteúdo:** arquivos JSON em `data/`, um por categoria. Cada produto vira a página `/<categoria>/<id>`.
-- **Painel:** `/admin`, com login do Google, cria, edita e exclui produtos por commits no repositório e exporta o catálogo em JSON e CSV.
 - **Links de afiliado:** gerenciados pelo dashboard de links (`links.lekzera.xyz`). Os botões do site apontam para o redirect do dashboard, e todo build registra o catálogo lá.
 
 ## Sumário
@@ -34,21 +33,30 @@ Site de fichas técnicas e comparação de produtos (smartphones, CPUs, GPUs, el
 ## Rodar
 
 ```bash
-bash setups/setup-windows-local.sh   # Windows (Git Bash)
-bash setups/setup-unix-local.sh      # macOS, Linux, WSL
+bun install
+bun run dev          # http://localhost:4321/tudohardware
 ```
 
-Há também `setup-*-with-docker.sh`, que sobe a imagem de `infra/`. O passo a passo completo, incluindo GitHub e Vercel, está em [`docs/agent-setup.md`](docs/agent-setup.md).
+Com Docker (o site na raiz, em <http://localhost:8080>):
+
+```bash
+docker build -t tudohardware .
+docker run --rm -p 8080:80 tudohardware
+docker compose up --build     # o mesmo, pelo compose
+```
+
+O GitHub Pages publica a `main` por `.github/workflows/pages.yml`. O caminho base vem de `BASE_PATH` (padrão `/tudohardware`; a imagem Docker usa `/`). Mais em [`docs/agent-setup.md`](docs/agent-setup.md).
 
 ## Comandos
 
 | Comando | O que faz |
 | --- | --- |
 | `bun run dev` | Servidor de desenvolvimento |
-| `bun run build` | Sincroniza os links, gera sitemap e estatísticas, e roda o `next build` |
+| `bun run build` | Sincroniza os links, gera sitemap e estatísticas, e roda o `astro build` (saída em `dist/`) |
+| `bun run preview` | Serve o `dist/` |
 | `bun run typecheck` | TypeScript sem emitir |
 | `bun run test` | Testes (`bun test`) |
-| `bun run lint` | Biome em `app`, `components`, `lib` e `scripts` |
+| `bun run lint` | Biome |
 | `bun run lint:md` | markdownlint |
 | `bun run format` | Biome com correção, depois de regenerar as estatísticas |
 | `bun run ci` | `typecheck`, `lint`, `test`, `lint:md` e `build` |
@@ -67,7 +75,7 @@ Regras:
 - Só endereço `https://` vira link. `null`, vazio e `#` não geram botão.
 - Trocar o `id` de um produto cria um registro novo no dashboard e apaga o antigo, com os cliques dele.
 
-O site se identifica pelo próprio endereço e o dashboard cria o projeto dele sozinho. A chave do dashboard (`LINKS_DASHBOARD_TOKEN`, a mesma em todos os sites) fica só nas variáveis da Vercel. Sem ela, o build de produção falha; os outros builds só validam o catálogo.
+O site se identifica pelo próprio endereço e o dashboard cria o projeto dele sozinho. A chave do dashboard (`LINKS_DASHBOARD_TOKEN`, a mesma em todos os sites) fica só nos segredos do ambiente de build. Sem ela, o build só valida o catálogo.
 
 ## Variáveis de ambiente
 
@@ -79,10 +87,9 @@ Descritas em [`.env.example`](.env.example). O `.env` não é versionado.
 | --- | --- |
 | [`docs/agent-setup.md`](docs/agent-setup.md) | Preparar o projeto do zero |
 | [`docs/architecture.md`](docs/architecture.md) | Pastas, fluxos e decisões |
-| [`docs/admin.md`](docs/admin.md) | Painel `/admin` |
 | [`docs/tooling.md`](docs/tooling.md) | Ferramentas, scripts e hooks |
 | [`docs/testing.md`](docs/testing.md) | Testes |
-| [`docs/workflows.md`](docs/workflows.md) | Commits, release, deploy e conteúdo |
+| [`docs/workflows.md`](docs/workflows.md) | Commits, release, Pages e conteúdo |
 
 ## Estabilidade
 

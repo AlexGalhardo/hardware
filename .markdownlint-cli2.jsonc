@@ -11,5 +11,5 @@
 		"MD041": false
 	},
 	"globs": ["*.md", ".claude/*.md", ".claude/rules/*.md", ".claude/skills/SOURCES.md", ".claude/skills/project-*/*.md", "docs/*.md", "docs/adrs/*.md"],
-	"ignores": ["node_modules", ".next", "docs/prompts"]
+	"ignores": ["node_modules", "dist", "docs/prompts"]
 }

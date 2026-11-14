@@ -20,13 +20,13 @@ Inclua o que encontrou, onde (URL, rota ou arquivo), como reproduzir e o impacto
 
 ## Escopo
 
-Dentro do escopo: este repositório, <https://alexgalhardo.github.io/tudohardware>, o painel `/admin` e a API em `/api`.
+Dentro do escopo: este repositório e o site em <https://alexgalhardo.github.io/tudohardware>.
 
 Fora do escopo:
 
 - Negação de serviço, testes de carga e varreduras automatizadas intensas.
 - Engenharia social, phishing e ataques físicos.
-- Falhas em serviços de terceiros (Vercel, GitHub, Google) que não sejam causadas pela configuração do projeto.
+- Falhas em serviços de terceiros (GitHub, Docker Hub) que não sejam causadas pela configuração do projeto.
 - Relatos sem impacto de segurança demonstrado (por exemplo, cabeçalhos ausentes em páginas sem dados sensíveis).
 
 ## Porto seguro

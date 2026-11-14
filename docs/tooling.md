@@ -3,30 +3,45 @@
 | Ferramenta | Uso | Configuração |
 | --- | --- | --- |
 | Bun 1.4 | Gerenciador de pacotes, executor de scripts e de testes | `bun.lock` |
-| Next.js 16 (Turbopack) | Framework, build e servidor | `next.config.mjs` |
-| TypeScript 7, modo estrito | Tipos. Erro de tipo falha o build | `tsconfig.json` (`types: node, bun`) |
+| Astro 7.4 | Framework e build estático | `astro.config.ts` |
+| TypeScript 7, modo estrito | Tipos | `tsconfig.json` |
 | Biome 2 | Formatador e linter únicos. `any` explícito é erro | `biome.json` |
-| markdownlint-cli2 | Lint dos arquivos Markdown da raiz e de `.claude/` | `.markdownlint-cli2.jsonc` |
+| markdownlint-cli2 | Lint dos arquivos Markdown | `.markdownlint-cli2.jsonc` |
 | commitlint | Conventional Commits no hook `commit-msg` | `commitlint.config.mjs` |
 | husky | Hooks do git | `.husky/` |
-| Tailwind CSS 4 | Estilos | `app/globals.css`, `postcss.config.mjs` |
-| better-auth | Login com Google do painel | `lib/admin/auth.ts` |
-| Docker | Imagem de produção para rodar local | `infra/` |
+| Tailwind CSS 4 | Estilos, pelo plugin do Vite | `astro/styles/globals.css` |
+| Docker | Imagem estática (bun + Caddy) | `Dockerfile`, `Caddyfile`, `docker-compose.yml` |
+| GitHub Actions | CI, Pages e release | `.github/workflows/` |
 
 ## Scripts
 
 | Comando | O que faz |
 | --- | --- |
-| `bun run dev` | Servidor de desenvolvimento |
-| `bun run build` | `check-env`, `sync-links`, `sitemap`, `stats` e `next build` |
+| `bun run dev` | Servidor de desenvolvimento do Astro |
+| `bun run build` | `check-env`, `sync-links`, `sitemap`, `stats` e `astro build` (saída em `dist/`) |
+| `bun run preview` | Serve o `dist/` |
 | `bun run check-env` | Confere as variáveis de ambiente (`lib/env.ts`) |
-| `bun run typecheck` | `next typegen` (tipos das rotas) e `tsc --noEmit` |
-| `bun run lint` | Biome em `app`, `components`, `lib`, `scripts`, `hooks` |
+| `bun run typecheck` | `tsc --noEmit` |
+| `bun run lint` | Biome |
 | `bun run lint:md` | markdownlint |
 | `bun run format` | Regenera as estatísticas e aplica o Biome |
-| `bun run test` | `bun test` |
+| `bun run test` | `bun test` (os testes de `tests/pages.test.ts` precisam do `dist/`) |
 | `bun run ci` | `typecheck`, `lint`, `test`, `lint:md` e `build` |
 | `bun run sync-links` | Valida o catálogo; com `LINKS_DASHBOARD_TOKEN`, envia ao dashboard |
+
+## Docker
+
+```bash
+docker build -t tudohardware .
+docker run --rm -p 8080:80 tudohardware     # http://localhost:8080
+docker compose up --build                   # o mesmo, na porta ${PORT:-8080}
+```
+
+A imagem builda com `BASE_PATH=/` e o Caddy serve o `dist/`.
+
+## GitHub Pages
+
+`pages.yml` publica o `dist/` a cada push na `main` em <https://alexgalhardo.github.io/tudohardware>. Ative em Settings → Pages → Source: GitHub Actions.
 
 ## Hooks do git
 

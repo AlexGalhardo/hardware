@@ -4,12 +4,11 @@ Regras e mapa do código: [`AGENTS.md`](../AGENTS.md). Leia primeiro. Este arqui
 
 | Documento | Quando ler |
 | --- | --- |
-| [`docs/agent-setup.md`](../docs/agent-setup.md) | Preparar o projeto do zero: ferramentas, dependências, `.env`, Docker, GitHub, Vercel, dashboard de links |
+| [`docs/agent-setup.md`](../docs/agent-setup.md) | Preparar o projeto do zero: Bun, `.env`, Docker, Pages |
 | [`docs/architecture.md`](../docs/architecture.md) | Entender pastas, fluxo de uma página, fluxo do conteúdo e as decisões |
-| [`docs/admin.md`](../docs/admin.md) | Mexer no painel `/admin`: login, telas, armazenamento, regras de produto, API, exportação |
 | [`docs/tooling.md`](../docs/tooling.md) | Ferramentas, scripts, hooks do git, regras de dependências e formatação |
 | [`docs/testing.md`](../docs/testing.md) | O que cada teste cobre, como isolam rede e arquivos, o que não tem teste |
-| [`docs/workflows.md`](../docs/workflows.md) | Commits, versão e release, deploy, conteúdo novo, categoria nova, links de afiliado |
+| [`docs/workflows.md`](../docs/workflows.md) | Commits, versão e release, deploy no Pages, conteúdo novo, links de afiliado |
 | [`README.md`](../README.md) | Visão geral e o contrato dos links de afiliado |
 | [`CHANGELOG.md`](../CHANGELOG.md) | Histórico de versões |
 
@@ -25,15 +24,15 @@ Ficam em `.claude/rules/`. O Claude Code as carrega sozinho; outros agentes leem
 | [`rules/content.md`](rules/content.md) | Produtos em `data/*.json`: id, links de loja, categoria nova |
 | [`rules/dependencies.md`](rules/dependencies.md) | Versão exata e como instalar |
 | [`rules/testing.md`](rules/testing.md) | Regras de teste |
-| [`rules/git-and-releases.md`](rules/git-and-releases.md) | Commits, hooks e a regra de que todo commit enviado é uma release |
+| [`rules/git-and-releases.md`](rules/git-and-releases.md) | Commits, hooks, versões e CI |
 
 ## Skills deste projeto
 
 | Skill | Quando usar |
 | --- | --- |
 | [`project-product`](skills/project-product/SKILL.md) | Criar, editar ou remover um produto; categoria nova |
-| [`project-release`](skills/project-release/SKILL.md) | Em todo commit: versão, `CHANGELOG.md`, tag e GitHub Release |
+| [`project-release`](skills/project-release/SKILL.md) | Fechar uma versão: `CHANGELOG.md`, tag e release |
 
 As skills, os agentes e os checklists de terceiros estão descritos no `AGENTS.md`; a origem de cada pacote, em [`skills/SOURCES.md`](skills/SOURCES.md).
 
-Scripts de preparação em [`setups/`](../setups/) e arquivos de Docker em [`infra/`](../infra/).
+Docker em [`Dockerfile`](../Dockerfile) e [`docker-compose.yml`](../docker-compose.yml); workflows em [`.github/workflows/`](../.github/workflows/).

@@ -52,7 +52,7 @@
 	},
 	"files": {
 		"maxSize": 4194304,
-		"includes": ["**", "!**/*.astro", "!dist", "!.astro", "!.vercel"],
+		"includes": ["**", "!**/*.astro", "!dist", "!.astro"],
 		"ignoreUnknown": false
 	}
 }

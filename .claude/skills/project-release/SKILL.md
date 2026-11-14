@@ -1,11 +1,11 @@
 ---
 name: project-release
-description: Publica a release de um commit do tudohardware - escolhe a versão, fecha a seção do CHANGELOG, cria a tag e o GitHub Release. Use em todo commit enviado a este repositório e quando pedirem uma versão ou uma tag.
+description: Fecha uma versão do tudohardware - escolhe a versão, fecha a seção do CHANGELOG e cria a tag. Use quando pedirem uma versão, uma tag ou uma release.
 ---
 
 # Release
 
-Todo commit enviado é uma release: leva a própria versão no `package.json`, a própria seção no `CHANGELOG.md`, uma tag anotada `vX.Y.Z` e um GitHub Release. Regras em [`.claude/rules/git-and-releases.md`](../../rules/git-and-releases.md); contexto de deploy em [`docs/workflows.md`](../../../docs/workflows.md). Não existe script de release: os passos são manuais.
+Cada versão tem a própria seção no `CHANGELOG.md`, a versão no `package.json` e uma tag anotada `vX.Y.Z`. O GitHub Release e a imagem Docker saem do workflow `release.yml` ao subir a tag. Regras em [`.claude/rules/git-and-releases.md`](../../rules/git-and-releases.md); contexto de deploy em [`docs/workflows.md`](../../../docs/workflows.md). Não existe script de release: os passos são manuais.
 
 ## 1. Escolha a versão
 
@@ -37,10 +37,9 @@ git add -A
 git commit -m "feat: descrição do commit"
 git tag -a vX.Y.Z -m "vX.Y.Z"
 git push origin main vX.Y.Z
-gh release create vX.Y.Z --repo AlexGalhardo/tudohardware --title vX.Y.Z --notes-file notas.md --latest
 ```
 
-`notas.md` é o texto da seção `## [X.Y.Z]` do `CHANGELOG.md`, sem o título.
+O `release.yml` cria o GitHub Release com a seção `## [X.Y.Z]` do `CHANGELOG.md` e publica a imagem no GHCR e no Docker Hub.
 
 Os hooks rodam sozinhos: `pre-commit` (tipos, lint e markdownlint), `commit-msg` (commitlint) e `pre-push` (build). Se um falhar, corrija a causa.
 
@@ -48,12 +47,7 @@ Os hooks rodam sozinhos: `pre-commit` (tipos, lint e markdownlint), `commit-msg`
 
 ```bash
 git describe --tags --exact-match          # a tag aponta para o HEAD
-gh release view vX.Y.Z --repo AlexGalhardo/tudohardware --json tagName,isDraft
-vercel ls tudohardware-com                 # o deploy do commit ficou Ready
+gh run list --workflow release --limit 1  # o release.yml da tag terminou
 ```
 
-O push na `main` publica em produção. O build de produção falha se uma variável essencial faltar ou se o dashboard de links recusar o catálogo; nesse caso o site continua na versão anterior.
-
-## Exceção
-
-Os commits `content:` que o painel `/admin` grava pela API do GitHub não geram versão nem tag.
+O push na `main` publica no GitHub Pages (`pages.yml`).

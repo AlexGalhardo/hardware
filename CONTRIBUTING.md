@@ -1,6 +1,6 @@
 # Contribuindo com o TudoHardware
 
-Obrigado por considerar contribuir. O TudoHardware é um site de fichas técnicas e comparação de produtos feito com Next.js 16, React 19, TypeScript e Tailwind CSS 4.
+Obrigado por considerar contribuir. O TudoHardware é um site de fichas técnicas e comparação de produtos feito com Astro 7, React 19, TypeScript e Tailwind CSS 4.
 
 ## Antes de começar
 
@@ -16,12 +16,13 @@ bun install
 bun run dev
 ```
 
-O passo a passo completo (incluindo variáveis de ambiente, GitHub e Vercel) está em [`docs/agent-setup.md`](docs/agent-setup.md). O `bun install` ativa os hooks do git (husky).
+O passo a passo completo (incluindo variáveis de ambiente, Docker e Pages) está em [`docs/agent-setup.md`](docs/agent-setup.md). O `bun install` ativa os hooks do git (husky).
 
 | Comando | O que faz |
 | --- | --- |
 | `bun run dev` | Servidor de desenvolvimento |
-| `bun run build` | Sincroniza os links, gera sitemap e estatísticas, e roda o `next build` |
+| `bun run preview` | Serve o `dist/` |
+| `bun run build` | Sincroniza os links, gera sitemap e estatísticas, e roda o `astro build` |
 | `bun run typecheck` | TypeScript sem emitir |
 | `bun run test` | Testes (`bun test`) |
 | `bun run lint` | Biome |
