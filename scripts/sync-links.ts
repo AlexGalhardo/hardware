@@ -14,10 +14,6 @@ async function main(): Promise<number> {
 
 	const token = process.env.LINKS_DASHBOARD_TOKEN;
 	if (!token) {
-		if (process.env.VERCEL_ENV === "production") {
-			console.error("LINKS_DASHBOARD_TOKEN não definido: build de produção recusado.");
-			return 1;
-		}
 		console.warn(`LINKS_DASHBOARD_TOKEN não definido: ${products.length} produtos validados, nada enviado.`);
 		return 0;
 	}

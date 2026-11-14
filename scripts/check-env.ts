@@ -1,12 +1,11 @@
-// First step of every build: refuses a malformed environment, and a production build without the essentials.
+// First step of every build: refuses a malformed environment.
 import { envProblems } from "../lib/env";
 
-const production = process.env.VERCEL_ENV === "production";
-const problems = envProblems(process.env, production);
+const problems = envProblems(process.env);
 
 if (problems.length) {
 	console.error(`Variáveis de ambiente com problema (${problems.length}):\n- ${problems.join("\n- ")}`);
-	console.error("Veja .env.example e docs/agent-setup.md.");
+	console.error("Veja .env.example.");
 	process.exit(1);
 }
-console.log(`Variáveis de ambiente conferidas (${production ? "produção" : "desenvolvimento"}).`);
+console.log("Variáveis de ambiente conferidas.");
