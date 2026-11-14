@@ -4,9 +4,8 @@ import { useEffect } from "react";
 
 const BLOCKED = ["copy", "cut", "contextmenu", "dragstart", "selectstart"] as const;
 
-// Form fields stay usable (people need to select and paste in the contact form) and the admin panel is left alone.
+// Form fields stay usable.
 function allowed(target: EventTarget | null): boolean {
-	if (location.pathname.startsWith("/admin")) return true;
 	return target instanceof Element && target.closest("input, textarea, select, [contenteditable='true']") !== null;
 }
 

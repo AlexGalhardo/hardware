@@ -1,5 +1,6 @@
 ---
 import "../styles/globals.css";
+import { withBase } from "@/lib/base";
 import CopyProtection from "@/components/CopyProtection";
 import { NavbarWrapper } from "@/components/navbar-wrapper";
 import { Toaster } from "@/components/ui/toaster";
@@ -16,9 +17,8 @@ const siteDescription =
 const keywords = ["comparar celulares","comparar smartphones","qual notebook comprar","melhor celular","comparar notebooks","ficha técnica","especificações celular","benchmark CPU","benchmark GPU","comparação processadores","melhor placa video","comparar GPUs","comparar processadores","qual GPU comprar","melhor notebook","comparar geladeiras","melhor geladeira","comparar lavadoras","drone comparação","smartwatch comparação","melhor smartwatch","comparar drones","qual melhor","vs comparação","review técnico","análise técnica","custo benefício","melhor desempenho","especificações completas","guia compra","Hardware Brasil","tecnologia comparação","teste benchmark","comparativo técnico"];
 
 const { title = siteTitle, description = siteDescription, canonical = "/" } = Astro.props;
-// Pages without their own canonical point at the home page, as the Next layout did.
-const canonicalUrl = canonical === "/" ? "https://alexgalhardo.github.io/tudohardware" : new URL(canonical, Astro.site).toString();
-const logo = new URL("/new-logo.webp", Astro.site).toString();
+const canonicalUrl = new URL(withBase(canonical), Astro.site).toString();
+const logo = new URL(withBase("/new-logo.webp"), Astro.site).toString();
 const GA_MEASUREMENT_ID = "G-G7P8NXJKX4";
 ---
 
@@ -32,11 +32,11 @@ const GA_MEASUREMENT_ID = "G-G7P8NXJKX4";
 		<meta name="keywords" content={keywords.join(", ")} />
 		<meta name="author" content="TudoHardware" />
 		<link rel="canonical" href={canonicalUrl} />
-		<link rel="alternate" hreflang="pt-BR" href="https://alexgalhardo.github.io/tudohardware" />
-		<link rel="icon" href="/new-logo.webp" />
+		<link rel="alternate" hreflang="pt-BR" href={canonicalUrl} />
+		<link rel="icon" href={withBase("/new-logo.webp")} />
 		<meta property="og:title" content={siteTitle} />
 		<meta property="og:description" content={siteDescription} />
-		<meta property="og:url" content="https://alexgalhardo.github.io/tudohardware" />
+		<meta property="og:url" content={canonicalUrl} />
 		<meta property="og:site_name" content="TudoHardware" />
 		<meta property="og:image" content={logo} />
 		<meta property="og:image:width" content="1200" />

@@ -1,6 +1,9 @@
 import fs from "node:fs";
 import path from "node:path";
 
+// Same origin and base as astro.config.ts; the Docker image builds with BASE_PATH=/.
+const SITE = `https://alexgalhardo.github.io${(process.env.BASE_PATH ?? "/tudohardware").replace(/\/$/, "")}`;
+
 interface Product {
 	id: string;
 	name: string;
@@ -17,175 +20,169 @@ interface SitemapUrl {
 
 const staticUrls: SitemapUrl[] = [
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware",
+		loc: `${SITE}`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/sobre",
+		loc: `${SITE}/sobre`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/politica-de-privacidade",
+		loc: `${SITE}/politica-de-privacidade`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/termos-de-uso",
+		loc: `${SITE}/termos-de-uso`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/contato",
-		lastmod: "2026-10-17T12:00:00.000Z",
-		changefreq: "monthly",
-		priority: "0.5",
-	},
-	{
-		loc: "https://alexgalhardo.github.io/tudohardware/cpus",
+		loc: `${SITE}/cpus`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/smartphones",
+		loc: `${SITE}/smartphones`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/gpus",
+		loc: `${SITE}/gpus`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/notebooks",
+		loc: `${SITE}/notebooks`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/tablets",
+		loc: `${SITE}/tablets`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/geladeiras",
+		loc: `${SITE}/geladeiras`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/drones",
+		loc: `${SITE}/drones`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/smartwatches",
+		loc: `${SITE}/smartwatches`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/fones-de-ouvido",
+		loc: `${SITE}/fones-de-ouvido`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/maquinas-lavar-roupas",
+		loc: `${SITE}/maquinas-lavar-roupas`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/smart-tvs",
+		loc: `${SITE}/smart-tvs`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/placa-mae",
+		loc: `${SITE}/placa-mae`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/caixa-de-som",
+		loc: `${SITE}/caixa-de-som`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/mouses",
+		loc: `${SITE}/mouses`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/teclados",
+		loc: `${SITE}/teclados`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/microondas",
+		loc: `${SITE}/microondas`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/airfryers",
+		loc: `${SITE}/airfryers`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/cameras-de-seguranca",
+		loc: `${SITE}/cameras-de-seguranca`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/ar-condicionado",
+		loc: `${SITE}/ar-condicionado`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/monitores",
+		loc: `${SITE}/monitores`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/cameras",
+		loc: `${SITE}/cameras`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/cafeteiras",
+		loc: `${SITE}/cafeteiras`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/impressoras",
+		loc: `${SITE}/impressoras`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
 	},
 	{
-		loc: "https://alexgalhardo.github.io/tudohardware/fechaduras",
+		loc: `${SITE}/fechaduras`,
 		lastmod: "2025-08-09T12:00:00.000Z",
 		changefreq: "monthly",
 		priority: "1.0",
@@ -236,7 +233,7 @@ function generateSitemap(): void {
 
 		products.forEach((product) => {
 			productUrls.push({
-				loc: `https://alexgalhardo.github.io/tudohardware/${category}/${product.id}`,
+				loc: `${SITE}/${category}/${product.id}`,
 				lastmod: "2025-08-09T12:00:00.000Z",
 				changefreq: "monthly",
 				priority: "0.8",

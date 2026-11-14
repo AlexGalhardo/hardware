@@ -1,6 +1,7 @@
 "use client";
 
 import { Plus } from "lucide-react";
+import { withBase } from "@/lib/base";
 import type { Product, ProductCategory } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
@@ -77,7 +78,7 @@ export function ProductSuggestions({
 					>
 						<div className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-md bg-muted">
 							<img
-								src={product.image || "/placeholder.svg"}
+								src={product.image || withBase("/placeholder.svg")}
 								alt={product.name}
 								className="absolute inset-0 h-full w-full object-cover"
 								loading="lazy"

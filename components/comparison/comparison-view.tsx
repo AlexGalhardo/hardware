@@ -5,6 +5,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { FaFacebookF, FaLinkedinIn, FaPinterest, FaReddit, FaTelegram, FaWhatsapp, FaXTwitter } from "react-icons/fa6";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { withBase } from "@/lib/base";
 import type { CategoryInfo, Product, ProductCategory } from "@/lib/types";
 import { ComparisonTable } from "./comparison-table";
 import { EmptyProductSlot, ProductCard } from "./product-card";
@@ -53,7 +54,7 @@ export function ComparisonView({ category, categoryInfo, allProducts, initialPro
 				params.set("products", ids.join(","));
 			}
 
-			const newUrl = ids.length > 0 ? `/${category}?${params.toString()}` : `/${category}`;
+			const newUrl = withBase(ids.length > 0 ? `/${category}?${params.toString()}` : `/${category}`);
 
 			globalThis.window.history.replaceState({}, "", newUrl);
 			setCurrentUrl(globalThis.window.location.href);
@@ -260,7 +261,7 @@ export function ComparisonView({ category, categoryInfo, allProducts, initialPro
 													>
 														<div className="relative h-10 w-10 rounded-md overflow-hidden bg-muted flex-shrink-0">
 															<img
-																src={p.image || "/placeholder.svg"}
+																src={p.image || withBase("/placeholder.svg")}
 																alt={p.name}
 																className="absolute inset-0 h-full w-full object-cover"
 																loading="lazy"

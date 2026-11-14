@@ -1,3 +1,4 @@
+import { withBase } from "@/lib/base";
 import CookieBanner from "./CookieBanner";
 
 export default function Footer() {
@@ -9,31 +10,24 @@ export default function Footer() {
 				<p className="text-sm text-black dark:text-white">&copy; 2026 TudoHardware</p>
 				<div className="flex flex-col lg:flex-row items-center gap-3 lg:gap-6">
 					<a
-						href="/sobre"
+						href={withBase("/sobre")}
 						className="text-sm text-black dark:text-white hover:text-blue-500 hover:underline transition-all"
 					>
 						Sobre
 					</a>
 
 					<a
-						href="/politica-de-privacidade"
+						href={withBase("/politica-de-privacidade")}
 						className="text-sm text-black dark:text-white hover:text-blue-500 hover:underline transition-all"
 					>
 						Politica de Privacidade
 					</a>
 
 					<a
-						href="/termos-de-uso"
+						href={withBase("/termos-de-uso")}
 						className="text-sm text-black dark:text-white hover:text-blue-500 hover:underline transition-all"
 					>
 						Termos de Uso
-					</a>
-
-					<a
-						href="/contato"
-						className="text-sm text-black dark:text-white hover:text-blue-500 hover:underline transition-all"
-					>
-						Contato
 					</a>
 				</div>
 			</div>

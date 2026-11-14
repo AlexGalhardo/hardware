@@ -29,6 +29,7 @@ import {
 } from "lucide-react";
 import { useState } from "react";
 import { PiSecurityCamera } from "react-icons/pi";
+import { stripBase, withBase } from "@/lib/base";
 import { categories } from "@/lib/data";
 import type { Product, ProductCategory } from "@/lib/types";
 import { cn } from "@/lib/utils";
@@ -124,7 +125,7 @@ interface NavbarProps {
 export function Navbar({ allProducts, pathname }: NavbarProps) {
 	const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
-	const currentCategory = pathname.split("/")[1] as ProductCategory;
+	const currentCategory = stripBase(pathname).split("/")[1] as ProductCategory;
 
 	const closeMobileMenu = () => setMobileMenuOpen(false);
 
@@ -133,10 +134,10 @@ export function Navbar({ allProducts, pathname }: NavbarProps) {
 			<div className="container px-4 mx-auto">
 				<div className="flex h-16 items-center justify-between gap-2">
 					<div className="flex items-center gap-2 flex-1 xl:flex-initial">
-						<a href="/" className="flex-shrink-0">
+						<a href={withBase("/")} className="flex-shrink-0">
 							<span className="font-orbitron uppercase font-bold text-lg flex items-center gap-2 hover:opacity-80 transition-opacity">
 								<img
-									src="/new-logo.webp"
+									src={withBase("/new-logo.webp")}
 									alt="Logo TudoHardware"
 									width={40}
 									height={40}
@@ -183,7 +184,7 @@ export function Navbar({ allProducts, pathname }: NavbarProps) {
 						return (
 							<a
 								key={category.id}
-								href={`/${category.id}`}
+								href={withBase(`/${category.id}`)}
 								title={category.name}
 								className={cn(
 									"flex items-center justify-center p-2 rounded-lg transition-all",
@@ -211,7 +212,7 @@ export function Navbar({ allProducts, pathname }: NavbarProps) {
 								return (
 									<a
 										key={category.id}
-										href={`/${category.id}`}
+										href={withBase(`/${category.id}`)}
 										onClick={closeMobileMenu}
 										className={cn(
 											"flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-medium transition-all",

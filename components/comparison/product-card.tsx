@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { useDashboardDown } from "@/hooks/use-dashboard-down";
 import { productAffiliateHref } from "@/lib/affiliate-catalogue";
 import { isAffiliateUrl } from "@/lib/affiliate-links";
+import { withBase } from "@/lib/base";
 import type { Product, ProductCategory } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
@@ -33,13 +34,13 @@ export function ProductCard({ product, onRemove, compact = false, category }: Pr
 			)}
 
 			<a
-				href={`/${category}/${product.id}`}
+				href={withBase(`/${category}/${product.id}`)}
 				target="_blank"
 				rel="noopener noreferrer"
 				className={cn("relative overflow-hidden rounded-lg mb-3", compact ? "h-24 w-20" : "h-48 w-40")}
 			>
 				<img
-					src={product.image || "/placeholder.svg"}
+					src={product.image || withBase("/placeholder.svg")}
 					alt={product.name}
 					className="absolute inset-0 h-full w-full object-contain"
 					loading="lazy"
@@ -47,7 +48,7 @@ export function ProductCard({ product, onRemove, compact = false, category }: Pr
 			</a>
 
 			<a
-				href={`/${category}/${product.id}`}
+				href={withBase(`/${category}/${product.id}`)}
 				target="_blank"
 				rel="noopener noreferrer"
 				className={cn(

@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { ComparisonView } from "@/components/comparison/comparison-view";
+import { stripBase } from "@/lib/base";
 import { categories, getProductsByCategory } from "@/lib/data";
 import type { CategoryInfo, Product, ProductCategory } from "@/lib/types";
 import Footer from "./Footer";
@@ -38,7 +39,7 @@ export function HomePageClient({
 
 	useEffect(() => {
 		const handlePopState = () => {
-			const path = globalThis.window.location.pathname.replace("/", "");
+			const path = stripBase(globalThis.window.location.pathname).replace("/", "");
 			if (path && categories.some((c) => c.id === path)) {
 				setSelectedCategory(path as ProductCategory);
 				setProductIds([]);

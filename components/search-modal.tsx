@@ -5,6 +5,7 @@ import { Search } from "lucide-react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Dialog, DialogContent } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
+import { withBase } from "@/lib/base";
 import type { Product } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
@@ -121,7 +122,7 @@ export function SearchModal({ allProducts }: SearchModalProps) {
 		} else if (e.key === "Enter" && filteredProducts[selectedIndex]) {
 			e.preventDefault();
 			const product = filteredProducts[selectedIndex];
-			window.location.href = `/${product.category}/${product.id}`;
+			window.location.href = withBase(`/${product.category}/${product.id}`);
 			setIsOpen(false);
 		}
 	};
@@ -179,7 +180,7 @@ export function SearchModal({ allProducts }: SearchModalProps) {
 									<a
 										key={product.id}
 										ref={index === selectedIndex ? selectedItemRef : null}
-										href={`/${product.category}/${product.id}`}
+										href={withBase(`/${product.category}/${product.id}`)}
 										onClick={handleClose}
 										className={cn(
 											"flex items-center gap-3 p-3 rounded-lg transition-colors group",
@@ -190,7 +191,7 @@ export function SearchModal({ allProducts }: SearchModalProps) {
 									>
 										<div className="relative h-16 w-16 flex-shrink-0 bg-muted rounded-lg overflow-hidden">
 											<img
-												src={product.image || "/placeholder.svg"}
+												src={product.image || withBase("/placeholder.svg")}
 												alt={product.name}
 												className="absolute inset-0 h-full w-full object-contain p-1"
 												loading="lazy"

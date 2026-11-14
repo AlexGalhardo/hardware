@@ -26,7 +26,7 @@ describe("site catalogue", () => {
 
 	test("a button href goes through the dashboard and matches the registered id", async () => {
 		const [first] = await buildCatalogue();
-		const [, , , category = "", id = ""] = first?.externalId.split("/") ?? [];
+		const [category = "", id = ""] = first?.externalId.slice(SITE_URL.length + 1).split("/") ?? [];
 		const href = new URL(productAffiliateHref(category as never, id, "mercadolivre"));
 		expect(href.origin).toBe(LINKS_DASHBOARD_URL);
 		expect(href.pathname).toBe("/link");

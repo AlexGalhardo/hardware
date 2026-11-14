@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { withBase } from "@/lib/base";
 
 function setCookie(name: string, value: string, days: number) {
 	const expires = new Date(Date.now() + days * 864e5).toUTCString();
@@ -52,19 +53,19 @@ export default function CookieBanner({ language }: { language?: string }) {
 	const content = {
 		en: {
 			text: "We use cookies to enhance your experience on our site. Learn more at",
-			link: "/privacy-policy",
+			link: withBase("/privacy-policy"),
 			button: "OK",
 			linkName: "Cookies and Privacy",
 		},
 		pt: {
 			text: "Nós usamos cookies para melhorar sua experiência no site. Saiba mais em",
-			link: "/politica-de-privacidade",
+			link: withBase("/politica-de-privacidade"),
 			button: "OK",
 			linkName: "Cookies e Privacidade",
 		},
 		es: {
 			text: "Usamos cookies para mejorar tu experiencia en el sitio. Más información en",
-			link: "/es/privacy-policy",
+			link: withBase("/es/privacy-policy"),
 			button: "OK",
 			linkName: "Cookies y Privacidad",
 		},
